@@ -236,6 +236,6 @@
     "customHelp": "To put a card in your ressources, drag and drop the card in the ressources area. You can take the initiative, blast and plan token with the '+' button on the bottom left corner.",
     "cards": {
         "dataUrl": "https://valcur.github.io/TCG-Arena-MLP/cards.json",
-        "cardBack": "https://i.imgur.com/alTEVLx.jpeg"
+        "cardBack": "https://valcur.github.io/TCG-Arena-MLP/images/back.png"
     }
 }
