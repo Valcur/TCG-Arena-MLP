@@ -9,7 +9,7 @@
       ],
       "formats": [
           {
-              "title": "Premier",
+              "title": "Classic",
               "gameplay": "Classic"
           }
       ]
@@ -37,55 +37,63 @@
           "sections": {
               "layout": {
                   "direction": "row",
-                  "isSymetricalForOpponents": true,
                   "content": [
                       {
-                          "direction": "column",
-                          "content": [
-                              {
-                                  "section": "Ground"
-                              },
-                              {
-                                  "section": "Mana"
-                              }
+                        "direction": "column",
+                        "content": [
+                            {
+                                "direction": "row",
+                                "content": [
+                                    {
+                                        "section": "A1"
+                                    },
+                                    {
+                                        "section": "A2"
+                                    },
+                                    {
+                                        "section": "A3"
+                                    }
+                                ]
+                            },
+                            {
+                              "section": "Mana"
+                            }
                           ]
                       },
                       {
-                          "direction": "column",
-                          "style": {
-                              "width": "22vh",
-                              "justify-content": "start"
-                          },
-                          "content": [
-                              {
-                                  "section": "Base"
-                              },
-                              {
-                                  "section": "Leader"
-                              }
-                          ]
-                      },
-                      {
-                          "direction": "column",
-                          "content": [
-                              {
-                                  "section": "Space"
-                              },
-                              {
-                                  "section": "Others",
-                                  "isSymetricalForOpponents": true,
-                                  "style": {
-                                      "marginLeft": "auto",
-                                      "width": "40%"
-                                  }
-                              }
-                          ]
+                        "direction": "column",
+                        "content": [
+                            {
+                                "direction": "row",
+                                "content": [
+                                    {
+                                        "section": "Shield1",
+                                        "style": {
+                                            "height": "4vh"
+                                        }
+                                    },
+                                    {
+                                        "section": "Shield2"
+                                    },
+                                    {
+                                        "section": "Shield3"
+                                    },
+                                    {
+                                        "section": "Shield4"
+                                    }
+                                ]
+                            },
+                            {
+                                "section": "Scene"
+                            }
+                        ]
                       }
                   ]
               },
+              "countersStartingValues": [],
               "categoriesAlreadyOnBoard": [
                   "Leader",
-                  "Base"
+                  "Scene"
               ],
               "autoPlayFromHand": {
 
@@ -94,59 +102,52 @@
    
               },
               "sectionsDict": {
-                  "Ground": {
-                      "title": "Ground",
+                  "A1": {
                       "isHidden": "no",
                       "height": "MEDIUM",
-                      "alignment": "CENTER",
-                      "isHorizontalAllowed": true,
-                      "enterTapped": true,
-                      "displayedTitle": "Ground units"
+                      "alignment": "CENTER"
                   },
-                  "Space": {
-                      "title": "Space",
-                      "isHidden": "no",
-                      "height": "MEDIUM",
-                      "alignment": "CENTER",
-                      "isHorizontalAllowed": true,
-                      "enterTapped": true,
-                      "displayedTitle": "Space units"
-                  },
-                  "Leader": {
-                      "title": "Leader",
-                      "isHidden": "no",
-                      "height": "DEFAULT",
-                      "alignment": "CENTER",
-                      "isHorizontalAllowed": true,
-                      "noQuickActions": true
-                  },
-                  "Base": {
-                      "title": "Base",
-                      "isHidden": "no",
-                      "height": "DEFAULT",
-                      "alignment": "CENTER",
-                      "isHorizontalAllowed": true,
-                      "noQuickActions": true
-                  },
-                  "Mana": {
-                      "title": "Mana",
-                      "isHidden": "yes",
-                      "height": "SMALL",
-                      "alignment": "START",
-                      "opponentAlignment": "END",
-                      "noAutoPayTo": "true",
-                      "isHorizontalAllowed": false,
-                      "displayedTitle": "Ressources"
-                  },
-                  "Others": {
-                      "title": "Others",
-                      "isHidden": "no",
-                      "height": "SMALL",
-                      "alignment": "END",
-                      "opponentAlignment": "START",
-                      "displayedTitle": "Others",
-                      "noQuickActions": true
-                  }
+                  "A2": {
+                    "isHidden": "no",
+                    "height": "MEDIUM",
+                    "alignment": "CENTER"
+                },
+                "A3": {
+                    "isHidden": "no",
+                    "height": "MEDIUM",
+                    "alignment": "CENTER"
+                },
+                "Mana": {
+                    "isHidden": "no",
+                    "height": "MEDIUM",
+                    "alignment": "START"
+                },
+                "Shield1": {
+                    "isHidden": "no",
+                    "height": "MEDIUM",
+                    "alignment": "CENTER"
+                },
+                "Shield2": {
+                    "isHidden": "no",
+                    "height": "MEDIUM",
+                    "alignment": "CENTER"
+                },
+                "Shield3": {
+                    "isHidden": "no",
+                    "height": "MEDIUM",
+                    "alignment": "CENTER"
+                },
+                "Shield4": {
+                    "isHidden": "no",
+                    "height": "MEDIUM",
+                    "alignment": "CENTER"
+                },
+                "Scene": {
+                    "isHidden": "no",
+                    "height": "MEDIUM",
+                    "alignment": "CENTER",
+                    "isHorizontalAllowed": true
+                }
               }
           }
       }
