@@ -29,7 +29,7 @@
               }
           },
           "countersStartingValues": [],
-          "cardTappedRotation": 90,
+          "cardRotation": 90,
           "beforeGameStart": {
             "initialBoardSetup": [
                 {
@@ -168,7 +168,7 @@
                 },
                 "Shield1": {
                     "isHidden": "yes",
-                    "height": "MEDIUM",
+                    "height": "SMALL",
                     "alignment": "CENTER",
                     "reverseZOrder": true,
                     "enterTapped": true,
@@ -176,7 +176,7 @@
                 },
                 "Shield2": {
                     "isHidden": "yes",
-                    "height": "MEDIUM",
+                    "height": "SMALL",
                     "alignment": "CENTER",
                     "reverseZOrder": true,
                     "enterTapped": true,
@@ -184,7 +184,7 @@
                 },
                 "Shield3": {
                     "isHidden": "no",
-                    "height": "MEDIUM",
+                    "height": "SMALL",
                     "alignment": "CENTER",
                     "reverseZOrder": true,
                     "enterTapped": true,
@@ -192,7 +192,7 @@
                 },
                 "Shield4": {
                     "isHidden": "no",
-                    "height": "MEDIUM",
+                    "height": "SMALL",
                     "alignment": "CENTER",
                     "reverseZOrder": true,
                     "enterTapped": true,
