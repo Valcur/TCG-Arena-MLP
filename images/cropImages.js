@@ -39,7 +39,7 @@ async function processImages() {
 
             // 3. Rotation si Largeur > Hauteur
             if (metadata.width > metadata.height) {
-                pipeline = pipeline.rotate(90);
+                pipeline = pipeline.rotate(-90);
             }
 
             // 4. Sauvegarde (conserve le format d'origine, ex: WebP)
