@@ -19,6 +19,12 @@ fs.readFile(inputFile, 'utf8', (err, data) => {
         originalCards.forEach(card => {
             const id = card.id;
             const costValue = card.cost || 0;
+            let type = card.type
+            let isHorizontal = false
+            if (type == "Story") {
+              type += " " + card.story_stage
+              isHorizontal = true
+            }
 
             mlpCards[id] = {
                 "id": id,
@@ -32,7 +38,8 @@ fs.readFile(inputFile, 'utf8', (err, data) => {
                 },
                 "name": card.name,
                 "type": card.type,
-                "cost": costValue
+                "cost": costValue,
+                "isHorizontal": isHorizontal
             };
         });
 
