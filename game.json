@@ -97,12 +97,14 @@
                         {
                             "direction": "column",
                             "style": {
-                                "justifyContent": "start",
-                                "width": "157vh"
+                                "justifyContent": "start"
                             },
                             "content": [
                                 {
                                     "direction": "row",
+                                    "style": {
+                                        "width": "157vh"
+                                    },
                                     "content": [
                                         {
                                             "section": "Shield1",
@@ -147,7 +149,10 @@
                                     ]
                                 },
                                 {
-                                    "section": "Story"
+                                    "section": "Story",
+                                    "style": {
+                                        "width": "157vh"
+                                    }
                                 }
                             ]
                         }
