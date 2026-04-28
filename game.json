@@ -28,6 +28,7 @@
                   }
               }
           },
+          "countersStartingValues": [],
           "newTurn": {
               "drawOnStart": false,
               "sharedTurn": true,
@@ -90,7 +91,6 @@
                       }
                   ]
               },
-              "countersStartingValues": [],
               "categoriesAlreadyOnBoard": [
                   "Leader",
                   "Scene"
