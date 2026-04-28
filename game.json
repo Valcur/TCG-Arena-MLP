@@ -63,12 +63,12 @@
                       },
                       {
                         "direction": "column",
+                        "style": {
+                            "justifyContent": "start"
+                        },
                         "content": [
                             {
                                 "direction": "row",
-                                "style": {
-                                    "justifyContent": "start"
-                                },
                                 "content": [
                                     {
                                         "section": "Shield1",
