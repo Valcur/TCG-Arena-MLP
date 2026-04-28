@@ -27,7 +27,7 @@ fs.readFile(inputFile, 'utf8', (err, data) => {
                         "name": card.name,
                         "type": card.type,
                         "cost": costValue,
-                        "image": baseUrl + id
+                        "image": baseUrl + id + ".webp"
                     }
                 },
                 "name": card.name,

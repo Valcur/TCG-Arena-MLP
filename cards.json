@@ -6,7 +6,7 @@
         "name": "Twilight Sparkle",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C01.webp"
       }
     },
     "name": "Twilight Sparkle",
@@ -20,7 +20,7 @@
         "name": "Twilight Sparkle",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C02.webp"
       }
     },
     "name": "Twilight Sparkle",
@@ -34,7 +34,7 @@
         "name": "Twilight Sparkle",
         "type": "Character",
         "cost": 7,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C03.webp"
       }
     },
     "name": "Twilight Sparkle",
@@ -48,7 +48,7 @@
         "name": "Fluttershy",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C04.webp"
       }
     },
     "name": "Fluttershy",
@@ -62,7 +62,7 @@
         "name": "Fluttershy",
         "type": "Character",
         "cost": 6,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C05"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C05.webp"
       }
     },
     "name": "Fluttershy",
@@ -76,7 +76,7 @@
         "name": "Pinkie Pie",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C06"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C06.webp"
       }
     },
     "name": "Pinkie Pie",
@@ -90,7 +90,7 @@
         "name": "Pinkie Pie",
         "type": "Character",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C07"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C07.webp"
       }
     },
     "name": "Pinkie Pie",
@@ -104,7 +104,7 @@
         "name": "Applejack",
         "type": "Character",
         "cost": 6,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C08"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C08.webp"
       }
     },
     "name": "Applejack",
@@ -118,7 +118,7 @@
         "name": "Applejack",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C09"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C09.webp"
       }
     },
     "name": "Applejack",
@@ -132,7 +132,7 @@
         "name": "Rainbow Dash",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C10"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C10.webp"
       }
     },
     "name": "Rainbow Dash",
@@ -146,7 +146,7 @@
         "name": "Rainbow Dash",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C11"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C11.webp"
       }
     },
     "name": "Rainbow Dash",
@@ -160,7 +160,7 @@
         "name": "Rarity",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C12"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C12.webp"
       }
     },
     "name": "Rarity",
@@ -174,7 +174,7 @@
         "name": "Rarity",
         "type": "Character",
         "cost": 6,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C13"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C13.webp"
       }
     },
     "name": "Rarity",
@@ -188,7 +188,7 @@
         "name": "Spike",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C14"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C14.webp"
       }
     },
     "name": "Spike",
@@ -202,7 +202,7 @@
         "name": "Apple Bloom",
         "type": "Character",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C15"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C15.webp"
       }
     },
     "name": "Apple Bloom",
@@ -216,7 +216,7 @@
         "name": "Sweetie Belle",
         "type": "Character",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C16"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C16.webp"
       }
     },
     "name": "Sweetie Belle",
@@ -230,7 +230,7 @@
         "name": "Scootaloo",
         "type": "Character",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C17"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C17.webp"
       }
     },
     "name": "Scootaloo",
@@ -244,7 +244,7 @@
         "name": "Big McIntosh",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C18"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C18.webp"
       }
     },
     "name": "Big McIntosh",
@@ -258,7 +258,7 @@
         "name": "Granny Smith",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C19"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C19.webp"
       }
     },
     "name": "Granny Smith",
@@ -272,7 +272,7 @@
         "name": "Trixie",
         "type": "Character",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C20"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C20.webp"
       }
     },
     "name": "Trixie",
@@ -286,7 +286,7 @@
         "name": "Gilda",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C21"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C21.webp"
       }
     },
     "name": "Gilda",
@@ -300,7 +300,7 @@
         "name": "Diamond Tiara",
         "type": "Character",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C22"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C22.webp"
       }
     },
     "name": "Diamond Tiara",
@@ -314,7 +314,7 @@
         "name": "Silver Spoon",
         "type": "Character",
         "cost": 7,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C23"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C23.webp"
       }
     },
     "name": "Silver Spoon",
@@ -328,7 +328,7 @@
         "name": "Mayor Mare",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C24"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C24.webp"
       }
     },
     "name": "Mayor Mare",
@@ -342,7 +342,7 @@
         "name": "The Ticket Master",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C25"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C25.webp"
       }
     },
     "name": "The Ticket Master",
@@ -356,7 +356,7 @@
         "name": "The Ticket Master",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C26"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C26.webp"
       }
     },
     "name": "The Ticket Master",
@@ -370,7 +370,7 @@
         "name": "The Ticket Master",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C27"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C27.webp"
       }
     },
     "name": "The Ticket Master",
@@ -384,7 +384,7 @@
         "name": "The Ticket Master",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C28"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C28.webp"
       }
     },
     "name": "The Ticket Master",
@@ -398,7 +398,7 @@
         "name": "Curing Philomena",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C29"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C29.webp"
       }
     },
     "name": "Curing Philomena",
@@ -412,7 +412,7 @@
         "name": "Curing Philomena",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C30"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C30.webp"
       }
     },
     "name": "Curing Philomena",
@@ -426,7 +426,7 @@
         "name": "Curing Philomena",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C31"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C31.webp"
       }
     },
     "name": "Curing Philomena",
@@ -440,7 +440,7 @@
         "name": "Curing Philomena",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C32"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C32.webp"
       }
     },
     "name": "Curing Philomena",
@@ -454,7 +454,7 @@
         "name": "Party of One",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C33"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C33.webp"
       }
     },
     "name": "Party of One",
@@ -468,7 +468,7 @@
         "name": "Party of One",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C34"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C34.webp"
       }
     },
     "name": "Party of One",
@@ -482,7 +482,7 @@
         "name": "Party of One",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C35"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C35.webp"
       }
     },
     "name": "Party of One",
@@ -496,7 +496,7 @@
         "name": "Party of One",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C36"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C36.webp"
       }
     },
     "name": "Party of One",
@@ -510,7 +510,7 @@
         "name": "Over a Barrel",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C37"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C37.webp"
       }
     },
     "name": "Over a Barrel",
@@ -524,7 +524,7 @@
         "name": "Over a Barrel",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C38"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C38.webp"
       }
     },
     "name": "Over a Barrel",
@@ -538,7 +538,7 @@
         "name": "Over a Barrel",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C39"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C39.webp"
       }
     },
     "name": "Over a Barrel",
@@ -552,7 +552,7 @@
         "name": "Over a Barrel",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C40"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C40.webp"
       }
     },
     "name": "Over a Barrel",
@@ -566,7 +566,7 @@
         "name": "Griffon the Brush Off",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C41"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C41.webp"
       }
     },
     "name": "Griffon the Brush Off",
@@ -580,7 +580,7 @@
         "name": "Griffon the Brush Off",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C42"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C42.webp"
       }
     },
     "name": "Griffon the Brush Off",
@@ -594,7 +594,7 @@
         "name": "Griffon the Brush Off",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C43"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C43.webp"
       }
     },
     "name": "Griffon the Brush Off",
@@ -608,7 +608,7 @@
         "name": "Griffon the Brush Off",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C44"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C44.webp"
       }
     },
     "name": "Griffon the Brush Off",
@@ -622,7 +622,7 @@
         "name": "Suited For Success",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C45"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C45.webp"
       }
     },
     "name": "Suited For Success",
@@ -636,7 +636,7 @@
         "name": "Suited For Success",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C46"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C46.webp"
       }
     },
     "name": "Suited For Success",
@@ -650,7 +650,7 @@
         "name": "Suited For Success",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C47"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C47.webp"
       }
     },
     "name": "Suited For Success",
@@ -664,7 +664,7 @@
         "name": "Suited For Success",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C48"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C48.webp"
       }
     },
     "name": "Suited For Success",
@@ -678,7 +678,7 @@
         "name": "Twilight Sparkle",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-CR01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-CR01.webp"
       }
     },
     "name": "Twilight Sparkle",
@@ -692,7 +692,7 @@
         "name": "Fluttershy",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-CR02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-CR02.webp"
       }
     },
     "name": "Fluttershy",
@@ -706,7 +706,7 @@
         "name": "Pinkie Pie",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-CR03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-CR03.webp"
       }
     },
     "name": "Pinkie Pie",
@@ -720,7 +720,7 @@
         "name": "Applejack",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-CR04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-CR04.webp"
       }
     },
     "name": "Applejack",
@@ -734,7 +734,7 @@
         "name": "Rainbow Dash",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-CR05"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-CR05.webp"
       }
     },
     "name": "Rainbow Dash",
@@ -748,7 +748,7 @@
         "name": "Rarity",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-CR06"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-CR06.webp"
       }
     },
     "name": "Rarity",
@@ -762,7 +762,7 @@
         "name": "Twilight Sparkle",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-CR07"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-CR07.webp"
       }
     },
     "name": "Twilight Sparkle",
@@ -776,7 +776,7 @@
         "name": "Fluttershy",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-CR08"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-CR08.webp"
       }
     },
     "name": "Fluttershy",
@@ -790,7 +790,7 @@
         "name": "Pinkie Pie",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-CR09"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-CR09.webp"
       }
     },
     "name": "Pinkie Pie",
@@ -804,7 +804,7 @@
         "name": "Applejack",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-CR10"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-CR10.webp"
       }
     },
     "name": "Applejack",
@@ -818,7 +818,7 @@
         "name": "Rainbow Dash",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-CR11"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-CR11.webp"
       }
     },
     "name": "Rainbow Dash",
@@ -832,7 +832,7 @@
         "name": "Rarity",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-CR12"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-CR12.webp"
       }
     },
     "name": "Rarity",
@@ -846,7 +846,7 @@
         "name": "Twilight Sparkle",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-GR01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-GR01.webp"
       }
     },
     "name": "Twilight Sparkle",
@@ -860,7 +860,7 @@
         "name": "Fluttershy",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-GR02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-GR02.webp"
       }
     },
     "name": "Fluttershy",
@@ -874,7 +874,7 @@
         "name": "Pinkie Pie",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-GR03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-GR03.webp"
       }
     },
     "name": "Pinkie Pie",
@@ -888,7 +888,7 @@
         "name": "Applejack",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-GR04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-GR04.webp"
       }
     },
     "name": "Applejack",
@@ -902,7 +902,7 @@
         "name": "Rainbow Dash",
         "type": "Character",
         "cost": 7,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-GR05"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-GR05.webp"
       }
     },
     "name": "Rainbow Dash",
@@ -916,7 +916,7 @@
         "name": "Rarity",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-GR06"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-GR06.webp"
       }
     },
     "name": "Rarity",
@@ -930,7 +930,7 @@
         "name": "Twilight Sparkle",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-GR07"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-GR07.webp"
       }
     },
     "name": "Twilight Sparkle",
@@ -944,7 +944,7 @@
         "name": "Fluttershy",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-GR08"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-GR08.webp"
       }
     },
     "name": "Fluttershy",
@@ -958,7 +958,7 @@
         "name": "Pinkie Pie",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-GR09"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-GR09.webp"
       }
     },
     "name": "Pinkie Pie",
@@ -972,7 +972,7 @@
         "name": "Applejack",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-GR10"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-GR10.webp"
       }
     },
     "name": "Applejack",
@@ -986,7 +986,7 @@
         "name": "Rainbow Dash",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-GR11"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-GR11.webp"
       }
     },
     "name": "Rainbow Dash",
@@ -1000,7 +1000,7 @@
         "name": "Rarity",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-GR12"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-GR12.webp"
       }
     },
     "name": "Rarity",
@@ -1014,7 +1014,7 @@
         "name": "Twilight Sparkle",
         "type": "Main Character",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-RR01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-RR01.webp"
       }
     },
     "name": "Twilight Sparkle",
@@ -1028,7 +1028,7 @@
         "name": "Fluttershy",
         "type": "Main Character",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-RR02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-RR02.webp"
       }
     },
     "name": "Fluttershy",
@@ -1042,7 +1042,7 @@
         "name": "Pinkie Pie",
         "type": "Main Character",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-RR03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-RR03.webp"
       }
     },
     "name": "Pinkie Pie",
@@ -1056,7 +1056,7 @@
         "name": "Applejack",
         "type": "Main Character",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-RR04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-RR04.webp"
       }
     },
     "name": "Applejack",
@@ -1070,7 +1070,7 @@
         "name": "Rainbow Dash",
         "type": "Main Character",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-RR05"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-RR05.webp"
       }
     },
     "name": "Rainbow Dash",
@@ -1084,7 +1084,7 @@
         "name": "Rarity",
         "type": "Main Character",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-RR06"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-RR06.webp"
       }
     },
     "name": "Rarity",
@@ -1098,7 +1098,7 @@
         "name": "Sunlight in the Rain",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR01.webp"
       }
     },
     "name": "Sunlight in the Rain",
@@ -1112,7 +1112,7 @@
         "name": "Time for Clean-up!",
         "type": "Event",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR02.webp"
       }
     },
     "name": "Time for Clean-up!",
@@ -1126,7 +1126,7 @@
         "name": "Deliver letters",
         "type": "Event",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR03.webp"
       }
     },
     "name": "Deliver letters",
@@ -1140,7 +1140,7 @@
         "name": "Award Ceremony",
         "type": "Event",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR04.webp"
       }
     },
     "name": "Award Ceremony",
@@ -1154,7 +1154,7 @@
         "name": "Prepared to Go",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR05"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR05.webp"
       }
     },
     "name": "Prepared to Go",
@@ -1168,7 +1168,7 @@
         "name": "Overspeed Warning!",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR06"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR06.webp"
       }
     },
     "name": "Overspeed Warning!",
@@ -1182,7 +1182,7 @@
         "name": "Hair Curling",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR07"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR07.webp"
       }
     },
     "name": "Hair Curling",
@@ -1196,7 +1196,7 @@
         "name": "Pillow Fight",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR08"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR08.webp"
       }
     },
     "name": "Pillow Fight",
@@ -1210,7 +1210,7 @@
         "name": "Rain Under the Roof",
         "type": "Event",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR09"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR09.webp"
       }
     },
     "name": "Rain Under the Roof",
@@ -1224,7 +1224,7 @@
         "name": "Wire Accident",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR10"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR10.webp"
       }
     },
     "name": "Wire Accident",
@@ -1238,7 +1238,7 @@
         "name": "Make a Cake",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR11"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR11.webp"
       }
     },
     "name": "Make a Cake",
@@ -1252,7 +1252,7 @@
         "name": "Hoof Power Test",
         "type": "Event",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR12"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR12.webp"
       }
     },
     "name": "Hoof Power Test",
@@ -1266,7 +1266,7 @@
         "name": "Tense Competition",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR13"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR13.webp"
       }
     },
     "name": "Tense Competition",
@@ -1280,7 +1280,7 @@
         "name": "Messy Henhouse",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR14"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR14.webp"
       }
     },
     "name": "Messy Henhouse",
@@ -1294,7 +1294,7 @@
         "name": "Washing Day",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR15"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR15.webp"
       }
     },
     "name": "Washing Day",
@@ -1308,7 +1308,7 @@
         "name": "Dig for Gems",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR16"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR16.webp"
       }
     },
     "name": "Dig for Gems",
@@ -1322,7 +1322,7 @@
         "name": "Attend to Cure",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR17"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR17.webp"
       }
     },
     "name": "Attend to Cure",
@@ -1336,7 +1336,7 @@
         "name": "Accidentally Burnt Book",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR18"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR18.webp"
       }
     },
     "name": "Accidentally Burnt Book",
@@ -1350,7 +1350,7 @@
         "name": "Cycling for Friends",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR19"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR19.webp"
       }
     },
     "name": "Cycling for Friends",
@@ -1364,7 +1364,7 @@
         "name": "Head Up to the Night Sky",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR20"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR20.webp"
       }
     },
     "name": "Head Up to the Night Sky",
@@ -1378,7 +1378,7 @@
         "name": "Found Scroll",
         "type": "Event",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR21"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR21.webp"
       }
     },
     "name": "Found Scroll",
@@ -1392,7 +1392,7 @@
         "name": "Super Spicy Sauce",
         "type": "Item",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR22"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR22.webp"
       }
     },
     "name": "Super Spicy Sauce",
@@ -1406,7 +1406,7 @@
         "name": "Soda",
         "type": "Item",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR23"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR23.webp"
       }
     },
     "name": "Soda",
@@ -1420,7 +1420,7 @@
         "name": "Horseshoe",
         "type": "Item",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR24"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR24.webp"
       }
     },
     "name": "Horseshoe",
@@ -1434,7 +1434,7 @@
         "name": "Pinkie Pie's Flying Device",
         "type": "Item",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR25"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR25.webp"
       }
     },
     "name": "Pinkie Pie's Flying Device",
@@ -1448,7 +1448,7 @@
         "name": "Thimble Pack",
         "type": "Item",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR26"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR26.webp"
       }
     },
     "name": "Thimble Pack",
@@ -1462,7 +1462,7 @@
         "name": "Fluttershy's Bell",
         "type": "Item",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR27"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR27.webp"
       }
     },
     "name": "Fluttershy's Bell",
@@ -1476,7 +1476,7 @@
         "name": "Recorder",
         "type": "Item",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR28"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR28.webp"
       }
     },
     "name": "Recorder",
@@ -1490,7 +1490,7 @@
         "name": "Twilight Sparkle",
         "type": "Character",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR01.webp"
       }
     },
     "name": "Twilight Sparkle",
@@ -1504,7 +1504,7 @@
         "name": "Fluttershy",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR02.webp"
       }
     },
     "name": "Fluttershy",
@@ -1518,7 +1518,7 @@
         "name": "Pinkie Pie",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR03.webp"
       }
     },
     "name": "Pinkie Pie",
@@ -1532,7 +1532,7 @@
         "name": "Applejack",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR04.webp"
       }
     },
     "name": "Applejack",
@@ -1546,7 +1546,7 @@
         "name": "Rainbow Dash",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR05"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR05.webp"
       }
     },
     "name": "Rainbow Dash",
@@ -1560,7 +1560,7 @@
         "name": "Rarity",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR06"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR06.webp"
       }
     },
     "name": "Rarity",
@@ -1574,7 +1574,7 @@
         "name": "Owlowiscious",
         "type": "Character",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR07"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR07.webp"
       }
     },
     "name": "Owlowiscious",
@@ -1588,7 +1588,7 @@
         "name": "Angel",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR08"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR08.webp"
       }
     },
     "name": "Angel",
@@ -1602,7 +1602,7 @@
         "name": "Gummy",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR09"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR09.webp"
       }
     },
     "name": "Gummy",
@@ -1616,7 +1616,7 @@
         "name": "Winona",
         "type": "Character",
         "cost": 7,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR10"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR10.webp"
       }
     },
     "name": "Winona",
@@ -1630,7 +1630,7 @@
         "name": "Tank",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR11"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR11.webp"
       }
     },
     "name": "Tank",
@@ -1644,7 +1644,7 @@
         "name": "Opal",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR12"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR12.webp"
       }
     },
     "name": "Opal",
@@ -1658,7 +1658,7 @@
         "name": "Zecora",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR13"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR13.webp"
       }
     },
     "name": "Zecora",
@@ -1672,7 +1672,7 @@
         "name": "Trixie",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR14"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR14.webp"
       }
     },
     "name": "Trixie",
@@ -1686,7 +1686,7 @@
         "name": "Twilight Sparkle",
         "type": "Character",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U01.webp"
       }
     },
     "name": "Twilight Sparkle",
@@ -1700,7 +1700,7 @@
         "name": "Twilight Sparkle",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U02.webp"
       }
     },
     "name": "Twilight Sparkle",
@@ -1714,7 +1714,7 @@
         "name": "Fluttershy",
         "type": "Character",
         "cost": 7,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U03.webp"
       }
     },
     "name": "Fluttershy",
@@ -1728,7 +1728,7 @@
         "name": "Fluttershy",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U04.webp"
       }
     },
     "name": "Fluttershy",
@@ -1742,7 +1742,7 @@
         "name": "Pinkie Pie",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U05"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U05.webp"
       }
     },
     "name": "Pinkie Pie",
@@ -1756,7 +1756,7 @@
         "name": "Pinkie Pie",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U06"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U06.webp"
       }
     },
     "name": "Pinkie Pie",
@@ -1770,7 +1770,7 @@
         "name": "Applejack",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U07"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U07.webp"
       }
     },
     "name": "Applejack",
@@ -1784,7 +1784,7 @@
         "name": "Applejack",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U08"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U08.webp"
       }
     },
     "name": "Applejack",
@@ -1798,7 +1798,7 @@
         "name": "Rainbow Dash",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U09"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U09.webp"
       }
     },
     "name": "Rainbow Dash",
@@ -1812,7 +1812,7 @@
         "name": "Rainbow Dash",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U10"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U10.webp"
       }
     },
     "name": "Rainbow Dash",
@@ -1826,7 +1826,7 @@
         "name": "Rarity",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U11"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U11.webp"
       }
     },
     "name": "Rarity",
@@ -1840,7 +1840,7 @@
         "name": "Rarity",
         "type": "Character",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U12"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U12.webp"
       }
     },
     "name": "Rarity",
@@ -1854,7 +1854,7 @@
         "name": "Spike",
         "type": "Character",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U13"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U13.webp"
       }
     },
     "name": "Spike",
@@ -1868,7 +1868,7 @@
         "name": "Spike",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U14"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U14.webp"
       }
     },
     "name": "Spike",
@@ -1882,7 +1882,7 @@
         "name": "Apple Bloom",
         "type": "Character",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U15"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U15.webp"
       }
     },
     "name": "Apple Bloom",
@@ -1896,7 +1896,7 @@
         "name": "Sweetie Belle",
         "type": "Character",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U16"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U16.webp"
       }
     },
     "name": "Sweetie Belle",
@@ -1910,7 +1910,7 @@
         "name": "Scootaloo",
         "type": "Character",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U17"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U17.webp"
       }
     },
     "name": "Scootaloo",
@@ -1924,7 +1924,7 @@
         "name": "Trixie",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U18"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U18.webp"
       }
     },
     "name": "Trixie",
@@ -1938,7 +1938,7 @@
         "name": "Twilight Sparkle",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C01.webp"
       }
     },
     "name": "Twilight Sparkle",
@@ -1952,7 +1952,7 @@
         "name": "Twilight Sparkle",
         "type": "Character",
         "cost": 6,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C02.webp"
       }
     },
     "name": "Twilight Sparkle",
@@ -1966,7 +1966,7 @@
         "name": "Fluttershy",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C03.webp"
       }
     },
     "name": "Fluttershy",
@@ -1980,7 +1980,7 @@
         "name": "Fluttershy",
         "type": "Character",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C04.webp"
       }
     },
     "name": "Fluttershy",
@@ -1994,7 +1994,7 @@
         "name": "Pinkie Pie",
         "type": "Character",
         "cost": 6,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C05"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C05.webp"
       }
     },
     "name": "Pinkie Pie",
@@ -2008,7 +2008,7 @@
         "name": "Pinkie Pie",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C06"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C06.webp"
       }
     },
     "name": "Pinkie Pie",
@@ -2022,7 +2022,7 @@
         "name": "Applejack",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C07"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C07.webp"
       }
     },
     "name": "Applejack",
@@ -2036,7 +2036,7 @@
         "name": "Applejack",
         "type": "Character",
         "cost": 7,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C08"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C08.webp"
       }
     },
     "name": "Applejack",
@@ -2050,7 +2050,7 @@
         "name": "Rainbow Dash",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C09"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C09.webp"
       }
     },
     "name": "Rainbow Dash",
@@ -2064,7 +2064,7 @@
         "name": "Rainbow Dash",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C10"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C10.webp"
       }
     },
     "name": "Rainbow Dash",
@@ -2078,7 +2078,7 @@
         "name": "Rarity",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C11"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C11.webp"
       }
     },
     "name": "Rarity",
@@ -2092,7 +2092,7 @@
         "name": "Rarity",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C12"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C12.webp"
       }
     },
     "name": "Rarity",
@@ -2106,7 +2106,7 @@
         "name": "Spike",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C13"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C13.webp"
       }
     },
     "name": "Spike",
@@ -2120,7 +2120,7 @@
         "name": "Spike",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C14"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C14.webp"
       }
     },
     "name": "Spike",
@@ -2134,7 +2134,7 @@
         "name": "Apple Bloom",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C15"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C15.webp"
       }
     },
     "name": "Apple Bloom",
@@ -2148,7 +2148,7 @@
         "name": "Sweetie Belle",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C16"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C16.webp"
       }
     },
     "name": "Sweetie Belle",
@@ -2162,7 +2162,7 @@
         "name": "Scootaloo",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C17"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C17.webp"
       }
     },
     "name": "Scootaloo",
@@ -2176,7 +2176,7 @@
         "name": "Discord",
         "type": "Character",
         "cost": 7,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C18"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C18.webp"
       }
     },
     "name": "Discord",
@@ -2190,7 +2190,7 @@
         "name": "Zecora",
         "type": "Character",
         "cost": 6,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C19"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C19.webp"
       }
     },
     "name": "Zecora",
@@ -2204,7 +2204,7 @@
         "name": "Granny Smith",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C20"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C20.webp"
       }
     },
     "name": "Granny Smith",
@@ -2218,7 +2218,7 @@
         "name": "Filthy Rich",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C21"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C21.webp"
       }
     },
     "name": "Filthy Rich",
@@ -2232,7 +2232,7 @@
         "name": "Diamond Tiara",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C22"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C22.webp"
       }
     },
     "name": "Diamond Tiara",
@@ -2246,7 +2246,7 @@
         "name": "Pound Cake",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C23"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C23.webp"
       }
     },
     "name": "Pound Cake",
@@ -2260,7 +2260,7 @@
         "name": "Pumpkin Cake",
         "type": "Character",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C24"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C24.webp"
       }
     },
     "name": "Pumpkin Cake",
@@ -2274,7 +2274,7 @@
         "name": "Lesson Zero",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C25"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C25.webp"
       }
     },
     "name": "Lesson Zero",
@@ -2288,7 +2288,7 @@
         "name": "Lesson Zero",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C26"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C26.webp"
       }
     },
     "name": "Lesson Zero",
@@ -2302,7 +2302,7 @@
         "name": "Lesson Zero",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C27"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C27.webp"
       }
     },
     "name": "Lesson Zero",
@@ -2316,7 +2316,7 @@
         "name": "Lesson Zero",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C28"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C28.webp"
       }
     },
     "name": "Lesson Zero",
@@ -2330,7 +2330,7 @@
         "name": "Hurricane Fluttershy",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C29"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C29.webp"
       }
     },
     "name": "Hurricane Fluttershy",
@@ -2344,7 +2344,7 @@
         "name": "Hurricane Fluttershy",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C30"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C30.webp"
       }
     },
     "name": "Hurricane Fluttershy",
@@ -2358,7 +2358,7 @@
         "name": "Hurricane Fluttershy",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C31"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C31.webp"
       }
     },
     "name": "Hurricane Fluttershy",
@@ -2372,7 +2372,7 @@
         "name": "Hurricane Fluttershy",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C32"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C32.webp"
       }
     },
     "name": "Hurricane Fluttershy",
@@ -2386,7 +2386,7 @@
         "name": "Baby Cakes",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C33"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C33.webp"
       }
     },
     "name": "Baby Cakes",
@@ -2400,7 +2400,7 @@
         "name": "Baby Cakes",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C34"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C34.webp"
       }
     },
     "name": "Baby Cakes",
@@ -2414,7 +2414,7 @@
         "name": "Baby Cakes",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C35"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C35.webp"
       }
     },
     "name": "Baby Cakes",
@@ -2428,7 +2428,7 @@
         "name": "Baby Cakes",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C36"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C36.webp"
       }
     },
     "name": "Baby Cakes",
@@ -2442,7 +2442,7 @@
         "name": "The Last Roundup",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C37"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C37.webp"
       }
     },
     "name": "The Last Roundup",
@@ -2456,7 +2456,7 @@
         "name": "The Last Roundup",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C38"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C38.webp"
       }
     },
     "name": "The Last Roundup",
@@ -2470,7 +2470,7 @@
         "name": "The Last Roundup",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C39"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C39.webp"
       }
     },
     "name": "The Last Roundup",
@@ -2484,7 +2484,7 @@
         "name": "The Last Roundup",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C40"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C40.webp"
       }
     },
     "name": "The Last Roundup",
@@ -2498,7 +2498,7 @@
         "name": "May the Best Pet Win!",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C41"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C41.webp"
       }
     },
     "name": "May the Best Pet Win!",
@@ -2512,7 +2512,7 @@
         "name": "May the Best Pet Win!",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C42"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C42.webp"
       }
     },
     "name": "May the Best Pet Win!",
@@ -2526,7 +2526,7 @@
         "name": "May the Best Pet Win!",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C43"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C43.webp"
       }
     },
     "name": "May the Best Pet Win!",
@@ -2540,7 +2540,7 @@
         "name": "May the Best Pet Win!",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C44"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C44.webp"
       }
     },
     "name": "May the Best Pet Win!",
@@ -2554,7 +2554,7 @@
         "name": "Sweet and Elite",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C45"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C45.webp"
       }
     },
     "name": "Sweet and Elite",
@@ -2568,7 +2568,7 @@
         "name": "Sweet and Elite",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C46"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C46.webp"
       }
     },
     "name": "Sweet and Elite",
@@ -2582,7 +2582,7 @@
         "name": "Sweet and Elite",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C47"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C47.webp"
       }
     },
     "name": "Sweet and Elite",
@@ -2596,7 +2596,7 @@
         "name": "Sweet and Elite",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C48"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C48.webp"
       }
     },
     "name": "Sweet and Elite",
@@ -2610,7 +2610,7 @@
         "name": "Twilight Sparkle",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-CR01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-CR01.webp"
       }
     },
     "name": "Twilight Sparkle",
@@ -2624,7 +2624,7 @@
         "name": "Fluttershy",
         "type": "Character",
         "cost": 6,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-CR02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-CR02.webp"
       }
     },
     "name": "Fluttershy",
@@ -2638,7 +2638,7 @@
         "name": "Pinkie Pie",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-CR03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-CR03.webp"
       }
     },
     "name": "Pinkie Pie",
@@ -2652,7 +2652,7 @@
         "name": "Applejack",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-CR04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-CR04.webp"
       }
     },
     "name": "Applejack",
@@ -2666,7 +2666,7 @@
         "name": "Rainbow Dash",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-CR05"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-CR05.webp"
       }
     },
     "name": "Rainbow Dash",
@@ -2680,7 +2680,7 @@
         "name": "Rarity",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-CR06"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-CR06.webp"
       }
     },
     "name": "Rarity",
@@ -2694,7 +2694,7 @@
         "name": "Twilight Sparkle",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-CR07"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-CR07.webp"
       }
     },
     "name": "Twilight Sparkle",
@@ -2708,7 +2708,7 @@
         "name": "Fluttershy",
         "type": "Character",
         "cost": 6,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-CR08"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-CR08.webp"
       }
     },
     "name": "Fluttershy",
@@ -2722,7 +2722,7 @@
         "name": "Pinkie Pie",
         "type": "Character",
         "cost": 6,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-CR09"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-CR09.webp"
       }
     },
     "name": "Pinkie Pie",
@@ -2736,7 +2736,7 @@
         "name": "Applejack",
         "type": "Character",
         "cost": 6,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-CR10"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-CR10.webp"
       }
     },
     "name": "Applejack",
@@ -2750,7 +2750,7 @@
         "name": "Rainbow Dash",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-CR11"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-CR11.webp"
       }
     },
     "name": "Rainbow Dash",
@@ -2764,7 +2764,7 @@
         "name": "Rarity",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-CR12"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-CR12.webp"
       }
     },
     "name": "Rarity",
@@ -2778,7 +2778,7 @@
         "name": "Golden Oak Library, 2nd Floor",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-ER01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-ER01.webp"
       }
     },
     "name": "Golden Oak Library, 2nd Floor",
@@ -2792,7 +2792,7 @@
         "name": "Fluttershy's Living Room",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-ER02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-ER02.webp"
       }
     },
     "name": "Fluttershy's Living Room",
@@ -2806,7 +2806,7 @@
         "name": "Sugarcube Corner[incomplete]",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-ER03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-ER03.webp"
       }
     },
     "name": "Sugarcube Corner[incomplete]",
@@ -2820,7 +2820,7 @@
         "name": "Sweet Apple Acres Backyard",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-ER04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-ER04.webp"
       }
     },
     "name": "Sweet Apple Acres Backyard",
@@ -2834,7 +2834,7 @@
         "name": "Cloudsdale Rainbow Pool",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-ER05"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-ER05.webp"
       }
     },
     "name": "Cloudsdale Rainbow Pool",
@@ -2848,7 +2848,7 @@
         "name": "Carousel Boutique Fitting Room",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-ER06"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-ER06.webp"
       }
     },
     "name": "Carousel Boutique Fitting Room",
@@ -2862,7 +2862,7 @@
         "name": "Twilight Sparkle",
         "type": "Character",
         "cost": 6,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-GR01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-GR01.webp"
       }
     },
     "name": "Twilight Sparkle",
@@ -2876,7 +2876,7 @@
         "name": "Fluttershy",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-GR02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-GR02.webp"
       }
     },
     "name": "Fluttershy",
@@ -2890,7 +2890,7 @@
         "name": "Pinkie Pie",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-GR03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-GR03.webp"
       }
     },
     "name": "Pinkie Pie",
@@ -2904,7 +2904,7 @@
         "name": "Applejack",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-GR04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-GR04.webp"
       }
     },
     "name": "Applejack",
@@ -2918,7 +2918,7 @@
         "name": "Rainbow Dash",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-GR05"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-GR05.webp"
       }
     },
     "name": "Rainbow Dash",
@@ -2932,7 +2932,7 @@
         "name": "Rarity",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-GR06"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-GR06.webp"
       }
     },
     "name": "Rarity",
@@ -2946,7 +2946,7 @@
         "name": "Twilight Sparkle",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-GR07"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-GR07.webp"
       }
     },
     "name": "Twilight Sparkle",
@@ -2960,7 +2960,7 @@
         "name": "Fluttershy",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-GR08"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-GR08.webp"
       }
     },
     "name": "Fluttershy",
@@ -2974,7 +2974,7 @@
         "name": "Pinkie Pie",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-GR09"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-GR09.webp"
       }
     },
     "name": "Pinkie Pie",
@@ -2988,7 +2988,7 @@
         "name": "Applejack",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-GR10"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-GR10.webp"
       }
     },
     "name": "Applejack",
@@ -3002,7 +3002,7 @@
         "name": "Rainbow Dash",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-GR11"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-GR11.webp"
       }
     },
     "name": "Rainbow Dash",
@@ -3016,7 +3016,7 @@
         "name": "Rarity",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-GR12"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-GR12.webp"
       }
     },
     "name": "Rarity",
@@ -3030,7 +3030,7 @@
         "name": "Twilight Sparkle",
         "type": "Main Character",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-RR01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-RR01.webp"
       }
     },
     "name": "Twilight Sparkle",
@@ -3044,7 +3044,7 @@
         "name": "Fluttershy",
         "type": "Main Character",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-RR02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-RR02.webp"
       }
     },
     "name": "Fluttershy",
@@ -3058,7 +3058,7 @@
         "name": "Pinkie Pie",
         "type": "Main Character",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-RR03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-RR03.webp"
       }
     },
     "name": "Pinkie Pie",
@@ -3072,7 +3072,7 @@
         "name": "Applejack",
         "type": "Main Character",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-RR04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-RR04.webp"
       }
     },
     "name": "Applejack",
@@ -3086,7 +3086,7 @@
         "name": "Rainbow Dash",
         "type": "Main Character",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-RR05"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-RR05.webp"
       }
     },
     "name": "Rainbow Dash",
@@ -3100,7 +3100,7 @@
         "name": "Rarity",
         "type": "Main Character",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-RR06"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-RR06.webp"
       }
     },
     "name": "Rarity",
@@ -3114,7 +3114,7 @@
         "name": "Today's To-do List",
         "type": "Event",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR01.webp"
       }
     },
     "name": "Today's To-do List",
@@ -3128,7 +3128,7 @@
         "name": "Friendship Lesson Letter",
         "type": "Event",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR02.webp"
       }
     },
     "name": "Friendship Lesson Letter",
@@ -3142,7 +3142,7 @@
         "name": "Bookshelf Organization",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR03.webp"
       }
     },
     "name": "Bookshelf Organization",
@@ -3156,7 +3156,7 @@
         "name": "Sleep Soundly",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR04.webp"
       }
     },
     "name": "Sleep Soundly",
@@ -3170,7 +3170,7 @@
         "name": "Physical Training",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR05"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR05.webp"
       }
     },
     "name": "Physical Training",
@@ -3184,7 +3184,7 @@
         "name": "Pinkie Pie's Talk Show",
         "type": "Event",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR06"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR06.webp"
       }
     },
     "name": "Pinkie Pie's Talk Show",
@@ -3198,7 +3198,7 @@
         "name": "Jump Rope Time",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR07"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR07.webp"
       }
     },
     "name": "Jump Rope Time",
@@ -3212,7 +3212,7 @@
         "name": "Corn Harvest",
         "type": "Event",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR08"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR08.webp"
       }
     },
     "name": "Corn Harvest",
@@ -3226,7 +3226,7 @@
         "name": "Zap Apple Season",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR09"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR09.webp"
       }
     },
     "name": "Zap Apple Season",
@@ -3240,7 +3240,7 @@
         "name": "Demolition of the Old Barn",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR10"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR10.webp"
       }
     },
     "name": "Demolition of the Old Barn",
@@ -3254,7 +3254,7 @@
         "name": "Standing on the Edge",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR11"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR11.webp"
       }
     },
     "name": "Standing on the Edge",
@@ -3268,7 +3268,7 @@
         "name": "Tasting Coffee",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR12"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR12.webp"
       }
     },
     "name": "Tasting Coffee",
@@ -3282,7 +3282,7 @@
         "name": "Hanging Out the Laundry",
         "type": "Event",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR13"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR13.webp"
       }
     },
     "name": "Hanging Out the Laundry",
@@ -3296,7 +3296,7 @@
         "name": "Squeezing Grapes",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR14"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR14.webp"
       }
     },
     "name": "Squeezing Grapes",
@@ -3310,7 +3310,7 @@
         "name": "Apple Throw and Catch",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR15"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR15.webp"
       }
     },
     "name": "Apple Throw and Catch",
@@ -3324,7 +3324,7 @@
         "name": "Rainbow Dash Fan Club",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR16"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR16.webp"
       }
     },
     "name": "Rainbow Dash Fan Club",
@@ -3338,7 +3338,7 @@
         "name": "Tour of the Sculpture Garden",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR17"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR17.webp"
       }
     },
     "name": "Tour of the Sculpture Garden",
@@ -3352,7 +3352,7 @@
         "name": "Pet Play Day",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR18"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR18.webp"
       }
     },
     "name": "Pet Play Day",
@@ -3366,7 +3366,7 @@
         "name": "Pre-match Briefing",
         "type": "Event",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR19"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR19.webp"
       }
     },
     "name": "Pre-match Briefing",
@@ -3380,7 +3380,7 @@
         "name": "Picnic Day",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR20"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR20.webp"
       }
     },
     "name": "Picnic Day",
@@ -3394,7 +3394,7 @@
         "name": "Challenge to the Temple",
         "type": "Event",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR21"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR21.webp"
       }
     },
     "name": "Challenge to the Temple",
@@ -3408,7 +3408,7 @@
         "name": "Smarty Pants",
         "type": "Item",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR22"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR22.webp"
       }
     },
     "name": "Smarty Pants",
@@ -3422,7 +3422,7 @@
         "name": "Daring Do Book",
         "type": "Item",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR23"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR23.webp"
       }
     },
     "name": "Daring Do Book",
@@ -3436,7 +3436,7 @@
         "name": "Party Cannon",
         "type": "Item",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR24"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR24.webp"
       }
     },
     "name": "Party Cannon",
@@ -3450,7 +3450,7 @@
         "name": "Welcome Wagon",
         "type": "Item",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR25"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR25.webp"
       }
     },
     "name": "Welcome Wagon",
@@ -3464,7 +3464,7 @@
         "name": "Crimson Jewel",
         "type": "Item",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR26"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR26.webp"
       }
     },
     "name": "Crimson Jewel",
@@ -3478,7 +3478,7 @@
         "name": "Educational Toy",
         "type": "Item",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR27"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR27.webp"
       }
     },
     "name": "Educational Toy",
@@ -3492,7 +3492,7 @@
         "name": "Seeds of Truth",
         "type": "Item",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR28"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR28.webp"
       }
     },
     "name": "Seeds of Truth",
@@ -3506,7 +3506,7 @@
         "name": "Twilight Sparkle",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR01.webp"
       }
     },
     "name": "Twilight Sparkle",
@@ -3520,7 +3520,7 @@
         "name": "Fluttershy",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR02.webp"
       }
     },
     "name": "Fluttershy",
@@ -3534,7 +3534,7 @@
         "name": "Pinkie Pie",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR03.webp"
       }
     },
     "name": "Pinkie Pie",
@@ -3548,7 +3548,7 @@
         "name": "Applejack",
         "type": "Character",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR04.webp"
       }
     },
     "name": "Applejack",
@@ -3562,7 +3562,7 @@
         "name": "Rainbow Dash",
         "type": "Character",
         "cost": 6,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR05"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR05.webp"
       }
     },
     "name": "Rainbow Dash",
@@ -3576,7 +3576,7 @@
         "name": "Rarity",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR06"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR06.webp"
       }
     },
     "name": "Rarity",
@@ -3590,7 +3590,7 @@
         "name": "Spike",
         "type": "Character",
         "cost": 7,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR07"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR07.webp"
       }
     },
     "name": "Spike",
@@ -3604,7 +3604,7 @@
         "name": "Discord",
         "type": "Character",
         "cost": 6,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR08"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR08.webp"
       }
     },
     "name": "Discord",
@@ -3618,7 +3618,7 @@
         "name": "Apple Bloom",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR09"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR09.webp"
       }
     },
     "name": "Apple Bloom",
@@ -3632,7 +3632,7 @@
         "name": "Sweetie Belle",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR10"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR10.webp"
       }
     },
     "name": "Sweetie Belle",
@@ -3646,7 +3646,7 @@
         "name": "Scootaloo",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR11"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR11.webp"
       }
     },
     "name": "Scootaloo",
@@ -3660,7 +3660,7 @@
         "name": "Daring Do",
         "type": "Character",
         "cost": 6,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR12"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR12.webp"
       }
     },
     "name": "Daring Do",
@@ -3674,7 +3674,7 @@
         "name": "Philomena",
         "type": "Character",
         "cost": 6,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR13"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR13.webp"
       }
     },
     "name": "Philomena",
@@ -3688,7 +3688,7 @@
         "name": "Big McIntosh",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR14"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR14.webp"
       }
     },
     "name": "Big McIntosh",
@@ -3702,7 +3702,7 @@
         "name": "Twilight Sparkle",
         "type": "Character",
         "cost": 9,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U01.webp"
       }
     },
     "name": "Twilight Sparkle",
@@ -3716,7 +3716,7 @@
         "name": "Twilight Sparkle",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U02.webp"
       }
     },
     "name": "Twilight Sparkle",
@@ -3730,7 +3730,7 @@
         "name": "Fluttershy",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U03.webp"
       }
     },
     "name": "Fluttershy",
@@ -3744,7 +3744,7 @@
         "name": "Fluttershy",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U04.webp"
       }
     },
     "name": "Fluttershy",
@@ -3758,7 +3758,7 @@
         "name": "Pinkie Pie",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U05"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U05.webp"
       }
     },
     "name": "Pinkie Pie",
@@ -3772,7 +3772,7 @@
         "name": "Pinkie Pie",
         "type": "Character",
         "cost": 7,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U06"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U06.webp"
       }
     },
     "name": "Pinkie Pie",
@@ -3786,7 +3786,7 @@
         "name": "Applejack",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U07"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U07.webp"
       }
     },
     "name": "Applejack",
@@ -3800,7 +3800,7 @@
         "name": "Applejack",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U08"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U08.webp"
       }
     },
     "name": "Applejack",
@@ -3814,7 +3814,7 @@
         "name": "Rainbow Dash",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U09"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U09.webp"
       }
     },
     "name": "Rainbow Dash",
@@ -3828,7 +3828,7 @@
         "name": "Rainbow Dash",
         "type": "Character",
         "cost": 7,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U10"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U10.webp"
       }
     },
     "name": "Rainbow Dash",
@@ -3842,7 +3842,7 @@
         "name": "Rarity",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U11"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U11.webp"
       }
     },
     "name": "Rarity",
@@ -3856,7 +3856,7 @@
         "name": "Rarity",
         "type": "Character",
         "cost": 7,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U12"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U12.webp"
       }
     },
     "name": "Rarity",
@@ -3870,7 +3870,7 @@
         "name": "Spike",
         "type": "Character",
         "cost": 8,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U13"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U13.webp"
       }
     },
     "name": "Spike",
@@ -3884,7 +3884,7 @@
         "name": "Apple Bloom",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U14"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U14.webp"
       }
     },
     "name": "Apple Bloom",
@@ -3898,7 +3898,7 @@
         "name": "Sweetie Belle",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U15"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U15.webp"
       }
     },
     "name": "Sweetie Belle",
@@ -3912,7 +3912,7 @@
         "name": "Scootaloo",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U16"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U16.webp"
       }
     },
     "name": "Scootaloo",
@@ -3926,7 +3926,7 @@
         "name": "Discord",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U17"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U17.webp"
       }
     },
     "name": "Discord",
@@ -3940,7 +3940,7 @@
         "name": "Discord",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U18"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U18.webp"
       }
     },
     "name": "Discord",
@@ -3954,7 +3954,7 @@
         "name": "Twilight Sparkle",
         "type": "Character",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-C01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-C01.webp"
       }
     },
     "name": "Twilight Sparkle",
@@ -3968,7 +3968,7 @@
         "name": "Fluttershy",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-C02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-C02.webp"
       }
     },
     "name": "Fluttershy",
@@ -3982,7 +3982,7 @@
         "name": "Pinkie Pie",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-C03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-C03.webp"
       }
     },
     "name": "Pinkie Pie",
@@ -3996,7 +3996,7 @@
         "name": "Applejack",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-C04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-C04.webp"
       }
     },
     "name": "Applejack",
@@ -4010,7 +4010,7 @@
         "name": "Rainbow Dash",
         "type": "Character",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-C05"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-C05.webp"
       }
     },
     "name": "Rainbow Dash",
@@ -4024,7 +4024,7 @@
         "name": "Rarity",
         "type": "Character",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-C06"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-C06.webp"
       }
     },
     "name": "Rarity",
@@ -4038,7 +4038,7 @@
         "name": "Apple Bloom",
         "type": "Character",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-C07"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-C07.webp"
       }
     },
     "name": "Apple Bloom",
@@ -4052,7 +4052,7 @@
         "name": "Sweetie Belle",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-C08"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-C08.webp"
       }
     },
     "name": "Sweetie Belle",
@@ -4066,7 +4066,7 @@
         "name": "Scootaloo",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-C09"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-C09.webp"
       }
     },
     "name": "Scootaloo",
@@ -4080,7 +4080,7 @@
         "name": "Twilight Sparkle",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-CR01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-CR01.webp"
       }
     },
     "name": "Twilight Sparkle",
@@ -4094,7 +4094,7 @@
         "name": "Fluttershy",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-CR02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-CR02.webp"
       }
     },
     "name": "Fluttershy",
@@ -4108,7 +4108,7 @@
         "name": "Pinkie Pie",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-CR03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-CR03.webp"
       }
     },
     "name": "Pinkie Pie",
@@ -4122,7 +4122,7 @@
         "name": "Applejack",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-CR04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-CR04.webp"
       }
     },
     "name": "Applejack",
@@ -4136,7 +4136,7 @@
         "name": "Rainbow Dash",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-CR05"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-CR05.webp"
       }
     },
     "name": "Rainbow Dash",
@@ -4150,7 +4150,7 @@
         "name": "Rarity",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-CR06"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-CR06.webp"
       }
     },
     "name": "Rarity",
@@ -4164,7 +4164,7 @@
         "name": "Golden Oak Library",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-ER01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-ER01.webp"
       }
     },
     "name": "Golden Oak Library",
@@ -4178,7 +4178,7 @@
         "name": "Fluttershy's Cottage",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-ER02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-ER02.webp"
       }
     },
     "name": "Fluttershy's Cottage",
@@ -4192,7 +4192,7 @@
         "name": "Sugarcube Corner",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-ER03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-ER03.webp"
       }
     },
     "name": "Sugarcube Corner",
@@ -4206,7 +4206,7 @@
         "name": "Sweet Apple Acres",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-ER04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-ER04.webp"
       }
     },
     "name": "Sweet Apple Acres",
@@ -4220,7 +4220,7 @@
         "name": "Cloudominium",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-ER05"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-ER05.webp"
       }
     },
     "name": "Cloudominium",
@@ -4234,7 +4234,7 @@
         "name": "Carousel Boutique",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-ER06"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-ER06.webp"
       }
     },
     "name": "Carousel Boutique",
@@ -4248,7 +4248,7 @@
         "name": "Canterlot Tower",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-ER07"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-ER07.webp"
       }
     },
     "name": "Canterlot Tower",
@@ -4262,7 +4262,7 @@
         "name": "Ponyville Suburb",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-ER08"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-ER08.webp"
       }
     },
     "name": "Ponyville Suburb",
@@ -4276,7 +4276,7 @@
         "name": "Ponyville Street",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-ER09"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-ER09.webp"
       }
     },
     "name": "Ponyville Street",
@@ -4290,7 +4290,7 @@
         "name": "Road at Sweet Apple Acres",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-ER10"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-ER10.webp"
       }
     },
     "name": "Road at Sweet Apple Acres",
@@ -4304,7 +4304,7 @@
         "name": "Stairs of Cloudsdale",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-ER11"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-ER11.webp"
       }
     },
     "name": "Stairs of Cloudsdale",
@@ -4318,7 +4318,7 @@
         "name": "Manehattan Streets",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-ER12"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-ER12.webp"
       }
     },
     "name": "Manehattan Streets",
@@ -4332,7 +4332,7 @@
         "name": "Twilight Sparkle",
         "type": "Character",
         "cost": 7,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-GR01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-GR01.webp"
       }
     },
     "name": "Twilight Sparkle",
@@ -4346,7 +4346,7 @@
         "name": "Fluttershy",
         "type": "Character",
         "cost": 7,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-GR02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-GR02.webp"
       }
     },
     "name": "Fluttershy",
@@ -4360,7 +4360,7 @@
         "name": "Pinkie Pie",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-GR03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-GR03.webp"
       }
     },
     "name": "Pinkie Pie",
@@ -4374,7 +4374,7 @@
         "name": "Applejack",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-GR04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-GR04.webp"
       }
     },
     "name": "Applejack",
@@ -4388,7 +4388,7 @@
         "name": "Rainbow Dash",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-GR05"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-GR05.webp"
       }
     },
     "name": "Rainbow Dash",
@@ -4402,7 +4402,7 @@
         "name": "Rarity",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-GR06"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-GR06.webp"
       }
     },
     "name": "Rarity",
@@ -4416,7 +4416,7 @@
         "name": "Twilight Sparkle",
         "type": "Main Character",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-RR01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-RR01.webp"
       }
     },
     "name": "Twilight Sparkle",
@@ -4430,7 +4430,7 @@
         "name": "Fluttershy",
         "type": "Main Character",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-RR02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-RR02.webp"
       }
     },
     "name": "Fluttershy",
@@ -4444,7 +4444,7 @@
         "name": "Pinkie Pie",
         "type": "Main Character",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-RR03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-RR03.webp"
       }
     },
     "name": "Pinkie Pie",
@@ -4458,7 +4458,7 @@
         "name": "Applejack",
         "type": "Main Character",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-RR04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-RR04.webp"
       }
     },
     "name": "Applejack",
@@ -4472,7 +4472,7 @@
         "name": "Rainbow Dash",
         "type": "Main Character",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-RR05"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-RR05.webp"
       }
     },
     "name": "Rainbow Dash",
@@ -4486,7 +4486,7 @@
         "name": "Rarity",
         "type": "Main Character",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-RR06"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-RR06.webp"
       }
     },
     "name": "Rarity",
@@ -4500,7 +4500,7 @@
         "name": "Friends from other Side",
         "type": "Event",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SPR01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SPR01.webp"
       }
     },
     "name": "Friends from other Side",
@@ -4514,7 +4514,7 @@
         "name": "Friendly Rabbits",
         "type": "Event",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SPR02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SPR02.webp"
       }
     },
     "name": "Friendly Rabbits",
@@ -4528,7 +4528,7 @@
         "name": "Friendship Report",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SPR03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SPR03.webp"
       }
     },
     "name": "Friendship Report",
@@ -4542,7 +4542,7 @@
         "name": "Way to the Top",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SPR04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SPR04.webp"
       }
     },
     "name": "Way to the Top",
@@ -4556,7 +4556,7 @@
         "name": "Time for Class",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SPR05"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SPR05.webp"
       }
     },
     "name": "Time for Class",
@@ -4570,7 +4570,7 @@
         "name": "Meteor Shower",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SPR06"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SPR06.webp"
       }
     },
     "name": "Meteor Shower",
@@ -4584,7 +4584,7 @@
         "name": "Funny Glasses",
         "type": "Item",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SPR07"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SPR07.webp"
       }
     },
     "name": "Funny Glasses",
@@ -4598,7 +4598,7 @@
         "name": "Today's Homework",
         "type": "Item",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SPR08"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SPR08.webp"
       }
     },
     "name": "Today's Homework",
@@ -4612,7 +4612,7 @@
         "name": "Delivered Letter",
         "type": "Item",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SPR09"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SPR09.webp"
       }
     },
     "name": "Delivered Letter",
@@ -4626,7 +4626,7 @@
         "name": "Cure for Poison Joke",
         "type": "Item",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SPR10"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SPR10.webp"
       }
     },
     "name": "Cure for Poison Joke",
@@ -4640,7 +4640,7 @@
         "name": "Twilight Sparkle",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SR01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SR01.webp"
       }
     },
     "name": "Twilight Sparkle",
@@ -4654,7 +4654,7 @@
         "name": "Fluttershy",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SR02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SR02.webp"
       }
     },
     "name": "Fluttershy",
@@ -4668,7 +4668,7 @@
         "name": "Pinkie Pie",
         "type": "Character",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SR03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SR03.webp"
       }
     },
     "name": "Pinkie Pie",
@@ -4682,7 +4682,7 @@
         "name": "Applejack",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SR04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SR04.webp"
       }
     },
     "name": "Applejack",
@@ -4696,7 +4696,7 @@
         "name": "Rainbow Dash",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SR05"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SR05.webp"
       }
     },
     "name": "Rainbow Dash",
@@ -4710,7 +4710,7 @@
         "name": "Rarity",
         "type": "Character",
         "cost": 6,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SR06"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SR06.webp"
       }
     },
     "name": "Rarity",
@@ -4724,7 +4724,7 @@
         "name": "Twilight Sparkle",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-U01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-U01.webp"
       }
     },
     "name": "Twilight Sparkle",
@@ -4738,7 +4738,7 @@
         "name": "Fluttershy",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-U02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-U02.webp"
       }
     },
     "name": "Fluttershy",
@@ -4752,7 +4752,7 @@
         "name": "Pinkie Pie",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-U03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-U03.webp"
       }
     },
     "name": "Pinkie Pie",
@@ -4766,7 +4766,7 @@
         "name": "Applejack",
         "type": "Character",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-U04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-U04.webp"
       }
     },
     "name": "Applejack",
@@ -4780,7 +4780,7 @@
         "name": "Rainbow Dash",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-U05"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-U05.webp"
       }
     },
     "name": "Rainbow Dash",
@@ -4794,7 +4794,7 @@
         "name": "Rarity",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-U06"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-U06.webp"
       }
     },
     "name": "Rarity",
@@ -4808,7 +4808,7 @@
         "name": "Zecora",
         "type": "Character",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-U07"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-U07.webp"
       }
     },
     "name": "Zecora",
@@ -4822,7 +4822,7 @@
         "name": "Twilight Sparkle",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-C01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-C01.webp"
       }
     },
     "name": "Twilight Sparkle",
@@ -4836,7 +4836,7 @@
         "name": "Twilight Sparkle",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-C02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-C02.webp"
       }
     },
     "name": "Twilight Sparkle",
@@ -4850,7 +4850,7 @@
         "name": "Spike",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-C03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-C03.webp"
       }
     },
     "name": "Spike",
@@ -4864,7 +4864,7 @@
         "name": "Spike",
         "type": "Character",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-C04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-C04.webp"
       }
     },
     "name": "Spike",
@@ -4878,7 +4878,7 @@
         "name": "Owlowiscious",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-C05"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-C05.webp"
       }
     },
     "name": "Owlowiscious",
@@ -4892,7 +4892,7 @@
         "name": "Searching for Elements of Harmony",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-C06"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-C06.webp"
       }
     },
     "name": "Searching for Elements of Harmony",
@@ -4906,7 +4906,7 @@
         "name": "Searching for Elements of Harmony",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-C07"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-C07.webp"
       }
     },
     "name": "Searching for Elements of Harmony",
@@ -4920,7 +4920,7 @@
         "name": "Searching for Elements of Harmony",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-C08"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-C08.webp"
       }
     },
     "name": "Searching for Elements of Harmony",
@@ -4934,7 +4934,7 @@
         "name": "Searching for Elements of Harmony",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-C09"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-C09.webp"
       }
     },
     "name": "Searching for Elements of Harmony",
@@ -4948,7 +4948,7 @@
         "name": "Field Reference",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-SPR01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-SPR01.webp"
       }
     },
     "name": "Field Reference",
@@ -4962,7 +4962,7 @@
         "name": "Search the Library",
         "type": "Event",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-SPR02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-SPR02.webp"
       }
     },
     "name": "Search the Library",
@@ -4976,7 +4976,7 @@
         "name": "Experience Report",
         "type": "Event",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-SPR03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-SPR03.webp"
       }
     },
     "name": "Experience Report",
@@ -4990,7 +4990,7 @@
         "name": "Guiding Tome",
         "type": "Item",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-SPR04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-SPR04.webp"
       }
     },
     "name": "Guiding Tome",
@@ -5004,7 +5004,7 @@
         "name": "Twilight Sparkle",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-SR01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-SR01.webp"
       }
     },
     "name": "Twilight Sparkle",
@@ -5018,7 +5018,7 @@
         "name": "Owlowiscious",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-SR02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-SR02.webp"
       }
     },
     "name": "Owlowiscious",
@@ -5032,7 +5032,7 @@
         "name": "Twilight Sparkle",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-U01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-U01.webp"
       }
     },
     "name": "Twilight Sparkle",
@@ -5046,7 +5046,7 @@
         "name": "Twilight Sparkle",
         "type": "Character",
         "cost": 6,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-U02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-U02.webp"
       }
     },
     "name": "Twilight Sparkle",
@@ -5060,7 +5060,7 @@
         "name": "Spike",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-U03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-U03.webp"
       }
     },
     "name": "Spike",
@@ -5074,7 +5074,7 @@
         "name": "Spike",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-U04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-U04.webp"
       }
     },
     "name": "Spike",
@@ -5088,7 +5088,7 @@
         "name": "Fluttershy",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-C01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-C01.webp"
       }
     },
     "name": "Fluttershy",
@@ -5102,7 +5102,7 @@
         "name": "Fluttershy",
         "type": "Character",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-C02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-C02.webp"
       }
     },
     "name": "Fluttershy",
@@ -5116,7 +5116,7 @@
         "name": "Fluttershy",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-C03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-C03.webp"
       }
     },
     "name": "Fluttershy",
@@ -5130,7 +5130,7 @@
         "name": "Turtle",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-C04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-C04.webp"
       }
     },
     "name": "Turtle",
@@ -5144,7 +5144,7 @@
         "name": "Angel",
         "type": "Character",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-C05"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-C05.webp"
       }
     },
     "name": "Angel",
@@ -5158,7 +5158,7 @@
         "name": "Dragonshy",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-C06"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-C06.webp"
       }
     },
     "name": "Dragonshy",
@@ -5172,7 +5172,7 @@
         "name": "Dragonshy",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-C07"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-C07.webp"
       }
     },
     "name": "Dragonshy",
@@ -5186,7 +5186,7 @@
         "name": "Dragonshy",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-C08"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-C08.webp"
       }
     },
     "name": "Dragonshy",
@@ -5200,7 +5200,7 @@
         "name": "Dragonshy",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-C09"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-C09.webp"
       }
     },
     "name": "Dragonshy",
@@ -5214,7 +5214,7 @@
         "name": "Aid for Moving Frogs Out",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-SPR01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-SPR01.webp"
       }
     },
     "name": "Aid for Moving Frogs Out",
@@ -5228,7 +5228,7 @@
         "name": "Flower Picking Day",
         "type": "Event",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-SPR02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-SPR02.webp"
       }
     },
     "name": "Flower Picking Day",
@@ -5242,7 +5242,7 @@
         "name": "Healthy Salad",
         "type": "Event",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-SPR03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-SPR03.webp"
       }
     },
     "name": "Healthy Salad",
@@ -5256,7 +5256,7 @@
         "name": "Rabbit Pocket Watch",
         "type": "Item",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-SPR04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-SPR04.webp"
       }
     },
     "name": "Rabbit Pocket Watch",
@@ -5270,7 +5270,7 @@
         "name": "Fluttershy",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-SR01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-SR01.webp"
       }
     },
     "name": "Fluttershy",
@@ -5284,7 +5284,7 @@
         "name": "Angel",
         "type": "Character",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-SR02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-SR02.webp"
       }
     },
     "name": "Angel",
@@ -5298,7 +5298,7 @@
         "name": "Fluttershy",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-U01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-U01.webp"
       }
     },
     "name": "Fluttershy",
@@ -5312,7 +5312,7 @@
         "name": "Fluttershy",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-U02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-U02.webp"
       }
     },
     "name": "Fluttershy",
@@ -5326,7 +5326,7 @@
         "name": "Philomena",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-U03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-U03.webp"
       }
     },
     "name": "Philomena",
@@ -5340,7 +5340,7 @@
         "name": "Angel",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-U04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-U04.webp"
       }
     },
     "name": "Angel",
@@ -5354,7 +5354,7 @@
         "name": "Pinkie Pie",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-C01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-C01.webp"
       }
     },
     "name": "Pinkie Pie",
@@ -5368,7 +5368,7 @@
         "name": "Pinkie Pie",
         "type": "Character",
         "cost": 6,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-C02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-C02.webp"
       }
     },
     "name": "Pinkie Pie",
@@ -5382,7 +5382,7 @@
         "name": "Mrs.Cake",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-C03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-C03.webp"
       }
     },
     "name": "Mrs.Cake",
@@ -5396,7 +5396,7 @@
         "name": "Gummy",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-C04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-C04.webp"
       }
     },
     "name": "Gummy",
@@ -5410,7 +5410,7 @@
         "name": "Gummy",
         "type": "Character",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-C05"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-C05.webp"
       }
     },
     "name": "Gummy",
@@ -5424,7 +5424,7 @@
         "name": "Feeling Pinkie Keen",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-C06"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-C06.webp"
       }
     },
     "name": "Feeling Pinkie Keen",
@@ -5438,7 +5438,7 @@
         "name": "Feeling Pinkie Keen",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-C07"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-C07.webp"
       }
     },
     "name": "Feeling Pinkie Keen",
@@ -5452,7 +5452,7 @@
         "name": "Feeling Pinkie Keen",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-C08"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-C08.webp"
       }
     },
     "name": "Feeling Pinkie Keen",
@@ -5466,7 +5466,7 @@
         "name": "Feeling Pinkie Keen",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-C09"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-C09.webp"
       }
     },
     "name": "Feeling Pinkie Keen",
@@ -5480,7 +5480,7 @@
         "name": "Blue Curse",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-SPR01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-SPR01.webp"
       }
     },
     "name": "Blue Curse",
@@ -5494,7 +5494,7 @@
         "name": "Instrument Set",
         "type": "Item",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-SPR02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-SPR02.webp"
       }
     },
     "name": "Instrument Set",
@@ -5508,7 +5508,7 @@
         "name": "Head Umbrella",
         "type": "Item",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-SPR03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-SPR03.webp"
       }
     },
     "name": "Head Umbrella",
@@ -5522,7 +5522,7 @@
         "name": "Pinkie's Flying Balloon",
         "type": "Item",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-SPR04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-SPR04.webp"
       }
     },
     "name": "Pinkie's Flying Balloon",
@@ -5536,7 +5536,7 @@
         "name": "Pinkie Pie",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-SR01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-SR01.webp"
       }
     },
     "name": "Pinkie Pie",
@@ -5550,7 +5550,7 @@
         "name": "Gummy",
         "type": "Character",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-SR02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-SR02.webp"
       }
     },
     "name": "Gummy",
@@ -5564,7 +5564,7 @@
         "name": "Pinkie Pie",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-U01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-U01.webp"
       }
     },
     "name": "Pinkie Pie",
@@ -5578,7 +5578,7 @@
         "name": "Pinkie Pie",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-U02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-U02.webp"
       }
     },
     "name": "Pinkie Pie",
@@ -5592,7 +5592,7 @@
         "name": "Mrs.Cake",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-U03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-U03.webp"
       }
     },
     "name": "Mrs.Cake",
@@ -5606,7 +5606,7 @@
         "name": "Gummy",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-U04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-U04.webp"
       }
     },
     "name": "Gummy",
@@ -5620,7 +5620,7 @@
         "name": "Applejack",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-C01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-C01.webp"
       }
     },
     "name": "Applejack",
@@ -5634,7 +5634,7 @@
         "name": "Applejack",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-C02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-C02.webp"
       }
     },
     "name": "Applejack",
@@ -5648,7 +5648,7 @@
         "name": "Apple Bloom",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-C03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-C03.webp"
       }
     },
     "name": "Apple Bloom",
@@ -5662,7 +5662,7 @@
         "name": "Big McIntosh",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-C04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-C04.webp"
       }
     },
     "name": "Big McIntosh",
@@ -5676,7 +5676,7 @@
         "name": "Winona",
         "type": "Character",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-C05"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-C05.webp"
       }
     },
     "name": "Winona",
@@ -5690,7 +5690,7 @@
         "name": "Applebuck Season",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-C06"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-C06.webp"
       }
     },
     "name": "Applebuck Season",
@@ -5704,7 +5704,7 @@
         "name": "Applebuck Season",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-C07"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-C07.webp"
       }
     },
     "name": "Applebuck Season",
@@ -5718,7 +5718,7 @@
         "name": "Applebuck Season",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-C08"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-C08.webp"
       }
     },
     "name": "Applebuck Season",
@@ -5732,7 +5732,7 @@
         "name": "Applebuck Season",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-C09"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-C09.webp"
       }
     },
     "name": "Applebuck Season",
@@ -5746,7 +5746,7 @@
         "name": "Dye Advertisement",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-SPR01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-SPR01.webp"
       }
     },
     "name": "Dye Advertisement",
@@ -5760,7 +5760,7 @@
         "name": "Rope Trick",
         "type": "Event",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-SPR02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-SPR02.webp"
       }
     },
     "name": "Rope Trick",
@@ -5774,7 +5774,7 @@
         "name": "Lullaby for Apple Tree",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-SPR03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-SPR03.webp"
       }
     },
     "name": "Lullaby for Apple Tree",
@@ -5788,7 +5788,7 @@
         "name": "Apple Bucket",
         "type": "Item",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-SPR04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-SPR04.webp"
       }
     },
     "name": "Apple Bucket",
@@ -5802,7 +5802,7 @@
         "name": "Applejack",
         "type": "Character",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-SR01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-SR01.webp"
       }
     },
     "name": "Applejack",
@@ -5816,7 +5816,7 @@
         "name": "Winona",
         "type": "Character",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-SR02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-SR02.webp"
       }
     },
     "name": "Winona",
@@ -5830,7 +5830,7 @@
         "name": "Applejack",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-U01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-U01.webp"
       }
     },
     "name": "Applejack",
@@ -5844,7 +5844,7 @@
         "name": "Applejack",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-U02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-U02.webp"
       }
     },
     "name": "Applejack",
@@ -5858,7 +5858,7 @@
         "name": "Apple Bloom",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-U03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-U03.webp"
       }
     },
     "name": "Apple Bloom",
@@ -5872,7 +5872,7 @@
         "name": "Winona",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-U04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-U04.webp"
       }
     },
     "name": "Winona",
@@ -5886,7 +5886,7 @@
         "name": "Rainbow Dash",
         "type": "Character",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-C01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-C01.webp"
       }
     },
     "name": "Rainbow Dash",
@@ -5900,7 +5900,7 @@
         "name": "Rainbow Dash",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-C02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-C02.webp"
       }
     },
     "name": "Rainbow Dash",
@@ -5914,7 +5914,7 @@
         "name": "Rainbow Dash",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-C03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-C03.webp"
       }
     },
     "name": "Rainbow Dash",
@@ -5928,7 +5928,7 @@
         "name": "Scootaloo",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-C04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-C04.webp"
       }
     },
     "name": "Scootaloo",
@@ -5942,7 +5942,7 @@
         "name": "Tank",
         "type": "Character",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-C05"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-C05.webp"
       }
     },
     "name": "Tank",
@@ -5956,7 +5956,7 @@
         "name": "The Best Young Flyer",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-C06"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-C06.webp"
       }
     },
     "name": "The Best Young Flyer",
@@ -5970,7 +5970,7 @@
         "name": "The Best Young Flyer",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-C07"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-C07.webp"
       }
     },
     "name": "The Best Young Flyer",
@@ -5984,7 +5984,7 @@
         "name": "The Best Young Flyer",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-C08"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-C08.webp"
       }
     },
     "name": "The Best Young Flyer",
@@ -5998,7 +5998,7 @@
         "name": "The Best Young Flyer",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-C09"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-C09.webp"
       }
     },
     "name": "The Best Young Flyer",
@@ -6012,7 +6012,7 @@
         "name": "Hoofshake Buzzer!",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-SPR01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-SPR01.webp"
       }
     },
     "name": "Hoofshake Buzzer!",
@@ -6026,7 +6026,7 @@
         "name": "Rushing Rescue",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-SPR02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-SPR02.webp"
       }
     },
     "name": "Rushing Rescue",
@@ -6040,7 +6040,7 @@
         "name": "Training Accident",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-SPR03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-SPR03.webp"
       }
     },
     "name": "Training Accident",
@@ -6054,7 +6054,7 @@
         "name": "Prank Sneeze Powder",
         "type": "Item",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-SPR04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-SPR04.webp"
       }
     },
     "name": "Prank Sneeze Powder",
@@ -6068,7 +6068,7 @@
         "name": "Rainbow Dash",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-SR01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-SR01.webp"
       }
     },
     "name": "Rainbow Dash",
@@ -6082,7 +6082,7 @@
         "name": "Tank",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-SR02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-SR02.webp"
       }
     },
     "name": "Tank",
@@ -6096,7 +6096,7 @@
         "name": "Rainbow Dash",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-U01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-U01.webp"
       }
     },
     "name": "Rainbow Dash",
@@ -6110,7 +6110,7 @@
         "name": "Rainbow Dash",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-U02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-U02.webp"
       }
     },
     "name": "Rainbow Dash",
@@ -6124,7 +6124,7 @@
         "name": "Scootaloo",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-U03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-U03.webp"
       }
     },
     "name": "Scootaloo",
@@ -6138,7 +6138,7 @@
         "name": "Tank",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-U04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-U04.webp"
       }
     },
     "name": "Tank",
@@ -6152,7 +6152,7 @@
         "name": "Rarity",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-C01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-C01.webp"
       }
     },
     "name": "Rarity",
@@ -6166,7 +6166,7 @@
         "name": "Rarity",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-C02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-C02.webp"
       }
     },
     "name": "Rarity",
@@ -6180,7 +6180,7 @@
         "name": "Rarity",
         "type": "Character",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-C03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-C03.webp"
       }
     },
     "name": "Rarity",
@@ -6194,7 +6194,7 @@
         "name": "Sweetie Belle",
         "type": "Character",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-C04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-C04.webp"
       }
     },
     "name": "Sweetie Belle",
@@ -6208,7 +6208,7 @@
         "name": "Opal",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-C05"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-C05.webp"
       }
     },
     "name": "Opal",
@@ -6222,7 +6222,7 @@
         "name": "A Dog and Pony Show",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-C06"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-C06.webp"
       }
     },
     "name": "A Dog and Pony Show",
@@ -6236,7 +6236,7 @@
         "name": "A Dog and Pony Show",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-C07"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-C07.webp"
       }
     },
     "name": "A Dog and Pony Show",
@@ -6250,7 +6250,7 @@
         "name": "A Dog and Pony Show",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-C08"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-C08.webp"
       }
     },
     "name": "A Dog and Pony Show",
@@ -6264,7 +6264,7 @@
         "name": "A Dog and Pony Show",
         "type": "Story",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-C09"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-C09.webp"
       }
     },
     "name": "A Dog and Pony Show",
@@ -6278,7 +6278,7 @@
         "name": "Tailor-made",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-SPR01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-SPR01.webp"
       }
     },
     "name": "Tailor-made",
@@ -6292,7 +6292,7 @@
         "name": "Dress for Competition",
         "type": "Event",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-SPR02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-SPR02.webp"
       }
     },
     "name": "Dress for Competition",
@@ -6306,7 +6306,7 @@
         "name": "Steam Therapy",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-SPR03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-SPR03.webp"
       }
     },
     "name": "Steam Therapy",
@@ -6320,7 +6320,7 @@
         "name": "Dress Form",
         "type": "Item",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-SPR04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-SPR04.webp"
       }
     },
     "name": "Dress Form",
@@ -6334,7 +6334,7 @@
         "name": "Rarity",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-SR01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-SR01.webp"
       }
     },
     "name": "Rarity",
@@ -6348,7 +6348,7 @@
         "name": "Opal",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-SR02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-SR02.webp"
       }
     },
     "name": "Opal",
@@ -6362,7 +6362,7 @@
         "name": "Rarity",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-U01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-U01.webp"
       }
     },
     "name": "Rarity",
@@ -6376,7 +6376,7 @@
         "name": "Rarity",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-U02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-U02.webp"
       }
     },
     "name": "Rarity",
@@ -6390,7 +6390,7 @@
         "name": "Sweetie Belle",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-U03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-U03.webp"
       }
     },
     "name": "Sweetie Belle",
@@ -6404,7 +6404,7 @@
         "name": "Opal",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-U04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-U04.webp"
       }
     },
     "name": "Opal",
@@ -6418,7 +6418,7 @@
         "name": "Twilight Sparkle",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-CR01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-CR01.webp"
       }
     },
     "name": "Twilight Sparkle",
@@ -6432,7 +6432,7 @@
         "name": "Fluttershy",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-CR02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-CR02.webp"
       }
     },
     "name": "Fluttershy",
@@ -6446,7 +6446,7 @@
         "name": "Pinkie Pie",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-CR03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-CR03.webp"
       }
     },
     "name": "Pinkie Pie",
@@ -6460,7 +6460,7 @@
         "name": "Applejack",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-CR04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-CR04.webp"
       }
     },
     "name": "Applejack",
@@ -6474,7 +6474,7 @@
         "name": "Rainbow Dash",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-CR05"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-CR05.webp"
       }
     },
     "name": "Rainbow Dash",
@@ -6488,7 +6488,7 @@
         "name": "Rarity",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-CR06"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-CR06.webp"
       }
     },
     "name": "Rarity",
@@ -6502,7 +6502,7 @@
         "name": "Twilight Sparkle",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-CR07"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-CR07.webp"
       }
     },
     "name": "Twilight Sparkle",
@@ -6516,7 +6516,7 @@
         "name": "Fluttershy",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-CR08"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-CR08.webp"
       }
     },
     "name": "Fluttershy",
@@ -6530,7 +6530,7 @@
         "name": "Pinkie Pie",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-CR09"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-CR09.webp"
       }
     },
     "name": "Pinkie Pie",
@@ -6544,7 +6544,7 @@
         "name": "Applejack",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-CR10"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-CR10.webp"
       }
     },
     "name": "Applejack",
@@ -6558,7 +6558,7 @@
         "name": "Rainbow Dash",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-CR11"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-CR11.webp"
       }
     },
     "name": "Rainbow Dash",
@@ -6572,7 +6572,7 @@
         "name": "Rarity",
         "type": "Character",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-CR12"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-CR12.webp"
       }
     },
     "name": "Rarity",
@@ -6586,7 +6586,7 @@
         "name": "Twilight Sparkle",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-GR01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-GR01.webp"
       }
     },
     "name": "Twilight Sparkle",
@@ -6600,7 +6600,7 @@
         "name": "Fluttershy",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-GR02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-GR02.webp"
       }
     },
     "name": "Fluttershy",
@@ -6614,7 +6614,7 @@
         "name": "Pinkie Pie",
         "type": "Character",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-GR03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-GR03.webp"
       }
     },
     "name": "Pinkie Pie",
@@ -6628,7 +6628,7 @@
         "name": "Applejack",
         "type": "Character",
         "cost": 4,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-GR04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-GR04.webp"
       }
     },
     "name": "Applejack",
@@ -6642,7 +6642,7 @@
         "name": "Rainbow Dash",
         "type": "Character",
         "cost": 7,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-GR05"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-GR05.webp"
       }
     },
     "name": "Rainbow Dash",
@@ -6656,7 +6656,7 @@
         "name": "Rarity",
         "type": "Character",
         "cost": 5,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-GR06"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-GR06.webp"
       }
     },
     "name": "Rarity",
@@ -6670,7 +6670,7 @@
         "name": "Twilight Sparkle",
         "type": "Main Character",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-RR01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-RR01.webp"
       }
     },
     "name": "Twilight Sparkle",
@@ -6684,7 +6684,7 @@
         "name": "Fluttershy",
         "type": "Main Character",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-RR02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-RR02.webp"
       }
     },
     "name": "Fluttershy",
@@ -6698,7 +6698,7 @@
         "name": "Pinkie Pie",
         "type": "Main Character",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-RR03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-RR03.webp"
       }
     },
     "name": "Pinkie Pie",
@@ -6712,7 +6712,7 @@
         "name": "Applejack",
         "type": "Main Character",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-RR04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-RR04.webp"
       }
     },
     "name": "Applejack",
@@ -6726,7 +6726,7 @@
         "name": "Rainbow Dash",
         "type": "Main Character",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-RR05"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-RR05.webp"
       }
     },
     "name": "Rainbow Dash",
@@ -6740,7 +6740,7 @@
         "name": "Rarity",
         "type": "Main Character",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-RR06"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-RR06.webp"
       }
     },
     "name": "Rarity",
@@ -6754,7 +6754,7 @@
         "name": "Sunlight in the Rain",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-SPR01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-SPR01.webp"
       }
     },
     "name": "Sunlight in the Rain",
@@ -6768,7 +6768,7 @@
         "name": "Time for Clean-up!",
         "type": "Event",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-SPR02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-SPR02.webp"
       }
     },
     "name": "Time for Clean-up!",
@@ -6782,7 +6782,7 @@
         "name": "Deliver letters",
         "type": "Event",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-SPR03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-SPR03.webp"
       }
     },
     "name": "Deliver letters",
@@ -6796,7 +6796,7 @@
         "name": "Prepared to Go",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-SPR05"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-SPR05.webp"
       }
     },
     "name": "Prepared to Go",
@@ -6810,7 +6810,7 @@
         "name": "Hair Curling",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-SPR07"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-SPR07.webp"
       }
     },
     "name": "Hair Curling",
@@ -6824,7 +6824,7 @@
         "name": "Pillow Fight",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-SPR08"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-SPR08.webp"
       }
     },
     "name": "Pillow Fight",
@@ -6838,7 +6838,7 @@
         "name": "Rain Under the Roof",
         "type": "Event",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-SPR09"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-SPR09.webp"
       }
     },
     "name": "Rain Under the Roof",
@@ -6852,7 +6852,7 @@
         "name": "Hoof Power Test",
         "type": "Event",
         "cost": 3,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-SPR12"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-SPR12.webp"
       }
     },
     "name": "Hoof Power Test",
@@ -6866,7 +6866,7 @@
         "name": "Tense Competition",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-SPR13"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-SPR13.webp"
       }
     },
     "name": "Tense Competition",
@@ -6880,7 +6880,7 @@
         "name": "Accidentally Burnt Book",
         "type": "Event",
         "cost": 2,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-SPR18"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-SPR18.webp"
       }
     },
     "name": "Accidentally Burnt Book",
@@ -6894,7 +6894,7 @@
         "name": "Found Scroll",
         "type": "Event",
         "cost": 1,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-SPR21"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-SPR21.webp"
       }
     },
     "name": "Found Scroll",
@@ -6908,7 +6908,7 @@
         "name": "Golden Oak Library",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER01D"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER01D.webp"
       }
     },
     "name": "Golden Oak Library",
@@ -6922,7 +6922,7 @@
         "name": "Golden Oak Library",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER01N"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER01N.webp"
       }
     },
     "name": "Golden Oak Library",
@@ -6936,7 +6936,7 @@
         "name": "Fluttershy's Cottage",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER02D"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER02D.webp"
       }
     },
     "name": "Fluttershy's Cottage",
@@ -6950,7 +6950,7 @@
         "name": "Fluttershy's Cottage",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER02N"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER02N.webp"
       }
     },
     "name": "Fluttershy's Cottage",
@@ -6964,7 +6964,7 @@
         "name": "Sugarcube Corner",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER03D"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER03D.webp"
       }
     },
     "name": "Sugarcube Corner",
@@ -6978,7 +6978,7 @@
         "name": "Sugarcube Corner",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER03N"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER03N.webp"
       }
     },
     "name": "Sugarcube Corner",
@@ -6992,7 +6992,7 @@
         "name": "Sweet Apple Acres",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER04D"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER04D.webp"
       }
     },
     "name": "Sweet Apple Acres",
@@ -7006,7 +7006,7 @@
         "name": "Sweet Apple Acres",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER04N"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER04N.webp"
       }
     },
     "name": "Sweet Apple Acres",
@@ -7020,7 +7020,7 @@
         "name": "Cloudominium",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER05D"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER05D.webp"
       }
     },
     "name": "Cloudominium",
@@ -7034,7 +7034,7 @@
         "name": "Cloudominium",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER05N"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER05N.webp"
       }
     },
     "name": "Cloudominium",
@@ -7048,7 +7048,7 @@
         "name": "Carousel Boutique",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER06D"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER06D.webp"
       }
     },
     "name": "Carousel Boutique",
@@ -7062,7 +7062,7 @@
         "name": "Carousel Boutique",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER06N"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER06N.webp"
       }
     },
     "name": "Carousel Boutique",
@@ -7076,7 +7076,7 @@
         "name": "Canterlot Tower",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER07D"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER07D.webp"
       }
     },
     "name": "Canterlot Tower",
@@ -7090,7 +7090,7 @@
         "name": "Canterlot Tower",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER07N"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER07N.webp"
       }
     },
     "name": "Canterlot Tower",
@@ -7104,7 +7104,7 @@
         "name": "Ponyville Suburb",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER08D"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER08D.webp"
       }
     },
     "name": "Ponyville Suburb",
@@ -7118,7 +7118,7 @@
         "name": "Ponyville Suburb",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER08N"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER08N.webp"
       }
     },
     "name": "Ponyville Suburb",
@@ -7132,7 +7132,7 @@
         "name": "Ponyville Street",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER09D"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER09D.webp"
       }
     },
     "name": "Ponyville Street",
@@ -7146,7 +7146,7 @@
         "name": "Ponyville Street",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER09N"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER09N.webp"
       }
     },
     "name": "Ponyville Street",
@@ -7160,7 +7160,7 @@
         "name": "Road at Sweet Apple Acres",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER10D"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER10D.webp"
       }
     },
     "name": "Road at Sweet Apple Acres",
@@ -7174,7 +7174,7 @@
         "name": "Road at Sweet Apple Acres",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER10N"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER10N.webp"
       }
     },
     "name": "Road at Sweet Apple Acres",
@@ -7188,7 +7188,7 @@
         "name": "Stairs of Cloudsdale",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER11D"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER11D.webp"
       }
     },
     "name": "Stairs of Cloudsdale",
@@ -7202,7 +7202,7 @@
         "name": "Stairs of Cloudsdale",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER11N"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER11N.webp"
       }
     },
     "name": "Stairs of Cloudsdale",
@@ -7216,7 +7216,7 @@
         "name": "Manehattan Streets",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER12D"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER12D.webp"
       }
     },
     "name": "Manehattan Streets",
@@ -7230,7 +7230,7 @@
         "name": "Manehattan Streets",
         "type": "Scene",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER12N"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER12N.webp"
       }
     },
     "name": "Manehattan Streets",
@@ -7244,7 +7244,7 @@
         "name": "Twilight Sparkle",
         "type": "Main Character",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-RR01"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-RR01.webp"
       }
     },
     "name": "Twilight Sparkle",
@@ -7258,7 +7258,7 @@
         "name": "Fluttershy",
         "type": "Main Character",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-RR02"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-RR02.webp"
       }
     },
     "name": "Fluttershy",
@@ -7272,7 +7272,7 @@
         "name": "Pinkie Pie",
         "type": "Main Character",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-RR03"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-RR03.webp"
       }
     },
     "name": "Pinkie Pie",
@@ -7286,7 +7286,7 @@
         "name": "Applejack",
         "type": "Main Character",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-RR04"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-RR04.webp"
       }
     },
     "name": "Applejack",
@@ -7300,7 +7300,7 @@
         "name": "Rainbow Dash",
         "type": "Main Character",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-RR05"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-RR05.webp"
       }
     },
     "name": "Rainbow Dash",
@@ -7314,7 +7314,7 @@
         "name": "Rarity",
         "type": "Main Character",
         "cost": 0,
-        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-RR06"
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-RR06.webp"
       }
     },
     "name": "Rarity",
