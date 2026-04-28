@@ -29,6 +29,31 @@
               }
           },
           "countersStartingValues": [],
+          "cardTappedRotation": 90,
+          "beforeGameStart": {
+            "initialBoardSetup": [
+                {
+                    "drawFromTop": "Deck",
+                    "count": 1,
+                    "destination": "Shield1"
+                },
+                {
+                    "drawFromTop": "Deck",
+                    "count": 1,
+                    "destination": "Shield2"
+                },
+                {
+                    "drawFromTop": "Deck",
+                    "count": 1,
+                    "destination": "Shield3"
+                },
+                {
+                    "drawFromTop": "Deck",
+                    "count": 1,
+                    "destination": "Shield4"
+                }
+            ]
+          },
           "newTurn": {
               "drawOnStart": false,
               "sharedTurn": true,
@@ -114,30 +139,6 @@
                   "Story III->Story",
                   "Story IV->Story"
               ],
-              "beforeGameStart": {
-                "initialBoardSetup": [
-                    {
-                        "drawFromTop": "Deck",
-                        "count": 1,
-                        "destination": "Shield1"
-                    },
-                    {
-                        "drawFromTop": "Deck",
-                        "count": 1,
-                        "destination": "Shield2"
-                    },
-                    {
-                        "drawFromTop": "Deck",
-                        "count": 1,
-                        "destination": "Shield3"
-                    },
-                    {
-                        "drawFromTop": "Deck",
-                        "count": 1,
-                        "destination": "Shield4"
-                    }
-                ]
-              },
               "autoPlayFromHand": {
 
               },
@@ -166,28 +167,36 @@
                     "alignment": "START"
                 },
                 "Shield1": {
-                    "isHidden": "no",
+                    "isHidden": "yes",
                     "height": "MEDIUM",
                     "alignment": "CENTER",
-                    "reverseZOrder": true
+                    "reverseZOrder": true,
+                    "enterTapped": true,
+                    "keepTappedOnNewTurn": true
                 },
                 "Shield2": {
-                    "isHidden": "no",
+                    "isHidden": "yes",
                     "height": "MEDIUM",
                     "alignment": "CENTER",
-                    "reverseZOrder": true
+                    "reverseZOrder": true,
+                    "enterTapped": true,
+                    "keepTappedOnNewTurn": true
                 },
                 "Shield3": {
                     "isHidden": "no",
                     "height": "MEDIUM",
                     "alignment": "CENTER",
-                    "reverseZOrder": true
+                    "reverseZOrder": true,
+                    "enterTapped": true,
+                    "keepTappedOnNewTurn": true
                 },
                 "Shield4": {
                     "isHidden": "no",
                     "height": "MEDIUM",
                     "alignment": "CENTER",
-                    "reverseZOrder": true
+                    "reverseZOrder": true,
+                    "enterTapped": true,
+                    "keepTappedOnNewTurn": true
                 },
                 "Story": {
                     "isHidden": "no",
