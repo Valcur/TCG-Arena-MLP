@@ -1,0 +1,170 @@
+{
+  "name": "My Little Pony",
+  "menuBackgroundImage": "https://valcur.github.io/TCG-Arena-MLP/images/cover.png",
+  "deckBuilding": {
+      "mainFilters": [
+          "aspects",
+          "type",
+          "cost"
+      ],
+      "formats": [
+          {
+              "title": "Premier",
+              "gameplay": "Classic"
+          }
+      ]
+  },
+  "gameplay": {
+      "Classic": {
+          "mulligan": {
+              "info": "You can draw a new hand once.",
+              "startingHandSize": 6,
+              "mulliganCount": {
+                  "max": 1
+              },
+              "mulliganCycle": {
+                  "selectionRange": {
+                      "min": 6
+                  }
+              }
+          },
+          "newTurn": {
+              "drawOnStart": false,
+              "sharedTurn": true,
+              "firstPlayerTokenName": "Initiative",
+              "drawPerTurn": 2
+          },
+          "sections": {
+              "layout": {
+                  "direction": "row",
+                  "isSymetricalForOpponents": true,
+                  "content": [
+                      {
+                          "direction": "column",
+                          "content": [
+                              {
+                                  "section": "Ground"
+                              },
+                              {
+                                  "section": "Mana"
+                              }
+                          ]
+                      },
+                      {
+                          "direction": "column",
+                          "style": {
+                              "width": "22vh",
+                              "justify-content": "start"
+                          },
+                          "content": [
+                              {
+                                  "section": "Base"
+                              },
+                              {
+                                  "section": "Leader"
+                              }
+                          ]
+                      },
+                      {
+                          "direction": "column",
+                          "content": [
+                              {
+                                  "section": "Space"
+                              },
+                              {
+                                  "section": "Others",
+                                  "isSymetricalForOpponents": true,
+                                  "style": {
+                                      "marginLeft": "auto",
+                                      "width": "40%"
+                                  }
+                              }
+                          ]
+                      }
+                  ]
+              },
+              "categoriesAlreadyOnBoard": [
+                  "Leader",
+                  "Base"
+              ],
+              "autoPlayFromHand": {
+
+              },
+              "autoPlayFromStack": {
+   
+              },
+              "sectionsDict": {
+                  "Ground": {
+                      "title": "Ground",
+                      "isHidden": "no",
+                      "height": "MEDIUM",
+                      "alignment": "CENTER",
+                      "isHorizontalAllowed": true,
+                      "enterTapped": true,
+                      "displayedTitle": "Ground units"
+                  },
+                  "Space": {
+                      "title": "Space",
+                      "isHidden": "no",
+                      "height": "MEDIUM",
+                      "alignment": "CENTER",
+                      "isHorizontalAllowed": true,
+                      "enterTapped": true,
+                      "displayedTitle": "Space units"
+                  },
+                  "Leader": {
+                      "title": "Leader",
+                      "isHidden": "no",
+                      "height": "DEFAULT",
+                      "alignment": "CENTER",
+                      "isHorizontalAllowed": true,
+                      "noQuickActions": true
+                  },
+                  "Base": {
+                      "title": "Base",
+                      "isHidden": "no",
+                      "height": "DEFAULT",
+                      "alignment": "CENTER",
+                      "isHorizontalAllowed": true,
+                      "noQuickActions": true
+                  },
+                  "Mana": {
+                      "title": "Mana",
+                      "isHidden": "yes",
+                      "height": "SMALL",
+                      "alignment": "START",
+                      "opponentAlignment": "END",
+                      "noAutoPayTo": "true",
+                      "isHorizontalAllowed": false,
+                      "displayedTitle": "Ressources"
+                  },
+                  "Others": {
+                      "title": "Others",
+                      "isHidden": "no",
+                      "height": "SMALL",
+                      "alignment": "END",
+                      "opponentAlignment": "START",
+                      "displayedTitle": "Others",
+                      "noQuickActions": true
+                  }
+              }
+          }
+      }
+  },
+  "defaultRessources": {
+      "backgrounds": [
+          "https://i.imgur.com/KmXSVQp.jpeg",
+          "https://i.imgur.com/CFOwlKx.jpeg",
+          "https://i.imgur.com/n2EYbyu.jpeg",
+          "https://i.imgur.com/C3LAixE.jpeg",
+          "https://i.imgur.com/EZ9z8z6.jpeg",
+          "https://i.imgur.com/CKuiePb.jpeg"
+      ],
+      "decksUrl": "https://valcur.github.io/TCG-Arena-SWU/SWUDecks.json"
+  },
+  "customHelp": "To put a card in your ressources, drag and drop the card in the ressources area. You can take the initiative, blast and plan token with the '+' button on the bottom left corner.",
+  "cards": {
+      "dataUrl": "https://valcur.github.io/TCG-Arena-MLP/cards.json",
+      "cardBack": "https://i.imgur.com/alTEVLx.jpeg"
+  }
+}
