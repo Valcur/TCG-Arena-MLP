@@ -1,6 +1,6 @@
 {
     "name": "My Little Pony",
-    "menuBackgroundImage": "https://valcur.github.io/TCG-Arena-MLP/images/cover.png",
+    "menuBackgroundImage": "https://valcur.github.io/TCG-Arena-MLP/images/cover.jpg",
     "deckBuilding": {
         "mainFilters": [
             "aspects",
