@@ -37,7 +37,7 @@ fs.readFile(inputFile, 'utf8', (err, data) => {
                     }
                 },
                 "name": card.name,
-                "type": card.type,
+                "type": type,
                 "cost": costValue,
                 "isHorizontal": isHorizontal
             };

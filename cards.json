@@ -370,7 +370,7 @@
       }
     },
     "name": "The Ticket Master",
-    "type": "Story",
+    "type": "Story I",
     "cost": 0,
     "isHorizontal": true
   },
@@ -385,7 +385,7 @@
       }
     },
     "name": "The Ticket Master",
-    "type": "Story",
+    "type": "Story II",
     "cost": 0,
     "isHorizontal": true
   },
@@ -400,7 +400,7 @@
       }
     },
     "name": "The Ticket Master",
-    "type": "Story",
+    "type": "Story III",
     "cost": 0,
     "isHorizontal": true
   },
@@ -415,7 +415,7 @@
       }
     },
     "name": "The Ticket Master",
-    "type": "Story",
+    "type": "Story IV",
     "cost": 0,
     "isHorizontal": true
   },
@@ -430,7 +430,7 @@
       }
     },
     "name": "Curing Philomena",
-    "type": "Story",
+    "type": "Story I",
     "cost": 0,
     "isHorizontal": true
   },
@@ -445,7 +445,7 @@
       }
     },
     "name": "Curing Philomena",
-    "type": "Story",
+    "type": "Story II",
     "cost": 0,
     "isHorizontal": true
   },
@@ -460,7 +460,7 @@
       }
     },
     "name": "Curing Philomena",
-    "type": "Story",
+    "type": "Story III",
     "cost": 0,
     "isHorizontal": true
   },
@@ -475,7 +475,7 @@
       }
     },
     "name": "Curing Philomena",
-    "type": "Story",
+    "type": "Story IV",
     "cost": 0,
     "isHorizontal": true
   },
@@ -490,7 +490,7 @@
       }
     },
     "name": "Party of One",
-    "type": "Story",
+    "type": "Story I",
     "cost": 0,
     "isHorizontal": true
   },
@@ -505,7 +505,7 @@
       }
     },
     "name": "Party of One",
-    "type": "Story",
+    "type": "Story II",
     "cost": 0,
     "isHorizontal": true
   },
@@ -520,7 +520,7 @@
       }
     },
     "name": "Party of One",
-    "type": "Story",
+    "type": "Story III",
     "cost": 0,
     "isHorizontal": true
   },
@@ -535,7 +535,7 @@
       }
     },
     "name": "Party of One",
-    "type": "Story",
+    "type": "Story IV",
     "cost": 0,
     "isHorizontal": true
   },
@@ -550,7 +550,7 @@
       }
     },
     "name": "Over a Barrel",
-    "type": "Story",
+    "type": "Story I",
     "cost": 0,
     "isHorizontal": true
   },
@@ -565,7 +565,7 @@
       }
     },
     "name": "Over a Barrel",
-    "type": "Story",
+    "type": "Story II",
     "cost": 0,
     "isHorizontal": true
   },
@@ -580,7 +580,7 @@
       }
     },
     "name": "Over a Barrel",
-    "type": "Story",
+    "type": "Story III",
     "cost": 0,
     "isHorizontal": true
   },
@@ -595,7 +595,7 @@
       }
     },
     "name": "Over a Barrel",
-    "type": "Story",
+    "type": "Story IV",
     "cost": 0,
     "isHorizontal": true
   },
@@ -610,7 +610,7 @@
       }
     },
     "name": "Griffon the Brush Off",
-    "type": "Story",
+    "type": "Story I",
     "cost": 0,
     "isHorizontal": true
   },
@@ -625,7 +625,7 @@
       }
     },
     "name": "Griffon the Brush Off",
-    "type": "Story",
+    "type": "Story II",
     "cost": 0,
     "isHorizontal": true
   },
@@ -640,7 +640,7 @@
       }
     },
     "name": "Griffon the Brush Off",
-    "type": "Story",
+    "type": "Story III",
     "cost": 0,
     "isHorizontal": true
   },
@@ -655,7 +655,7 @@
       }
     },
     "name": "Griffon the Brush Off",
-    "type": "Story",
+    "type": "Story IV",
     "cost": 0,
     "isHorizontal": true
   },
@@ -670,7 +670,7 @@
       }
     },
     "name": "Suited For Success",
-    "type": "Story",
+    "type": "Story I",
     "cost": 0,
     "isHorizontal": true
   },
@@ -685,7 +685,7 @@
       }
     },
     "name": "Suited For Success",
-    "type": "Story",
+    "type": "Story II",
     "cost": 0,
     "isHorizontal": true
   },
@@ -700,7 +700,7 @@
       }
     },
     "name": "Suited For Success",
-    "type": "Story",
+    "type": "Story III",
     "cost": 0,
     "isHorizontal": true
   },
@@ -715,7 +715,7 @@
       }
     },
     "name": "Suited For Success",
-    "type": "Story",
+    "type": "Story IV",
     "cost": 0,
     "isHorizontal": true
   },
@@ -2440,7 +2440,7 @@
       }
     },
     "name": "Lesson Zero",
-    "type": "Story",
+    "type": "Story I",
     "cost": 0,
     "isHorizontal": true
   },
@@ -2455,7 +2455,7 @@
       }
     },
     "name": "Lesson Zero",
-    "type": "Story",
+    "type": "Story II",
     "cost": 0,
     "isHorizontal": true
   },
@@ -2470,7 +2470,7 @@
       }
     },
     "name": "Lesson Zero",
-    "type": "Story",
+    "type": "Story III",
     "cost": 0,
     "isHorizontal": true
   },
@@ -2485,7 +2485,7 @@
       }
     },
     "name": "Lesson Zero",
-    "type": "Story",
+    "type": "Story IV",
     "cost": 0,
     "isHorizontal": true
   },
@@ -2500,7 +2500,7 @@
       }
     },
     "name": "Hurricane Fluttershy",
-    "type": "Story",
+    "type": "Story I",
     "cost": 0,
     "isHorizontal": true
   },
@@ -2515,7 +2515,7 @@
       }
     },
     "name": "Hurricane Fluttershy",
-    "type": "Story",
+    "type": "Story II",
     "cost": 0,
     "isHorizontal": true
   },
@@ -2530,7 +2530,7 @@
       }
     },
     "name": "Hurricane Fluttershy",
-    "type": "Story",
+    "type": "Story III",
     "cost": 0,
     "isHorizontal": true
   },
@@ -2545,7 +2545,7 @@
       }
     },
     "name": "Hurricane Fluttershy",
-    "type": "Story",
+    "type": "Story IV",
     "cost": 0,
     "isHorizontal": true
   },
@@ -2560,7 +2560,7 @@
       }
     },
     "name": "Baby Cakes",
-    "type": "Story",
+    "type": "Story I",
     "cost": 0,
     "isHorizontal": true
   },
@@ -2575,7 +2575,7 @@
       }
     },
     "name": "Baby Cakes",
-    "type": "Story",
+    "type": "Story II",
     "cost": 0,
     "isHorizontal": true
   },
@@ -2590,7 +2590,7 @@
       }
     },
     "name": "Baby Cakes",
-    "type": "Story",
+    "type": "Story III",
     "cost": 0,
     "isHorizontal": true
   },
@@ -2605,7 +2605,7 @@
       }
     },
     "name": "Baby Cakes",
-    "type": "Story",
+    "type": "Story IV",
     "cost": 0,
     "isHorizontal": true
   },
@@ -2620,7 +2620,7 @@
       }
     },
     "name": "The Last Roundup",
-    "type": "Story",
+    "type": "Story I",
     "cost": 0,
     "isHorizontal": true
   },
@@ -2635,7 +2635,7 @@
       }
     },
     "name": "The Last Roundup",
-    "type": "Story",
+    "type": "Story II",
     "cost": 0,
     "isHorizontal": true
   },
@@ -2650,7 +2650,7 @@
       }
     },
     "name": "The Last Roundup",
-    "type": "Story",
+    "type": "Story III",
     "cost": 0,
     "isHorizontal": true
   },
@@ -2665,7 +2665,7 @@
       }
     },
     "name": "The Last Roundup",
-    "type": "Story",
+    "type": "Story IV",
     "cost": 0,
     "isHorizontal": true
   },
@@ -2680,7 +2680,7 @@
       }
     },
     "name": "May the Best Pet Win!",
-    "type": "Story",
+    "type": "Story I",
     "cost": 0,
     "isHorizontal": true
   },
@@ -2695,7 +2695,7 @@
       }
     },
     "name": "May the Best Pet Win!",
-    "type": "Story",
+    "type": "Story II",
     "cost": 0,
     "isHorizontal": true
   },
@@ -2710,7 +2710,7 @@
       }
     },
     "name": "May the Best Pet Win!",
-    "type": "Story",
+    "type": "Story III",
     "cost": 0,
     "isHorizontal": true
   },
@@ -2725,7 +2725,7 @@
       }
     },
     "name": "May the Best Pet Win!",
-    "type": "Story",
+    "type": "Story IV",
     "cost": 0,
     "isHorizontal": true
   },
@@ -2740,7 +2740,7 @@
       }
     },
     "name": "Sweet and Elite",
-    "type": "Story",
+    "type": "Story I",
     "cost": 0,
     "isHorizontal": true
   },
@@ -2755,7 +2755,7 @@
       }
     },
     "name": "Sweet and Elite",
-    "type": "Story",
+    "type": "Story II",
     "cost": 0,
     "isHorizontal": true
   },
@@ -2770,7 +2770,7 @@
       }
     },
     "name": "Sweet and Elite",
-    "type": "Story",
+    "type": "Story III",
     "cost": 0,
     "isHorizontal": true
   },
@@ -2785,7 +2785,7 @@
       }
     },
     "name": "Sweet and Elite",
-    "type": "Story",
+    "type": "Story IV",
     "cost": 0,
     "isHorizontal": true
   },
@@ -5245,7 +5245,7 @@
       }
     },
     "name": "Searching for Elements of Harmony",
-    "type": "Story",
+    "type": "Story I",
     "cost": 0,
     "isHorizontal": true
   },
@@ -5260,7 +5260,7 @@
       }
     },
     "name": "Searching for Elements of Harmony",
-    "type": "Story",
+    "type": "Story II",
     "cost": 0,
     "isHorizontal": true
   },
@@ -5275,7 +5275,7 @@
       }
     },
     "name": "Searching for Elements of Harmony",
-    "type": "Story",
+    "type": "Story III",
     "cost": 0,
     "isHorizontal": true
   },
@@ -5290,7 +5290,7 @@
       }
     },
     "name": "Searching for Elements of Harmony",
-    "type": "Story",
+    "type": "Story IV",
     "cost": 0,
     "isHorizontal": true
   },
@@ -5530,7 +5530,7 @@
       }
     },
     "name": "Dragonshy",
-    "type": "Story",
+    "type": "Story I",
     "cost": 0,
     "isHorizontal": true
   },
@@ -5545,7 +5545,7 @@
       }
     },
     "name": "Dragonshy",
-    "type": "Story",
+    "type": "Story II",
     "cost": 0,
     "isHorizontal": true
   },
@@ -5560,7 +5560,7 @@
       }
     },
     "name": "Dragonshy",
-    "type": "Story",
+    "type": "Story III",
     "cost": 0,
     "isHorizontal": true
   },
@@ -5575,7 +5575,7 @@
       }
     },
     "name": "Dragonshy",
-    "type": "Story",
+    "type": "Story IV",
     "cost": 0,
     "isHorizontal": true
   },
@@ -5815,7 +5815,7 @@
       }
     },
     "name": "Feeling Pinkie Keen",
-    "type": "Story",
+    "type": "Story I",
     "cost": 0,
     "isHorizontal": true
   },
@@ -5830,7 +5830,7 @@
       }
     },
     "name": "Feeling Pinkie Keen",
-    "type": "Story",
+    "type": "Story II",
     "cost": 0,
     "isHorizontal": true
   },
@@ -5845,7 +5845,7 @@
       }
     },
     "name": "Feeling Pinkie Keen",
-    "type": "Story",
+    "type": "Story III",
     "cost": 0,
     "isHorizontal": true
   },
@@ -5860,7 +5860,7 @@
       }
     },
     "name": "Feeling Pinkie Keen",
-    "type": "Story",
+    "type": "Story IV",
     "cost": 0,
     "isHorizontal": true
   },
@@ -6100,7 +6100,7 @@
       }
     },
     "name": "Applebuck Season",
-    "type": "Story",
+    "type": "Story I",
     "cost": 0,
     "isHorizontal": true
   },
@@ -6115,7 +6115,7 @@
       }
     },
     "name": "Applebuck Season",
-    "type": "Story",
+    "type": "Story II",
     "cost": 0,
     "isHorizontal": true
   },
@@ -6130,7 +6130,7 @@
       }
     },
     "name": "Applebuck Season",
-    "type": "Story",
+    "type": "Story III",
     "cost": 0,
     "isHorizontal": true
   },
@@ -6145,7 +6145,7 @@
       }
     },
     "name": "Applebuck Season",
-    "type": "Story",
+    "type": "Story IV",
     "cost": 0,
     "isHorizontal": true
   },
@@ -6385,7 +6385,7 @@
       }
     },
     "name": "The Best Young Flyer",
-    "type": "Story",
+    "type": "Story I",
     "cost": 0,
     "isHorizontal": true
   },
@@ -6400,7 +6400,7 @@
       }
     },
     "name": "The Best Young Flyer",
-    "type": "Story",
+    "type": "Story II",
     "cost": 0,
     "isHorizontal": true
   },
@@ -6415,7 +6415,7 @@
       }
     },
     "name": "The Best Young Flyer",
-    "type": "Story",
+    "type": "Story III",
     "cost": 0,
     "isHorizontal": true
   },
@@ -6430,7 +6430,7 @@
       }
     },
     "name": "The Best Young Flyer",
-    "type": "Story",
+    "type": "Story IV",
     "cost": 0,
     "isHorizontal": true
   },
@@ -6670,7 +6670,7 @@
       }
     },
     "name": "A Dog and Pony Show",
-    "type": "Story",
+    "type": "Story I",
     "cost": 0,
     "isHorizontal": true
   },
@@ -6685,7 +6685,7 @@
       }
     },
     "name": "A Dog and Pony Show",
-    "type": "Story",
+    "type": "Story II",
     "cost": 0,
     "isHorizontal": true
   },
@@ -6700,7 +6700,7 @@
       }
     },
     "name": "A Dog and Pony Show",
-    "type": "Story",
+    "type": "Story III",
     "cost": 0,
     "isHorizontal": true
   },
@@ -6715,7 +6715,7 @@
       }
     },
     "name": "A Dog and Pony Show",
-    "type": "Story",
+    "type": "Story IV",
     "cost": 0,
     "isHorizontal": true
   },
