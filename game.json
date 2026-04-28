@@ -97,7 +97,8 @@
                         {
                             "direction": "column",
                             "style": {
-                                "justifyContent": "start"
+                                "justifyContent": "start",
+                                "width": "157vh"
                             },
                             "content": [
                                 {
@@ -107,28 +108,40 @@
                                             "section": "Shield1",
                                             "style": {
                                                 "height": "4vh",
-                                                "overflow": "hidden"
+                                                "overflow": "hidden",
+                                                "translate": "0 4vh",
+                                                "opacity": 0,
+                                                "pointerEvents": "none"
                                             }
                                         },
                                         {
                                             "section": "Shield2",
                                             "style": {
                                                 "height": "4vh",
-                                                "overflow": "hidden"
+                                                "overflow": "hidden",
+                                                "translate": "0 4vh",
+                                                "opacity": 0,
+                                                "pointerEvents": "none"
                                             }
                                         },
                                         {
                                             "section": "Shield3",
                                             "style": {
                                                 "height": "4vh",
-                                                "overflow": "hidden"
+                                                "overflow": "hidden",
+                                                "translate": "0 4vh",
+                                                "opacity": 0,
+                                                "pointerEvents": "none"
                                             }
                                         },
                                         {
                                             "section": "Shield4",
                                             "style": {
                                                 "height": "4vh",
-                                                "overflow": "hidden"
+                                                "overflow": "hidden",
+                                                "translate": "0 4vh",
+                                                "opacity": 0,
+                                                "pointerEvents": "none"
                                             }
                                         }
                                     ]
