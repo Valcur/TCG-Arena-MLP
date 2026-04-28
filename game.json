@@ -66,6 +66,9 @@
                         "content": [
                             {
                                 "direction": "row",
+                                "style": {
+                                    "justifyContent": "start"
+                                },
                                 "content": [
                                     {
                                         "section": "Shield1",
@@ -98,7 +101,7 @@
                                 ]
                             },
                             {
-                                "section": "Scene"
+                                "section": "Story"
                             }
                         ]
                       }
@@ -106,8 +109,35 @@
               },
               "categoriesAlreadyOnBoard": [
                   "Leader",
-                  "Scene"
+                  "Story I->Story",
+                  "Story II->Story",
+                  "Story III->Story",
+                  "Story IV->Story"
               ],
+              "beforeGameStart": {
+                "initialBoardSetup": [
+                    {
+                        "drawFromTop": "Deck",
+                        "count": 1,
+                        "destination": "Shield1"
+                    },
+                    {
+                        "drawFromTop": "Deck",
+                        "count": 1,
+                        "destination": "Shield2"
+                    },
+                    {
+                        "drawFromTop": "Deck",
+                        "count": 1,
+                        "destination": "Shield3"
+                    },
+                    {
+                        "drawFromTop": "Deck",
+                        "count": 1,
+                        "destination": "Shield4"
+                    }
+                ]
+              },
               "autoPlayFromHand": {
 
               },
@@ -138,24 +168,28 @@
                 "Shield1": {
                     "isHidden": "no",
                     "height": "MEDIUM",
-                    "alignment": "CENTER"
+                    "alignment": "CENTER",
+                    "reverseZOrder": true
                 },
                 "Shield2": {
                     "isHidden": "no",
                     "height": "MEDIUM",
-                    "alignment": "CENTER"
+                    "alignment": "CENTER",
+                    "reverseZOrder": true
                 },
                 "Shield3": {
                     "isHidden": "no",
                     "height": "MEDIUM",
-                    "alignment": "CENTER"
+                    "alignment": "CENTER",
+                    "reverseZOrder": true
                 },
                 "Shield4": {
                     "isHidden": "no",
                     "height": "MEDIUM",
-                    "alignment": "CENTER"
+                    "alignment": "CENTER",
+                    "reverseZOrder": true
                 },
-                "Scene": {
+                "Story": {
                     "isHidden": "no",
                     "height": "MEDIUM",
                     "alignment": "CENTER",
