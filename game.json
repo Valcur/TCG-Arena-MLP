@@ -97,14 +97,12 @@
                         {
                             "direction": "column",
                             "style": {
-                                "justifyContent": "start"
+                                "justifyContent": "start",
+                                "maxWidth": "157vh"
                             },
                             "content": [
                                 {
                                     "direction": "row",
-                                    "style": {
-                                        "width": "157vh"
-                                    },
                                     "content": [
                                         {
                                             "section": "Shield1",
@@ -149,10 +147,7 @@
                                     ]
                                 },
                                 {
-                                    "section": "Story",
-                                    "style": {
-                                        "width": "157vh"
-                                    }
+                                    "section": "Story"
                                 }
                             ]
                         }
