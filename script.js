@@ -3,7 +3,7 @@ const fs = require('fs');
 // Configuration
 const inputFile = 'db.json';
 const outputFile = 'cards.json';
-const baseUrl = 'https://valcur.github.io/TCG-Arena-MLP/images/cards/';
+const baseUrl = 'https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/';
 
 // Lecture du fichier source
 fs.readFile(inputFile, 'utf8', (err, data) => {

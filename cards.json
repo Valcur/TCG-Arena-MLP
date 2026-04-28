@@ -1,0 +1,7324 @@
+{
+  "BP01-C01": {
+    "id": "BP01-C01",
+    "face": {
+      "front": {
+        "name": "Twilight Sparkle",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C01"
+      }
+    },
+    "name": "Twilight Sparkle",
+    "type": "Character",
+    "cost": 2
+  },
+  "BP01-C02": {
+    "id": "BP01-C02",
+    "face": {
+      "front": {
+        "name": "Twilight Sparkle",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C02"
+      }
+    },
+    "name": "Twilight Sparkle",
+    "type": "Character",
+    "cost": 4
+  },
+  "BP01-C03": {
+    "id": "BP01-C03",
+    "face": {
+      "front": {
+        "name": "Twilight Sparkle",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C03"
+      }
+    },
+    "name": "Twilight Sparkle",
+    "type": "Character",
+    "cost": 7
+  },
+  "BP01-C04": {
+    "id": "BP01-C04",
+    "face": {
+      "front": {
+        "name": "Fluttershy",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C04"
+      }
+    },
+    "name": "Fluttershy",
+    "type": "Character",
+    "cost": 3
+  },
+  "BP01-C05": {
+    "id": "BP01-C05",
+    "face": {
+      "front": {
+        "name": "Fluttershy",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C05"
+      }
+    },
+    "name": "Fluttershy",
+    "type": "Character",
+    "cost": 6
+  },
+  "BP01-C06": {
+    "id": "BP01-C06",
+    "face": {
+      "front": {
+        "name": "Pinkie Pie",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C06"
+      }
+    },
+    "name": "Pinkie Pie",
+    "type": "Character",
+    "cost": 3
+  },
+  "BP01-C07": {
+    "id": "BP01-C07",
+    "face": {
+      "front": {
+        "name": "Pinkie Pie",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C07"
+      }
+    },
+    "name": "Pinkie Pie",
+    "type": "Character",
+    "cost": 1
+  },
+  "BP01-C08": {
+    "id": "BP01-C08",
+    "face": {
+      "front": {
+        "name": "Applejack",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C08"
+      }
+    },
+    "name": "Applejack",
+    "type": "Character",
+    "cost": 6
+  },
+  "BP01-C09": {
+    "id": "BP01-C09",
+    "face": {
+      "front": {
+        "name": "Applejack",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C09"
+      }
+    },
+    "name": "Applejack",
+    "type": "Character",
+    "cost": 3
+  },
+  "BP01-C10": {
+    "id": "BP01-C10",
+    "face": {
+      "front": {
+        "name": "Rainbow Dash",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C10"
+      }
+    },
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "cost": 4
+  },
+  "BP01-C11": {
+    "id": "BP01-C11",
+    "face": {
+      "front": {
+        "name": "Rainbow Dash",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C11"
+      }
+    },
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "cost": 5
+  },
+  "BP01-C12": {
+    "id": "BP01-C12",
+    "face": {
+      "front": {
+        "name": "Rarity",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C12"
+      }
+    },
+    "name": "Rarity",
+    "type": "Character",
+    "cost": 5
+  },
+  "BP01-C13": {
+    "id": "BP01-C13",
+    "face": {
+      "front": {
+        "name": "Rarity",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C13"
+      }
+    },
+    "name": "Rarity",
+    "type": "Character",
+    "cost": 6
+  },
+  "BP01-C14": {
+    "id": "BP01-C14",
+    "face": {
+      "front": {
+        "name": "Spike",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C14"
+      }
+    },
+    "name": "Spike",
+    "type": "Character",
+    "cost": 2
+  },
+  "BP01-C15": {
+    "id": "BP01-C15",
+    "face": {
+      "front": {
+        "name": "Apple Bloom",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C15"
+      }
+    },
+    "name": "Apple Bloom",
+    "type": "Character",
+    "cost": 1
+  },
+  "BP01-C16": {
+    "id": "BP01-C16",
+    "face": {
+      "front": {
+        "name": "Sweetie Belle",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C16"
+      }
+    },
+    "name": "Sweetie Belle",
+    "type": "Character",
+    "cost": 1
+  },
+  "BP01-C17": {
+    "id": "BP01-C17",
+    "face": {
+      "front": {
+        "name": "Scootaloo",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C17"
+      }
+    },
+    "name": "Scootaloo",
+    "type": "Character",
+    "cost": 1
+  },
+  "BP01-C18": {
+    "id": "BP01-C18",
+    "face": {
+      "front": {
+        "name": "Big McIntosh",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C18"
+      }
+    },
+    "name": "Big McIntosh",
+    "type": "Character",
+    "cost": 2
+  },
+  "BP01-C19": {
+    "id": "BP01-C19",
+    "face": {
+      "front": {
+        "name": "Granny Smith",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C19"
+      }
+    },
+    "name": "Granny Smith",
+    "type": "Character",
+    "cost": 5
+  },
+  "BP01-C20": {
+    "id": "BP01-C20",
+    "face": {
+      "front": {
+        "name": "Trixie",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C20"
+      }
+    },
+    "name": "Trixie",
+    "type": "Character",
+    "cost": 1
+  },
+  "BP01-C21": {
+    "id": "BP01-C21",
+    "face": {
+      "front": {
+        "name": "Gilda",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C21"
+      }
+    },
+    "name": "Gilda",
+    "type": "Character",
+    "cost": 3
+  },
+  "BP01-C22": {
+    "id": "BP01-C22",
+    "face": {
+      "front": {
+        "name": "Diamond Tiara",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C22"
+      }
+    },
+    "name": "Diamond Tiara",
+    "type": "Character",
+    "cost": 1
+  },
+  "BP01-C23": {
+    "id": "BP01-C23",
+    "face": {
+      "front": {
+        "name": "Silver Spoon",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C23"
+      }
+    },
+    "name": "Silver Spoon",
+    "type": "Character",
+    "cost": 7
+  },
+  "BP01-C24": {
+    "id": "BP01-C24",
+    "face": {
+      "front": {
+        "name": "Mayor Mare",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C24"
+      }
+    },
+    "name": "Mayor Mare",
+    "type": "Character",
+    "cost": 2
+  },
+  "BP01-C25": {
+    "id": "BP01-C25",
+    "face": {
+      "front": {
+        "name": "The Ticket Master",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C25"
+      }
+    },
+    "name": "The Ticket Master",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP01-C26": {
+    "id": "BP01-C26",
+    "face": {
+      "front": {
+        "name": "The Ticket Master",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C26"
+      }
+    },
+    "name": "The Ticket Master",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP01-C27": {
+    "id": "BP01-C27",
+    "face": {
+      "front": {
+        "name": "The Ticket Master",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C27"
+      }
+    },
+    "name": "The Ticket Master",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP01-C28": {
+    "id": "BP01-C28",
+    "face": {
+      "front": {
+        "name": "The Ticket Master",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C28"
+      }
+    },
+    "name": "The Ticket Master",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP01-C29": {
+    "id": "BP01-C29",
+    "face": {
+      "front": {
+        "name": "Curing Philomena",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C29"
+      }
+    },
+    "name": "Curing Philomena",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP01-C30": {
+    "id": "BP01-C30",
+    "face": {
+      "front": {
+        "name": "Curing Philomena",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C30"
+      }
+    },
+    "name": "Curing Philomena",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP01-C31": {
+    "id": "BP01-C31",
+    "face": {
+      "front": {
+        "name": "Curing Philomena",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C31"
+      }
+    },
+    "name": "Curing Philomena",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP01-C32": {
+    "id": "BP01-C32",
+    "face": {
+      "front": {
+        "name": "Curing Philomena",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C32"
+      }
+    },
+    "name": "Curing Philomena",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP01-C33": {
+    "id": "BP01-C33",
+    "face": {
+      "front": {
+        "name": "Party of One",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C33"
+      }
+    },
+    "name": "Party of One",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP01-C34": {
+    "id": "BP01-C34",
+    "face": {
+      "front": {
+        "name": "Party of One",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C34"
+      }
+    },
+    "name": "Party of One",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP01-C35": {
+    "id": "BP01-C35",
+    "face": {
+      "front": {
+        "name": "Party of One",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C35"
+      }
+    },
+    "name": "Party of One",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP01-C36": {
+    "id": "BP01-C36",
+    "face": {
+      "front": {
+        "name": "Party of One",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C36"
+      }
+    },
+    "name": "Party of One",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP01-C37": {
+    "id": "BP01-C37",
+    "face": {
+      "front": {
+        "name": "Over a Barrel",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C37"
+      }
+    },
+    "name": "Over a Barrel",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP01-C38": {
+    "id": "BP01-C38",
+    "face": {
+      "front": {
+        "name": "Over a Barrel",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C38"
+      }
+    },
+    "name": "Over a Barrel",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP01-C39": {
+    "id": "BP01-C39",
+    "face": {
+      "front": {
+        "name": "Over a Barrel",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C39"
+      }
+    },
+    "name": "Over a Barrel",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP01-C40": {
+    "id": "BP01-C40",
+    "face": {
+      "front": {
+        "name": "Over a Barrel",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C40"
+      }
+    },
+    "name": "Over a Barrel",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP01-C41": {
+    "id": "BP01-C41",
+    "face": {
+      "front": {
+        "name": "Griffon the Brush Off",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C41"
+      }
+    },
+    "name": "Griffon the Brush Off",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP01-C42": {
+    "id": "BP01-C42",
+    "face": {
+      "front": {
+        "name": "Griffon the Brush Off",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C42"
+      }
+    },
+    "name": "Griffon the Brush Off",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP01-C43": {
+    "id": "BP01-C43",
+    "face": {
+      "front": {
+        "name": "Griffon the Brush Off",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C43"
+      }
+    },
+    "name": "Griffon the Brush Off",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP01-C44": {
+    "id": "BP01-C44",
+    "face": {
+      "front": {
+        "name": "Griffon the Brush Off",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C44"
+      }
+    },
+    "name": "Griffon the Brush Off",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP01-C45": {
+    "id": "BP01-C45",
+    "face": {
+      "front": {
+        "name": "Suited For Success",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C45"
+      }
+    },
+    "name": "Suited For Success",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP01-C46": {
+    "id": "BP01-C46",
+    "face": {
+      "front": {
+        "name": "Suited For Success",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C46"
+      }
+    },
+    "name": "Suited For Success",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP01-C47": {
+    "id": "BP01-C47",
+    "face": {
+      "front": {
+        "name": "Suited For Success",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C47"
+      }
+    },
+    "name": "Suited For Success",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP01-C48": {
+    "id": "BP01-C48",
+    "face": {
+      "front": {
+        "name": "Suited For Success",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-C48"
+      }
+    },
+    "name": "Suited For Success",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP01-CR01": {
+    "id": "BP01-CR01",
+    "face": {
+      "front": {
+        "name": "Twilight Sparkle",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-CR01"
+      }
+    },
+    "name": "Twilight Sparkle",
+    "type": "Character",
+    "cost": 4
+  },
+  "BP01-CR02": {
+    "id": "BP01-CR02",
+    "face": {
+      "front": {
+        "name": "Fluttershy",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-CR02"
+      }
+    },
+    "name": "Fluttershy",
+    "type": "Character",
+    "cost": 3
+  },
+  "BP01-CR03": {
+    "id": "BP01-CR03",
+    "face": {
+      "front": {
+        "name": "Pinkie Pie",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-CR03"
+      }
+    },
+    "name": "Pinkie Pie",
+    "type": "Character",
+    "cost": 2
+  },
+  "BP01-CR04": {
+    "id": "BP01-CR04",
+    "face": {
+      "front": {
+        "name": "Applejack",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-CR04"
+      }
+    },
+    "name": "Applejack",
+    "type": "Character",
+    "cost": 3
+  },
+  "BP01-CR05": {
+    "id": "BP01-CR05",
+    "face": {
+      "front": {
+        "name": "Rainbow Dash",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-CR05"
+      }
+    },
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "cost": 2
+  },
+  "BP01-CR06": {
+    "id": "BP01-CR06",
+    "face": {
+      "front": {
+        "name": "Rarity",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-CR06"
+      }
+    },
+    "name": "Rarity",
+    "type": "Character",
+    "cost": 4
+  },
+  "BP01-CR07": {
+    "id": "BP01-CR07",
+    "face": {
+      "front": {
+        "name": "Twilight Sparkle",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-CR07"
+      }
+    },
+    "name": "Twilight Sparkle",
+    "type": "Character",
+    "cost": 2
+  },
+  "BP01-CR08": {
+    "id": "BP01-CR08",
+    "face": {
+      "front": {
+        "name": "Fluttershy",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-CR08"
+      }
+    },
+    "name": "Fluttershy",
+    "type": "Character",
+    "cost": 3
+  },
+  "BP01-CR09": {
+    "id": "BP01-CR09",
+    "face": {
+      "front": {
+        "name": "Pinkie Pie",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-CR09"
+      }
+    },
+    "name": "Pinkie Pie",
+    "type": "Character",
+    "cost": 5
+  },
+  "BP01-CR10": {
+    "id": "BP01-CR10",
+    "face": {
+      "front": {
+        "name": "Applejack",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-CR10"
+      }
+    },
+    "name": "Applejack",
+    "type": "Character",
+    "cost": 3
+  },
+  "BP01-CR11": {
+    "id": "BP01-CR11",
+    "face": {
+      "front": {
+        "name": "Rainbow Dash",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-CR11"
+      }
+    },
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "cost": 4
+  },
+  "BP01-CR12": {
+    "id": "BP01-CR12",
+    "face": {
+      "front": {
+        "name": "Rarity",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-CR12"
+      }
+    },
+    "name": "Rarity",
+    "type": "Character",
+    "cost": 2
+  },
+  "BP01-GR01": {
+    "id": "BP01-GR01",
+    "face": {
+      "front": {
+        "name": "Twilight Sparkle",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-GR01"
+      }
+    },
+    "name": "Twilight Sparkle",
+    "type": "Character",
+    "cost": 3
+  },
+  "BP01-GR02": {
+    "id": "BP01-GR02",
+    "face": {
+      "front": {
+        "name": "Fluttershy",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-GR02"
+      }
+    },
+    "name": "Fluttershy",
+    "type": "Character",
+    "cost": 4
+  },
+  "BP01-GR03": {
+    "id": "BP01-GR03",
+    "face": {
+      "front": {
+        "name": "Pinkie Pie",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-GR03"
+      }
+    },
+    "name": "Pinkie Pie",
+    "type": "Character",
+    "cost": 3
+  },
+  "BP01-GR04": {
+    "id": "BP01-GR04",
+    "face": {
+      "front": {
+        "name": "Applejack",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-GR04"
+      }
+    },
+    "name": "Applejack",
+    "type": "Character",
+    "cost": 4
+  },
+  "BP01-GR05": {
+    "id": "BP01-GR05",
+    "face": {
+      "front": {
+        "name": "Rainbow Dash",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-GR05"
+      }
+    },
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "cost": 7
+  },
+  "BP01-GR06": {
+    "id": "BP01-GR06",
+    "face": {
+      "front": {
+        "name": "Rarity",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-GR06"
+      }
+    },
+    "name": "Rarity",
+    "type": "Character",
+    "cost": 5
+  },
+  "BP01-GR07": {
+    "id": "BP01-GR07",
+    "face": {
+      "front": {
+        "name": "Twilight Sparkle",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-GR07"
+      }
+    },
+    "name": "Twilight Sparkle",
+    "type": "Character",
+    "cost": 4
+  },
+  "BP01-GR08": {
+    "id": "BP01-GR08",
+    "face": {
+      "front": {
+        "name": "Fluttershy",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-GR08"
+      }
+    },
+    "name": "Fluttershy",
+    "type": "Character",
+    "cost": 2
+  },
+  "BP01-GR09": {
+    "id": "BP01-GR09",
+    "face": {
+      "front": {
+        "name": "Pinkie Pie",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-GR09"
+      }
+    },
+    "name": "Pinkie Pie",
+    "type": "Character",
+    "cost": 2
+  },
+  "BP01-GR10": {
+    "id": "BP01-GR10",
+    "face": {
+      "front": {
+        "name": "Applejack",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-GR10"
+      }
+    },
+    "name": "Applejack",
+    "type": "Character",
+    "cost": 4
+  },
+  "BP01-GR11": {
+    "id": "BP01-GR11",
+    "face": {
+      "front": {
+        "name": "Rainbow Dash",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-GR11"
+      }
+    },
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "cost": 2
+  },
+  "BP01-GR12": {
+    "id": "BP01-GR12",
+    "face": {
+      "front": {
+        "name": "Rarity",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-GR12"
+      }
+    },
+    "name": "Rarity",
+    "type": "Character",
+    "cost": 5
+  },
+  "BP01-RR01": {
+    "id": "BP01-RR01",
+    "face": {
+      "front": {
+        "name": "Twilight Sparkle",
+        "type": "Main Character",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-RR01"
+      }
+    },
+    "name": "Twilight Sparkle",
+    "type": "Main Character",
+    "cost": 0
+  },
+  "BP01-RR02": {
+    "id": "BP01-RR02",
+    "face": {
+      "front": {
+        "name": "Fluttershy",
+        "type": "Main Character",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-RR02"
+      }
+    },
+    "name": "Fluttershy",
+    "type": "Main Character",
+    "cost": 0
+  },
+  "BP01-RR03": {
+    "id": "BP01-RR03",
+    "face": {
+      "front": {
+        "name": "Pinkie Pie",
+        "type": "Main Character",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-RR03"
+      }
+    },
+    "name": "Pinkie Pie",
+    "type": "Main Character",
+    "cost": 0
+  },
+  "BP01-RR04": {
+    "id": "BP01-RR04",
+    "face": {
+      "front": {
+        "name": "Applejack",
+        "type": "Main Character",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-RR04"
+      }
+    },
+    "name": "Applejack",
+    "type": "Main Character",
+    "cost": 0
+  },
+  "BP01-RR05": {
+    "id": "BP01-RR05",
+    "face": {
+      "front": {
+        "name": "Rainbow Dash",
+        "type": "Main Character",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-RR05"
+      }
+    },
+    "name": "Rainbow Dash",
+    "type": "Main Character",
+    "cost": 0
+  },
+  "BP01-RR06": {
+    "id": "BP01-RR06",
+    "face": {
+      "front": {
+        "name": "Rarity",
+        "type": "Main Character",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-RR06"
+      }
+    },
+    "name": "Rarity",
+    "type": "Main Character",
+    "cost": 0
+  },
+  "BP01-SPR01": {
+    "id": "BP01-SPR01",
+    "face": {
+      "front": {
+        "name": "Sunlight in the Rain",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR01"
+      }
+    },
+    "name": "Sunlight in the Rain",
+    "type": "Event",
+    "cost": 2
+  },
+  "BP01-SPR02": {
+    "id": "BP01-SPR02",
+    "face": {
+      "front": {
+        "name": "Time for Clean-up!",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR02"
+      }
+    },
+    "name": "Time for Clean-up!",
+    "type": "Event",
+    "cost": 3
+  },
+  "BP01-SPR03": {
+    "id": "BP01-SPR03",
+    "face": {
+      "front": {
+        "name": "Deliver letters",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR03"
+      }
+    },
+    "name": "Deliver letters",
+    "type": "Event",
+    "cost": 1
+  },
+  "BP01-SPR04": {
+    "id": "BP01-SPR04",
+    "face": {
+      "front": {
+        "name": "Award Ceremony",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR04"
+      }
+    },
+    "name": "Award Ceremony",
+    "type": "Event",
+    "cost": 3
+  },
+  "BP01-SPR05": {
+    "id": "BP01-SPR05",
+    "face": {
+      "front": {
+        "name": "Prepared to Go",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR05"
+      }
+    },
+    "name": "Prepared to Go",
+    "type": "Event",
+    "cost": 2
+  },
+  "BP01-SPR06": {
+    "id": "BP01-SPR06",
+    "face": {
+      "front": {
+        "name": "Overspeed Warning!",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR06"
+      }
+    },
+    "name": "Overspeed Warning!",
+    "type": "Event",
+    "cost": 2
+  },
+  "BP01-SPR07": {
+    "id": "BP01-SPR07",
+    "face": {
+      "front": {
+        "name": "Hair Curling",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR07"
+      }
+    },
+    "name": "Hair Curling",
+    "type": "Event",
+    "cost": 2
+  },
+  "BP01-SPR08": {
+    "id": "BP01-SPR08",
+    "face": {
+      "front": {
+        "name": "Pillow Fight",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR08"
+      }
+    },
+    "name": "Pillow Fight",
+    "type": "Event",
+    "cost": 2
+  },
+  "BP01-SPR09": {
+    "id": "BP01-SPR09",
+    "face": {
+      "front": {
+        "name": "Rain Under the Roof",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR09"
+      }
+    },
+    "name": "Rain Under the Roof",
+    "type": "Event",
+    "cost": 3
+  },
+  "BP01-SPR10": {
+    "id": "BP01-SPR10",
+    "face": {
+      "front": {
+        "name": "Wire Accident",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR10"
+      }
+    },
+    "name": "Wire Accident",
+    "type": "Event",
+    "cost": 2
+  },
+  "BP01-SPR11": {
+    "id": "BP01-SPR11",
+    "face": {
+      "front": {
+        "name": "Make a Cake",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR11"
+      }
+    },
+    "name": "Make a Cake",
+    "type": "Event",
+    "cost": 2
+  },
+  "BP01-SPR12": {
+    "id": "BP01-SPR12",
+    "face": {
+      "front": {
+        "name": "Hoof Power Test",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR12"
+      }
+    },
+    "name": "Hoof Power Test",
+    "type": "Event",
+    "cost": 3
+  },
+  "BP01-SPR13": {
+    "id": "BP01-SPR13",
+    "face": {
+      "front": {
+        "name": "Tense Competition",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR13"
+      }
+    },
+    "name": "Tense Competition",
+    "type": "Event",
+    "cost": 2
+  },
+  "BP01-SPR14": {
+    "id": "BP01-SPR14",
+    "face": {
+      "front": {
+        "name": "Messy Henhouse",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR14"
+      }
+    },
+    "name": "Messy Henhouse",
+    "type": "Event",
+    "cost": 2
+  },
+  "BP01-SPR15": {
+    "id": "BP01-SPR15",
+    "face": {
+      "front": {
+        "name": "Washing Day",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR15"
+      }
+    },
+    "name": "Washing Day",
+    "type": "Event",
+    "cost": 2
+  },
+  "BP01-SPR16": {
+    "id": "BP01-SPR16",
+    "face": {
+      "front": {
+        "name": "Dig for Gems",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR16"
+      }
+    },
+    "name": "Dig for Gems",
+    "type": "Event",
+    "cost": 2
+  },
+  "BP01-SPR17": {
+    "id": "BP01-SPR17",
+    "face": {
+      "front": {
+        "name": "Attend to Cure",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR17"
+      }
+    },
+    "name": "Attend to Cure",
+    "type": "Event",
+    "cost": 2
+  },
+  "BP01-SPR18": {
+    "id": "BP01-SPR18",
+    "face": {
+      "front": {
+        "name": "Accidentally Burnt Book",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR18"
+      }
+    },
+    "name": "Accidentally Burnt Book",
+    "type": "Event",
+    "cost": 2
+  },
+  "BP01-SPR19": {
+    "id": "BP01-SPR19",
+    "face": {
+      "front": {
+        "name": "Cycling for Friends",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR19"
+      }
+    },
+    "name": "Cycling for Friends",
+    "type": "Event",
+    "cost": 2
+  },
+  "BP01-SPR20": {
+    "id": "BP01-SPR20",
+    "face": {
+      "front": {
+        "name": "Head Up to the Night Sky",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR20"
+      }
+    },
+    "name": "Head Up to the Night Sky",
+    "type": "Event",
+    "cost": 2
+  },
+  "BP01-SPR21": {
+    "id": "BP01-SPR21",
+    "face": {
+      "front": {
+        "name": "Found Scroll",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR21"
+      }
+    },
+    "name": "Found Scroll",
+    "type": "Event",
+    "cost": 1
+  },
+  "BP01-SPR22": {
+    "id": "BP01-SPR22",
+    "face": {
+      "front": {
+        "name": "Super Spicy Sauce",
+        "type": "Item",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR22"
+      }
+    },
+    "name": "Super Spicy Sauce",
+    "type": "Item",
+    "cost": 2
+  },
+  "BP01-SPR23": {
+    "id": "BP01-SPR23",
+    "face": {
+      "front": {
+        "name": "Soda",
+        "type": "Item",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR23"
+      }
+    },
+    "name": "Soda",
+    "type": "Item",
+    "cost": 3
+  },
+  "BP01-SPR24": {
+    "id": "BP01-SPR24",
+    "face": {
+      "front": {
+        "name": "Horseshoe",
+        "type": "Item",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR24"
+      }
+    },
+    "name": "Horseshoe",
+    "type": "Item",
+    "cost": 2
+  },
+  "BP01-SPR25": {
+    "id": "BP01-SPR25",
+    "face": {
+      "front": {
+        "name": "Pinkie Pie's Flying Device",
+        "type": "Item",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR25"
+      }
+    },
+    "name": "Pinkie Pie's Flying Device",
+    "type": "Item",
+    "cost": 2
+  },
+  "BP01-SPR26": {
+    "id": "BP01-SPR26",
+    "face": {
+      "front": {
+        "name": "Thimble Pack",
+        "type": "Item",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR26"
+      }
+    },
+    "name": "Thimble Pack",
+    "type": "Item",
+    "cost": 3
+  },
+  "BP01-SPR27": {
+    "id": "BP01-SPR27",
+    "face": {
+      "front": {
+        "name": "Fluttershy's Bell",
+        "type": "Item",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR27"
+      }
+    },
+    "name": "Fluttershy's Bell",
+    "type": "Item",
+    "cost": 2
+  },
+  "BP01-SPR28": {
+    "id": "BP01-SPR28",
+    "face": {
+      "front": {
+        "name": "Recorder",
+        "type": "Item",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SPR28"
+      }
+    },
+    "name": "Recorder",
+    "type": "Item",
+    "cost": 2
+  },
+  "BP01-SR01": {
+    "id": "BP01-SR01",
+    "face": {
+      "front": {
+        "name": "Twilight Sparkle",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR01"
+      }
+    },
+    "name": "Twilight Sparkle",
+    "type": "Character",
+    "cost": 1
+  },
+  "BP01-SR02": {
+    "id": "BP01-SR02",
+    "face": {
+      "front": {
+        "name": "Fluttershy",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR02"
+      }
+    },
+    "name": "Fluttershy",
+    "type": "Character",
+    "cost": 5
+  },
+  "BP01-SR03": {
+    "id": "BP01-SR03",
+    "face": {
+      "front": {
+        "name": "Pinkie Pie",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR03"
+      }
+    },
+    "name": "Pinkie Pie",
+    "type": "Character",
+    "cost": 2
+  },
+  "BP01-SR04": {
+    "id": "BP01-SR04",
+    "face": {
+      "front": {
+        "name": "Applejack",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR04"
+      }
+    },
+    "name": "Applejack",
+    "type": "Character",
+    "cost": 4
+  },
+  "BP01-SR05": {
+    "id": "BP01-SR05",
+    "face": {
+      "front": {
+        "name": "Rainbow Dash",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR05"
+      }
+    },
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "cost": 3
+  },
+  "BP01-SR06": {
+    "id": "BP01-SR06",
+    "face": {
+      "front": {
+        "name": "Rarity",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR06"
+      }
+    },
+    "name": "Rarity",
+    "type": "Character",
+    "cost": 2
+  },
+  "BP01-SR07": {
+    "id": "BP01-SR07",
+    "face": {
+      "front": {
+        "name": "Owlowiscious",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR07"
+      }
+    },
+    "name": "Owlowiscious",
+    "type": "Character",
+    "cost": 1
+  },
+  "BP01-SR08": {
+    "id": "BP01-SR08",
+    "face": {
+      "front": {
+        "name": "Angel",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR08"
+      }
+    },
+    "name": "Angel",
+    "type": "Character",
+    "cost": 4
+  },
+  "BP01-SR09": {
+    "id": "BP01-SR09",
+    "face": {
+      "front": {
+        "name": "Gummy",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR09"
+      }
+    },
+    "name": "Gummy",
+    "type": "Character",
+    "cost": 4
+  },
+  "BP01-SR10": {
+    "id": "BP01-SR10",
+    "face": {
+      "front": {
+        "name": "Winona",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR10"
+      }
+    },
+    "name": "Winona",
+    "type": "Character",
+    "cost": 7
+  },
+  "BP01-SR11": {
+    "id": "BP01-SR11",
+    "face": {
+      "front": {
+        "name": "Tank",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR11"
+      }
+    },
+    "name": "Tank",
+    "type": "Character",
+    "cost": 5
+  },
+  "BP01-SR12": {
+    "id": "BP01-SR12",
+    "face": {
+      "front": {
+        "name": "Opal",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR12"
+      }
+    },
+    "name": "Opal",
+    "type": "Character",
+    "cost": 5
+  },
+  "BP01-SR13": {
+    "id": "BP01-SR13",
+    "face": {
+      "front": {
+        "name": "Zecora",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR13"
+      }
+    },
+    "name": "Zecora",
+    "type": "Character",
+    "cost": 5
+  },
+  "BP01-SR14": {
+    "id": "BP01-SR14",
+    "face": {
+      "front": {
+        "name": "Trixie",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-SR14"
+      }
+    },
+    "name": "Trixie",
+    "type": "Character",
+    "cost": 2
+  },
+  "BP01-U01": {
+    "id": "BP01-U01",
+    "face": {
+      "front": {
+        "name": "Twilight Sparkle",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U01"
+      }
+    },
+    "name": "Twilight Sparkle",
+    "type": "Character",
+    "cost": 1
+  },
+  "BP01-U02": {
+    "id": "BP01-U02",
+    "face": {
+      "front": {
+        "name": "Twilight Sparkle",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U02"
+      }
+    },
+    "name": "Twilight Sparkle",
+    "type": "Character",
+    "cost": 5
+  },
+  "BP01-U03": {
+    "id": "BP01-U03",
+    "face": {
+      "front": {
+        "name": "Fluttershy",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U03"
+      }
+    },
+    "name": "Fluttershy",
+    "type": "Character",
+    "cost": 7
+  },
+  "BP01-U04": {
+    "id": "BP01-U04",
+    "face": {
+      "front": {
+        "name": "Fluttershy",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U04"
+      }
+    },
+    "name": "Fluttershy",
+    "type": "Character",
+    "cost": 5
+  },
+  "BP01-U05": {
+    "id": "BP01-U05",
+    "face": {
+      "front": {
+        "name": "Pinkie Pie",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U05"
+      }
+    },
+    "name": "Pinkie Pie",
+    "type": "Character",
+    "cost": 2
+  },
+  "BP01-U06": {
+    "id": "BP01-U06",
+    "face": {
+      "front": {
+        "name": "Pinkie Pie",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U06"
+      }
+    },
+    "name": "Pinkie Pie",
+    "type": "Character",
+    "cost": 5
+  },
+  "BP01-U07": {
+    "id": "BP01-U07",
+    "face": {
+      "front": {
+        "name": "Applejack",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U07"
+      }
+    },
+    "name": "Applejack",
+    "type": "Character",
+    "cost": 2
+  },
+  "BP01-U08": {
+    "id": "BP01-U08",
+    "face": {
+      "front": {
+        "name": "Applejack",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U08"
+      }
+    },
+    "name": "Applejack",
+    "type": "Character",
+    "cost": 2
+  },
+  "BP01-U09": {
+    "id": "BP01-U09",
+    "face": {
+      "front": {
+        "name": "Rainbow Dash",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U09"
+      }
+    },
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "cost": 4
+  },
+  "BP01-U10": {
+    "id": "BP01-U10",
+    "face": {
+      "front": {
+        "name": "Rainbow Dash",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U10"
+      }
+    },
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "cost": 2
+  },
+  "BP01-U11": {
+    "id": "BP01-U11",
+    "face": {
+      "front": {
+        "name": "Rarity",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U11"
+      }
+    },
+    "name": "Rarity",
+    "type": "Character",
+    "cost": 3
+  },
+  "BP01-U12": {
+    "id": "BP01-U12",
+    "face": {
+      "front": {
+        "name": "Rarity",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U12"
+      }
+    },
+    "name": "Rarity",
+    "type": "Character",
+    "cost": 1
+  },
+  "BP01-U13": {
+    "id": "BP01-U13",
+    "face": {
+      "front": {
+        "name": "Spike",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U13"
+      }
+    },
+    "name": "Spike",
+    "type": "Character",
+    "cost": 1
+  },
+  "BP01-U14": {
+    "id": "BP01-U14",
+    "face": {
+      "front": {
+        "name": "Spike",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U14"
+      }
+    },
+    "name": "Spike",
+    "type": "Character",
+    "cost": 4
+  },
+  "BP01-U15": {
+    "id": "BP01-U15",
+    "face": {
+      "front": {
+        "name": "Apple Bloom",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U15"
+      }
+    },
+    "name": "Apple Bloom",
+    "type": "Character",
+    "cost": 1
+  },
+  "BP01-U16": {
+    "id": "BP01-U16",
+    "face": {
+      "front": {
+        "name": "Sweetie Belle",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U16"
+      }
+    },
+    "name": "Sweetie Belle",
+    "type": "Character",
+    "cost": 1
+  },
+  "BP01-U17": {
+    "id": "BP01-U17",
+    "face": {
+      "front": {
+        "name": "Scootaloo",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U17"
+      }
+    },
+    "name": "Scootaloo",
+    "type": "Character",
+    "cost": 1
+  },
+  "BP01-U18": {
+    "id": "BP01-U18",
+    "face": {
+      "front": {
+        "name": "Trixie",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP01-U18"
+      }
+    },
+    "name": "Trixie",
+    "type": "Character",
+    "cost": 2
+  },
+  "BP02-C01": {
+    "id": "BP02-C01",
+    "face": {
+      "front": {
+        "name": "Twilight Sparkle",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C01"
+      }
+    },
+    "name": "Twilight Sparkle",
+    "type": "Character",
+    "cost": 3
+  },
+  "BP02-C02": {
+    "id": "BP02-C02",
+    "face": {
+      "front": {
+        "name": "Twilight Sparkle",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C02"
+      }
+    },
+    "name": "Twilight Sparkle",
+    "type": "Character",
+    "cost": 6
+  },
+  "BP02-C03": {
+    "id": "BP02-C03",
+    "face": {
+      "front": {
+        "name": "Fluttershy",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C03"
+      }
+    },
+    "name": "Fluttershy",
+    "type": "Character",
+    "cost": 3
+  },
+  "BP02-C04": {
+    "id": "BP02-C04",
+    "face": {
+      "front": {
+        "name": "Fluttershy",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C04"
+      }
+    },
+    "name": "Fluttershy",
+    "type": "Character",
+    "cost": 1
+  },
+  "BP02-C05": {
+    "id": "BP02-C05",
+    "face": {
+      "front": {
+        "name": "Pinkie Pie",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C05"
+      }
+    },
+    "name": "Pinkie Pie",
+    "type": "Character",
+    "cost": 6
+  },
+  "BP02-C06": {
+    "id": "BP02-C06",
+    "face": {
+      "front": {
+        "name": "Pinkie Pie",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C06"
+      }
+    },
+    "name": "Pinkie Pie",
+    "type": "Character",
+    "cost": 3
+  },
+  "BP02-C07": {
+    "id": "BP02-C07",
+    "face": {
+      "front": {
+        "name": "Applejack",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C07"
+      }
+    },
+    "name": "Applejack",
+    "type": "Character",
+    "cost": 3
+  },
+  "BP02-C08": {
+    "id": "BP02-C08",
+    "face": {
+      "front": {
+        "name": "Applejack",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C08"
+      }
+    },
+    "name": "Applejack",
+    "type": "Character",
+    "cost": 7
+  },
+  "BP02-C09": {
+    "id": "BP02-C09",
+    "face": {
+      "front": {
+        "name": "Rainbow Dash",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C09"
+      }
+    },
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "cost": 3
+  },
+  "BP02-C10": {
+    "id": "BP02-C10",
+    "face": {
+      "front": {
+        "name": "Rainbow Dash",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C10"
+      }
+    },
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "cost": 2
+  },
+  "BP02-C11": {
+    "id": "BP02-C11",
+    "face": {
+      "front": {
+        "name": "Rarity",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C11"
+      }
+    },
+    "name": "Rarity",
+    "type": "Character",
+    "cost": 5
+  },
+  "BP02-C12": {
+    "id": "BP02-C12",
+    "face": {
+      "front": {
+        "name": "Rarity",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C12"
+      }
+    },
+    "name": "Rarity",
+    "type": "Character",
+    "cost": 5
+  },
+  "BP02-C13": {
+    "id": "BP02-C13",
+    "face": {
+      "front": {
+        "name": "Spike",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C13"
+      }
+    },
+    "name": "Spike",
+    "type": "Character",
+    "cost": 3
+  },
+  "BP02-C14": {
+    "id": "BP02-C14",
+    "face": {
+      "front": {
+        "name": "Spike",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C14"
+      }
+    },
+    "name": "Spike",
+    "type": "Character",
+    "cost": 2
+  },
+  "BP02-C15": {
+    "id": "BP02-C15",
+    "face": {
+      "front": {
+        "name": "Apple Bloom",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C15"
+      }
+    },
+    "name": "Apple Bloom",
+    "type": "Character",
+    "cost": 3
+  },
+  "BP02-C16": {
+    "id": "BP02-C16",
+    "face": {
+      "front": {
+        "name": "Sweetie Belle",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C16"
+      }
+    },
+    "name": "Sweetie Belle",
+    "type": "Character",
+    "cost": 3
+  },
+  "BP02-C17": {
+    "id": "BP02-C17",
+    "face": {
+      "front": {
+        "name": "Scootaloo",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C17"
+      }
+    },
+    "name": "Scootaloo",
+    "type": "Character",
+    "cost": 3
+  },
+  "BP02-C18": {
+    "id": "BP02-C18",
+    "face": {
+      "front": {
+        "name": "Discord",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C18"
+      }
+    },
+    "name": "Discord",
+    "type": "Character",
+    "cost": 7
+  },
+  "BP02-C19": {
+    "id": "BP02-C19",
+    "face": {
+      "front": {
+        "name": "Zecora",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C19"
+      }
+    },
+    "name": "Zecora",
+    "type": "Character",
+    "cost": 6
+  },
+  "BP02-C20": {
+    "id": "BP02-C20",
+    "face": {
+      "front": {
+        "name": "Granny Smith",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C20"
+      }
+    },
+    "name": "Granny Smith",
+    "type": "Character",
+    "cost": 5
+  },
+  "BP02-C21": {
+    "id": "BP02-C21",
+    "face": {
+      "front": {
+        "name": "Filthy Rich",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C21"
+      }
+    },
+    "name": "Filthy Rich",
+    "type": "Character",
+    "cost": 4
+  },
+  "BP02-C22": {
+    "id": "BP02-C22",
+    "face": {
+      "front": {
+        "name": "Diamond Tiara",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C22"
+      }
+    },
+    "name": "Diamond Tiara",
+    "type": "Character",
+    "cost": 3
+  },
+  "BP02-C23": {
+    "id": "BP02-C23",
+    "face": {
+      "front": {
+        "name": "Pound Cake",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C23"
+      }
+    },
+    "name": "Pound Cake",
+    "type": "Character",
+    "cost": 2
+  },
+  "BP02-C24": {
+    "id": "BP02-C24",
+    "face": {
+      "front": {
+        "name": "Pumpkin Cake",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C24"
+      }
+    },
+    "name": "Pumpkin Cake",
+    "type": "Character",
+    "cost": 1
+  },
+  "BP02-C25": {
+    "id": "BP02-C25",
+    "face": {
+      "front": {
+        "name": "Lesson Zero",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C25"
+      }
+    },
+    "name": "Lesson Zero",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP02-C26": {
+    "id": "BP02-C26",
+    "face": {
+      "front": {
+        "name": "Lesson Zero",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C26"
+      }
+    },
+    "name": "Lesson Zero",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP02-C27": {
+    "id": "BP02-C27",
+    "face": {
+      "front": {
+        "name": "Lesson Zero",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C27"
+      }
+    },
+    "name": "Lesson Zero",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP02-C28": {
+    "id": "BP02-C28",
+    "face": {
+      "front": {
+        "name": "Lesson Zero",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C28"
+      }
+    },
+    "name": "Lesson Zero",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP02-C29": {
+    "id": "BP02-C29",
+    "face": {
+      "front": {
+        "name": "Hurricane Fluttershy",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C29"
+      }
+    },
+    "name": "Hurricane Fluttershy",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP02-C30": {
+    "id": "BP02-C30",
+    "face": {
+      "front": {
+        "name": "Hurricane Fluttershy",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C30"
+      }
+    },
+    "name": "Hurricane Fluttershy",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP02-C31": {
+    "id": "BP02-C31",
+    "face": {
+      "front": {
+        "name": "Hurricane Fluttershy",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C31"
+      }
+    },
+    "name": "Hurricane Fluttershy",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP02-C32": {
+    "id": "BP02-C32",
+    "face": {
+      "front": {
+        "name": "Hurricane Fluttershy",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C32"
+      }
+    },
+    "name": "Hurricane Fluttershy",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP02-C33": {
+    "id": "BP02-C33",
+    "face": {
+      "front": {
+        "name": "Baby Cakes",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C33"
+      }
+    },
+    "name": "Baby Cakes",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP02-C34": {
+    "id": "BP02-C34",
+    "face": {
+      "front": {
+        "name": "Baby Cakes",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C34"
+      }
+    },
+    "name": "Baby Cakes",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP02-C35": {
+    "id": "BP02-C35",
+    "face": {
+      "front": {
+        "name": "Baby Cakes",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C35"
+      }
+    },
+    "name": "Baby Cakes",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP02-C36": {
+    "id": "BP02-C36",
+    "face": {
+      "front": {
+        "name": "Baby Cakes",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C36"
+      }
+    },
+    "name": "Baby Cakes",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP02-C37": {
+    "id": "BP02-C37",
+    "face": {
+      "front": {
+        "name": "The Last Roundup",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C37"
+      }
+    },
+    "name": "The Last Roundup",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP02-C38": {
+    "id": "BP02-C38",
+    "face": {
+      "front": {
+        "name": "The Last Roundup",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C38"
+      }
+    },
+    "name": "The Last Roundup",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP02-C39": {
+    "id": "BP02-C39",
+    "face": {
+      "front": {
+        "name": "The Last Roundup",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C39"
+      }
+    },
+    "name": "The Last Roundup",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP02-C40": {
+    "id": "BP02-C40",
+    "face": {
+      "front": {
+        "name": "The Last Roundup",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C40"
+      }
+    },
+    "name": "The Last Roundup",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP02-C41": {
+    "id": "BP02-C41",
+    "face": {
+      "front": {
+        "name": "May the Best Pet Win!",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C41"
+      }
+    },
+    "name": "May the Best Pet Win!",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP02-C42": {
+    "id": "BP02-C42",
+    "face": {
+      "front": {
+        "name": "May the Best Pet Win!",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C42"
+      }
+    },
+    "name": "May the Best Pet Win!",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP02-C43": {
+    "id": "BP02-C43",
+    "face": {
+      "front": {
+        "name": "May the Best Pet Win!",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C43"
+      }
+    },
+    "name": "May the Best Pet Win!",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP02-C44": {
+    "id": "BP02-C44",
+    "face": {
+      "front": {
+        "name": "May the Best Pet Win!",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C44"
+      }
+    },
+    "name": "May the Best Pet Win!",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP02-C45": {
+    "id": "BP02-C45",
+    "face": {
+      "front": {
+        "name": "Sweet and Elite",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C45"
+      }
+    },
+    "name": "Sweet and Elite",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP02-C46": {
+    "id": "BP02-C46",
+    "face": {
+      "front": {
+        "name": "Sweet and Elite",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C46"
+      }
+    },
+    "name": "Sweet and Elite",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP02-C47": {
+    "id": "BP02-C47",
+    "face": {
+      "front": {
+        "name": "Sweet and Elite",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C47"
+      }
+    },
+    "name": "Sweet and Elite",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP02-C48": {
+    "id": "BP02-C48",
+    "face": {
+      "front": {
+        "name": "Sweet and Elite",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-C48"
+      }
+    },
+    "name": "Sweet and Elite",
+    "type": "Story",
+    "cost": 0
+  },
+  "BP02-CR01": {
+    "id": "BP02-CR01",
+    "face": {
+      "front": {
+        "name": "Twilight Sparkle",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-CR01"
+      }
+    },
+    "name": "Twilight Sparkle",
+    "type": "Character",
+    "cost": 5
+  },
+  "BP02-CR02": {
+    "id": "BP02-CR02",
+    "face": {
+      "front": {
+        "name": "Fluttershy",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-CR02"
+      }
+    },
+    "name": "Fluttershy",
+    "type": "Character",
+    "cost": 6
+  },
+  "BP02-CR03": {
+    "id": "BP02-CR03",
+    "face": {
+      "front": {
+        "name": "Pinkie Pie",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-CR03"
+      }
+    },
+    "name": "Pinkie Pie",
+    "type": "Character",
+    "cost": 3
+  },
+  "BP02-CR04": {
+    "id": "BP02-CR04",
+    "face": {
+      "front": {
+        "name": "Applejack",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-CR04"
+      }
+    },
+    "name": "Applejack",
+    "type": "Character",
+    "cost": 5
+  },
+  "BP02-CR05": {
+    "id": "BP02-CR05",
+    "face": {
+      "front": {
+        "name": "Rainbow Dash",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-CR05"
+      }
+    },
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "cost": 3
+  },
+  "BP02-CR06": {
+    "id": "BP02-CR06",
+    "face": {
+      "front": {
+        "name": "Rarity",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-CR06"
+      }
+    },
+    "name": "Rarity",
+    "type": "Character",
+    "cost": 5
+  },
+  "BP02-CR07": {
+    "id": "BP02-CR07",
+    "face": {
+      "front": {
+        "name": "Twilight Sparkle",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-CR07"
+      }
+    },
+    "name": "Twilight Sparkle",
+    "type": "Character",
+    "cost": 5
+  },
+  "BP02-CR08": {
+    "id": "BP02-CR08",
+    "face": {
+      "front": {
+        "name": "Fluttershy",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-CR08"
+      }
+    },
+    "name": "Fluttershy",
+    "type": "Character",
+    "cost": 6
+  },
+  "BP02-CR09": {
+    "id": "BP02-CR09",
+    "face": {
+      "front": {
+        "name": "Pinkie Pie",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-CR09"
+      }
+    },
+    "name": "Pinkie Pie",
+    "type": "Character",
+    "cost": 6
+  },
+  "BP02-CR10": {
+    "id": "BP02-CR10",
+    "face": {
+      "front": {
+        "name": "Applejack",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-CR10"
+      }
+    },
+    "name": "Applejack",
+    "type": "Character",
+    "cost": 6
+  },
+  "BP02-CR11": {
+    "id": "BP02-CR11",
+    "face": {
+      "front": {
+        "name": "Rainbow Dash",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-CR11"
+      }
+    },
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "cost": 4
+  },
+  "BP02-CR12": {
+    "id": "BP02-CR12",
+    "face": {
+      "front": {
+        "name": "Rarity",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-CR12"
+      }
+    },
+    "name": "Rarity",
+    "type": "Character",
+    "cost": 2
+  },
+  "BP02-ER01": {
+    "id": "BP02-ER01",
+    "face": {
+      "front": {
+        "name": "Golden Oak Library, 2nd Floor",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-ER01"
+      }
+    },
+    "name": "Golden Oak Library, 2nd Floor",
+    "type": "Scene",
+    "cost": 0
+  },
+  "BP02-ER02": {
+    "id": "BP02-ER02",
+    "face": {
+      "front": {
+        "name": "Fluttershy's Living Room",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-ER02"
+      }
+    },
+    "name": "Fluttershy's Living Room",
+    "type": "Scene",
+    "cost": 0
+  },
+  "BP02-ER03": {
+    "id": "BP02-ER03",
+    "face": {
+      "front": {
+        "name": "Sugarcube Corner[incomplete]",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-ER03"
+      }
+    },
+    "name": "Sugarcube Corner[incomplete]",
+    "type": "Scene",
+    "cost": 0
+  },
+  "BP02-ER04": {
+    "id": "BP02-ER04",
+    "face": {
+      "front": {
+        "name": "Sweet Apple Acres Backyard",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-ER04"
+      }
+    },
+    "name": "Sweet Apple Acres Backyard",
+    "type": "Scene",
+    "cost": 0
+  },
+  "BP02-ER05": {
+    "id": "BP02-ER05",
+    "face": {
+      "front": {
+        "name": "Cloudsdale Rainbow Pool",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-ER05"
+      }
+    },
+    "name": "Cloudsdale Rainbow Pool",
+    "type": "Scene",
+    "cost": 0
+  },
+  "BP02-ER06": {
+    "id": "BP02-ER06",
+    "face": {
+      "front": {
+        "name": "Carousel Boutique Fitting Room",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-ER06"
+      }
+    },
+    "name": "Carousel Boutique Fitting Room",
+    "type": "Scene",
+    "cost": 0
+  },
+  "BP02-GR01": {
+    "id": "BP02-GR01",
+    "face": {
+      "front": {
+        "name": "Twilight Sparkle",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-GR01"
+      }
+    },
+    "name": "Twilight Sparkle",
+    "type": "Character",
+    "cost": 6
+  },
+  "BP02-GR02": {
+    "id": "BP02-GR02",
+    "face": {
+      "front": {
+        "name": "Fluttershy",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-GR02"
+      }
+    },
+    "name": "Fluttershy",
+    "type": "Character",
+    "cost": 2
+  },
+  "BP02-GR03": {
+    "id": "BP02-GR03",
+    "face": {
+      "front": {
+        "name": "Pinkie Pie",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-GR03"
+      }
+    },
+    "name": "Pinkie Pie",
+    "type": "Character",
+    "cost": 5
+  },
+  "BP02-GR04": {
+    "id": "BP02-GR04",
+    "face": {
+      "front": {
+        "name": "Applejack",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-GR04"
+      }
+    },
+    "name": "Applejack",
+    "type": "Character",
+    "cost": 4
+  },
+  "BP02-GR05": {
+    "id": "BP02-GR05",
+    "face": {
+      "front": {
+        "name": "Rainbow Dash",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-GR05"
+      }
+    },
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "cost": 3
+  },
+  "BP02-GR06": {
+    "id": "BP02-GR06",
+    "face": {
+      "front": {
+        "name": "Rarity",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-GR06"
+      }
+    },
+    "name": "Rarity",
+    "type": "Character",
+    "cost": 4
+  },
+  "BP02-GR07": {
+    "id": "BP02-GR07",
+    "face": {
+      "front": {
+        "name": "Twilight Sparkle",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-GR07"
+      }
+    },
+    "name": "Twilight Sparkle",
+    "type": "Character",
+    "cost": 3
+  },
+  "BP02-GR08": {
+    "id": "BP02-GR08",
+    "face": {
+      "front": {
+        "name": "Fluttershy",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-GR08"
+      }
+    },
+    "name": "Fluttershy",
+    "type": "Character",
+    "cost": 5
+  },
+  "BP02-GR09": {
+    "id": "BP02-GR09",
+    "face": {
+      "front": {
+        "name": "Pinkie Pie",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-GR09"
+      }
+    },
+    "name": "Pinkie Pie",
+    "type": "Character",
+    "cost": 2
+  },
+  "BP02-GR10": {
+    "id": "BP02-GR10",
+    "face": {
+      "front": {
+        "name": "Applejack",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-GR10"
+      }
+    },
+    "name": "Applejack",
+    "type": "Character",
+    "cost": 3
+  },
+  "BP02-GR11": {
+    "id": "BP02-GR11",
+    "face": {
+      "front": {
+        "name": "Rainbow Dash",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-GR11"
+      }
+    },
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "cost": 5
+  },
+  "BP02-GR12": {
+    "id": "BP02-GR12",
+    "face": {
+      "front": {
+        "name": "Rarity",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-GR12"
+      }
+    },
+    "name": "Rarity",
+    "type": "Character",
+    "cost": 4
+  },
+  "BP02-RR01": {
+    "id": "BP02-RR01",
+    "face": {
+      "front": {
+        "name": "Twilight Sparkle",
+        "type": "Main Character",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-RR01"
+      }
+    },
+    "name": "Twilight Sparkle",
+    "type": "Main Character",
+    "cost": 0
+  },
+  "BP02-RR02": {
+    "id": "BP02-RR02",
+    "face": {
+      "front": {
+        "name": "Fluttershy",
+        "type": "Main Character",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-RR02"
+      }
+    },
+    "name": "Fluttershy",
+    "type": "Main Character",
+    "cost": 0
+  },
+  "BP02-RR03": {
+    "id": "BP02-RR03",
+    "face": {
+      "front": {
+        "name": "Pinkie Pie",
+        "type": "Main Character",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-RR03"
+      }
+    },
+    "name": "Pinkie Pie",
+    "type": "Main Character",
+    "cost": 0
+  },
+  "BP02-RR04": {
+    "id": "BP02-RR04",
+    "face": {
+      "front": {
+        "name": "Applejack",
+        "type": "Main Character",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-RR04"
+      }
+    },
+    "name": "Applejack",
+    "type": "Main Character",
+    "cost": 0
+  },
+  "BP02-RR05": {
+    "id": "BP02-RR05",
+    "face": {
+      "front": {
+        "name": "Rainbow Dash",
+        "type": "Main Character",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-RR05"
+      }
+    },
+    "name": "Rainbow Dash",
+    "type": "Main Character",
+    "cost": 0
+  },
+  "BP02-RR06": {
+    "id": "BP02-RR06",
+    "face": {
+      "front": {
+        "name": "Rarity",
+        "type": "Main Character",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-RR06"
+      }
+    },
+    "name": "Rarity",
+    "type": "Main Character",
+    "cost": 0
+  },
+  "BP02-SPR01": {
+    "id": "BP02-SPR01",
+    "face": {
+      "front": {
+        "name": "Today's To-do List",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR01"
+      }
+    },
+    "name": "Today's To-do List",
+    "type": "Event",
+    "cost": 1
+  },
+  "BP02-SPR02": {
+    "id": "BP02-SPR02",
+    "face": {
+      "front": {
+        "name": "Friendship Lesson Letter",
+        "type": "Event",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR02"
+      }
+    },
+    "name": "Friendship Lesson Letter",
+    "type": "Event",
+    "cost": 5
+  },
+  "BP02-SPR03": {
+    "id": "BP02-SPR03",
+    "face": {
+      "front": {
+        "name": "Bookshelf Organization",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR03"
+      }
+    },
+    "name": "Bookshelf Organization",
+    "type": "Event",
+    "cost": 2
+  },
+  "BP02-SPR04": {
+    "id": "BP02-SPR04",
+    "face": {
+      "front": {
+        "name": "Sleep Soundly",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR04"
+      }
+    },
+    "name": "Sleep Soundly",
+    "type": "Event",
+    "cost": 2
+  },
+  "BP02-SPR05": {
+    "id": "BP02-SPR05",
+    "face": {
+      "front": {
+        "name": "Physical Training",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR05"
+      }
+    },
+    "name": "Physical Training",
+    "type": "Event",
+    "cost": 2
+  },
+  "BP02-SPR06": {
+    "id": "BP02-SPR06",
+    "face": {
+      "front": {
+        "name": "Pinkie Pie's Talk Show",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR06"
+      }
+    },
+    "name": "Pinkie Pie's Talk Show",
+    "type": "Event",
+    "cost": 3
+  },
+  "BP02-SPR07": {
+    "id": "BP02-SPR07",
+    "face": {
+      "front": {
+        "name": "Jump Rope Time",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR07"
+      }
+    },
+    "name": "Jump Rope Time",
+    "type": "Event",
+    "cost": 2
+  },
+  "BP02-SPR08": {
+    "id": "BP02-SPR08",
+    "face": {
+      "front": {
+        "name": "Corn Harvest",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR08"
+      }
+    },
+    "name": "Corn Harvest",
+    "type": "Event",
+    "cost": 3
+  },
+  "BP02-SPR09": {
+    "id": "BP02-SPR09",
+    "face": {
+      "front": {
+        "name": "Zap Apple Season",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR09"
+      }
+    },
+    "name": "Zap Apple Season",
+    "type": "Event",
+    "cost": 2
+  },
+  "BP02-SPR10": {
+    "id": "BP02-SPR10",
+    "face": {
+      "front": {
+        "name": "Demolition of the Old Barn",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR10"
+      }
+    },
+    "name": "Demolition of the Old Barn",
+    "type": "Event",
+    "cost": 2
+  },
+  "BP02-SPR11": {
+    "id": "BP02-SPR11",
+    "face": {
+      "front": {
+        "name": "Standing on the Edge",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR11"
+      }
+    },
+    "name": "Standing on the Edge",
+    "type": "Event",
+    "cost": 2
+  },
+  "BP02-SPR12": {
+    "id": "BP02-SPR12",
+    "face": {
+      "front": {
+        "name": "Tasting Coffee",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR12"
+      }
+    },
+    "name": "Tasting Coffee",
+    "type": "Event",
+    "cost": 2
+  },
+  "BP02-SPR13": {
+    "id": "BP02-SPR13",
+    "face": {
+      "front": {
+        "name": "Hanging Out the Laundry",
+        "type": "Event",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR13"
+      }
+    },
+    "name": "Hanging Out the Laundry",
+    "type": "Event",
+    "cost": 4
+  },
+  "BP02-SPR14": {
+    "id": "BP02-SPR14",
+    "face": {
+      "front": {
+        "name": "Squeezing Grapes",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR14"
+      }
+    },
+    "name": "Squeezing Grapes",
+    "type": "Event",
+    "cost": 2
+  },
+  "BP02-SPR15": {
+    "id": "BP02-SPR15",
+    "face": {
+      "front": {
+        "name": "Apple Throw and Catch",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR15"
+      }
+    },
+    "name": "Apple Throw and Catch",
+    "type": "Event",
+    "cost": 2
+  },
+  "BP02-SPR16": {
+    "id": "BP02-SPR16",
+    "face": {
+      "front": {
+        "name": "Rainbow Dash Fan Club",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR16"
+      }
+    },
+    "name": "Rainbow Dash Fan Club",
+    "type": "Event",
+    "cost": 2
+  },
+  "BP02-SPR17": {
+    "id": "BP02-SPR17",
+    "face": {
+      "front": {
+        "name": "Tour of the Sculpture Garden",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR17"
+      }
+    },
+    "name": "Tour of the Sculpture Garden",
+    "type": "Event",
+    "cost": 2
+  },
+  "BP02-SPR18": {
+    "id": "BP02-SPR18",
+    "face": {
+      "front": {
+        "name": "Pet Play Day",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR18"
+      }
+    },
+    "name": "Pet Play Day",
+    "type": "Event",
+    "cost": 2
+  },
+  "BP02-SPR19": {
+    "id": "BP02-SPR19",
+    "face": {
+      "front": {
+        "name": "Pre-match Briefing",
+        "type": "Event",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR19"
+      }
+    },
+    "name": "Pre-match Briefing",
+    "type": "Event",
+    "cost": 5
+  },
+  "BP02-SPR20": {
+    "id": "BP02-SPR20",
+    "face": {
+      "front": {
+        "name": "Picnic Day",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR20"
+      }
+    },
+    "name": "Picnic Day",
+    "type": "Event",
+    "cost": 2
+  },
+  "BP02-SPR21": {
+    "id": "BP02-SPR21",
+    "face": {
+      "front": {
+        "name": "Challenge to the Temple",
+        "type": "Event",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR21"
+      }
+    },
+    "name": "Challenge to the Temple",
+    "type": "Event",
+    "cost": 4
+  },
+  "BP02-SPR22": {
+    "id": "BP02-SPR22",
+    "face": {
+      "front": {
+        "name": "Smarty Pants",
+        "type": "Item",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR22"
+      }
+    },
+    "name": "Smarty Pants",
+    "type": "Item",
+    "cost": 1
+  },
+  "BP02-SPR23": {
+    "id": "BP02-SPR23",
+    "face": {
+      "front": {
+        "name": "Daring Do Book",
+        "type": "Item",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR23"
+      }
+    },
+    "name": "Daring Do Book",
+    "type": "Item",
+    "cost": 2
+  },
+  "BP02-SPR24": {
+    "id": "BP02-SPR24",
+    "face": {
+      "front": {
+        "name": "Party Cannon",
+        "type": "Item",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR24"
+      }
+    },
+    "name": "Party Cannon",
+    "type": "Item",
+    "cost": 4
+  },
+  "BP02-SPR25": {
+    "id": "BP02-SPR25",
+    "face": {
+      "front": {
+        "name": "Welcome Wagon",
+        "type": "Item",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR25"
+      }
+    },
+    "name": "Welcome Wagon",
+    "type": "Item",
+    "cost": 2
+  },
+  "BP02-SPR26": {
+    "id": "BP02-SPR26",
+    "face": {
+      "front": {
+        "name": "Crimson Jewel",
+        "type": "Item",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR26"
+      }
+    },
+    "name": "Crimson Jewel",
+    "type": "Item",
+    "cost": 2
+  },
+  "BP02-SPR27": {
+    "id": "BP02-SPR27",
+    "face": {
+      "front": {
+        "name": "Educational Toy",
+        "type": "Item",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR27"
+      }
+    },
+    "name": "Educational Toy",
+    "type": "Item",
+    "cost": 2
+  },
+  "BP02-SPR28": {
+    "id": "BP02-SPR28",
+    "face": {
+      "front": {
+        "name": "Seeds of Truth",
+        "type": "Item",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SPR28"
+      }
+    },
+    "name": "Seeds of Truth",
+    "type": "Item",
+    "cost": 2
+  },
+  "BP02-SR01": {
+    "id": "BP02-SR01",
+    "face": {
+      "front": {
+        "name": "Twilight Sparkle",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR01"
+      }
+    },
+    "name": "Twilight Sparkle",
+    "type": "Character",
+    "cost": 5
+  },
+  "BP02-SR02": {
+    "id": "BP02-SR02",
+    "face": {
+      "front": {
+        "name": "Fluttershy",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR02"
+      }
+    },
+    "name": "Fluttershy",
+    "type": "Character",
+    "cost": 3
+  },
+  "BP02-SR03": {
+    "id": "BP02-SR03",
+    "face": {
+      "front": {
+        "name": "Pinkie Pie",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR03"
+      }
+    },
+    "name": "Pinkie Pie",
+    "type": "Character",
+    "cost": 4
+  },
+  "BP02-SR04": {
+    "id": "BP02-SR04",
+    "face": {
+      "front": {
+        "name": "Applejack",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR04"
+      }
+    },
+    "name": "Applejack",
+    "type": "Character",
+    "cost": 1
+  },
+  "BP02-SR05": {
+    "id": "BP02-SR05",
+    "face": {
+      "front": {
+        "name": "Rainbow Dash",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR05"
+      }
+    },
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "cost": 6
+  },
+  "BP02-SR06": {
+    "id": "BP02-SR06",
+    "face": {
+      "front": {
+        "name": "Rarity",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR06"
+      }
+    },
+    "name": "Rarity",
+    "type": "Character",
+    "cost": 2
+  },
+  "BP02-SR07": {
+    "id": "BP02-SR07",
+    "face": {
+      "front": {
+        "name": "Spike",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR07"
+      }
+    },
+    "name": "Spike",
+    "type": "Character",
+    "cost": 7
+  },
+  "BP02-SR08": {
+    "id": "BP02-SR08",
+    "face": {
+      "front": {
+        "name": "Discord",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR08"
+      }
+    },
+    "name": "Discord",
+    "type": "Character",
+    "cost": 6
+  },
+  "BP02-SR09": {
+    "id": "BP02-SR09",
+    "face": {
+      "front": {
+        "name": "Apple Bloom",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR09"
+      }
+    },
+    "name": "Apple Bloom",
+    "type": "Character",
+    "cost": 3
+  },
+  "BP02-SR10": {
+    "id": "BP02-SR10",
+    "face": {
+      "front": {
+        "name": "Sweetie Belle",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR10"
+      }
+    },
+    "name": "Sweetie Belle",
+    "type": "Character",
+    "cost": 3
+  },
+  "BP02-SR11": {
+    "id": "BP02-SR11",
+    "face": {
+      "front": {
+        "name": "Scootaloo",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR11"
+      }
+    },
+    "name": "Scootaloo",
+    "type": "Character",
+    "cost": 3
+  },
+  "BP02-SR12": {
+    "id": "BP02-SR12",
+    "face": {
+      "front": {
+        "name": "Daring Do",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR12"
+      }
+    },
+    "name": "Daring Do",
+    "type": "Character",
+    "cost": 6
+  },
+  "BP02-SR13": {
+    "id": "BP02-SR13",
+    "face": {
+      "front": {
+        "name": "Philomena",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR13"
+      }
+    },
+    "name": "Philomena",
+    "type": "Character",
+    "cost": 6
+  },
+  "BP02-SR14": {
+    "id": "BP02-SR14",
+    "face": {
+      "front": {
+        "name": "Big McIntosh",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-SR14"
+      }
+    },
+    "name": "Big McIntosh",
+    "type": "Character",
+    "cost": 4
+  },
+  "BP02-U01": {
+    "id": "BP02-U01",
+    "face": {
+      "front": {
+        "name": "Twilight Sparkle",
+        "type": "Character",
+        "cost": 9,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U01"
+      }
+    },
+    "name": "Twilight Sparkle",
+    "type": "Character",
+    "cost": 9
+  },
+  "BP02-U02": {
+    "id": "BP02-U02",
+    "face": {
+      "front": {
+        "name": "Twilight Sparkle",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U02"
+      }
+    },
+    "name": "Twilight Sparkle",
+    "type": "Character",
+    "cost": 4
+  },
+  "BP02-U03": {
+    "id": "BP02-U03",
+    "face": {
+      "front": {
+        "name": "Fluttershy",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U03"
+      }
+    },
+    "name": "Fluttershy",
+    "type": "Character",
+    "cost": 4
+  },
+  "BP02-U04": {
+    "id": "BP02-U04",
+    "face": {
+      "front": {
+        "name": "Fluttershy",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U04"
+      }
+    },
+    "name": "Fluttershy",
+    "type": "Character",
+    "cost": 2
+  },
+  "BP02-U05": {
+    "id": "BP02-U05",
+    "face": {
+      "front": {
+        "name": "Pinkie Pie",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U05"
+      }
+    },
+    "name": "Pinkie Pie",
+    "type": "Character",
+    "cost": 3
+  },
+  "BP02-U06": {
+    "id": "BP02-U06",
+    "face": {
+      "front": {
+        "name": "Pinkie Pie",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U06"
+      }
+    },
+    "name": "Pinkie Pie",
+    "type": "Character",
+    "cost": 7
+  },
+  "BP02-U07": {
+    "id": "BP02-U07",
+    "face": {
+      "front": {
+        "name": "Applejack",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U07"
+      }
+    },
+    "name": "Applejack",
+    "type": "Character",
+    "cost": 4
+  },
+  "BP02-U08": {
+    "id": "BP02-U08",
+    "face": {
+      "front": {
+        "name": "Applejack",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U08"
+      }
+    },
+    "name": "Applejack",
+    "type": "Character",
+    "cost": 3
+  },
+  "BP02-U09": {
+    "id": "BP02-U09",
+    "face": {
+      "front": {
+        "name": "Rainbow Dash",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U09"
+      }
+    },
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "cost": 5
+  },
+  "BP02-U10": {
+    "id": "BP02-U10",
+    "face": {
+      "front": {
+        "name": "Rainbow Dash",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U10"
+      }
+    },
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "cost": 7
+  },
+  "BP02-U11": {
+    "id": "BP02-U11",
+    "face": {
+      "front": {
+        "name": "Rarity",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U11"
+      }
+    },
+    "name": "Rarity",
+    "type": "Character",
+    "cost": 3
+  },
+  "BP02-U12": {
+    "id": "BP02-U12",
+    "face": {
+      "front": {
+        "name": "Rarity",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U12"
+      }
+    },
+    "name": "Rarity",
+    "type": "Character",
+    "cost": 7
+  },
+  "BP02-U13": {
+    "id": "BP02-U13",
+    "face": {
+      "front": {
+        "name": "Spike",
+        "type": "Character",
+        "cost": 8,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U13"
+      }
+    },
+    "name": "Spike",
+    "type": "Character",
+    "cost": 8
+  },
+  "BP02-U14": {
+    "id": "BP02-U14",
+    "face": {
+      "front": {
+        "name": "Apple Bloom",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U14"
+      }
+    },
+    "name": "Apple Bloom",
+    "type": "Character",
+    "cost": 5
+  },
+  "BP02-U15": {
+    "id": "BP02-U15",
+    "face": {
+      "front": {
+        "name": "Sweetie Belle",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U15"
+      }
+    },
+    "name": "Sweetie Belle",
+    "type": "Character",
+    "cost": 5
+  },
+  "BP02-U16": {
+    "id": "BP02-U16",
+    "face": {
+      "front": {
+        "name": "Scootaloo",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U16"
+      }
+    },
+    "name": "Scootaloo",
+    "type": "Character",
+    "cost": 5
+  },
+  "BP02-U17": {
+    "id": "BP02-U17",
+    "face": {
+      "front": {
+        "name": "Discord",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U17"
+      }
+    },
+    "name": "Discord",
+    "type": "Character",
+    "cost": 4
+  },
+  "BP02-U18": {
+    "id": "BP02-U18",
+    "face": {
+      "front": {
+        "name": "Discord",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/BP02-U18"
+      }
+    },
+    "name": "Discord",
+    "type": "Character",
+    "cost": 5
+  },
+  "SD01-C01": {
+    "id": "SD01-C01",
+    "face": {
+      "front": {
+        "name": "Twilight Sparkle",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-C01"
+      }
+    },
+    "name": "Twilight Sparkle",
+    "type": "Character",
+    "cost": 1
+  },
+  "SD01-C02": {
+    "id": "SD01-C02",
+    "face": {
+      "front": {
+        "name": "Fluttershy",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-C02"
+      }
+    },
+    "name": "Fluttershy",
+    "type": "Character",
+    "cost": 4
+  },
+  "SD01-C03": {
+    "id": "SD01-C03",
+    "face": {
+      "front": {
+        "name": "Pinkie Pie",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-C03"
+      }
+    },
+    "name": "Pinkie Pie",
+    "type": "Character",
+    "cost": 3
+  },
+  "SD01-C04": {
+    "id": "SD01-C04",
+    "face": {
+      "front": {
+        "name": "Applejack",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-C04"
+      }
+    },
+    "name": "Applejack",
+    "type": "Character",
+    "cost": 3
+  },
+  "SD01-C05": {
+    "id": "SD01-C05",
+    "face": {
+      "front": {
+        "name": "Rainbow Dash",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-C05"
+      }
+    },
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "cost": 1
+  },
+  "SD01-C06": {
+    "id": "SD01-C06",
+    "face": {
+      "front": {
+        "name": "Rarity",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-C06"
+      }
+    },
+    "name": "Rarity",
+    "type": "Character",
+    "cost": 1
+  },
+  "SD01-C07": {
+    "id": "SD01-C07",
+    "face": {
+      "front": {
+        "name": "Apple Bloom",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-C07"
+      }
+    },
+    "name": "Apple Bloom",
+    "type": "Character",
+    "cost": 1
+  },
+  "SD01-C08": {
+    "id": "SD01-C08",
+    "face": {
+      "front": {
+        "name": "Sweetie Belle",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-C08"
+      }
+    },
+    "name": "Sweetie Belle",
+    "type": "Character",
+    "cost": 2
+  },
+  "SD01-C09": {
+    "id": "SD01-C09",
+    "face": {
+      "front": {
+        "name": "Scootaloo",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-C09"
+      }
+    },
+    "name": "Scootaloo",
+    "type": "Character",
+    "cost": 2
+  },
+  "SD01-CR01": {
+    "id": "SD01-CR01",
+    "face": {
+      "front": {
+        "name": "Twilight Sparkle",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-CR01"
+      }
+    },
+    "name": "Twilight Sparkle",
+    "type": "Character",
+    "cost": 5
+  },
+  "SD01-CR02": {
+    "id": "SD01-CR02",
+    "face": {
+      "front": {
+        "name": "Fluttershy",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-CR02"
+      }
+    },
+    "name": "Fluttershy",
+    "type": "Character",
+    "cost": 5
+  },
+  "SD01-CR03": {
+    "id": "SD01-CR03",
+    "face": {
+      "front": {
+        "name": "Pinkie Pie",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-CR03"
+      }
+    },
+    "name": "Pinkie Pie",
+    "type": "Character",
+    "cost": 5
+  },
+  "SD01-CR04": {
+    "id": "SD01-CR04",
+    "face": {
+      "front": {
+        "name": "Applejack",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-CR04"
+      }
+    },
+    "name": "Applejack",
+    "type": "Character",
+    "cost": 4
+  },
+  "SD01-CR05": {
+    "id": "SD01-CR05",
+    "face": {
+      "front": {
+        "name": "Rainbow Dash",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-CR05"
+      }
+    },
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "cost": 4
+  },
+  "SD01-CR06": {
+    "id": "SD01-CR06",
+    "face": {
+      "front": {
+        "name": "Rarity",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-CR06"
+      }
+    },
+    "name": "Rarity",
+    "type": "Character",
+    "cost": 2
+  },
+  "SD01-ER01": {
+    "id": "SD01-ER01",
+    "face": {
+      "front": {
+        "name": "Golden Oak Library",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-ER01"
+      }
+    },
+    "name": "Golden Oak Library",
+    "type": "Scene",
+    "cost": 0
+  },
+  "SD01-ER02": {
+    "id": "SD01-ER02",
+    "face": {
+      "front": {
+        "name": "Fluttershy's Cottage",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-ER02"
+      }
+    },
+    "name": "Fluttershy's Cottage",
+    "type": "Scene",
+    "cost": 0
+  },
+  "SD01-ER03": {
+    "id": "SD01-ER03",
+    "face": {
+      "front": {
+        "name": "Sugarcube Corner",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-ER03"
+      }
+    },
+    "name": "Sugarcube Corner",
+    "type": "Scene",
+    "cost": 0
+  },
+  "SD01-ER04": {
+    "id": "SD01-ER04",
+    "face": {
+      "front": {
+        "name": "Sweet Apple Acres",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-ER04"
+      }
+    },
+    "name": "Sweet Apple Acres",
+    "type": "Scene",
+    "cost": 0
+  },
+  "SD01-ER05": {
+    "id": "SD01-ER05",
+    "face": {
+      "front": {
+        "name": "Cloudominium",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-ER05"
+      }
+    },
+    "name": "Cloudominium",
+    "type": "Scene",
+    "cost": 0
+  },
+  "SD01-ER06": {
+    "id": "SD01-ER06",
+    "face": {
+      "front": {
+        "name": "Carousel Boutique",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-ER06"
+      }
+    },
+    "name": "Carousel Boutique",
+    "type": "Scene",
+    "cost": 0
+  },
+  "SD01-ER07": {
+    "id": "SD01-ER07",
+    "face": {
+      "front": {
+        "name": "Canterlot Tower",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-ER07"
+      }
+    },
+    "name": "Canterlot Tower",
+    "type": "Scene",
+    "cost": 0
+  },
+  "SD01-ER08": {
+    "id": "SD01-ER08",
+    "face": {
+      "front": {
+        "name": "Ponyville Suburb",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-ER08"
+      }
+    },
+    "name": "Ponyville Suburb",
+    "type": "Scene",
+    "cost": 0
+  },
+  "SD01-ER09": {
+    "id": "SD01-ER09",
+    "face": {
+      "front": {
+        "name": "Ponyville Street",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-ER09"
+      }
+    },
+    "name": "Ponyville Street",
+    "type": "Scene",
+    "cost": 0
+  },
+  "SD01-ER10": {
+    "id": "SD01-ER10",
+    "face": {
+      "front": {
+        "name": "Road at Sweet Apple Acres",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-ER10"
+      }
+    },
+    "name": "Road at Sweet Apple Acres",
+    "type": "Scene",
+    "cost": 0
+  },
+  "SD01-ER11": {
+    "id": "SD01-ER11",
+    "face": {
+      "front": {
+        "name": "Stairs of Cloudsdale",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-ER11"
+      }
+    },
+    "name": "Stairs of Cloudsdale",
+    "type": "Scene",
+    "cost": 0
+  },
+  "SD01-ER12": {
+    "id": "SD01-ER12",
+    "face": {
+      "front": {
+        "name": "Manehattan Streets",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-ER12"
+      }
+    },
+    "name": "Manehattan Streets",
+    "type": "Scene",
+    "cost": 0
+  },
+  "SD01-GR01": {
+    "id": "SD01-GR01",
+    "face": {
+      "front": {
+        "name": "Twilight Sparkle",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-GR01"
+      }
+    },
+    "name": "Twilight Sparkle",
+    "type": "Character",
+    "cost": 7
+  },
+  "SD01-GR02": {
+    "id": "SD01-GR02",
+    "face": {
+      "front": {
+        "name": "Fluttershy",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-GR02"
+      }
+    },
+    "name": "Fluttershy",
+    "type": "Character",
+    "cost": 7
+  },
+  "SD01-GR03": {
+    "id": "SD01-GR03",
+    "face": {
+      "front": {
+        "name": "Pinkie Pie",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-GR03"
+      }
+    },
+    "name": "Pinkie Pie",
+    "type": "Character",
+    "cost": 2
+  },
+  "SD01-GR04": {
+    "id": "SD01-GR04",
+    "face": {
+      "front": {
+        "name": "Applejack",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-GR04"
+      }
+    },
+    "name": "Applejack",
+    "type": "Character",
+    "cost": 3
+  },
+  "SD01-GR05": {
+    "id": "SD01-GR05",
+    "face": {
+      "front": {
+        "name": "Rainbow Dash",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-GR05"
+      }
+    },
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "cost": 2
+  },
+  "SD01-GR06": {
+    "id": "SD01-GR06",
+    "face": {
+      "front": {
+        "name": "Rarity",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-GR06"
+      }
+    },
+    "name": "Rarity",
+    "type": "Character",
+    "cost": 5
+  },
+  "SD01-RR01": {
+    "id": "SD01-RR01",
+    "face": {
+      "front": {
+        "name": "Twilight Sparkle",
+        "type": "Main Character",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-RR01"
+      }
+    },
+    "name": "Twilight Sparkle",
+    "type": "Main Character",
+    "cost": 0
+  },
+  "SD01-RR02": {
+    "id": "SD01-RR02",
+    "face": {
+      "front": {
+        "name": "Fluttershy",
+        "type": "Main Character",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-RR02"
+      }
+    },
+    "name": "Fluttershy",
+    "type": "Main Character",
+    "cost": 0
+  },
+  "SD01-RR03": {
+    "id": "SD01-RR03",
+    "face": {
+      "front": {
+        "name": "Pinkie Pie",
+        "type": "Main Character",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-RR03"
+      }
+    },
+    "name": "Pinkie Pie",
+    "type": "Main Character",
+    "cost": 0
+  },
+  "SD01-RR04": {
+    "id": "SD01-RR04",
+    "face": {
+      "front": {
+        "name": "Applejack",
+        "type": "Main Character",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-RR04"
+      }
+    },
+    "name": "Applejack",
+    "type": "Main Character",
+    "cost": 0
+  },
+  "SD01-RR05": {
+    "id": "SD01-RR05",
+    "face": {
+      "front": {
+        "name": "Rainbow Dash",
+        "type": "Main Character",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-RR05"
+      }
+    },
+    "name": "Rainbow Dash",
+    "type": "Main Character",
+    "cost": 0
+  },
+  "SD01-RR06": {
+    "id": "SD01-RR06",
+    "face": {
+      "front": {
+        "name": "Rarity",
+        "type": "Main Character",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-RR06"
+      }
+    },
+    "name": "Rarity",
+    "type": "Main Character",
+    "cost": 0
+  },
+  "SD01-SPR01": {
+    "id": "SD01-SPR01",
+    "face": {
+      "front": {
+        "name": "Friends from other Side",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SPR01"
+      }
+    },
+    "name": "Friends from other Side",
+    "type": "Event",
+    "cost": 1
+  },
+  "SD01-SPR02": {
+    "id": "SD01-SPR02",
+    "face": {
+      "front": {
+        "name": "Friendly Rabbits",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SPR02"
+      }
+    },
+    "name": "Friendly Rabbits",
+    "type": "Event",
+    "cost": 3
+  },
+  "SD01-SPR03": {
+    "id": "SD01-SPR03",
+    "face": {
+      "front": {
+        "name": "Friendship Report",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SPR03"
+      }
+    },
+    "name": "Friendship Report",
+    "type": "Event",
+    "cost": 2
+  },
+  "SD01-SPR04": {
+    "id": "SD01-SPR04",
+    "face": {
+      "front": {
+        "name": "Way to the Top",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SPR04"
+      }
+    },
+    "name": "Way to the Top",
+    "type": "Event",
+    "cost": 2
+  },
+  "SD01-SPR05": {
+    "id": "SD01-SPR05",
+    "face": {
+      "front": {
+        "name": "Time for Class",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SPR05"
+      }
+    },
+    "name": "Time for Class",
+    "type": "Event",
+    "cost": 2
+  },
+  "SD01-SPR06": {
+    "id": "SD01-SPR06",
+    "face": {
+      "front": {
+        "name": "Meteor Shower",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SPR06"
+      }
+    },
+    "name": "Meteor Shower",
+    "type": "Event",
+    "cost": 2
+  },
+  "SD01-SPR07": {
+    "id": "SD01-SPR07",
+    "face": {
+      "front": {
+        "name": "Funny Glasses",
+        "type": "Item",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SPR07"
+      }
+    },
+    "name": "Funny Glasses",
+    "type": "Item",
+    "cost": 3
+  },
+  "SD01-SPR08": {
+    "id": "SD01-SPR08",
+    "face": {
+      "front": {
+        "name": "Today's Homework",
+        "type": "Item",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SPR08"
+      }
+    },
+    "name": "Today's Homework",
+    "type": "Item",
+    "cost": 2
+  },
+  "SD01-SPR09": {
+    "id": "SD01-SPR09",
+    "face": {
+      "front": {
+        "name": "Delivered Letter",
+        "type": "Item",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SPR09"
+      }
+    },
+    "name": "Delivered Letter",
+    "type": "Item",
+    "cost": 2
+  },
+  "SD01-SPR10": {
+    "id": "SD01-SPR10",
+    "face": {
+      "front": {
+        "name": "Cure for Poison Joke",
+        "type": "Item",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SPR10"
+      }
+    },
+    "name": "Cure for Poison Joke",
+    "type": "Item",
+    "cost": 4
+  },
+  "SD01-SR01": {
+    "id": "SD01-SR01",
+    "face": {
+      "front": {
+        "name": "Twilight Sparkle",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SR01"
+      }
+    },
+    "name": "Twilight Sparkle",
+    "type": "Character",
+    "cost": 3
+  },
+  "SD01-SR02": {
+    "id": "SD01-SR02",
+    "face": {
+      "front": {
+        "name": "Fluttershy",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SR02"
+      }
+    },
+    "name": "Fluttershy",
+    "type": "Character",
+    "cost": 5
+  },
+  "SD01-SR03": {
+    "id": "SD01-SR03",
+    "face": {
+      "front": {
+        "name": "Pinkie Pie",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SR03"
+      }
+    },
+    "name": "Pinkie Pie",
+    "type": "Character",
+    "cost": 1
+  },
+  "SD01-SR04": {
+    "id": "SD01-SR04",
+    "face": {
+      "front": {
+        "name": "Applejack",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SR04"
+      }
+    },
+    "name": "Applejack",
+    "type": "Character",
+    "cost": 2
+  },
+  "SD01-SR05": {
+    "id": "SD01-SR05",
+    "face": {
+      "front": {
+        "name": "Rainbow Dash",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SR05"
+      }
+    },
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "cost": 4
+  },
+  "SD01-SR06": {
+    "id": "SD01-SR06",
+    "face": {
+      "front": {
+        "name": "Rarity",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-SR06"
+      }
+    },
+    "name": "Rarity",
+    "type": "Character",
+    "cost": 6
+  },
+  "SD01-U01": {
+    "id": "SD01-U01",
+    "face": {
+      "front": {
+        "name": "Twilight Sparkle",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-U01"
+      }
+    },
+    "name": "Twilight Sparkle",
+    "type": "Character",
+    "cost": 4
+  },
+  "SD01-U02": {
+    "id": "SD01-U02",
+    "face": {
+      "front": {
+        "name": "Fluttershy",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-U02"
+      }
+    },
+    "name": "Fluttershy",
+    "type": "Character",
+    "cost": 5
+  },
+  "SD01-U03": {
+    "id": "SD01-U03",
+    "face": {
+      "front": {
+        "name": "Pinkie Pie",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-U03"
+      }
+    },
+    "name": "Pinkie Pie",
+    "type": "Character",
+    "cost": 4
+  },
+  "SD01-U04": {
+    "id": "SD01-U04",
+    "face": {
+      "front": {
+        "name": "Applejack",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-U04"
+      }
+    },
+    "name": "Applejack",
+    "type": "Character",
+    "cost": 1
+  },
+  "SD01-U05": {
+    "id": "SD01-U05",
+    "face": {
+      "front": {
+        "name": "Rainbow Dash",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-U05"
+      }
+    },
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "cost": 3
+  },
+  "SD01-U06": {
+    "id": "SD01-U06",
+    "face": {
+      "front": {
+        "name": "Rarity",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-U06"
+      }
+    },
+    "name": "Rarity",
+    "type": "Character",
+    "cost": 2
+  },
+  "SD01-U07": {
+    "id": "SD01-U07",
+    "face": {
+      "front": {
+        "name": "Zecora",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01-U07"
+      }
+    },
+    "name": "Zecora",
+    "type": "Character",
+    "cost": 1
+  },
+  "SD01A-C01": {
+    "id": "SD01A-C01",
+    "face": {
+      "front": {
+        "name": "Twilight Sparkle",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-C01"
+      }
+    },
+    "name": "Twilight Sparkle",
+    "type": "Character",
+    "cost": 3
+  },
+  "SD01A-C02": {
+    "id": "SD01A-C02",
+    "face": {
+      "front": {
+        "name": "Twilight Sparkle",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-C02"
+      }
+    },
+    "name": "Twilight Sparkle",
+    "type": "Character",
+    "cost": 2
+  },
+  "SD01A-C03": {
+    "id": "SD01A-C03",
+    "face": {
+      "front": {
+        "name": "Spike",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-C03"
+      }
+    },
+    "name": "Spike",
+    "type": "Character",
+    "cost": 4
+  },
+  "SD01A-C04": {
+    "id": "SD01A-C04",
+    "face": {
+      "front": {
+        "name": "Spike",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-C04"
+      }
+    },
+    "name": "Spike",
+    "type": "Character",
+    "cost": 1
+  },
+  "SD01A-C05": {
+    "id": "SD01A-C05",
+    "face": {
+      "front": {
+        "name": "Owlowiscious",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-C05"
+      }
+    },
+    "name": "Owlowiscious",
+    "type": "Character",
+    "cost": 2
+  },
+  "SD01A-C06": {
+    "id": "SD01A-C06",
+    "face": {
+      "front": {
+        "name": "Searching for Elements of Harmony",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-C06"
+      }
+    },
+    "name": "Searching for Elements of Harmony",
+    "type": "Story",
+    "cost": 0
+  },
+  "SD01A-C07": {
+    "id": "SD01A-C07",
+    "face": {
+      "front": {
+        "name": "Searching for Elements of Harmony",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-C07"
+      }
+    },
+    "name": "Searching for Elements of Harmony",
+    "type": "Story",
+    "cost": 0
+  },
+  "SD01A-C08": {
+    "id": "SD01A-C08",
+    "face": {
+      "front": {
+        "name": "Searching for Elements of Harmony",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-C08"
+      }
+    },
+    "name": "Searching for Elements of Harmony",
+    "type": "Story",
+    "cost": 0
+  },
+  "SD01A-C09": {
+    "id": "SD01A-C09",
+    "face": {
+      "front": {
+        "name": "Searching for Elements of Harmony",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-C09"
+      }
+    },
+    "name": "Searching for Elements of Harmony",
+    "type": "Story",
+    "cost": 0
+  },
+  "SD01A-SPR01": {
+    "id": "SD01A-SPR01",
+    "face": {
+      "front": {
+        "name": "Field Reference",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-SPR01"
+      }
+    },
+    "name": "Field Reference",
+    "type": "Event",
+    "cost": 2
+  },
+  "SD01A-SPR02": {
+    "id": "SD01A-SPR02",
+    "face": {
+      "front": {
+        "name": "Search the Library",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-SPR02"
+      }
+    },
+    "name": "Search the Library",
+    "type": "Event",
+    "cost": 3
+  },
+  "SD01A-SPR03": {
+    "id": "SD01A-SPR03",
+    "face": {
+      "front": {
+        "name": "Experience Report",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-SPR03"
+      }
+    },
+    "name": "Experience Report",
+    "type": "Event",
+    "cost": 3
+  },
+  "SD01A-SPR04": {
+    "id": "SD01A-SPR04",
+    "face": {
+      "front": {
+        "name": "Guiding Tome",
+        "type": "Item",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-SPR04"
+      }
+    },
+    "name": "Guiding Tome",
+    "type": "Item",
+    "cost": 2
+  },
+  "SD01A-SR01": {
+    "id": "SD01A-SR01",
+    "face": {
+      "front": {
+        "name": "Twilight Sparkle",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-SR01"
+      }
+    },
+    "name": "Twilight Sparkle",
+    "type": "Character",
+    "cost": 5
+  },
+  "SD01A-SR02": {
+    "id": "SD01A-SR02",
+    "face": {
+      "front": {
+        "name": "Owlowiscious",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-SR02"
+      }
+    },
+    "name": "Owlowiscious",
+    "type": "Character",
+    "cost": 3
+  },
+  "SD01A-U01": {
+    "id": "SD01A-U01",
+    "face": {
+      "front": {
+        "name": "Twilight Sparkle",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-U01"
+      }
+    },
+    "name": "Twilight Sparkle",
+    "type": "Character",
+    "cost": 3
+  },
+  "SD01A-U02": {
+    "id": "SD01A-U02",
+    "face": {
+      "front": {
+        "name": "Twilight Sparkle",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-U02"
+      }
+    },
+    "name": "Twilight Sparkle",
+    "type": "Character",
+    "cost": 6
+  },
+  "SD01A-U03": {
+    "id": "SD01A-U03",
+    "face": {
+      "front": {
+        "name": "Spike",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-U03"
+      }
+    },
+    "name": "Spike",
+    "type": "Character",
+    "cost": 3
+  },
+  "SD01A-U04": {
+    "id": "SD01A-U04",
+    "face": {
+      "front": {
+        "name": "Spike",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01A-U04"
+      }
+    },
+    "name": "Spike",
+    "type": "Character",
+    "cost": 2
+  },
+  "SD01B-C01": {
+    "id": "SD01B-C01",
+    "face": {
+      "front": {
+        "name": "Fluttershy",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-C01"
+      }
+    },
+    "name": "Fluttershy",
+    "type": "Character",
+    "cost": 3
+  },
+  "SD01B-C02": {
+    "id": "SD01B-C02",
+    "face": {
+      "front": {
+        "name": "Fluttershy",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-C02"
+      }
+    },
+    "name": "Fluttershy",
+    "type": "Character",
+    "cost": 1
+  },
+  "SD01B-C03": {
+    "id": "SD01B-C03",
+    "face": {
+      "front": {
+        "name": "Fluttershy",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-C03"
+      }
+    },
+    "name": "Fluttershy",
+    "type": "Character",
+    "cost": 2
+  },
+  "SD01B-C04": {
+    "id": "SD01B-C04",
+    "face": {
+      "front": {
+        "name": "Turtle",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-C04"
+      }
+    },
+    "name": "Turtle",
+    "type": "Character",
+    "cost": 2
+  },
+  "SD01B-C05": {
+    "id": "SD01B-C05",
+    "face": {
+      "front": {
+        "name": "Angel",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-C05"
+      }
+    },
+    "name": "Angel",
+    "type": "Character",
+    "cost": 1
+  },
+  "SD01B-C06": {
+    "id": "SD01B-C06",
+    "face": {
+      "front": {
+        "name": "Dragonshy",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-C06"
+      }
+    },
+    "name": "Dragonshy",
+    "type": "Story",
+    "cost": 0
+  },
+  "SD01B-C07": {
+    "id": "SD01B-C07",
+    "face": {
+      "front": {
+        "name": "Dragonshy",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-C07"
+      }
+    },
+    "name": "Dragonshy",
+    "type": "Story",
+    "cost": 0
+  },
+  "SD01B-C08": {
+    "id": "SD01B-C08",
+    "face": {
+      "front": {
+        "name": "Dragonshy",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-C08"
+      }
+    },
+    "name": "Dragonshy",
+    "type": "Story",
+    "cost": 0
+  },
+  "SD01B-C09": {
+    "id": "SD01B-C09",
+    "face": {
+      "front": {
+        "name": "Dragonshy",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-C09"
+      }
+    },
+    "name": "Dragonshy",
+    "type": "Story",
+    "cost": 0
+  },
+  "SD01B-SPR01": {
+    "id": "SD01B-SPR01",
+    "face": {
+      "front": {
+        "name": "Aid for Moving Frogs Out",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-SPR01"
+      }
+    },
+    "name": "Aid for Moving Frogs Out",
+    "type": "Event",
+    "cost": 2
+  },
+  "SD01B-SPR02": {
+    "id": "SD01B-SPR02",
+    "face": {
+      "front": {
+        "name": "Flower Picking Day",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-SPR02"
+      }
+    },
+    "name": "Flower Picking Day",
+    "type": "Event",
+    "cost": 1
+  },
+  "SD01B-SPR03": {
+    "id": "SD01B-SPR03",
+    "face": {
+      "front": {
+        "name": "Healthy Salad",
+        "type": "Event",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-SPR03"
+      }
+    },
+    "name": "Healthy Salad",
+    "type": "Event",
+    "cost": 4
+  },
+  "SD01B-SPR04": {
+    "id": "SD01B-SPR04",
+    "face": {
+      "front": {
+        "name": "Rabbit Pocket Watch",
+        "type": "Item",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-SPR04"
+      }
+    },
+    "name": "Rabbit Pocket Watch",
+    "type": "Item",
+    "cost": 3
+  },
+  "SD01B-SR01": {
+    "id": "SD01B-SR01",
+    "face": {
+      "front": {
+        "name": "Fluttershy",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-SR01"
+      }
+    },
+    "name": "Fluttershy",
+    "type": "Character",
+    "cost": 3
+  },
+  "SD01B-SR02": {
+    "id": "SD01B-SR02",
+    "face": {
+      "front": {
+        "name": "Angel",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-SR02"
+      }
+    },
+    "name": "Angel",
+    "type": "Character",
+    "cost": 1
+  },
+  "SD01B-U01": {
+    "id": "SD01B-U01",
+    "face": {
+      "front": {
+        "name": "Fluttershy",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-U01"
+      }
+    },
+    "name": "Fluttershy",
+    "type": "Character",
+    "cost": 4
+  },
+  "SD01B-U02": {
+    "id": "SD01B-U02",
+    "face": {
+      "front": {
+        "name": "Fluttershy",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-U02"
+      }
+    },
+    "name": "Fluttershy",
+    "type": "Character",
+    "cost": 3
+  },
+  "SD01B-U03": {
+    "id": "SD01B-U03",
+    "face": {
+      "front": {
+        "name": "Philomena",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-U03"
+      }
+    },
+    "name": "Philomena",
+    "type": "Character",
+    "cost": 4
+  },
+  "SD01B-U04": {
+    "id": "SD01B-U04",
+    "face": {
+      "front": {
+        "name": "Angel",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01B-U04"
+      }
+    },
+    "name": "Angel",
+    "type": "Character",
+    "cost": 2
+  },
+  "SD01C-C01": {
+    "id": "SD01C-C01",
+    "face": {
+      "front": {
+        "name": "Pinkie Pie",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-C01"
+      }
+    },
+    "name": "Pinkie Pie",
+    "type": "Character",
+    "cost": 2
+  },
+  "SD01C-C02": {
+    "id": "SD01C-C02",
+    "face": {
+      "front": {
+        "name": "Pinkie Pie",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-C02"
+      }
+    },
+    "name": "Pinkie Pie",
+    "type": "Character",
+    "cost": 6
+  },
+  "SD01C-C03": {
+    "id": "SD01C-C03",
+    "face": {
+      "front": {
+        "name": "Mrs.Cake",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-C03"
+      }
+    },
+    "name": "Mrs.Cake",
+    "type": "Character",
+    "cost": 4
+  },
+  "SD01C-C04": {
+    "id": "SD01C-C04",
+    "face": {
+      "front": {
+        "name": "Gummy",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-C04"
+      }
+    },
+    "name": "Gummy",
+    "type": "Character",
+    "cost": 3
+  },
+  "SD01C-C05": {
+    "id": "SD01C-C05",
+    "face": {
+      "front": {
+        "name": "Gummy",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-C05"
+      }
+    },
+    "name": "Gummy",
+    "type": "Character",
+    "cost": 1
+  },
+  "SD01C-C06": {
+    "id": "SD01C-C06",
+    "face": {
+      "front": {
+        "name": "Feeling Pinkie Keen",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-C06"
+      }
+    },
+    "name": "Feeling Pinkie Keen",
+    "type": "Story",
+    "cost": 0
+  },
+  "SD01C-C07": {
+    "id": "SD01C-C07",
+    "face": {
+      "front": {
+        "name": "Feeling Pinkie Keen",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-C07"
+      }
+    },
+    "name": "Feeling Pinkie Keen",
+    "type": "Story",
+    "cost": 0
+  },
+  "SD01C-C08": {
+    "id": "SD01C-C08",
+    "face": {
+      "front": {
+        "name": "Feeling Pinkie Keen",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-C08"
+      }
+    },
+    "name": "Feeling Pinkie Keen",
+    "type": "Story",
+    "cost": 0
+  },
+  "SD01C-C09": {
+    "id": "SD01C-C09",
+    "face": {
+      "front": {
+        "name": "Feeling Pinkie Keen",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-C09"
+      }
+    },
+    "name": "Feeling Pinkie Keen",
+    "type": "Story",
+    "cost": 0
+  },
+  "SD01C-SPR01": {
+    "id": "SD01C-SPR01",
+    "face": {
+      "front": {
+        "name": "Blue Curse",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-SPR01"
+      }
+    },
+    "name": "Blue Curse",
+    "type": "Event",
+    "cost": 2
+  },
+  "SD01C-SPR02": {
+    "id": "SD01C-SPR02",
+    "face": {
+      "front": {
+        "name": "Instrument Set",
+        "type": "Item",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-SPR02"
+      }
+    },
+    "name": "Instrument Set",
+    "type": "Item",
+    "cost": 1
+  },
+  "SD01C-SPR03": {
+    "id": "SD01C-SPR03",
+    "face": {
+      "front": {
+        "name": "Head Umbrella",
+        "type": "Item",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-SPR03"
+      }
+    },
+    "name": "Head Umbrella",
+    "type": "Item",
+    "cost": 3
+  },
+  "SD01C-SPR04": {
+    "id": "SD01C-SPR04",
+    "face": {
+      "front": {
+        "name": "Pinkie's Flying Balloon",
+        "type": "Item",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-SPR04"
+      }
+    },
+    "name": "Pinkie's Flying Balloon",
+    "type": "Item",
+    "cost": 1
+  },
+  "SD01C-SR01": {
+    "id": "SD01C-SR01",
+    "face": {
+      "front": {
+        "name": "Pinkie Pie",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-SR01"
+      }
+    },
+    "name": "Pinkie Pie",
+    "type": "Character",
+    "cost": 2
+  },
+  "SD01C-SR02": {
+    "id": "SD01C-SR02",
+    "face": {
+      "front": {
+        "name": "Gummy",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-SR02"
+      }
+    },
+    "name": "Gummy",
+    "type": "Character",
+    "cost": 1
+  },
+  "SD01C-U01": {
+    "id": "SD01C-U01",
+    "face": {
+      "front": {
+        "name": "Pinkie Pie",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-U01"
+      }
+    },
+    "name": "Pinkie Pie",
+    "type": "Character",
+    "cost": 2
+  },
+  "SD01C-U02": {
+    "id": "SD01C-U02",
+    "face": {
+      "front": {
+        "name": "Pinkie Pie",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-U02"
+      }
+    },
+    "name": "Pinkie Pie",
+    "type": "Character",
+    "cost": 3
+  },
+  "SD01C-U03": {
+    "id": "SD01C-U03",
+    "face": {
+      "front": {
+        "name": "Mrs.Cake",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-U03"
+      }
+    },
+    "name": "Mrs.Cake",
+    "type": "Character",
+    "cost": 4
+  },
+  "SD01C-U04": {
+    "id": "SD01C-U04",
+    "face": {
+      "front": {
+        "name": "Gummy",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01C-U04"
+      }
+    },
+    "name": "Gummy",
+    "type": "Character",
+    "cost": 3
+  },
+  "SD01D-C01": {
+    "id": "SD01D-C01",
+    "face": {
+      "front": {
+        "name": "Applejack",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-C01"
+      }
+    },
+    "name": "Applejack",
+    "type": "Character",
+    "cost": 2
+  },
+  "SD01D-C02": {
+    "id": "SD01D-C02",
+    "face": {
+      "front": {
+        "name": "Applejack",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-C02"
+      }
+    },
+    "name": "Applejack",
+    "type": "Character",
+    "cost": 5
+  },
+  "SD01D-C03": {
+    "id": "SD01D-C03",
+    "face": {
+      "front": {
+        "name": "Apple Bloom",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-C03"
+      }
+    },
+    "name": "Apple Bloom",
+    "type": "Character",
+    "cost": 3
+  },
+  "SD01D-C04": {
+    "id": "SD01D-C04",
+    "face": {
+      "front": {
+        "name": "Big McIntosh",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-C04"
+      }
+    },
+    "name": "Big McIntosh",
+    "type": "Character",
+    "cost": 4
+  },
+  "SD01D-C05": {
+    "id": "SD01D-C05",
+    "face": {
+      "front": {
+        "name": "Winona",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-C05"
+      }
+    },
+    "name": "Winona",
+    "type": "Character",
+    "cost": 1
+  },
+  "SD01D-C06": {
+    "id": "SD01D-C06",
+    "face": {
+      "front": {
+        "name": "Applebuck Season",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-C06"
+      }
+    },
+    "name": "Applebuck Season",
+    "type": "Story",
+    "cost": 0
+  },
+  "SD01D-C07": {
+    "id": "SD01D-C07",
+    "face": {
+      "front": {
+        "name": "Applebuck Season",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-C07"
+      }
+    },
+    "name": "Applebuck Season",
+    "type": "Story",
+    "cost": 0
+  },
+  "SD01D-C08": {
+    "id": "SD01D-C08",
+    "face": {
+      "front": {
+        "name": "Applebuck Season",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-C08"
+      }
+    },
+    "name": "Applebuck Season",
+    "type": "Story",
+    "cost": 0
+  },
+  "SD01D-C09": {
+    "id": "SD01D-C09",
+    "face": {
+      "front": {
+        "name": "Applebuck Season",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-C09"
+      }
+    },
+    "name": "Applebuck Season",
+    "type": "Story",
+    "cost": 0
+  },
+  "SD01D-SPR01": {
+    "id": "SD01D-SPR01",
+    "face": {
+      "front": {
+        "name": "Dye Advertisement",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-SPR01"
+      }
+    },
+    "name": "Dye Advertisement",
+    "type": "Event",
+    "cost": 2
+  },
+  "SD01D-SPR02": {
+    "id": "SD01D-SPR02",
+    "face": {
+      "front": {
+        "name": "Rope Trick",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-SPR02"
+      }
+    },
+    "name": "Rope Trick",
+    "type": "Event",
+    "cost": 3
+  },
+  "SD01D-SPR03": {
+    "id": "SD01D-SPR03",
+    "face": {
+      "front": {
+        "name": "Lullaby for Apple Tree",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-SPR03"
+      }
+    },
+    "name": "Lullaby for Apple Tree",
+    "type": "Event",
+    "cost": 2
+  },
+  "SD01D-SPR04": {
+    "id": "SD01D-SPR04",
+    "face": {
+      "front": {
+        "name": "Apple Bucket",
+        "type": "Item",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-SPR04"
+      }
+    },
+    "name": "Apple Bucket",
+    "type": "Item",
+    "cost": 3
+  },
+  "SD01D-SR01": {
+    "id": "SD01D-SR01",
+    "face": {
+      "front": {
+        "name": "Applejack",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-SR01"
+      }
+    },
+    "name": "Applejack",
+    "type": "Character",
+    "cost": 1
+  },
+  "SD01D-SR02": {
+    "id": "SD01D-SR02",
+    "face": {
+      "front": {
+        "name": "Winona",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-SR02"
+      }
+    },
+    "name": "Winona",
+    "type": "Character",
+    "cost": 1
+  },
+  "SD01D-U01": {
+    "id": "SD01D-U01",
+    "face": {
+      "front": {
+        "name": "Applejack",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-U01"
+      }
+    },
+    "name": "Applejack",
+    "type": "Character",
+    "cost": 3
+  },
+  "SD01D-U02": {
+    "id": "SD01D-U02",
+    "face": {
+      "front": {
+        "name": "Applejack",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-U02"
+      }
+    },
+    "name": "Applejack",
+    "type": "Character",
+    "cost": 4
+  },
+  "SD01D-U03": {
+    "id": "SD01D-U03",
+    "face": {
+      "front": {
+        "name": "Apple Bloom",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-U03"
+      }
+    },
+    "name": "Apple Bloom",
+    "type": "Character",
+    "cost": 2
+  },
+  "SD01D-U04": {
+    "id": "SD01D-U04",
+    "face": {
+      "front": {
+        "name": "Winona",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01D-U04"
+      }
+    },
+    "name": "Winona",
+    "type": "Character",
+    "cost": 3
+  },
+  "SD01E-C01": {
+    "id": "SD01E-C01",
+    "face": {
+      "front": {
+        "name": "Rainbow Dash",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-C01"
+      }
+    },
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "cost": 1
+  },
+  "SD01E-C02": {
+    "id": "SD01E-C02",
+    "face": {
+      "front": {
+        "name": "Rainbow Dash",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-C02"
+      }
+    },
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "cost": 4
+  },
+  "SD01E-C03": {
+    "id": "SD01E-C03",
+    "face": {
+      "front": {
+        "name": "Rainbow Dash",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-C03"
+      }
+    },
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "cost": 2
+  },
+  "SD01E-C04": {
+    "id": "SD01E-C04",
+    "face": {
+      "front": {
+        "name": "Scootaloo",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-C04"
+      }
+    },
+    "name": "Scootaloo",
+    "type": "Character",
+    "cost": 3
+  },
+  "SD01E-C05": {
+    "id": "SD01E-C05",
+    "face": {
+      "front": {
+        "name": "Tank",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-C05"
+      }
+    },
+    "name": "Tank",
+    "type": "Character",
+    "cost": 1
+  },
+  "SD01E-C06": {
+    "id": "SD01E-C06",
+    "face": {
+      "front": {
+        "name": "The Best Young Flyer",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-C06"
+      }
+    },
+    "name": "The Best Young Flyer",
+    "type": "Story",
+    "cost": 0
+  },
+  "SD01E-C07": {
+    "id": "SD01E-C07",
+    "face": {
+      "front": {
+        "name": "The Best Young Flyer",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-C07"
+      }
+    },
+    "name": "The Best Young Flyer",
+    "type": "Story",
+    "cost": 0
+  },
+  "SD01E-C08": {
+    "id": "SD01E-C08",
+    "face": {
+      "front": {
+        "name": "The Best Young Flyer",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-C08"
+      }
+    },
+    "name": "The Best Young Flyer",
+    "type": "Story",
+    "cost": 0
+  },
+  "SD01E-C09": {
+    "id": "SD01E-C09",
+    "face": {
+      "front": {
+        "name": "The Best Young Flyer",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-C09"
+      }
+    },
+    "name": "The Best Young Flyer",
+    "type": "Story",
+    "cost": 0
+  },
+  "SD01E-SPR01": {
+    "id": "SD01E-SPR01",
+    "face": {
+      "front": {
+        "name": "Hoofshake Buzzer!",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-SPR01"
+      }
+    },
+    "name": "Hoofshake Buzzer!",
+    "type": "Event",
+    "cost": 2
+  },
+  "SD01E-SPR02": {
+    "id": "SD01E-SPR02",
+    "face": {
+      "front": {
+        "name": "Rushing Rescue",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-SPR02"
+      }
+    },
+    "name": "Rushing Rescue",
+    "type": "Event",
+    "cost": 2
+  },
+  "SD01E-SPR03": {
+    "id": "SD01E-SPR03",
+    "face": {
+      "front": {
+        "name": "Training Accident",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-SPR03"
+      }
+    },
+    "name": "Training Accident",
+    "type": "Event",
+    "cost": 2
+  },
+  "SD01E-SPR04": {
+    "id": "SD01E-SPR04",
+    "face": {
+      "front": {
+        "name": "Prank Sneeze Powder",
+        "type": "Item",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-SPR04"
+      }
+    },
+    "name": "Prank Sneeze Powder",
+    "type": "Item",
+    "cost": 3
+  },
+  "SD01E-SR01": {
+    "id": "SD01E-SR01",
+    "face": {
+      "front": {
+        "name": "Rainbow Dash",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-SR01"
+      }
+    },
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "cost": 4
+  },
+  "SD01E-SR02": {
+    "id": "SD01E-SR02",
+    "face": {
+      "front": {
+        "name": "Tank",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-SR02"
+      }
+    },
+    "name": "Tank",
+    "type": "Character",
+    "cost": 2
+  },
+  "SD01E-U01": {
+    "id": "SD01E-U01",
+    "face": {
+      "front": {
+        "name": "Rainbow Dash",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-U01"
+      }
+    },
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "cost": 2
+  },
+  "SD01E-U02": {
+    "id": "SD01E-U02",
+    "face": {
+      "front": {
+        "name": "Rainbow Dash",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-U02"
+      }
+    },
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "cost": 3
+  },
+  "SD01E-U03": {
+    "id": "SD01E-U03",
+    "face": {
+      "front": {
+        "name": "Scootaloo",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-U03"
+      }
+    },
+    "name": "Scootaloo",
+    "type": "Character",
+    "cost": 2
+  },
+  "SD01E-U04": {
+    "id": "SD01E-U04",
+    "face": {
+      "front": {
+        "name": "Tank",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01E-U04"
+      }
+    },
+    "name": "Tank",
+    "type": "Character",
+    "cost": 3
+  },
+  "SD01F-C01": {
+    "id": "SD01F-C01",
+    "face": {
+      "front": {
+        "name": "Rarity",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-C01"
+      }
+    },
+    "name": "Rarity",
+    "type": "Character",
+    "cost": 4
+  },
+  "SD01F-C02": {
+    "id": "SD01F-C02",
+    "face": {
+      "front": {
+        "name": "Rarity",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-C02"
+      }
+    },
+    "name": "Rarity",
+    "type": "Character",
+    "cost": 5
+  },
+  "SD01F-C03": {
+    "id": "SD01F-C03",
+    "face": {
+      "front": {
+        "name": "Rarity",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-C03"
+      }
+    },
+    "name": "Rarity",
+    "type": "Character",
+    "cost": 1
+  },
+  "SD01F-C04": {
+    "id": "SD01F-C04",
+    "face": {
+      "front": {
+        "name": "Sweetie Belle",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-C04"
+      }
+    },
+    "name": "Sweetie Belle",
+    "type": "Character",
+    "cost": 1
+  },
+  "SD01F-C05": {
+    "id": "SD01F-C05",
+    "face": {
+      "front": {
+        "name": "Opal",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-C05"
+      }
+    },
+    "name": "Opal",
+    "type": "Character",
+    "cost": 2
+  },
+  "SD01F-C06": {
+    "id": "SD01F-C06",
+    "face": {
+      "front": {
+        "name": "A Dog and Pony Show",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-C06"
+      }
+    },
+    "name": "A Dog and Pony Show",
+    "type": "Story",
+    "cost": 0
+  },
+  "SD01F-C07": {
+    "id": "SD01F-C07",
+    "face": {
+      "front": {
+        "name": "A Dog and Pony Show",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-C07"
+      }
+    },
+    "name": "A Dog and Pony Show",
+    "type": "Story",
+    "cost": 0
+  },
+  "SD01F-C08": {
+    "id": "SD01F-C08",
+    "face": {
+      "front": {
+        "name": "A Dog and Pony Show",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-C08"
+      }
+    },
+    "name": "A Dog and Pony Show",
+    "type": "Story",
+    "cost": 0
+  },
+  "SD01F-C09": {
+    "id": "SD01F-C09",
+    "face": {
+      "front": {
+        "name": "A Dog and Pony Show",
+        "type": "Story",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-C09"
+      }
+    },
+    "name": "A Dog and Pony Show",
+    "type": "Story",
+    "cost": 0
+  },
+  "SD01F-SPR01": {
+    "id": "SD01F-SPR01",
+    "face": {
+      "front": {
+        "name": "Tailor-made",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-SPR01"
+      }
+    },
+    "name": "Tailor-made",
+    "type": "Event",
+    "cost": 2
+  },
+  "SD01F-SPR02": {
+    "id": "SD01F-SPR02",
+    "face": {
+      "front": {
+        "name": "Dress for Competition",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-SPR02"
+      }
+    },
+    "name": "Dress for Competition",
+    "type": "Event",
+    "cost": 1
+  },
+  "SD01F-SPR03": {
+    "id": "SD01F-SPR03",
+    "face": {
+      "front": {
+        "name": "Steam Therapy",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-SPR03"
+      }
+    },
+    "name": "Steam Therapy",
+    "type": "Event",
+    "cost": 2
+  },
+  "SD01F-SPR04": {
+    "id": "SD01F-SPR04",
+    "face": {
+      "front": {
+        "name": "Dress Form",
+        "type": "Item",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-SPR04"
+      }
+    },
+    "name": "Dress Form",
+    "type": "Item",
+    "cost": 1
+  },
+  "SD01F-SR01": {
+    "id": "SD01F-SR01",
+    "face": {
+      "front": {
+        "name": "Rarity",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-SR01"
+      }
+    },
+    "name": "Rarity",
+    "type": "Character",
+    "cost": 3
+  },
+  "SD01F-SR02": {
+    "id": "SD01F-SR02",
+    "face": {
+      "front": {
+        "name": "Opal",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-SR02"
+      }
+    },
+    "name": "Opal",
+    "type": "Character",
+    "cost": 3
+  },
+  "SD01F-U01": {
+    "id": "SD01F-U01",
+    "face": {
+      "front": {
+        "name": "Rarity",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-U01"
+      }
+    },
+    "name": "Rarity",
+    "type": "Character",
+    "cost": 2
+  },
+  "SD01F-U02": {
+    "id": "SD01F-U02",
+    "face": {
+      "front": {
+        "name": "Rarity",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-U02"
+      }
+    },
+    "name": "Rarity",
+    "type": "Character",
+    "cost": 4
+  },
+  "SD01F-U03": {
+    "id": "SD01F-U03",
+    "face": {
+      "front": {
+        "name": "Sweetie Belle",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-U03"
+      }
+    },
+    "name": "Sweetie Belle",
+    "type": "Character",
+    "cost": 3
+  },
+  "SD01F-U04": {
+    "id": "SD01F-U04",
+    "face": {
+      "front": {
+        "name": "Opal",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/SD01F-U04"
+      }
+    },
+    "name": "Opal",
+    "type": "Character",
+    "cost": 2
+  },
+  "※BP01-CR01": {
+    "id": "※BP01-CR01",
+    "face": {
+      "front": {
+        "name": "Twilight Sparkle",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-CR01"
+      }
+    },
+    "name": "Twilight Sparkle",
+    "type": "Character",
+    "cost": 4
+  },
+  "※BP01-CR02": {
+    "id": "※BP01-CR02",
+    "face": {
+      "front": {
+        "name": "Fluttershy",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-CR02"
+      }
+    },
+    "name": "Fluttershy",
+    "type": "Character",
+    "cost": 3
+  },
+  "※BP01-CR03": {
+    "id": "※BP01-CR03",
+    "face": {
+      "front": {
+        "name": "Pinkie Pie",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-CR03"
+      }
+    },
+    "name": "Pinkie Pie",
+    "type": "Character",
+    "cost": 2
+  },
+  "※BP01-CR04": {
+    "id": "※BP01-CR04",
+    "face": {
+      "front": {
+        "name": "Applejack",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-CR04"
+      }
+    },
+    "name": "Applejack",
+    "type": "Character",
+    "cost": 3
+  },
+  "※BP01-CR05": {
+    "id": "※BP01-CR05",
+    "face": {
+      "front": {
+        "name": "Rainbow Dash",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-CR05"
+      }
+    },
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "cost": 2
+  },
+  "※BP01-CR06": {
+    "id": "※BP01-CR06",
+    "face": {
+      "front": {
+        "name": "Rarity",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-CR06"
+      }
+    },
+    "name": "Rarity",
+    "type": "Character",
+    "cost": 4
+  },
+  "※BP01-CR07": {
+    "id": "※BP01-CR07",
+    "face": {
+      "front": {
+        "name": "Twilight Sparkle",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-CR07"
+      }
+    },
+    "name": "Twilight Sparkle",
+    "type": "Character",
+    "cost": 2
+  },
+  "※BP01-CR08": {
+    "id": "※BP01-CR08",
+    "face": {
+      "front": {
+        "name": "Fluttershy",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-CR08"
+      }
+    },
+    "name": "Fluttershy",
+    "type": "Character",
+    "cost": 3
+  },
+  "※BP01-CR09": {
+    "id": "※BP01-CR09",
+    "face": {
+      "front": {
+        "name": "Pinkie Pie",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-CR09"
+      }
+    },
+    "name": "Pinkie Pie",
+    "type": "Character",
+    "cost": 5
+  },
+  "※BP01-CR10": {
+    "id": "※BP01-CR10",
+    "face": {
+      "front": {
+        "name": "Applejack",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-CR10"
+      }
+    },
+    "name": "Applejack",
+    "type": "Character",
+    "cost": 3
+  },
+  "※BP01-CR11": {
+    "id": "※BP01-CR11",
+    "face": {
+      "front": {
+        "name": "Rainbow Dash",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-CR11"
+      }
+    },
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "cost": 4
+  },
+  "※BP01-CR12": {
+    "id": "※BP01-CR12",
+    "face": {
+      "front": {
+        "name": "Rarity",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-CR12"
+      }
+    },
+    "name": "Rarity",
+    "type": "Character",
+    "cost": 2
+  },
+  "※BP01-GR01": {
+    "id": "※BP01-GR01",
+    "face": {
+      "front": {
+        "name": "Twilight Sparkle",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-GR01"
+      }
+    },
+    "name": "Twilight Sparkle",
+    "type": "Character",
+    "cost": 3
+  },
+  "※BP01-GR02": {
+    "id": "※BP01-GR02",
+    "face": {
+      "front": {
+        "name": "Fluttershy",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-GR02"
+      }
+    },
+    "name": "Fluttershy",
+    "type": "Character",
+    "cost": 4
+  },
+  "※BP01-GR03": {
+    "id": "※BP01-GR03",
+    "face": {
+      "front": {
+        "name": "Pinkie Pie",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-GR03"
+      }
+    },
+    "name": "Pinkie Pie",
+    "type": "Character",
+    "cost": 3
+  },
+  "※BP01-GR04": {
+    "id": "※BP01-GR04",
+    "face": {
+      "front": {
+        "name": "Applejack",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-GR04"
+      }
+    },
+    "name": "Applejack",
+    "type": "Character",
+    "cost": 4
+  },
+  "※BP01-GR05": {
+    "id": "※BP01-GR05",
+    "face": {
+      "front": {
+        "name": "Rainbow Dash",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-GR05"
+      }
+    },
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "cost": 7
+  },
+  "※BP01-GR06": {
+    "id": "※BP01-GR06",
+    "face": {
+      "front": {
+        "name": "Rarity",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-GR06"
+      }
+    },
+    "name": "Rarity",
+    "type": "Character",
+    "cost": 5
+  },
+  "※BP01-RR01": {
+    "id": "※BP01-RR01",
+    "face": {
+      "front": {
+        "name": "Twilight Sparkle",
+        "type": "Main Character",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-RR01"
+      }
+    },
+    "name": "Twilight Sparkle",
+    "type": "Main Character",
+    "cost": 0
+  },
+  "※BP01-RR02": {
+    "id": "※BP01-RR02",
+    "face": {
+      "front": {
+        "name": "Fluttershy",
+        "type": "Main Character",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-RR02"
+      }
+    },
+    "name": "Fluttershy",
+    "type": "Main Character",
+    "cost": 0
+  },
+  "※BP01-RR03": {
+    "id": "※BP01-RR03",
+    "face": {
+      "front": {
+        "name": "Pinkie Pie",
+        "type": "Main Character",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-RR03"
+      }
+    },
+    "name": "Pinkie Pie",
+    "type": "Main Character",
+    "cost": 0
+  },
+  "※BP01-RR04": {
+    "id": "※BP01-RR04",
+    "face": {
+      "front": {
+        "name": "Applejack",
+        "type": "Main Character",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-RR04"
+      }
+    },
+    "name": "Applejack",
+    "type": "Main Character",
+    "cost": 0
+  },
+  "※BP01-RR05": {
+    "id": "※BP01-RR05",
+    "face": {
+      "front": {
+        "name": "Rainbow Dash",
+        "type": "Main Character",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-RR05"
+      }
+    },
+    "name": "Rainbow Dash",
+    "type": "Main Character",
+    "cost": 0
+  },
+  "※BP01-RR06": {
+    "id": "※BP01-RR06",
+    "face": {
+      "front": {
+        "name": "Rarity",
+        "type": "Main Character",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-RR06"
+      }
+    },
+    "name": "Rarity",
+    "type": "Main Character",
+    "cost": 0
+  },
+  "※BP01-SPR01": {
+    "id": "※BP01-SPR01",
+    "face": {
+      "front": {
+        "name": "Sunlight in the Rain",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-SPR01"
+      }
+    },
+    "name": "Sunlight in the Rain",
+    "type": "Event",
+    "cost": 2
+  },
+  "※BP01-SPR02": {
+    "id": "※BP01-SPR02",
+    "face": {
+      "front": {
+        "name": "Time for Clean-up!",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-SPR02"
+      }
+    },
+    "name": "Time for Clean-up!",
+    "type": "Event",
+    "cost": 3
+  },
+  "※BP01-SPR03": {
+    "id": "※BP01-SPR03",
+    "face": {
+      "front": {
+        "name": "Deliver letters",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-SPR03"
+      }
+    },
+    "name": "Deliver letters",
+    "type": "Event",
+    "cost": 1
+  },
+  "※BP01-SPR05": {
+    "id": "※BP01-SPR05",
+    "face": {
+      "front": {
+        "name": "Prepared to Go",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-SPR05"
+      }
+    },
+    "name": "Prepared to Go",
+    "type": "Event",
+    "cost": 2
+  },
+  "※BP01-SPR07": {
+    "id": "※BP01-SPR07",
+    "face": {
+      "front": {
+        "name": "Hair Curling",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-SPR07"
+      }
+    },
+    "name": "Hair Curling",
+    "type": "Event",
+    "cost": 2
+  },
+  "※BP01-SPR08": {
+    "id": "※BP01-SPR08",
+    "face": {
+      "front": {
+        "name": "Pillow Fight",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-SPR08"
+      }
+    },
+    "name": "Pillow Fight",
+    "type": "Event",
+    "cost": 2
+  },
+  "※BP01-SPR09": {
+    "id": "※BP01-SPR09",
+    "face": {
+      "front": {
+        "name": "Rain Under the Roof",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-SPR09"
+      }
+    },
+    "name": "Rain Under the Roof",
+    "type": "Event",
+    "cost": 3
+  },
+  "※BP01-SPR12": {
+    "id": "※BP01-SPR12",
+    "face": {
+      "front": {
+        "name": "Hoof Power Test",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-SPR12"
+      }
+    },
+    "name": "Hoof Power Test",
+    "type": "Event",
+    "cost": 3
+  },
+  "※BP01-SPR13": {
+    "id": "※BP01-SPR13",
+    "face": {
+      "front": {
+        "name": "Tense Competition",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-SPR13"
+      }
+    },
+    "name": "Tense Competition",
+    "type": "Event",
+    "cost": 2
+  },
+  "※BP01-SPR18": {
+    "id": "※BP01-SPR18",
+    "face": {
+      "front": {
+        "name": "Accidentally Burnt Book",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-SPR18"
+      }
+    },
+    "name": "Accidentally Burnt Book",
+    "type": "Event",
+    "cost": 2
+  },
+  "※BP01-SPR21": {
+    "id": "※BP01-SPR21",
+    "face": {
+      "front": {
+        "name": "Found Scroll",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※BP01-SPR21"
+      }
+    },
+    "name": "Found Scroll",
+    "type": "Event",
+    "cost": 1
+  },
+  "※SD01-ER01D": {
+    "id": "※SD01-ER01D",
+    "face": {
+      "front": {
+        "name": "Golden Oak Library",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER01D"
+      }
+    },
+    "name": "Golden Oak Library",
+    "type": "Scene",
+    "cost": 0
+  },
+  "※SD01-ER01N": {
+    "id": "※SD01-ER01N",
+    "face": {
+      "front": {
+        "name": "Golden Oak Library",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER01N"
+      }
+    },
+    "name": "Golden Oak Library",
+    "type": "Scene",
+    "cost": 0
+  },
+  "※SD01-ER02D": {
+    "id": "※SD01-ER02D",
+    "face": {
+      "front": {
+        "name": "Fluttershy's Cottage",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER02D"
+      }
+    },
+    "name": "Fluttershy's Cottage",
+    "type": "Scene",
+    "cost": 0
+  },
+  "※SD01-ER02N": {
+    "id": "※SD01-ER02N",
+    "face": {
+      "front": {
+        "name": "Fluttershy's Cottage",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER02N"
+      }
+    },
+    "name": "Fluttershy's Cottage",
+    "type": "Scene",
+    "cost": 0
+  },
+  "※SD01-ER03D": {
+    "id": "※SD01-ER03D",
+    "face": {
+      "front": {
+        "name": "Sugarcube Corner",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER03D"
+      }
+    },
+    "name": "Sugarcube Corner",
+    "type": "Scene",
+    "cost": 0
+  },
+  "※SD01-ER03N": {
+    "id": "※SD01-ER03N",
+    "face": {
+      "front": {
+        "name": "Sugarcube Corner",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER03N"
+      }
+    },
+    "name": "Sugarcube Corner",
+    "type": "Scene",
+    "cost": 0
+  },
+  "※SD01-ER04D": {
+    "id": "※SD01-ER04D",
+    "face": {
+      "front": {
+        "name": "Sweet Apple Acres",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER04D"
+      }
+    },
+    "name": "Sweet Apple Acres",
+    "type": "Scene",
+    "cost": 0
+  },
+  "※SD01-ER04N": {
+    "id": "※SD01-ER04N",
+    "face": {
+      "front": {
+        "name": "Sweet Apple Acres",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER04N"
+      }
+    },
+    "name": "Sweet Apple Acres",
+    "type": "Scene",
+    "cost": 0
+  },
+  "※SD01-ER05D": {
+    "id": "※SD01-ER05D",
+    "face": {
+      "front": {
+        "name": "Cloudominium",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER05D"
+      }
+    },
+    "name": "Cloudominium",
+    "type": "Scene",
+    "cost": 0
+  },
+  "※SD01-ER05N": {
+    "id": "※SD01-ER05N",
+    "face": {
+      "front": {
+        "name": "Cloudominium",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER05N"
+      }
+    },
+    "name": "Cloudominium",
+    "type": "Scene",
+    "cost": 0
+  },
+  "※SD01-ER06D": {
+    "id": "※SD01-ER06D",
+    "face": {
+      "front": {
+        "name": "Carousel Boutique",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER06D"
+      }
+    },
+    "name": "Carousel Boutique",
+    "type": "Scene",
+    "cost": 0
+  },
+  "※SD01-ER06N": {
+    "id": "※SD01-ER06N",
+    "face": {
+      "front": {
+        "name": "Carousel Boutique",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER06N"
+      }
+    },
+    "name": "Carousel Boutique",
+    "type": "Scene",
+    "cost": 0
+  },
+  "※SD01-ER07D": {
+    "id": "※SD01-ER07D",
+    "face": {
+      "front": {
+        "name": "Canterlot Tower",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER07D"
+      }
+    },
+    "name": "Canterlot Tower",
+    "type": "Scene",
+    "cost": 0
+  },
+  "※SD01-ER07N": {
+    "id": "※SD01-ER07N",
+    "face": {
+      "front": {
+        "name": "Canterlot Tower",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER07N"
+      }
+    },
+    "name": "Canterlot Tower",
+    "type": "Scene",
+    "cost": 0
+  },
+  "※SD01-ER08D": {
+    "id": "※SD01-ER08D",
+    "face": {
+      "front": {
+        "name": "Ponyville Suburb",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER08D"
+      }
+    },
+    "name": "Ponyville Suburb",
+    "type": "Scene",
+    "cost": 0
+  },
+  "※SD01-ER08N": {
+    "id": "※SD01-ER08N",
+    "face": {
+      "front": {
+        "name": "Ponyville Suburb",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER08N"
+      }
+    },
+    "name": "Ponyville Suburb",
+    "type": "Scene",
+    "cost": 0
+  },
+  "※SD01-ER09D": {
+    "id": "※SD01-ER09D",
+    "face": {
+      "front": {
+        "name": "Ponyville Street",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER09D"
+      }
+    },
+    "name": "Ponyville Street",
+    "type": "Scene",
+    "cost": 0
+  },
+  "※SD01-ER09N": {
+    "id": "※SD01-ER09N",
+    "face": {
+      "front": {
+        "name": "Ponyville Street",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER09N"
+      }
+    },
+    "name": "Ponyville Street",
+    "type": "Scene",
+    "cost": 0
+  },
+  "※SD01-ER10D": {
+    "id": "※SD01-ER10D",
+    "face": {
+      "front": {
+        "name": "Road at Sweet Apple Acres",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER10D"
+      }
+    },
+    "name": "Road at Sweet Apple Acres",
+    "type": "Scene",
+    "cost": 0
+  },
+  "※SD01-ER10N": {
+    "id": "※SD01-ER10N",
+    "face": {
+      "front": {
+        "name": "Road at Sweet Apple Acres",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER10N"
+      }
+    },
+    "name": "Road at Sweet Apple Acres",
+    "type": "Scene",
+    "cost": 0
+  },
+  "※SD01-ER11D": {
+    "id": "※SD01-ER11D",
+    "face": {
+      "front": {
+        "name": "Stairs of Cloudsdale",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER11D"
+      }
+    },
+    "name": "Stairs of Cloudsdale",
+    "type": "Scene",
+    "cost": 0
+  },
+  "※SD01-ER11N": {
+    "id": "※SD01-ER11N",
+    "face": {
+      "front": {
+        "name": "Stairs of Cloudsdale",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER11N"
+      }
+    },
+    "name": "Stairs of Cloudsdale",
+    "type": "Scene",
+    "cost": 0
+  },
+  "※SD01-ER12D": {
+    "id": "※SD01-ER12D",
+    "face": {
+      "front": {
+        "name": "Manehattan Streets",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER12D"
+      }
+    },
+    "name": "Manehattan Streets",
+    "type": "Scene",
+    "cost": 0
+  },
+  "※SD01-ER12N": {
+    "id": "※SD01-ER12N",
+    "face": {
+      "front": {
+        "name": "Manehattan Streets",
+        "type": "Scene",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-ER12N"
+      }
+    },
+    "name": "Manehattan Streets",
+    "type": "Scene",
+    "cost": 0
+  },
+  "※SD01-RR01": {
+    "id": "※SD01-RR01",
+    "face": {
+      "front": {
+        "name": "Twilight Sparkle",
+        "type": "Main Character",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-RR01"
+      }
+    },
+    "name": "Twilight Sparkle",
+    "type": "Main Character",
+    "cost": 0
+  },
+  "※SD01-RR02": {
+    "id": "※SD01-RR02",
+    "face": {
+      "front": {
+        "name": "Fluttershy",
+        "type": "Main Character",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-RR02"
+      }
+    },
+    "name": "Fluttershy",
+    "type": "Main Character",
+    "cost": 0
+  },
+  "※SD01-RR03": {
+    "id": "※SD01-RR03",
+    "face": {
+      "front": {
+        "name": "Pinkie Pie",
+        "type": "Main Character",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-RR03"
+      }
+    },
+    "name": "Pinkie Pie",
+    "type": "Main Character",
+    "cost": 0
+  },
+  "※SD01-RR04": {
+    "id": "※SD01-RR04",
+    "face": {
+      "front": {
+        "name": "Applejack",
+        "type": "Main Character",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-RR04"
+      }
+    },
+    "name": "Applejack",
+    "type": "Main Character",
+    "cost": 0
+  },
+  "※SD01-RR05": {
+    "id": "※SD01-RR05",
+    "face": {
+      "front": {
+        "name": "Rainbow Dash",
+        "type": "Main Character",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-RR05"
+      }
+    },
+    "name": "Rainbow Dash",
+    "type": "Main Character",
+    "cost": 0
+  },
+  "※SD01-RR06": {
+    "id": "※SD01-RR06",
+    "face": {
+      "front": {
+        "name": "Rarity",
+        "type": "Main Character",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/cardsFinal/※SD01-RR06"
+      }
+    },
+    "name": "Rarity",
+    "type": "Main Character",
+    "cost": 0
+  }
+}
