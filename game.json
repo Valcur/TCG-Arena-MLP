@@ -255,42 +255,58 @@
                         "enterTapped": true,
                         "keepTappedOnNewTurn": true,
                         "cardStyle": {
-                            "rotate": "90deg"
+                            "rotate": "90deg",
+                            "marginTop": "-2.5vh"
                         }
                     },
                     "Shield2": {
                         "isHidden": "yes",
-                        "height": "SMALL",
+                        "height": "MEDIUM",
                         "noQuickActions": true,
                         "alignment": "CENTER",
                         "reverseZOrder": true,
                         "enterTapped": true,
-                        "keepTappedOnNewTurn": true
+                        "keepTappedOnNewTurn": true,
+                        "cardStyle": {
+                            "rotate": "90deg",
+                            "marginTop": "-2.5vh"
+                        }
                     },
                     "Shield3": {
-                        "isHidden": "no",
-                        "height": "SMALL",
+                        "isHidden": "yes",
+                        "height": "MEDIUM",
                         "noQuickActions": true,
                         "alignment": "CENTER",
                         "reverseZOrder": true,
                         "enterTapped": true,
-                        "keepTappedOnNewTurn": true
+                        "keepTappedOnNewTurn": true,
+                        "cardStyle": {
+                            "rotate": "90deg",
+                            "marginTop": "-2.5vh"
+                        }
                     },
                     "Shield4": {
-                        "isHidden": "no",
-                        "height": "SMALL",
+                        "isHidden": "yes",
+                        "height": "MEDIUM",
                         "noQuickActions": true,
                         "alignment": "CENTER",
                         "reverseZOrder": true,
                         "enterTapped": true,
-                        "keepTappedOnNewTurn": true
+                        "keepTappedOnNewTurn": true,
+                        "cardStyle": {
+                            "rotate": "90deg",
+                            "marginTop": "-2.5vh"
+                        }
                     },
                     "Story": {
                         "isHidden": "no",
                         "height": "MEDIUM",
                         "noQuickActions": true,
                         "alignment": "CENTER",
-                        "isHorizontalAllowed": true
+                        "isHorizontalAllowed": true,
+                        "cardStyle": {
+                            "marginTop": "2.5vh"
+                        }
                     },
                     "SceneDeck": {
                         "isHidden": "yes",
