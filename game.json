@@ -63,6 +63,9 @@
             "sections": {
                 "layout": {
                     "direction": "row",
+                    "style": {
+                        "gap": "2vh"
+                    },
                     "content": [
                         {
                             "direction": "column",
@@ -71,13 +74,22 @@
                                     "direction": "row",
                                     "content": [
                                         {
-                                            "section": "A1"
+                                            "section": "A1",
+                                            "style": {
+                                                "width": "15vh"
+                                            }
                                         },
                                         {
-                                            "section": "A2"
+                                            "section": "A2",
+                                            "style": {
+                                                "width": "15vh"
+                                            }
                                         },
                                         {
-                                            "section": "A3"
+                                            "section": "A3",
+                                            "style": {
+                                                "width": "15vh"
+                                            }
                                         }
                                     ]
                                 },
@@ -101,6 +113,41 @@
                                 "maxWidth": "157vh"
                             },
                             "content": [
+                                {
+                                    "direction": "row",
+                                    "content": [
+                                        {
+                                            "section": "Leader",
+                                            "style": {
+                                                "width": "12vh"
+                                            }
+                                        },
+                                        {
+                                            "section": "L1",
+                                            "style": {
+                                                "width": "12vh"
+                                            }
+                                        },
+                                        {
+                                            "section": "L2",
+                                            "style": {
+                                                "width": "12vh"
+                                            }
+                                        },
+                                        {
+                                            "section": "L3",
+                                            "style": {
+                                                "width": "12vh"
+                                            }
+                                        },
+                                        {
+                                            "section": "L4",
+                                            "style": {
+                                                "width": "12vh"
+                                            }
+                                        }
+                                    ]
+                                },
                                 {
                                     "direction": "row",
                                     "content": [
@@ -230,6 +277,31 @@
                         "noAutoPayTo": true,
                         "displayedTitle": "Scene Deck",
                         "cardBackColor": "#e0e0e0"
+                    },
+                    "Leader": {
+                        "isHidden": "no",
+                        "height": "SMALL",
+                        "alignment": "CENTER"
+                    },
+                    "L1": {
+                        "isHidden": "no",
+                        "height": "SMALL",
+                        "alignment": "CENTER"
+                    },
+                    "L2": {
+                        "isHidden": "no",
+                        "height": "SMALL",
+                        "alignment": "CENTER"
+                    },
+                    "L3": {
+                        "isHidden": "no",
+                        "height": "SMALL",
+                        "alignment": "CENTER"
+                    },
+                    "L4": {
+                        "isHidden": "no",
+                        "height": "SMALL",
+                        "alignment": "CENTER"
                     }
                 }
             }
