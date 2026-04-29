@@ -73,6 +73,7 @@
                             "content": [
                                 {
                                     "direction": "row",
+                                    "isSymetricalForOpponents": true,
                                     "style": {
                                         "justifyContent": "center",
                                         "gap": "4vh"
@@ -100,6 +101,7 @@
                                 },
                                 {
                                     "direction": "row",
+                                    "isSymetricalForOpponents": true,
                                     "content": [
                                         {
                                             "section": "SceneDeck"
@@ -120,7 +122,6 @@
                             "content": [
                                 {
                                     "direction": "row",
-                                    "isSymetricalForOpponents": true,
                                     "style": {
                                         "justifyContent": "space-around"
                                     },
@@ -320,7 +321,7 @@
                         "drawPerTurn": 1,
                         "noAutoPayTo": true,
                         "displayedTitle": "Scene Deck",
-                        "cardBackColor": "#e0e0e0"
+                        "cardBackColor": "#a6a4d6"
                     },
                     "Leader": {
                         "isHidden": "no",
@@ -395,9 +396,10 @@
         ],
         "decksUrl": "https://valcur.github.io/TCG-Arena-SWU/SWUDecks.json"
     },
-    "customHelp": "To put a card in your ressources, drag and drop the card in the ressources area. You can take the initiative, blast and plan token with the '+' button on the bottom left corner.",
+    "customHelp": "Fan made mod. All rights reserved to Kayou and Hasbro.",
     "cards": {
         "dataUrl": "https://valcur.github.io/TCG-Arena-MLP/cards.json",
-        "cardBack": "https://valcur.github.io/TCG-Arena-MLP/images/back.jpg"
+        "cardBack": "https://valcur.github.io/TCG-Arena-MLP/images/back.jpg",
+        "cardBackColor": "#a6a4d6"
     }
 }
