@@ -64,7 +64,7 @@
                 "layout": {
                     "direction": "row",
                     "style": {
-                        "gap": "2vh"
+                        "gap": "4vh"
                     },
                     "content": [
                         {
@@ -161,7 +161,9 @@
                                 {
                                     "direction": "row",
                                     "style": {
-                                        "height": 0
+                                        "height": 0,
+                                        "paddingLeft": "1.5vh",
+                                        "paddingRight": "1.5vh"
                                     },
                                     "content": [
                                         {
@@ -248,7 +250,7 @@
                     },
                     "Shield1": {
                         "isHidden": "yes",
-                        "height": "MEDIUM",
+                        "height": "17",
                         "noQuickActions": true,
                         "alignment": "CENTER",
                         "reverseZOrder": true,
@@ -261,7 +263,7 @@
                     },
                     "Shield2": {
                         "isHidden": "yes",
-                        "height": "MEDIUM",
+                        "height": "17",
                         "noQuickActions": true,
                         "alignment": "CENTER",
                         "reverseZOrder": true,
@@ -274,7 +276,7 @@
                     },
                     "Shield3": {
                         "isHidden": "yes",
-                        "height": "MEDIUM",
+                        "height": "17",
                         "noQuickActions": true,
                         "alignment": "CENTER",
                         "reverseZOrder": true,
@@ -287,7 +289,7 @@
                     },
                     "Shield4": {
                         "isHidden": "yes",
-                        "height": "MEDIUM",
+                        "height": "17",
                         "noQuickActions": true,
                         "alignment": "CENTER",
                         "reverseZOrder": true,
@@ -300,7 +302,7 @@
                     },
                     "Story": {
                         "isHidden": "no",
-                        "height": "MEDIUM",
+                        "height": "17",
                         "noQuickActions": true,
                         "alignment": "CENTER",
                         "isHorizontalAllowed": true,
