@@ -25,19 +25,20 @@ fs.readFile(inputFile, 'utf8', (err, data) => {
               type += " " + card.story_stage
               isHorizontal = true
             }
+            let name = card.name + " " + card.id.split('-')[1]
 
             mlpCards[id] = {
                 "id": id,
                 "face": {
                     "front": {
-                        "name": card.name,
+                        "name": name,
                         "type": card.type,
                         "cost": costValue,
                         "image": baseUrl + id + ".webp",
                         "isHorizontal": isHorizontal
                     }
                 },
-                "name": card.name,
+                "name": name,
                 "type": type,
                 "cost": costValue,
                 "isHorizontal": isHorizontal

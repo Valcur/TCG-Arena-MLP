@@ -120,7 +120,7 @@
                             "direction": "column",
                             "style": {
                                 "justifyContent": "start",
-                                "width": "61vh"
+                                "width": "62vh"
                             },
                             "content": [
                                 {
@@ -168,8 +168,8 @@
                                     "direction": "row",
                                     "style": {
                                         "height": 0,
-                                        "paddingLeft": "0.5vh",
-                                        "paddingRight": "0.5vh"
+                                        "paddingLeft": "1vh",
+                                        "paddingRight": "1vh"
                                     },
                                     "content": [
                                         {
@@ -232,19 +232,19 @@
                 "sectionsDict": {
                     "A1": {
                         "isHidden": "no",
-                        "height": "17",
+                        "height": "16",
                         "noQuickActions": true,
                         "alignment": "NONE"
                     },
                     "A2": {
                         "isHidden": "no",
-                        "height": "17",
+                        "height": "16",
                         "noQuickActions": true,
                         "alignment": "NONE"
                     },
                     "A3": {
                         "isHidden": "no",
-                        "height": "17",
+                        "height": "16",
                         "noQuickActions": true,
                         "alignment": "NONE"
                     },
