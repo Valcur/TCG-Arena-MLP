@@ -76,25 +76,25 @@
                                     "isSymetricalForOpponents": true,
                                     "style": {
                                         "justifyContent": "center",
-                                        "gap": "4vh"
+                                        "gap": "5vh"
                                     },
                                     "content": [
                                         {
                                             "section": "A1",
                                             "style": {
-                                                "width": "16vh"
+                                                "width": "14vh"
                                             }
                                         },
                                         {
                                             "section": "A2",
                                             "style": {
-                                                "width": "16vh"
+                                                "width": "14vh"
                                             }
                                         },
                                         {
                                             "section": "A3",
                                             "style": {
-                                                "width": "16vh"
+                                                "width": "14vh"
                                             }
                                         }
                                     ]
@@ -107,7 +107,10 @@
                                             "section": "SceneDeck"
                                         },
                                         {
-                                            "section": "Mana"
+                                            "section": "Mana",
+                                            "style": {
+                                                "marginTop": "2vh"
+                                            }
                                         }
                                     ]
                                 }
@@ -229,21 +232,21 @@
                 "sectionsDict": {
                     "A1": {
                         "isHidden": "no",
-                        "height": "MEDIUM",
+                        "height": "17",
                         "noQuickActions": true,
-                        "alignment": "CENTER"
+                        "alignment": "NONE"
                     },
                     "A2": {
                         "isHidden": "no",
-                        "height": "MEDIUM",
+                        "height": "17",
                         "noQuickActions": true,
-                        "alignment": "CENTER"
+                        "alignment": "NONE"
                     },
                     "A3": {
                         "isHidden": "no",
-                        "height": "MEDIUM",
+                        "height": "17",
                         "noQuickActions": true,
-                        "alignment": "CENTER"
+                        "alignment": "NONE"
                     },
                     "Mana": {
                         "isHidden": "no",
