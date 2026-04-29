@@ -72,6 +72,10 @@
                             "content": [
                                 {
                                     "direction": "row",
+                                    "style": {
+                                        "justifyContent": "center",
+                                        "gap": "4vh"
+                                    },
                                     "content": [
                                         {
                                             "section": "A1",
@@ -115,35 +119,41 @@
                             "content": [
                                 {
                                     "direction": "row",
+                                    "style": {
+                                        "justifyContent": "space-around"
+                                    },
                                     "content": [
                                         {
                                             "section": "Leader",
                                             "style": {
-                                                "width": "12vh"
+                                                "width": "11vh",
+                                                "position": "absolute",
+                                                "top": 0,
+                                                "left": "-2vh"
                                             }
                                         },
                                         {
                                             "section": "L1",
                                             "style": {
-                                                "width": "12vh"
+                                                "width": "11vh"
                                             }
                                         },
                                         {
                                             "section": "L2",
                                             "style": {
-                                                "width": "12vh"
+                                                "width": "11vh"
                                             }
                                         },
                                         {
                                             "section": "L3",
                                             "style": {
-                                                "width": "12vh"
+                                                "width": "11vh"
                                             }
                                         },
                                         {
                                             "section": "L4",
                                             "style": {
-                                                "width": "12vh"
+                                                "width": "11vh"
                                             }
                                         }
                                     ]
@@ -201,7 +211,7 @@
                     ]
                 },
                 "categoriesAlreadyOnBoard": [
-                    "Leader",
+                    "Main Character->Leader",
                     "Scene->SceneDeck",
                     "Story I->Story",
                     "Story II->Story",
