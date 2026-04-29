@@ -129,7 +129,7 @@
                                                 "width": "11vh",
                                                 "position": "absolute",
                                                 "top": 0,
-                                                "left": "-2vh"
+                                                "left": "-6vh"
                                             }
                                         },
                                         {
@@ -160,13 +160,15 @@
                                 },
                                 {
                                     "direction": "row",
+                                    "style": {
+                                        "height": 0
+                                    },
                                     "content": [
                                         {
                                             "section": "Shield1",
                                             "style": {
                                                 "height": "4vh",
                                                 "overflow": "hidden",
-                                                "translate": "0 4vh",
                                                 "opacity": 0,
                                                 "pointerEvents": "none"
                                             }
@@ -176,7 +178,6 @@
                                             "style": {
                                                 "height": "4vh",
                                                 "overflow": "hidden",
-                                                "translate": "0 4vh",
                                                 "opacity": 0,
                                                 "pointerEvents": "none"
                                             }
@@ -186,7 +187,6 @@
                                             "style": {
                                                 "height": "4vh",
                                                 "overflow": "hidden",
-                                                "translate": "0 4vh",
                                                 "opacity": 0,
                                                 "pointerEvents": "none"
                                             }
@@ -196,7 +196,6 @@
                                             "style": {
                                                 "height": "4vh",
                                                 "overflow": "hidden",
-                                                "translate": "0 4vh",
                                                 "opacity": 0,
                                                 "pointerEvents": "none"
                                             }
@@ -218,40 +217,51 @@
                     "Story III->Story",
                     "Story IV->Story"
                 ],
-                "autoPlayFromHand": {},
+                "autoPlayFromHand": {
+                    "Scene": "Mana"
+                },
                 "autoPlayFromStack": {},
                 "sectionsDict": {
                     "A1": {
                         "isHidden": "no",
                         "height": "MEDIUM",
+                        "noQuickActions": true,
                         "alignment": "CENTER"
                     },
                     "A2": {
                         "isHidden": "no",
                         "height": "MEDIUM",
+                        "noQuickActions": true,
                         "alignment": "CENTER"
                     },
                     "A3": {
                         "isHidden": "no",
                         "height": "MEDIUM",
+                        "noQuickActions": true,
                         "alignment": "CENTER"
                     },
                     "Mana": {
                         "isHidden": "no",
                         "height": "SMALL",
+                        "noQuickActions": true,
                         "alignment": "START"
                     },
                     "Shield1": {
                         "isHidden": "yes",
-                        "height": "SMALL",
+                        "height": "MEDIUM",
+                        "noQuickActions": true,
                         "alignment": "CENTER",
                         "reverseZOrder": true,
                         "enterTapped": true,
-                        "keepTappedOnNewTurn": true
+                        "keepTappedOnNewTurn": true,
+                        "cardStyle": {
+                            "rotate": "90deg"
+                        }
                     },
                     "Shield2": {
                         "isHidden": "yes",
                         "height": "SMALL",
+                        "noQuickActions": true,
                         "alignment": "CENTER",
                         "reverseZOrder": true,
                         "enterTapped": true,
@@ -260,6 +270,7 @@
                     "Shield3": {
                         "isHidden": "no",
                         "height": "SMALL",
+                        "noQuickActions": true,
                         "alignment": "CENTER",
                         "reverseZOrder": true,
                         "enterTapped": true,
@@ -268,6 +279,7 @@
                     "Shield4": {
                         "isHidden": "no",
                         "height": "SMALL",
+                        "noQuickActions": true,
                         "alignment": "CENTER",
                         "reverseZOrder": true,
                         "enterTapped": true,
@@ -276,12 +288,14 @@
                     "Story": {
                         "isHidden": "no",
                         "height": "MEDIUM",
+                        "noQuickActions": true,
                         "alignment": "CENTER",
                         "isHorizontalAllowed": true
                     },
                     "SceneDeck": {
                         "isHidden": "yes",
                         "height": "SMALL",
+                        "noQuickActions": true,
                         "alignment": "DECK",
                         "drawPerTurn": 1,
                         "noAutoPayTo": true,
@@ -291,26 +305,59 @@
                     "Leader": {
                         "isHidden": "no",
                         "height": "SMALL",
-                        "alignment": "CENTER"
+                        "noQuickActions": true,
+                        "alignment": "CENTER",
+                        "cardActionShortcut": {
+                            "action": "MOVE",
+                            "actionData": {
+                                "destination": "L1"
+                            },
+                            "image": "https://russeus.github.io/RB-TCG-Arena/Images/removeButton.png"
+                        }
                     },
                     "L1": {
                         "isHidden": "no",
                         "height": "SMALL",
-                        "alignment": "CENTER"
+                        "noQuickActions": true,
+                        "alignment": "CENTER",
+                        "cardActionShortcut": {
+                            "action": "MOVE",
+                            "actionData": {
+                                "destination": "L2"
+                            },
+                            "image": "https://russeus.github.io/RB-TCG-Arena/Images/removeButton.png"
+                        }
                     },
                     "L2": {
                         "isHidden": "no",
                         "height": "SMALL",
-                        "alignment": "CENTER"
+                        "noQuickActions": true,
+                        "alignment": "CENTER",
+                        "cardActionShortcut": {
+                            "action": "MOVE",
+                            "actionData": {
+                                "destination": "L3"
+                            },
+                            "image": "https://russeus.github.io/RB-TCG-Arena/Images/removeButton.png"
+                        }
                     },
                     "L3": {
                         "isHidden": "no",
                         "height": "SMALL",
-                        "alignment": "CENTER"
+                        "noQuickActions": true,
+                        "alignment": "CENTER",
+                        "cardActionShortcut": {
+                            "action": "MOVE",
+                            "actionData": {
+                                "destination": "L4"
+                            },
+                            "image": "https://russeus.github.io/RB-TCG-Arena/Images/removeButton.png"
+                        }
                     },
                     "L4": {
                         "isHidden": "no",
                         "height": "SMALL",
+                        "noQuickActions": true,
                         "alignment": "CENTER"
                     }
                 }
