@@ -65,7 +65,7 @@
                     "direction": "row",
                     "isSymetricalForOpponents": true,
                     "style": {
-                        "gap": "4vh"
+                        "gap": "8vh"
                     },
                     "content": [
                         {
@@ -76,7 +76,7 @@
                                     "isSymetricalForOpponents": true,
                                     "style": {
                                         "justifyContent": "center",
-                                        "gap": "5vh"
+                                        "gap": "9vh"
                                     },
                                     "content": [
                                         {
@@ -102,15 +102,15 @@
                                 {
                                     "direction": "row",
                                     "isSymetricalForOpponents": true,
+                                    "style": {
+                                        "marginTop": "2vh"
+                                    },
                                     "content": [
                                         {
                                             "section": "SceneDeck"
                                         },
                                         {
-                                            "section": "Mana",
-                                            "style": {
-                                                "marginTop": "2vh"
-                                            }
+                                            "section": "Mana"
                                         }
                                     ]
                                 }
@@ -120,7 +120,7 @@
                             "direction": "column",
                             "style": {
                                 "justifyContent": "start",
-                                "width": "69vh"
+                                "width": "61vh"
                             },
                             "content": [
                                 {
@@ -135,7 +135,7 @@
                                                 "width": "11vh",
                                                 "position": "absolute",
                                                 "top": 0,
-                                                "left": "-7.5vh"
+                                                "left": "-8.5vh"
                                             }
                                         },
                                         {
@@ -256,7 +256,7 @@
                     },
                     "Shield1": {
                         "isHidden": "yes",
-                        "height": "17",
+                        "height": "15",
                         "noQuickActions": true,
                         "alignment": "CENTER",
                         "reverseZOrder": true,
@@ -269,7 +269,7 @@
                     },
                     "Shield2": {
                         "isHidden": "yes",
-                        "height": "17",
+                        "height": "15",
                         "noQuickActions": true,
                         "alignment": "CENTER",
                         "reverseZOrder": true,
@@ -282,7 +282,7 @@
                     },
                     "Shield3": {
                         "isHidden": "yes",
-                        "height": "17",
+                        "height": "15",
                         "noQuickActions": true,
                         "alignment": "CENTER",
                         "reverseZOrder": true,
@@ -295,7 +295,7 @@
                     },
                     "Shield4": {
                         "isHidden": "yes",
-                        "height": "17",
+                        "height": "15",
                         "noQuickActions": true,
                         "alignment": "CENTER",
                         "reverseZOrder": true,
@@ -308,7 +308,7 @@
                     },
                     "Story": {
                         "isHidden": "no",
-                        "height": "17",
+                        "height": "15",
                         "noQuickActions": true,
                         "alignment": "CENTER",
                         "isHorizontalAllowed": true,
