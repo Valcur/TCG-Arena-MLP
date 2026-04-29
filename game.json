@@ -63,6 +63,7 @@
             "sections": {
                 "layout": {
                     "direction": "row",
+                    "isSymetricalForOpponents": true,
                     "style": {
                         "gap": "4vh"
                     },
@@ -80,19 +81,19 @@
                                         {
                                             "section": "A1",
                                             "style": {
-                                                "width": "15vh"
+                                                "width": "16vh"
                                             }
                                         },
                                         {
                                             "section": "A2",
                                             "style": {
-                                                "width": "15vh"
+                                                "width": "16vh"
                                             }
                                         },
                                         {
                                             "section": "A3",
                                             "style": {
-                                                "width": "15vh"
+                                                "width": "16vh"
                                             }
                                         }
                                     ]
@@ -119,6 +120,7 @@
                             "content": [
                                 {
                                     "direction": "row",
+                                    "isSymetricalForOpponents": true,
                                     "style": {
                                         "justifyContent": "space-around"
                                     },
