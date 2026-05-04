@@ -25,7 +25,7 @@ fs.readFile(inputFile, 'utf8', (err, data) => {
               type += " " + card.story_stage
               isHorizontal = true
             }
-            let name = card.name + " " + card.id.split('-')[1]
+            let name = card.name + " " + card.id.replace('※', '')
 
             mlpCards[id] = {
                 "id": id,
