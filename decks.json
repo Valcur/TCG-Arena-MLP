@@ -1,0 +1,758 @@
+[
+    {
+        "title": "Rarity",
+        "id": "Rarity",
+        "cardCount": 70,
+        "createdAt": "2025-12-23T17:48:33.256Z",
+        "lastModifiedAt": "2026-05-04T16:28:07.968Z",
+        "game": "Lorcana",
+        "format": [
+            "Classic"
+        ],
+        "deckList": {
+            "categoriesOrder": [
+                "Main Character",
+                "Story I",
+                "Story II",
+                "Story III",
+                "Story IV",
+                "Scene",
+                "Character",
+                "Event",
+                "Item"
+            ],
+            "Main Character": [
+                {
+                    "count": 1,
+                    "id": "SD01-RR06"
+                }
+            ],
+            "Story I": [
+                {
+                    "count": 1,
+                    "id": "SD01F-C06"
+                }
+            ],
+            "Story II": [
+                {
+                    "count": 1,
+                    "id": "SD01F-C07"
+                }
+            ],
+            "Story III": [
+                {
+                    "count": 1,
+                    "id": "SD01F-C08"
+                }
+            ],
+            "Story IV": [
+                {
+                    "count": 1,
+                    "id": "SD01F-C09"
+                }
+            ],
+            "Scene": [
+                {
+                    "count": 15,
+                    "id": "SD01-ER06"
+                }
+            ],
+            "Character": [
+                {
+                    "count": 2,
+                    "id": "SD01F-SR01"
+                },
+                {
+                    "count": 2,
+                    "id": "SD01F-SR02"
+                },
+                {
+                    "count": 3,
+                    "id": "SD01F-U01"
+                },
+                {
+                    "count": 3,
+                    "id": "SD01F-U02"
+                },
+                {
+                    "count": 3,
+                    "id": "SD01F-U03"
+                },
+                {
+                    "count": 3,
+                    "id": "SD01F-U04"
+                },
+                {
+                    "count": 4,
+                    "id": "SD01F-C01"
+                },
+                {
+                    "count": 4,
+                    "id": "SD01F-C02"
+                },
+                {
+                    "count": 4,
+                    "id": "SD01F-C03"
+                },
+                {
+                    "count": 4,
+                    "id": "SD01F-C04"
+                },
+                {
+                    "count": 4,
+                    "id": "SD01F-C05"
+                }
+            ],
+            "Event": [
+                {
+                    "count": 4,
+                    "id": "SD01F-SPR01"
+                },
+                {
+                    "count": 3,
+                    "id": "SD01F-SPR02"
+                },
+                {
+                    "count": 3,
+                    "id": "SD01F-SPR03"
+                }
+            ],
+            "Item": [
+                {
+                    "count": 4,
+                    "id": "SD01F-SPR04"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Rainbow Dash",
+        "id": "Rainbow Dash",
+        "cardCount": 70,
+        "createdAt": "2025-12-23T17:48:33.256Z",
+        "lastModifiedAt": "2026-05-04T16:28:07.968Z",
+        "game": "Lorcana",
+        "format": [
+            "Classic"
+        ],
+        "deckList": {
+            "categoriesOrder": [
+                "Main Character",
+                "Story I",
+                "Story II",
+                "Story III",
+                "Story IV",
+                "Scene",
+                "Character",
+                "Event",
+                "Item"
+            ],
+            "Main Character": [
+                {
+                    "count": 1,
+                    "id": "SD01-RR05"
+                }
+            ],
+            "Story I": [
+                {
+                    "count": 1,
+                    "id": "SD01E-C06"
+                }
+            ],
+            "Story II": [
+                {
+                    "count": 1,
+                    "id": "SD01E-C07"
+                }
+            ],
+            "Story III": [
+                {
+                    "count": 1,
+                    "id": "SD01E-C08"
+                }
+            ],
+            "Story IV": [
+                {
+                    "count": 1,
+                    "id": "SD01E-C09"
+                }
+            ],
+            "Scene": [
+                {
+                    "count": 15,
+                    "id": "SD01-ER05"
+                }
+            ],
+            "Character": [
+                {
+                    "count": 2,
+                    "id": "SD01E-SR01"
+                },
+                {
+                    "count": 2,
+                    "id": "SD01E-SR02"
+                },
+                {
+                    "count": 3,
+                    "id": "SD01E-U01"
+                },
+                {
+                    "count": 3,
+                    "id": "SD01E-U02"
+                },
+                {
+                    "count": 3,
+                    "id": "SD01E-U03"
+                },
+                {
+                    "count": 3,
+                    "id": "SD01E-U04"
+                },
+                {
+                    "count": 4,
+                    "id": "SD01E-C01"
+                },
+                {
+                    "count": 4,
+                    "id": "SD01E-C02"
+                },
+                {
+                    "count": 4,
+                    "id": "SD01E-C03"
+                },
+                {
+                    "count": 4,
+                    "id": "SD01E-C04"
+                },
+                {
+                    "count": 4,
+                    "id": "SD01E-C05"
+                }
+            ],
+            "Event": [
+                {
+                    "count": 4,
+                    "id": "SD01E-SPR01"
+                },
+                {
+                    "count": 3,
+                    "id": "SD01E-SPR02"
+                },
+                {
+                    "count": 3,
+                    "id": "SD01E-SPR03"
+                }
+            ],
+            "Item": [
+                {
+                    "count": 4,
+                    "id": "SD01E-SPR04"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Applejack",
+        "id": "Applejack",
+        "cardCount": 70,
+        "createdAt": "2025-12-23T17:48:33.256Z",
+        "lastModifiedAt": "2026-05-04T16:28:07.968Z",
+        "game": "Lorcana",
+        "format": [
+            "Classic"
+        ],
+        "deckList": {
+            "categoriesOrder": [
+                "Main Character",
+                "Story I",
+                "Story II",
+                "Story III",
+                "Story IV",
+                "Scene",
+                "Character",
+                "Event",
+                "Item"
+            ],
+            "Main Character": [
+                {
+                    "count": 1,
+                    "id": "SD01-RR04"
+                }
+            ],
+            "Story I": [
+                {
+                    "count": 1,
+                    "id": "SD01D-C06"
+                }
+            ],
+            "Story II": [
+                {
+                    "count": 1,
+                    "id": "SD01D-C07"
+                }
+            ],
+            "Story III": [
+                {
+                    "count": 1,
+                    "id": "SD01D-C08"
+                }
+            ],
+            "Story IV": [
+                {
+                    "count": 1,
+                    "id": "SD01D-C09"
+                }
+            ],
+            "Scene": [
+                {
+                    "count": 15,
+                    "id": "SD01-ER04"
+                }
+            ],
+            "Character": [
+                {
+                    "count": 2,
+                    "id": "SD01D-SR01"
+                },
+                {
+                    "count": 2,
+                    "id": "SD01D-SR02"
+                },
+                {
+                    "count": 3,
+                    "id": "SD01D-U01"
+                },
+                {
+                    "count": 3,
+                    "id": "SD01D-U02"
+                },
+                {
+                    "count": 3,
+                    "id": "SD01D-U03"
+                },
+                {
+                    "count": 3,
+                    "id": "SD01D-U04"
+                },
+                {
+                    "count": 4,
+                    "id": "SD01D-C01"
+                },
+                {
+                    "count": 4,
+                    "id": "SD01D-C02"
+                },
+                {
+                    "count": 4,
+                    "id": "SD01D-C03"
+                },
+                {
+                    "count": 4,
+                    "id": "SD01D-C04"
+                },
+                {
+                    "count": 4,
+                    "id": "SD01D-C05"
+                }
+            ],
+            "Event": [
+                {
+                    "count": 4,
+                    "id": "SD01D-SPR01"
+                },
+                {
+                    "count": 3,
+                    "id": "SD01D-SPR02"
+                },
+                {
+                    "count": 3,
+                    "id": "SD01D-SPR03"
+                }
+            ],
+            "Item": [
+                {
+                    "count": 4,
+                    "id": "SD01D-SPR04"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Pinkie Pie",
+        "id": "Pinkie Pie",
+        "cardCount": 70,
+        "createdAt": "2025-12-23T17:48:33.256Z",
+        "lastModifiedAt": "2026-05-04T16:28:07.968Z",
+        "game": "Lorcana",
+        "format": [
+            "Classic"
+        ],
+        "deckList": {
+            "categoriesOrder": [
+                "Main Character",
+                "Story I",
+                "Story II",
+                "Story III",
+                "Story IV",
+                "Scene",
+                "Character",
+                "Event",
+                "Item"
+            ],
+            "Main Character": [
+                {
+                    "count": 1,
+                    "id": "SD01-RR03"
+                }
+            ],
+            "Story I": [
+                {
+                    "count": 1,
+                    "id": "SD01C-C06"
+                }
+            ],
+            "Story II": [
+                {
+                    "count": 1,
+                    "id": "SD01C-C07"
+                }
+            ],
+            "Story III": [
+                {
+                    "count": 1,
+                    "id": "SD01C-C08"
+                }
+            ],
+            "Story IV": [
+                {
+                    "count": 1,
+                    "id": "SD01C-C09"
+                }
+            ],
+            "Scene": [
+                {
+                    "count": 15,
+                    "id": "SD01-ER03"
+                }
+            ],
+            "Character": [
+                {
+                    "count": 2,
+                    "id": "SD01C-SR01"
+                },
+                {
+                    "count": 2,
+                    "id": "SD01C-SR02"
+                },
+                {
+                    "count": 3,
+                    "id": "SD01C-U01"
+                },
+                {
+                    "count": 3,
+                    "id": "SD01C-U02"
+                },
+                {
+                    "count": 3,
+                    "id": "SD01C-U03"
+                },
+                {
+                    "count": 3,
+                    "id": "SD01C-U04"
+                },
+                {
+                    "count": 4,
+                    "id": "SD01C-C01"
+                },
+                {
+                    "count": 4,
+                    "id": "SD01C-C02"
+                },
+                {
+                    "count": 4,
+                    "id": "SD01C-C03"
+                },
+                {
+                    "count": 4,
+                    "id": "SD01C-C04"
+                },
+                {
+                    "count": 4,
+                    "id": "SD01C-C05"
+                }
+            ],
+            "Event": [
+                {
+                    "count": 3,
+                    "id": "SD01C-SPR01"
+                }
+            ],
+            "Item": [
+                {
+                    "count": 4,
+                    "id": "SD01C-SPR02"
+                },
+                {
+                    "count": 3,
+                    "id": "SD01C-SPR03"
+                },
+                {
+                    "count": 4,
+                    "id": "SD01C-SPR04"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Fluttershy",
+        "id": "Fluttershy",
+        "cardCount": 70,
+        "createdAt": "2025-12-23T17:48:33.256Z",
+        "lastModifiedAt": "2026-05-04T16:28:07.968Z",
+        "game": "Lorcana",
+        "format": [
+            "Classic"
+        ],
+        "deckList": {
+            "categoriesOrder": [
+                "Main Character",
+                "Story I",
+                "Story II",
+                "Story III",
+                "Story IV",
+                "Scene",
+                "Character",
+                "Event",
+                "Item"
+            ],
+            "Main Character": [
+                {
+                    "count": 1,
+                    "id": "SD01-RR02"
+                }
+            ],
+            "Story I": [
+                {
+                    "count": 1,
+                    "id": "SD01B-C06"
+                }
+            ],
+            "Story II": [
+                {
+                    "count": 1,
+                    "id": "SD01B-C07"
+                }
+            ],
+            "Story III": [
+                {
+                    "count": 1,
+                    "id": "SD01B-C08"
+                }
+            ],
+            "Story IV": [
+                {
+                    "count": 1,
+                    "id": "SD01B-C09"
+                }
+            ],
+            "Scene": [
+                {
+                    "count": 15,
+                    "id": "SD01-ER02"
+                }
+            ],
+            "Character": [
+                {
+                    "count": 2,
+                    "id": "SD01B-SR01"
+                },
+                {
+                    "count": 2,
+                    "id": "SD01B-SR02"
+                },
+                {
+                    "count": 3,
+                    "id": "SD01B-U01"
+                },
+                {
+                    "count": 3,
+                    "id": "SD01B-U02"
+                },
+                {
+                    "count": 3,
+                    "id": "SD01B-U03"
+                },
+                {
+                    "count": 3,
+                    "id": "SD01B-U04"
+                },
+                {
+                    "count": 4,
+                    "id": "SD01B-C01"
+                },
+                {
+                    "count": 4,
+                    "id": "SD01B-C02"
+                },
+                {
+                    "count": 4,
+                    "id": "SD01B-C03"
+                },
+                {
+                    "count": 4,
+                    "id": "SD01B-C04"
+                },
+                {
+                    "count": 4,
+                    "id": "SD01B-C05"
+                }
+            ],
+            "Event": [
+                {
+                    "count": 4,
+                    "id": "SD01B-SPR01"
+                },
+                {
+                    "count": 3,
+                    "id": "SD01B-SPR02"
+                },
+                {
+                    "count": 3,
+                    "id": "SD01B-SPR03"
+                }
+            ],
+            "Item": [
+                {
+                    "count": 4,
+                    "id": "SD01B-SPR04"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Twilight Sparkle",
+        "id": "Twilight Sparkle",
+        "cardCount": 70,
+        "createdAt": "2025-12-23T17:48:33.256Z",
+        "lastModifiedAt": "2026-05-04T16:28:07.968Z",
+        "game": "Lorcana",
+        "format": [
+            "Classic"
+        ],
+        "deckList": {
+            "categoriesOrder": [
+                "Main Character",
+                "Story I",
+                "Story II",
+                "Story III",
+                "Story IV",
+                "Scene",
+                "Character",
+                "Event",
+                "Item"
+            ],
+            "Main Character": [
+                {
+                    "count": 1,
+                    "id": "SD01-RR01"
+                }
+            ],
+            "Story I": [
+                {
+                    "count": 1,
+                    "id": "SD01A-C06"
+                }
+            ],
+            "Story II": [
+                {
+                    "count": 1,
+                    "id": "SD01A-C07"
+                }
+            ],
+            "Story III": [
+                {
+                    "count": 1,
+                    "id": "SD01A-C08"
+                }
+            ],
+            "Story IV": [
+                {
+                    "count": 1,
+                    "id": "SD01A-C09"
+                }
+            ],
+            "Scene": [
+                {
+                    "count": 15,
+                    "id": "SD01-ER01"
+                }
+            ],
+            "Character": [
+                {
+                    "count": 2,
+                    "id": "SD01A-SR01"
+                },
+                {
+                    "count": 2,
+                    "id": "SD01A-SR02"
+                },
+                {
+                    "count": 3,
+                    "id": "SD01A-U01"
+                },
+                {
+                    "count": 3,
+                    "id": "SD01A-U02"
+                },
+                {
+                    "count": 3,
+                    "id": "SD01A-U03"
+                },
+                {
+                    "count": 3,
+                    "id": "SD01A-U04"
+                },
+                {
+                    "count": 4,
+                    "id": "SD01A-C01"
+                },
+                {
+                    "count": 4,
+                    "id": "SD01A-C02"
+                },
+                {
+                    "count": 4,
+                    "id": "SD01A-C03"
+                },
+                {
+                    "count": 4,
+                    "id": "SD01A-C04"
+                },
+                {
+                    "count": 4,
+                    "id": "SD01A-C05"
+                }
+            ],
+            "Event": [
+                {
+                    "count": 4,
+                    "id": "SD01A-SPR01"
+                },
+                {
+                    "count": 3,
+                    "id": "SD01A-SPR02"
+                },
+                {
+                    "count": 3,
+                    "id": "SD01A-SPR03"
+                }
+            ],
+            "Item": [
+                {
+                    "count": 4,
+                    "id": "SD01A-SPR04"
+                }
+            ]
+        }
+    }
+]
