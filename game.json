@@ -10,15 +10,63 @@
         "formats": [
             {
                 "title": "Classic",
-                "gameplay": "Classic"
+                "gameplay": "Classic",
+                "deckRuleset": "Classic"
             }
-        ]
+        ],
+        "deckRulesets": {
+            "Classic": {
+                "general": {
+                    "min": 70,
+                    "max": 70,
+                    "maxPerCard": 4
+                },
+                "categories": [
+                    {
+                        "category": "Main Character",
+                        "min": 1,
+                        "max": 1,
+                        "maxPerCard": 1
+                    },
+                    {
+                        "category": "Story I",
+                        "min": 1,
+                        "max": 1,
+                        "maxPerCard": 1
+                    },
+                    {
+                        "category": "Story II",
+                        "min": 1,
+                        "max": 1,
+                        "maxPerCard": 1
+                    },
+                    {
+                        "category": "Story III",
+                        "min": 1,
+                        "max": 1,
+                        "maxPerCard": 1
+                    },
+                    {
+                        "category": "Story IV",
+                        "min": 1,
+                        "max": 1,
+                        "maxPerCard": 1
+                    },
+                    {
+                        "category": "Scene",
+                        "min": 15,
+                        "max": 15,
+                        "maxPerCard": 15
+                    }
+                ]
+            }
+        }
     },
     "gameplay": {
         "Classic": {
             "mulligan": {
                 "info": "You can draw a new hand once.",
-                "startingHandSize": 6,
+                "startingHandSize": 5,
                 "mulliganCount": {
                     "max": 1
                 },
@@ -28,197 +76,290 @@
                     }
                 }
             },
+            "hideFacedDownCards": true,
             "countersStartingValues": [],
             "cardRotation": 90,
             "beforeGameStart": {
-                "initialBoardSetup": [
-                    {
-                        "drawFromTop": "Deck",
-                        "count": 1,
-                        "destination": "Shield1"
-                    },
-                    {
-                        "drawFromTop": "Deck",
-                        "count": 1,
-                        "destination": "Shield2"
-                    },
-                    {
-                        "drawFromTop": "Deck",
-                        "count": 1,
-                        "destination": "Shield3"
-                    },
-                    {
-                        "drawFromTop": "Deck",
-                        "count": 1,
-                        "destination": "Shield4"
-                    }
-                ]
+                "initialBoardSetup": {
+                    "0": [
+                        {
+                            "drawFromTop": "deck",
+                            "count": 1,
+                            "destination": "Plan1",
+                            "overrideState": {
+                                "isTapped": true
+                            }
+                        },
+                        {
+                            "drawFromTop": "deck",
+                            "count": 1,
+                            "destination": "Plan2",
+                            "overrideState": {
+                                "isTapped": true
+                            }
+                        },
+                        {
+                            "drawFromTop": "deck",
+                            "count": 1,
+                            "destination": "Plan3",
+                            "overrideState": {
+                                "isTapped": true
+                            }
+                        },
+                        {
+                            "drawFromTop": "deck",
+                            "count": 1,
+                            "destination": "Plan4",
+                            "overrideState": {
+                                "isTapped": true
+                            }
+                        },
+                        {
+                            "drawFromTop": "SceneDeck",
+                            "count": 1,
+                            "destination": "Mana",
+                            "overrideState": {
+                                "isHidden": "yes"
+                            }
+                        }
+                    ],
+                    "1": [
+                        {
+                            "drawFromTop": "deck",
+                            "count": 1,
+                            "destination": "Plan1",
+                            "overrideState": {
+                                "isTapped": true
+                            }
+                        },
+                        {
+                            "drawFromTop": "deck",
+                            "count": 1,
+                            "destination": "Plan2",
+                            "overrideState": {
+                                "isTapped": true
+                            }
+                        },
+                        {
+                            "drawFromTop": "deck",
+                            "count": 1,
+                            "destination": "Plan3",
+                            "overrideState": {
+                                "isTapped": true
+                            }
+                        },
+                        {
+                            "drawFromTop": "deck",
+                            "count": 1,
+                            "destination": "Plan4",
+                            "overrideState": {
+                                "isTapped": true
+                            }
+                        },
+                        {
+                            "drawFromTop": "SceneDeck",
+                            "count": 1,
+                            "destination": "Mana"
+                        }
+                    ]
+                }
             },
             "newTurn": {
                 "drawOnStart": false,
-                "sharedTurn": true,
-                "firstPlayerTokenName": "Initiative",
                 "drawPerTurn": 2
             },
             "sections": {
                 "layout": {
-                    "direction": "row",
-                    "isSymetricalForOpponents": true,
+                    "direction": "column",
                     "style": {
-                        "gap": "8vh"
+                        "--leader-offset": "4.2vh"
                     },
                     "content": [
                         {
-                            "direction": "column",
+                            "direction": "row",
+                            "isSymetricalForOpponents": true,
+                            "style": {
+                                "justifyContent": "center",
+                                "gap": "11vh"
+                            },
                             "content": [
                                 {
-                                    "direction": "row",
-                                    "isSymetricalForOpponents": true,
+                                    "section": "A1",
                                     "style": {
-                                        "justifyContent": "center",
-                                        "gap": "9vh"
-                                    },
-                                    "content": [
-                                        {
-                                            "section": "A1",
-                                            "style": {
-                                                "width": "14vh"
-                                            }
-                                        },
-                                        {
-                                            "section": "A2",
-                                            "style": {
-                                                "width": "14vh"
-                                            }
-                                        },
-                                        {
-                                            "section": "A3",
-                                            "style": {
-                                                "width": "14vh"
-                                            }
-                                        }
-                                    ]
+                                        "width": "15.25vh"
+                                    }
                                 },
                                 {
-                                    "direction": "row",
-                                    "isSymetricalForOpponents": true,
+                                    "section": "A2",
                                     "style": {
-                                        "marginTop": "2vh"
+                                        "width": "15.25vh"
+                                    }
+                                },
+                                {
+                                    "section": "A3",
+                                    "style": {
+                                        "width": "15.25vh"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "direction": "row",
+                            "isSymetricalForOpponents": true,
+                            "style": {
+                                "alignItems": "end",
+                                "marginTop": "0.75vh"
+                            },
+                            "content": [
+                                {
+                                    "section": "SceneDeck"
+                                },
+                                {
+                                    "section": "Mana",
+                                    "style": {
+                                        "marginRight": "2vh"
+                                    }
+                                },
+                                {
+                                    "section": "Main Character",
+                                    "style": {
+                                        "width": "11vh"
+                                    }
+                                },
+                                {
+                                    "direction": "column",
+                                    "style": {
+                                        "justifyContent": "end",
+                                        "width": "61.1vh",
+                                        "paddingBottom": "1vh"
                                     },
                                     "content": [
                                         {
-                                            "section": "SceneDeck"
+                                            "direction": "row",
+                                            "isSymetricalForOpponents": true,
+                                            "style": {
+                                                "justifyContent": "start",
+                                                "marginBottom": "0.5vh",
+                                                "paddingRight": "1vh",
+                                                "opacity": "0.1"
+                                            },
+                                            "content": [
+                                                {
+                                                    "section": "MC1",
+                                                    "style": {
+                                                        "height": "4vh"
+                                                    }
+                                                },
+                                                {
+                                                    "section": "MC2",
+                                                    "style": {
+                                                        "height": "4vh"
+                                                    }
+                                                },
+                                                {
+                                                    "section": "MC3",
+                                                    "style": {
+                                                        "height": "4vh"
+                                                    }
+                                                },
+                                                {
+                                                    "section": "MC4",
+                                                    "style": {
+                                                        "height": "4vh"
+                                                    }
+                                                }
+                                            ]
                                         },
                                         {
-                                            "section": "Mana"
+                                            "direction": "row",
+                                            "isSymetricalForOpponents": true,
+                                            "style": {
+                                                "height": "0",
+                                                "marginLeft": "0.5vh",
+                                                "marginRight": "0.5vh",
+                                                "width": "calc(100% - 1vh)"
+                                            },
+                                            "content": [
+                                                {
+                                                    "section": "Plan1",
+                                                    "style": {
+                                                        "height": "4vh",
+                                                        "marginRight": "-1vh",
+                                                        "overflow": "hidden",
+                                                        "opacity": 0,
+                                                        "pointerEvents": "none"
+                                                    }
+                                                },
+                                                {
+                                                    "section": "Plan2",
+                                                    "style": {
+                                                        "height": "4vh",
+                                                        "marginRight": "-1vh",
+                                                        "overflow": "hidden",
+                                                        "opacity": 0,
+                                                        "pointerEvents": "none"
+                                                    }
+                                                },
+                                                {
+                                                    "section": "Plan3",
+                                                    "style": {
+                                                        "height": "4vh",
+                                                        "marginRight": "-1vh",
+                                                        "overflow": "hidden",
+                                                        "opacity": 0,
+                                                        "pointerEvents": "none"
+                                                    }
+                                                },
+                                                {
+                                                    "section": "Plan4",
+                                                    "style": {
+                                                        "height": "4vh",
+                                                        "marginRight": "-1vh",
+                                                        "overflow": "hidden",
+                                                        "opacity": 0,
+                                                        "pointerEvents": "none"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "section": "Story",
+                                            "style": {
+                                                "height": "11vh"
+                                            }
                                         }
                                     ]
                                 }
                             ]
                         },
                         {
-                            "direction": "column",
+                            "direction": "row",
+                            "isSymetricalForOpponents": true,
                             "style": {
-                                "justifyContent": "start",
-                                "width": "62vh"
+                                "position": "absolute",
+                                "top": "-1vh",
+                                "start": 0,
+                                "justifyContent": "center",
+                                "gap": "calc((15.25vh + 11vh + 6vh) / 2 + 4.1vh)",
+                                "marginLeft": "-11vh",
+                                "marginRight": "11vh"
                             },
                             "content": [
                                 {
-                                    "direction": "row",
-                                    "style": {
-                                        "justifyContent": "space-around"
-                                    },
-                                    "content": [
-                                        {
-                                            "section": "Leader",
-                                            "style": {
-                                                "width": "11vh",
-                                                "position": "absolute",
-                                                "top": 0,
-                                                "left": "-8.5vh"
-                                            }
-                                        },
-                                        {
-                                            "section": "L1",
-                                            "style": {
-                                                "width": "11vh"
-                                            }
-                                        },
-                                        {
-                                            "section": "L2",
-                                            "style": {
-                                                "width": "11vh"
-                                            }
-                                        },
-                                        {
-                                            "section": "L3",
-                                            "style": {
-                                                "width": "11vh"
-                                            }
-                                        },
-                                        {
-                                            "section": "L4",
-                                            "style": {
-                                                "width": "11vh"
-                                            }
-                                        }
-                                    ]
+                                    "section": "A1_Boost"
                                 },
                                 {
-                                    "direction": "row",
-                                    "style": {
-                                        "height": 0,
-                                        "paddingLeft": "1vh",
-                                        "paddingRight": "1vh"
-                                    },
-                                    "content": [
-                                        {
-                                            "section": "Shield1",
-                                            "style": {
-                                                "height": "4vh",
-                                                "overflow": "hidden",
-                                                "opacity": 0,
-                                                "pointerEvents": "none"
-                                            }
-                                        },
-                                        {
-                                            "section": "Shield2",
-                                            "style": {
-                                                "height": "4vh",
-                                                "overflow": "hidden",
-                                                "opacity": 0,
-                                                "pointerEvents": "none"
-                                            }
-                                        },
-                                        {
-                                            "section": "Shield3",
-                                            "style": {
-                                                "height": "4vh",
-                                                "overflow": "hidden",
-                                                "opacity": 0,
-                                                "pointerEvents": "none"
-                                            }
-                                        },
-                                        {
-                                            "section": "Shield4",
-                                            "style": {
-                                                "height": "4vh",
-                                                "overflow": "hidden",
-                                                "opacity": 0,
-                                                "pointerEvents": "none"
-                                            }
-                                        }
-                                    ]
+                                    "section": "A2_Boost"
                                 },
                                 {
-                                    "section": "Story"
+                                    "section": "A3_Boost"
                                 }
                             ]
                         }
                     ]
                 },
                 "categoriesAlreadyOnBoard": [
-                    "Main Character->Leader",
+                    "Main Character",
                     "Scene->SceneDeck",
                     "Story I->Story",
                     "Story II->Story",
@@ -232,88 +373,132 @@
                 "sectionsDict": {
                     "A1": {
                         "isHidden": "no",
-                        "height": "16",
+                        "height": "20",
                         "noQuickActions": true,
-                        "alignment": "NONE"
+                        "alignment": "NONE",
+                        "displayedTitle": "Adventure 1"
                     },
                     "A2": {
                         "isHidden": "no",
-                        "height": "16",
+                        "height": "20",
                         "noQuickActions": true,
-                        "alignment": "NONE"
+                        "alignment": "NONE",
+                        "displayedTitle": "Adventure 2"
                     },
                     "A3": {
                         "isHidden": "no",
-                        "height": "16",
+                        "height": "20",
                         "noQuickActions": true,
-                        "alignment": "NONE"
+                        "alignment": "NONE",
+                        "displayedTitle": "Adventure 3"
                     },
                     "Mana": {
                         "isHidden": "no",
                         "height": "SMALL",
-                        "noQuickActions": true,
+                        "opponentAlignment": "END",
                         "alignment": "START"
                     },
-                    "Shield1": {
+                    "Plan1": {
                         "isHidden": "yes",
-                        "height": "15",
+                        "height": "10",
                         "noQuickActions": true,
-                        "alignment": "CENTER",
+                        "opponentAlignment": "START",
+                        "alignment": "END",
                         "reverseZOrder": true,
                         "enterTapped": true,
                         "keepTappedOnNewTurn": true,
                         "cardStyle": {
-                            "rotate": "90deg",
-                            "marginTop": "-2.5vh"
+                            "marginTop": "-1vh"
+                        },
+                        "cardActionShortcut": {
+                            "action": "MOVE",
+                            "actionData": {
+                                "destination": "Stack",
+                                "overrideState": {
+                                    "isHidden": "no"
+                                }
+                            },
+                            "image": "https://cdn.imgchest.com/files/22158013fb11.png"
                         }
                     },
-                    "Shield2": {
+                    "Plan2": {
                         "isHidden": "yes",
-                        "height": "15",
+                        "height": "10",
                         "noQuickActions": true,
-                        "alignment": "CENTER",
+                        "opponentAlignment": "START",
+                        "alignment": "END",
                         "reverseZOrder": true,
                         "enterTapped": true,
                         "keepTappedOnNewTurn": true,
                         "cardStyle": {
-                            "rotate": "90deg",
-                            "marginTop": "-2.5vh"
+                            "marginTop": "-1vh"
+                        },
+                        "cardActionShortcut": {
+                            "action": "MOVE",
+                            "actionData": {
+                                "destination": "Stack",
+                                "overrideState": {
+                                    "isHidden": "no"
+                                }
+                            },
+                            "image": "https://cdn.imgchest.com/files/22158013fb11.png"
                         }
                     },
-                    "Shield3": {
+                    "Plan3": {
                         "isHidden": "yes",
-                        "height": "15",
+                        "height": "10",
                         "noQuickActions": true,
-                        "alignment": "CENTER",
+                        "opponentAlignment": "START",
+                        "alignment": "END",
                         "reverseZOrder": true,
                         "enterTapped": true,
                         "keepTappedOnNewTurn": true,
                         "cardStyle": {
-                            "rotate": "90deg",
-                            "marginTop": "-2.5vh"
+                            "marginTop": "-1vh"
+                        },
+                        "cardActionShortcut": {
+                            "action": "MOVE",
+                            "actionData": {
+                                "destination": "Stack",
+                                "overrideState": {
+                                    "isHidden": "no"
+                                }
+                            },
+                            "image": "https://cdn.imgchest.com/files/22158013fb11.png"
                         }
                     },
-                    "Shield4": {
+                    "Plan4": {
                         "isHidden": "yes",
-                        "height": "15",
+                        "height": "10",
                         "noQuickActions": true,
-                        "alignment": "CENTER",
+                        "opponentAlignment": "START",
+                        "alignment": "END",
                         "reverseZOrder": true,
                         "enterTapped": true,
                         "keepTappedOnNewTurn": true,
                         "cardStyle": {
-                            "rotate": "90deg",
-                            "marginTop": "-2.5vh"
+                            "marginTop": "-1vh"
+                        },
+                        "cardActionShortcut": {
+                            "action": "MOVE",
+                            "actionData": {
+                                "destination": "Stack",
+                                "overrideState": {
+                                    "isHidden": "no"
+                                }
+                            },
+                            "image": "https://cdn.imgchest.com/files/22158013fb11.png"
                         }
                     },
                     "Story": {
                         "isHidden": "no",
                         "height": "15",
                         "noQuickActions": true,
-                        "alignment": "CENTER",
+                        "opponentAlignment": "END",
+                        "alignment": "START",
                         "isHorizontalAllowed": true,
                         "cardStyle": {
-                            "marginTop": "2.5vh"
+                            "marginTop": "-2vh"
                         }
                     },
                     "SceneDeck": {
@@ -326,63 +511,168 @@
                         "displayedTitle": "Scene Deck",
                         "cardBackColor": "#a6a4d6"
                     },
-                    "Leader": {
+                    "Main Character": {
                         "isHidden": "no",
                         "height": "SMALL",
                         "noQuickActions": true,
                         "alignment": "CENTER",
+                        "reverseZOrder": true,
                         "cardActionShortcut": {
                             "action": "MOVE",
                             "actionData": {
-                                "destination": "L1"
+                                "destination": "MC1"
                             },
-                            "image": "https://russeus.github.io/RB-TCG-Arena/Images/removeButton.png"
+                            "image": "https://cdn.imgchest.com/files/b6885d7475b5.png"
                         }
                     },
-                    "L1": {
+                    "MC1": {
                         "isHidden": "no",
                         "height": "SMALL",
                         "noQuickActions": true,
-                        "alignment": "CENTER",
+                        "alignment": "START",
+                        "opponentAlignment": "END",
+                        "reverseZOrder": true,
+                        "cardStyle": {
+                            "zIndex": 100
+                        },
                         "cardActionShortcut": {
                             "action": "MOVE",
                             "actionData": {
-                                "destination": "L2"
+                                "destination": "MC2"
                             },
-                            "image": "https://russeus.github.io/RB-TCG-Arena/Images/removeButton.png"
+                            "image": "https://cdn.imgchest.com/files/b6885d7475b5.png"
                         }
                     },
-                    "L2": {
+                    "MC2": {
                         "isHidden": "no",
                         "height": "SMALL",
                         "noQuickActions": true,
-                        "alignment": "CENTER",
+                        "alignment": "START",
+                        "opponentAlignment": "END",
+                        "reverseZOrder": true,
                         "cardActionShortcut": {
                             "action": "MOVE",
                             "actionData": {
-                                "destination": "L3"
+                                "destination": "MC3"
                             },
-                            "image": "https://russeus.github.io/RB-TCG-Arena/Images/removeButton.png"
+                            "image": "https://cdn.imgchest.com/files/b6885d7475b5.png"
                         }
                     },
-                    "L3": {
+                    "MC3": {
                         "isHidden": "no",
                         "height": "SMALL",
                         "noQuickActions": true,
-                        "alignment": "CENTER",
+                        "alignment": "START",
+                        "opponentAlignment": "END",
+                        "reverseZOrder": true,
                         "cardActionShortcut": {
                             "action": "MOVE",
                             "actionData": {
-                                "destination": "L4"
+                                "destination": "MC4"
                             },
-                            "image": "https://russeus.github.io/RB-TCG-Arena/Images/removeButton.png"
+                            "image": "https://cdn.imgchest.com/files/b6885d7475b5.png"
                         }
                     },
-                    "L4": {
+                    "MC4": {
                         "isHidden": "no",
                         "height": "SMALL",
                         "noQuickActions": true,
-                        "alignment": "CENTER"
+                        "alignment": "START",
+                        "opponentAlignment": "END",
+                        "reverseZOrder": true
+                    },
+                    "A1_Boost": {
+                        "type": "custom",
+                        "defaultValue": {
+                            "boost": 0
+                        },
+                        "blueprint": {
+                            "type": "div",
+                            "props": {
+                                "style": {
+                                    "width": "6vh",
+                                    "height": "3.5vh"
+                                },
+                                "className": "p-0 m-0 box-container align-items-center text-nowrap gap-1 blurry"
+                            },
+                            "children": [
+                                {
+                                    "type": "input-number",
+                                    "props": {
+                                        "value": "{{game.data.A1_Boost.boost}}",
+                                        "style": {
+                                            "--input-background-color": "transparent"
+                                        }
+                                    },
+                                    "onChange": "game.data.A1_Boost.boost = value;"
+                                }
+                            ]
+                        },
+                        "events": {
+                            "onNewTurn": "game.data.A1_Boost.boost = 0"
+                        }
+                    },
+                    "A2_Boost": {
+                        "type": "custom",
+                        "defaultValue": {
+                            "boost": 0
+                        },
+                        "blueprint": {
+                            "type": "div",
+                            "props": {
+                                "style": {
+                                    "width": "6vh",
+                                    "height": "3.5vh"
+                                },
+                                "className": "p-0 m-0 box-container align-items-center text-nowrap gap-1 blurry"
+                            },
+                            "children": [
+                                {
+                                    "type": "input-number",
+                                    "props": {
+                                        "value": "{{game.data.A2_Boost.boost}}",
+                                        "style": {
+                                            "--input-background-color": "transparent"
+                                        }
+                                    },
+                                    "onChange": "game.data.A2_Boost.boost = value;"
+                                }
+                            ]
+                        },
+                        "events": {
+                            "onNewTurn": "game.data.A2_Boost.boost = 0"
+                        }
+                    },
+                    "A3_Boost": {
+                        "type": "custom",
+                        "defaultValue": {
+                            "boost": 0
+                        },
+                        "blueprint": {
+                            "type": "div",
+                            "props": {
+                                "style": {
+                                    "width": "6vh",
+                                    "height": "3.5vh"
+                                },
+                                "className": "p-0 m-0 box-container align-items-center text-nowrap gap-1 blurry"
+                            },
+                            "children": [
+                                {
+                                    "type": "input-number",
+                                    "props": {
+                                        "value": "{{game.data.A3_Boost.boost}}",
+                                        "style": {
+                                            "--input-background-color": "transparent"
+                                        }
+                                    },
+                                    "onChange": "game.data.A3_Boost.boost = value;"
+                                }
+                            ]
+                        },
+                        "events": {
+                            "onNewTurn": "game.data.A3_Boost.boost = 0"
+                        }
                     }
                 }
             }
@@ -390,16 +680,13 @@
     },
     "defaultRessources": {
         "backgrounds": [
-            "https://i.imgur.com/KmXSVQp.jpeg",
-            "https://i.imgur.com/CFOwlKx.jpeg",
-            "https://i.imgur.com/n2EYbyu.jpeg",
-            "https://i.imgur.com/C3LAixE.jpeg",
-            "https://i.imgur.com/EZ9z8z6.jpeg",
-            "https://i.imgur.com/CKuiePb.jpeg"
+            "https://cdn.imgchest.com/files/c1be43009edb.jpg",
+            "https://cdn.imgchest.com/files/62211639787d.jpg",
+            "https://cdn.imgchest.com/files/ce6d3242b998.jpg"
         ],
-        "decksUrl": "https://valcur.github.io/TCG-Arena-SWU/SWUDecks.json"
+        "decksUrl": "https://valcur.github.io/TCG-Arena-MLP/decks.json"
     },
-    "customHelp": "Fan made mod. All rights reserved to Kayou and Hasbro.",
+    "customHelp": "You can learn the rules here https://kayoumylittleponycardgame.miraheze.org/wiki/Rules_my_little_pony_card_game#Play_a_card_from_your_hand\n-To reveal a plan card, put your mouse over a plan card and click the flip icon on the top left corner.\n- To move your Main Character forward, put your mouse over it and click the arrow icon on the top left corner.\n\nFan made mod. All rights reserved to Kayou and Hasbro. Defaults playmat by SambaNeko.",
     "cards": {
         "dataUrl": "https://valcur.github.io/TCG-Arena-MLP/cards.json",
         "cardBack": "https://valcur.github.io/TCG-Arena-MLP/images/back.jpg",
