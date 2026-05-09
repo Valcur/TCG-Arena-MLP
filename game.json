@@ -1,6 +1,6 @@
 {
     "name": "My Little Pony",
-    "menuBackgroundImage": "https://valcur.github.io/TCG-Arena-MLP/images/cover.jpg",
+    "menuBackgroundImage": "https://cdn.imgchest.com/files/07b61a92ea49.jpg",
     "deckBuilding": {
         "mainFilters": [
             "aspects",
@@ -121,6 +121,11 @@
                             "overrideState": {
                                 "isHidden": "yes"
                             }
+                        },
+                        {
+                            "drawFromTop": "SceneDeck",
+                            "count": 1,
+                            "destination": "Mana"
                         }
                     ],
                     "1": [
@@ -166,7 +171,7 @@
             },
             "newTurn": {
                 "drawOnStart": false,
-                "drawPerTurn": 2
+                "drawPerTurn": 1
             },
             "sections": {
                 "layout": {
@@ -341,8 +346,8 @@
                                 "start": 0,
                                 "justifyContent": "center",
                                 "gap": "calc((15.25vh + 11vh + 6vh) / 2 + 4.1vh)",
-                                "marginLeft": "-11vh",
-                                "marginRight": "11vh"
+                                "marginLeft": "10.5vh",
+                                "marginRight": "-10.5vh"
                             },
                             "content": [
                                 {
@@ -369,7 +374,9 @@
                 "autoPlayFromHand": {
                     "Scene": "Mana"
                 },
-                "autoPlayFromStack": {},
+                "autoPlayFromStack": {
+                    "Item": "GROUP"
+                },
                 "sectionsDict": {
                     "A1": {
                         "isHidden": "no",
@@ -686,7 +693,7 @@
         ],
         "decksUrl": "https://valcur.github.io/TCG-Arena-MLP/decks.json"
     },
-    "customHelp": "You can learn the rules here https://kayoumylittleponycardgame.miraheze.org/wiki/Rules_my_little_pony_card_game#Play_a_card_from_your_hand\n-To reveal a plan card, put your mouse over a plan card and click the flip icon on the top left corner.\n- To move your Main Character forward, put your mouse over it and click the arrow icon on the top left corner.\n\nFan made mod. All rights reserved to Kayou and Hasbro. Defaults playmat by SambaNeko.",
+    "customHelp": "You can learn the rules here https://kayoumylittleponycardgame.miraheze.org/wiki/Rules_my_little_pony_card_game\n- To reveal a Plan card, put your mouse over a plan card and click the flip icon on the top left corner.\n- To move your Main Character forward, put your mouse over it and click the arrow icon on the top left corner.\n- To flip a Scene, hold the Z key and click the card or right click -> Hide.\n- Counters are available next to each Adventure area to keep track of inspiration boost. Counters are reset on each new turn.\n\nFan made mod. All rights reserved to Kayou and Hasbro. Defaults playmat by SambaNeko.",
     "cards": {
         "dataUrl": "https://valcur.github.io/TCG-Arena-MLP/cards.json",
         "cardBack": "https://valcur.github.io/TCG-Arena-MLP/images/back.jpg",
