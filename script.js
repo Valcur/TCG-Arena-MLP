@@ -27,6 +27,17 @@ fs.readFile(inputFile, 'utf8', (err, data) => {
             return key ? setNames[key] : "Unknown Set";
         }
 
+        function getRarityName(rarityCode) {
+            if (rarityCode === "C") return "Common";
+            if (rarityCode === "U") return "Uncommon";
+          
+            if (rarityCode.includes("※")) {
+              return "※Rare";
+            }
+          
+            return "Rare";
+          }
+
         originalCards.forEach(card => {
             const id = card.id;
             const costValue = card.cost || 0;
@@ -53,7 +64,7 @@ fs.readFile(inputFile, 'utf8', (err, data) => {
                 "type": type,
                 "cost": costValue,
                 "set": getSetName(card.deck),
-                "rarity": card.rarity,
+                "rarity": getRarityName(card.rarity),
                 "isHorizontal": isHorizontal
             };
         });
