@@ -53,6 +53,7 @@ fs.readFile(inputFile, 'utf8', (err, data) => {
                 "type": type,
                 "cost": costValue,
                 "set": getSetName(card.deck),
+                "rarity": card.rarity,
                 "isHorizontal": isHorizontal
             };
         });

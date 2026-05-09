@@ -14,6 +14,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP01-C02": {
@@ -31,6 +32,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP01-C03": {
@@ -48,6 +50,7 @@
     "type": "Character",
     "cost": 7,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP01-C04": {
@@ -65,6 +68,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP01-C05": {
@@ -82,6 +86,7 @@
     "type": "Character",
     "cost": 6,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP01-C06": {
@@ -99,6 +104,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP01-C07": {
@@ -116,6 +122,7 @@
     "type": "Character",
     "cost": 1,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP01-C08": {
@@ -133,6 +140,7 @@
     "type": "Character",
     "cost": 6,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP01-C09": {
@@ -150,6 +158,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP01-C10": {
@@ -167,6 +176,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP01-C11": {
@@ -184,6 +194,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP01-C12": {
@@ -201,6 +212,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP01-C13": {
@@ -218,6 +230,7 @@
     "type": "Character",
     "cost": 6,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP01-C14": {
@@ -235,6 +248,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP01-C15": {
@@ -252,6 +266,7 @@
     "type": "Character",
     "cost": 1,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP01-C16": {
@@ -269,6 +284,7 @@
     "type": "Character",
     "cost": 1,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP01-C17": {
@@ -286,6 +302,7 @@
     "type": "Character",
     "cost": 1,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP01-C18": {
@@ -303,6 +320,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP01-C19": {
@@ -320,6 +338,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP01-C20": {
@@ -337,6 +356,7 @@
     "type": "Character",
     "cost": 1,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP01-C21": {
@@ -354,6 +374,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP01-C22": {
@@ -371,6 +392,7 @@
     "type": "Character",
     "cost": 1,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP01-C23": {
@@ -388,6 +410,7 @@
     "type": "Character",
     "cost": 7,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP01-C24": {
@@ -405,6 +428,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP01-C25": {
@@ -422,6 +446,7 @@
     "type": "Story I",
     "cost": 0,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP01-C26": {
@@ -439,6 +464,7 @@
     "type": "Story II",
     "cost": 0,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP01-C27": {
@@ -456,6 +482,7 @@
     "type": "Story III",
     "cost": 0,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP01-C28": {
@@ -473,6 +500,7 @@
     "type": "Story IV",
     "cost": 0,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP01-C29": {
@@ -490,6 +518,7 @@
     "type": "Story I",
     "cost": 0,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP01-C30": {
@@ -507,6 +536,7 @@
     "type": "Story II",
     "cost": 0,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP01-C31": {
@@ -524,6 +554,7 @@
     "type": "Story III",
     "cost": 0,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP01-C32": {
@@ -541,6 +572,7 @@
     "type": "Story IV",
     "cost": 0,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP01-C33": {
@@ -558,6 +590,7 @@
     "type": "Story I",
     "cost": 0,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP01-C34": {
@@ -575,6 +608,7 @@
     "type": "Story II",
     "cost": 0,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP01-C35": {
@@ -592,6 +626,7 @@
     "type": "Story III",
     "cost": 0,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP01-C36": {
@@ -609,6 +644,7 @@
     "type": "Story IV",
     "cost": 0,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP01-C37": {
@@ -626,6 +662,7 @@
     "type": "Story I",
     "cost": 0,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP01-C38": {
@@ -643,6 +680,7 @@
     "type": "Story II",
     "cost": 0,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP01-C39": {
@@ -660,6 +698,7 @@
     "type": "Story III",
     "cost": 0,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP01-C40": {
@@ -677,6 +716,7 @@
     "type": "Story IV",
     "cost": 0,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP01-C41": {
@@ -694,6 +734,7 @@
     "type": "Story I",
     "cost": 0,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP01-C42": {
@@ -711,6 +752,7 @@
     "type": "Story II",
     "cost": 0,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP01-C43": {
@@ -728,6 +770,7 @@
     "type": "Story III",
     "cost": 0,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP01-C44": {
@@ -745,6 +788,7 @@
     "type": "Story IV",
     "cost": 0,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP01-C45": {
@@ -762,6 +806,7 @@
     "type": "Story I",
     "cost": 0,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP01-C46": {
@@ -779,6 +824,7 @@
     "type": "Story II",
     "cost": 0,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP01-C47": {
@@ -796,6 +842,7 @@
     "type": "Story III",
     "cost": 0,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP01-C48": {
@@ -813,6 +860,7 @@
     "type": "Story IV",
     "cost": 0,
     "set": "Fantasy Wonderland",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP01-CR01": {
@@ -830,6 +878,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Fantasy Wonderland",
+    "rarity": "CR",
     "isHorizontal": false
   },
   "BP01-CR02": {
@@ -847,6 +896,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Fantasy Wonderland",
+    "rarity": "CR",
     "isHorizontal": false
   },
   "BP01-CR03": {
@@ -864,6 +914,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "CR",
     "isHorizontal": false
   },
   "BP01-CR04": {
@@ -881,6 +932,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Fantasy Wonderland",
+    "rarity": "CR",
     "isHorizontal": false
   },
   "BP01-CR05": {
@@ -898,6 +950,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "CR",
     "isHorizontal": false
   },
   "BP01-CR06": {
@@ -915,6 +968,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Fantasy Wonderland",
+    "rarity": "CR",
     "isHorizontal": false
   },
   "BP01-CR07": {
@@ -932,6 +986,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "CR",
     "isHorizontal": false
   },
   "BP01-CR08": {
@@ -949,6 +1004,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Fantasy Wonderland",
+    "rarity": "CR",
     "isHorizontal": false
   },
   "BP01-CR09": {
@@ -966,6 +1022,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Fantasy Wonderland",
+    "rarity": "CR",
     "isHorizontal": false
   },
   "BP01-CR10": {
@@ -983,6 +1040,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Fantasy Wonderland",
+    "rarity": "CR",
     "isHorizontal": false
   },
   "BP01-CR11": {
@@ -1000,6 +1058,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Fantasy Wonderland",
+    "rarity": "CR",
     "isHorizontal": false
   },
   "BP01-CR12": {
@@ -1017,6 +1076,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "CR",
     "isHorizontal": false
   },
   "BP01-GR01": {
@@ -1034,6 +1094,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Fantasy Wonderland",
+    "rarity": "GR",
     "isHorizontal": false
   },
   "BP01-GR02": {
@@ -1051,6 +1112,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Fantasy Wonderland",
+    "rarity": "GR",
     "isHorizontal": false
   },
   "BP01-GR03": {
@@ -1068,6 +1130,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Fantasy Wonderland",
+    "rarity": "GR",
     "isHorizontal": false
   },
   "BP01-GR04": {
@@ -1085,6 +1148,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Fantasy Wonderland",
+    "rarity": "GR",
     "isHorizontal": false
   },
   "BP01-GR05": {
@@ -1102,6 +1166,7 @@
     "type": "Character",
     "cost": 7,
     "set": "Fantasy Wonderland",
+    "rarity": "GR",
     "isHorizontal": false
   },
   "BP01-GR06": {
@@ -1119,6 +1184,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Fantasy Wonderland",
+    "rarity": "GR",
     "isHorizontal": false
   },
   "BP01-GR07": {
@@ -1136,6 +1202,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Fantasy Wonderland",
+    "rarity": "GR",
     "isHorizontal": false
   },
   "BP01-GR08": {
@@ -1153,6 +1220,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "GR",
     "isHorizontal": false
   },
   "BP01-GR09": {
@@ -1170,6 +1238,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "GR",
     "isHorizontal": false
   },
   "BP01-GR10": {
@@ -1187,6 +1256,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Fantasy Wonderland",
+    "rarity": "GR",
     "isHorizontal": false
   },
   "BP01-GR11": {
@@ -1204,6 +1274,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "GR",
     "isHorizontal": false
   },
   "BP01-GR12": {
@@ -1221,6 +1292,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Fantasy Wonderland",
+    "rarity": "GR",
     "isHorizontal": false
   },
   "BP01-RR01": {
@@ -1238,6 +1310,7 @@
     "type": "Main Character",
     "cost": 0,
     "set": "Fantasy Wonderland",
+    "rarity": "RR",
     "isHorizontal": false
   },
   "BP01-RR02": {
@@ -1255,6 +1328,7 @@
     "type": "Main Character",
     "cost": 0,
     "set": "Fantasy Wonderland",
+    "rarity": "RR",
     "isHorizontal": false
   },
   "BP01-RR03": {
@@ -1272,6 +1346,7 @@
     "type": "Main Character",
     "cost": 0,
     "set": "Fantasy Wonderland",
+    "rarity": "RR",
     "isHorizontal": false
   },
   "BP01-RR04": {
@@ -1289,6 +1364,7 @@
     "type": "Main Character",
     "cost": 0,
     "set": "Fantasy Wonderland",
+    "rarity": "RR",
     "isHorizontal": false
   },
   "BP01-RR05": {
@@ -1306,6 +1382,7 @@
     "type": "Main Character",
     "cost": 0,
     "set": "Fantasy Wonderland",
+    "rarity": "RR",
     "isHorizontal": false
   },
   "BP01-RR06": {
@@ -1323,6 +1400,7 @@
     "type": "Main Character",
     "cost": 0,
     "set": "Fantasy Wonderland",
+    "rarity": "RR",
     "isHorizontal": false
   },
   "BP01-SPR01": {
@@ -1340,6 +1418,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP01-SPR02": {
@@ -1357,6 +1436,7 @@
     "type": "Event",
     "cost": 3,
     "set": "Fantasy Wonderland",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP01-SPR03": {
@@ -1374,6 +1454,7 @@
     "type": "Event",
     "cost": 1,
     "set": "Fantasy Wonderland",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP01-SPR04": {
@@ -1391,6 +1472,7 @@
     "type": "Event",
     "cost": 3,
     "set": "Fantasy Wonderland",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP01-SPR05": {
@@ -1408,6 +1490,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP01-SPR06": {
@@ -1425,6 +1508,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP01-SPR07": {
@@ -1442,6 +1526,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP01-SPR08": {
@@ -1459,6 +1544,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP01-SPR09": {
@@ -1476,6 +1562,7 @@
     "type": "Event",
     "cost": 3,
     "set": "Fantasy Wonderland",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP01-SPR10": {
@@ -1493,6 +1580,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP01-SPR11": {
@@ -1510,6 +1598,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP01-SPR12": {
@@ -1527,6 +1616,7 @@
     "type": "Event",
     "cost": 3,
     "set": "Fantasy Wonderland",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP01-SPR13": {
@@ -1544,6 +1634,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP01-SPR14": {
@@ -1561,6 +1652,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP01-SPR15": {
@@ -1578,6 +1670,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP01-SPR16": {
@@ -1595,6 +1688,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP01-SPR17": {
@@ -1612,6 +1706,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP01-SPR18": {
@@ -1629,6 +1724,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP01-SPR19": {
@@ -1646,6 +1742,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP01-SPR20": {
@@ -1663,6 +1760,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP01-SPR21": {
@@ -1680,6 +1778,7 @@
     "type": "Event",
     "cost": 1,
     "set": "Fantasy Wonderland",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP01-SPR22": {
@@ -1697,6 +1796,7 @@
     "type": "Item",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP01-SPR23": {
@@ -1714,6 +1814,7 @@
     "type": "Item",
     "cost": 3,
     "set": "Fantasy Wonderland",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP01-SPR24": {
@@ -1731,6 +1832,7 @@
     "type": "Item",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP01-SPR25": {
@@ -1748,6 +1850,7 @@
     "type": "Item",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP01-SPR26": {
@@ -1765,6 +1868,7 @@
     "type": "Item",
     "cost": 3,
     "set": "Fantasy Wonderland",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP01-SPR27": {
@@ -1782,6 +1886,7 @@
     "type": "Item",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP01-SPR28": {
@@ -1799,6 +1904,7 @@
     "type": "Item",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP01-SR01": {
@@ -1816,6 +1922,7 @@
     "type": "Character",
     "cost": 1,
     "set": "Fantasy Wonderland",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "BP01-SR02": {
@@ -1833,6 +1940,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Fantasy Wonderland",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "BP01-SR03": {
@@ -1850,6 +1958,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "BP01-SR04": {
@@ -1867,6 +1976,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Fantasy Wonderland",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "BP01-SR05": {
@@ -1884,6 +1994,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Fantasy Wonderland",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "BP01-SR06": {
@@ -1901,6 +2012,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "BP01-SR07": {
@@ -1918,6 +2030,7 @@
     "type": "Character",
     "cost": 1,
     "set": "Fantasy Wonderland",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "BP01-SR08": {
@@ -1935,6 +2048,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Fantasy Wonderland",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "BP01-SR09": {
@@ -1952,6 +2066,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Fantasy Wonderland",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "BP01-SR10": {
@@ -1969,6 +2084,7 @@
     "type": "Character",
     "cost": 7,
     "set": "Fantasy Wonderland",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "BP01-SR11": {
@@ -1986,6 +2102,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Fantasy Wonderland",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "BP01-SR12": {
@@ -2003,6 +2120,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Fantasy Wonderland",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "BP01-SR13": {
@@ -2020,6 +2138,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Fantasy Wonderland",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "BP01-SR14": {
@@ -2037,6 +2156,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "BP01-U01": {
@@ -2054,6 +2174,7 @@
     "type": "Character",
     "cost": 1,
     "set": "Fantasy Wonderland",
+    "rarity": "U",
     "isHorizontal": false
   },
   "BP01-U02": {
@@ -2071,6 +2192,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Fantasy Wonderland",
+    "rarity": "U",
     "isHorizontal": false
   },
   "BP01-U03": {
@@ -2088,6 +2210,7 @@
     "type": "Character",
     "cost": 7,
     "set": "Fantasy Wonderland",
+    "rarity": "U",
     "isHorizontal": false
   },
   "BP01-U04": {
@@ -2105,6 +2228,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Fantasy Wonderland",
+    "rarity": "U",
     "isHorizontal": false
   },
   "BP01-U05": {
@@ -2122,6 +2246,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "U",
     "isHorizontal": false
   },
   "BP01-U06": {
@@ -2139,6 +2264,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Fantasy Wonderland",
+    "rarity": "U",
     "isHorizontal": false
   },
   "BP01-U07": {
@@ -2156,6 +2282,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "U",
     "isHorizontal": false
   },
   "BP01-U08": {
@@ -2173,6 +2300,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "U",
     "isHorizontal": false
   },
   "BP01-U09": {
@@ -2190,6 +2318,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Fantasy Wonderland",
+    "rarity": "U",
     "isHorizontal": false
   },
   "BP01-U10": {
@@ -2207,6 +2336,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "U",
     "isHorizontal": false
   },
   "BP01-U11": {
@@ -2224,6 +2354,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Fantasy Wonderland",
+    "rarity": "U",
     "isHorizontal": false
   },
   "BP01-U12": {
@@ -2241,6 +2372,7 @@
     "type": "Character",
     "cost": 1,
     "set": "Fantasy Wonderland",
+    "rarity": "U",
     "isHorizontal": false
   },
   "BP01-U13": {
@@ -2258,6 +2390,7 @@
     "type": "Character",
     "cost": 1,
     "set": "Fantasy Wonderland",
+    "rarity": "U",
     "isHorizontal": false
   },
   "BP01-U14": {
@@ -2275,6 +2408,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Fantasy Wonderland",
+    "rarity": "U",
     "isHorizontal": false
   },
   "BP01-U15": {
@@ -2292,6 +2426,7 @@
     "type": "Character",
     "cost": 1,
     "set": "Fantasy Wonderland",
+    "rarity": "U",
     "isHorizontal": false
   },
   "BP01-U16": {
@@ -2309,6 +2444,7 @@
     "type": "Character",
     "cost": 1,
     "set": "Fantasy Wonderland",
+    "rarity": "U",
     "isHorizontal": false
   },
   "BP01-U17": {
@@ -2326,6 +2462,7 @@
     "type": "Character",
     "cost": 1,
     "set": "Fantasy Wonderland",
+    "rarity": "U",
     "isHorizontal": false
   },
   "BP01-U18": {
@@ -2343,6 +2480,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "U",
     "isHorizontal": false
   },
   "BP02-C01": {
@@ -2360,6 +2498,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP02-C02": {
@@ -2377,6 +2516,7 @@
     "type": "Character",
     "cost": 6,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP02-C03": {
@@ -2394,6 +2534,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP02-C04": {
@@ -2411,6 +2552,7 @@
     "type": "Character",
     "cost": 1,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP02-C05": {
@@ -2428,6 +2570,7 @@
     "type": "Character",
     "cost": 6,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP02-C06": {
@@ -2445,6 +2588,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP02-C07": {
@@ -2462,6 +2606,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP02-C08": {
@@ -2479,6 +2624,7 @@
     "type": "Character",
     "cost": 7,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP02-C09": {
@@ -2496,6 +2642,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP02-C10": {
@@ -2513,6 +2660,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP02-C11": {
@@ -2530,6 +2678,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP02-C12": {
@@ -2547,6 +2696,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP02-C13": {
@@ -2564,6 +2714,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP02-C14": {
@@ -2581,6 +2732,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP02-C15": {
@@ -2598,6 +2750,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP02-C16": {
@@ -2615,6 +2768,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP02-C17": {
@@ -2632,6 +2786,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP02-C18": {
@@ -2649,6 +2804,7 @@
     "type": "Character",
     "cost": 7,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP02-C19": {
@@ -2666,6 +2822,7 @@
     "type": "Character",
     "cost": 6,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP02-C20": {
@@ -2683,6 +2840,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP02-C21": {
@@ -2700,6 +2858,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP02-C22": {
@@ -2717,6 +2876,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP02-C23": {
@@ -2734,6 +2894,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP02-C24": {
@@ -2751,6 +2912,7 @@
     "type": "Character",
     "cost": 1,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": false
   },
   "BP02-C25": {
@@ -2768,6 +2930,7 @@
     "type": "Story I",
     "cost": 0,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP02-C26": {
@@ -2785,6 +2948,7 @@
     "type": "Story II",
     "cost": 0,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP02-C27": {
@@ -2802,6 +2966,7 @@
     "type": "Story III",
     "cost": 0,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP02-C28": {
@@ -2819,6 +2984,7 @@
     "type": "Story IV",
     "cost": 0,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP02-C29": {
@@ -2836,6 +3002,7 @@
     "type": "Story I",
     "cost": 0,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP02-C30": {
@@ -2853,6 +3020,7 @@
     "type": "Story II",
     "cost": 0,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP02-C31": {
@@ -2870,6 +3038,7 @@
     "type": "Story III",
     "cost": 0,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP02-C32": {
@@ -2887,6 +3056,7 @@
     "type": "Story IV",
     "cost": 0,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP02-C33": {
@@ -2904,6 +3074,7 @@
     "type": "Story I",
     "cost": 0,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP02-C34": {
@@ -2921,6 +3092,7 @@
     "type": "Story II",
     "cost": 0,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP02-C35": {
@@ -2938,6 +3110,7 @@
     "type": "Story III",
     "cost": 0,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP02-C36": {
@@ -2955,6 +3128,7 @@
     "type": "Story IV",
     "cost": 0,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP02-C37": {
@@ -2972,6 +3146,7 @@
     "type": "Story I",
     "cost": 0,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP02-C38": {
@@ -2989,6 +3164,7 @@
     "type": "Story II",
     "cost": 0,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP02-C39": {
@@ -3006,6 +3182,7 @@
     "type": "Story III",
     "cost": 0,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP02-C40": {
@@ -3023,6 +3200,7 @@
     "type": "Story IV",
     "cost": 0,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP02-C41": {
@@ -3040,6 +3218,7 @@
     "type": "Story I",
     "cost": 0,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP02-C42": {
@@ -3057,6 +3236,7 @@
     "type": "Story II",
     "cost": 0,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP02-C43": {
@@ -3074,6 +3254,7 @@
     "type": "Story III",
     "cost": 0,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP02-C44": {
@@ -3091,6 +3272,7 @@
     "type": "Story IV",
     "cost": 0,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP02-C45": {
@@ -3108,6 +3290,7 @@
     "type": "Story I",
     "cost": 0,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP02-C46": {
@@ -3125,6 +3308,7 @@
     "type": "Story II",
     "cost": 0,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP02-C47": {
@@ -3142,6 +3326,7 @@
     "type": "Story III",
     "cost": 0,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP02-C48": {
@@ -3159,6 +3344,7 @@
     "type": "Story IV",
     "cost": 0,
     "set": "Unknown Set",
+    "rarity": "C",
     "isHorizontal": true
   },
   "BP02-CR01": {
@@ -3176,6 +3362,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Unknown Set",
+    "rarity": "CR",
     "isHorizontal": false
   },
   "BP02-CR02": {
@@ -3193,6 +3380,7 @@
     "type": "Character",
     "cost": 6,
     "set": "Unknown Set",
+    "rarity": "CR",
     "isHorizontal": false
   },
   "BP02-CR03": {
@@ -3210,6 +3398,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Unknown Set",
+    "rarity": "CR",
     "isHorizontal": false
   },
   "BP02-CR04": {
@@ -3227,6 +3416,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Unknown Set",
+    "rarity": "CR",
     "isHorizontal": false
   },
   "BP02-CR05": {
@@ -3244,6 +3434,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Unknown Set",
+    "rarity": "CR",
     "isHorizontal": false
   },
   "BP02-CR06": {
@@ -3261,6 +3452,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Unknown Set",
+    "rarity": "CR",
     "isHorizontal": false
   },
   "BP02-CR07": {
@@ -3278,6 +3470,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Unknown Set",
+    "rarity": "CR",
     "isHorizontal": false
   },
   "BP02-CR08": {
@@ -3295,6 +3488,7 @@
     "type": "Character",
     "cost": 6,
     "set": "Unknown Set",
+    "rarity": "CR",
     "isHorizontal": false
   },
   "BP02-CR09": {
@@ -3312,6 +3506,7 @@
     "type": "Character",
     "cost": 6,
     "set": "Unknown Set",
+    "rarity": "CR",
     "isHorizontal": false
   },
   "BP02-CR10": {
@@ -3329,6 +3524,7 @@
     "type": "Character",
     "cost": 6,
     "set": "Unknown Set",
+    "rarity": "CR",
     "isHorizontal": false
   },
   "BP02-CR11": {
@@ -3346,6 +3542,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Unknown Set",
+    "rarity": "CR",
     "isHorizontal": false
   },
   "BP02-CR12": {
@@ -3363,6 +3560,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Unknown Set",
+    "rarity": "CR",
     "isHorizontal": false
   },
   "BP02-ER01": {
@@ -3380,6 +3578,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Unknown Set",
+    "rarity": "ER",
     "isHorizontal": false
   },
   "BP02-ER02": {
@@ -3397,6 +3596,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Unknown Set",
+    "rarity": "ER",
     "isHorizontal": false
   },
   "BP02-ER03": {
@@ -3414,6 +3614,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Unknown Set",
+    "rarity": "ER",
     "isHorizontal": false
   },
   "BP02-ER04": {
@@ -3431,6 +3632,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Unknown Set",
+    "rarity": "ER",
     "isHorizontal": false
   },
   "BP02-ER05": {
@@ -3448,6 +3650,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Unknown Set",
+    "rarity": "ER",
     "isHorizontal": false
   },
   "BP02-ER06": {
@@ -3465,6 +3668,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Unknown Set",
+    "rarity": "ER",
     "isHorizontal": false
   },
   "BP02-GR01": {
@@ -3482,6 +3686,7 @@
     "type": "Character",
     "cost": 6,
     "set": "Unknown Set",
+    "rarity": "GR",
     "isHorizontal": false
   },
   "BP02-GR02": {
@@ -3499,6 +3704,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Unknown Set",
+    "rarity": "GR",
     "isHorizontal": false
   },
   "BP02-GR03": {
@@ -3516,6 +3722,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Unknown Set",
+    "rarity": "GR",
     "isHorizontal": false
   },
   "BP02-GR04": {
@@ -3533,6 +3740,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Unknown Set",
+    "rarity": "GR",
     "isHorizontal": false
   },
   "BP02-GR05": {
@@ -3550,6 +3758,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Unknown Set",
+    "rarity": "GR",
     "isHorizontal": false
   },
   "BP02-GR06": {
@@ -3567,6 +3776,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Unknown Set",
+    "rarity": "GR",
     "isHorizontal": false
   },
   "BP02-GR07": {
@@ -3584,6 +3794,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Unknown Set",
+    "rarity": "GR",
     "isHorizontal": false
   },
   "BP02-GR08": {
@@ -3601,6 +3812,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Unknown Set",
+    "rarity": "GR",
     "isHorizontal": false
   },
   "BP02-GR09": {
@@ -3618,6 +3830,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Unknown Set",
+    "rarity": "GR",
     "isHorizontal": false
   },
   "BP02-GR10": {
@@ -3635,6 +3848,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Unknown Set",
+    "rarity": "GR",
     "isHorizontal": false
   },
   "BP02-GR11": {
@@ -3652,6 +3866,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Unknown Set",
+    "rarity": "GR",
     "isHorizontal": false
   },
   "BP02-GR12": {
@@ -3669,6 +3884,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Unknown Set",
+    "rarity": "GR",
     "isHorizontal": false
   },
   "BP02-RR01": {
@@ -3686,6 +3902,7 @@
     "type": "Main Character",
     "cost": 0,
     "set": "Unknown Set",
+    "rarity": "RR",
     "isHorizontal": false
   },
   "BP02-RR02": {
@@ -3703,6 +3920,7 @@
     "type": "Main Character",
     "cost": 0,
     "set": "Unknown Set",
+    "rarity": "RR",
     "isHorizontal": false
   },
   "BP02-RR03": {
@@ -3720,6 +3938,7 @@
     "type": "Main Character",
     "cost": 0,
     "set": "Unknown Set",
+    "rarity": "RR",
     "isHorizontal": false
   },
   "BP02-RR04": {
@@ -3737,6 +3956,7 @@
     "type": "Main Character",
     "cost": 0,
     "set": "Unknown Set",
+    "rarity": "RR",
     "isHorizontal": false
   },
   "BP02-RR05": {
@@ -3754,6 +3974,7 @@
     "type": "Main Character",
     "cost": 0,
     "set": "Unknown Set",
+    "rarity": "RR",
     "isHorizontal": false
   },
   "BP02-RR06": {
@@ -3771,6 +3992,7 @@
     "type": "Main Character",
     "cost": 0,
     "set": "Unknown Set",
+    "rarity": "RR",
     "isHorizontal": false
   },
   "BP02-SPR01": {
@@ -3788,6 +4010,7 @@
     "type": "Event",
     "cost": 1,
     "set": "Unknown Set",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP02-SPR02": {
@@ -3805,6 +4028,7 @@
     "type": "Event",
     "cost": 5,
     "set": "Unknown Set",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP02-SPR03": {
@@ -3822,6 +4046,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Unknown Set",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP02-SPR04": {
@@ -3839,6 +4064,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Unknown Set",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP02-SPR05": {
@@ -3856,6 +4082,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Unknown Set",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP02-SPR06": {
@@ -3873,6 +4100,7 @@
     "type": "Event",
     "cost": 3,
     "set": "Unknown Set",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP02-SPR07": {
@@ -3890,6 +4118,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Unknown Set",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP02-SPR08": {
@@ -3907,6 +4136,7 @@
     "type": "Event",
     "cost": 3,
     "set": "Unknown Set",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP02-SPR09": {
@@ -3924,6 +4154,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Unknown Set",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP02-SPR10": {
@@ -3941,6 +4172,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Unknown Set",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP02-SPR11": {
@@ -3958,6 +4190,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Unknown Set",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP02-SPR12": {
@@ -3975,6 +4208,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Unknown Set",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP02-SPR13": {
@@ -3992,6 +4226,7 @@
     "type": "Event",
     "cost": 4,
     "set": "Unknown Set",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP02-SPR14": {
@@ -4009,6 +4244,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Unknown Set",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP02-SPR15": {
@@ -4026,6 +4262,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Unknown Set",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP02-SPR16": {
@@ -4043,6 +4280,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Unknown Set",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP02-SPR17": {
@@ -4060,6 +4298,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Unknown Set",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP02-SPR18": {
@@ -4077,6 +4316,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Unknown Set",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP02-SPR19": {
@@ -4094,6 +4334,7 @@
     "type": "Event",
     "cost": 5,
     "set": "Unknown Set",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP02-SPR20": {
@@ -4111,6 +4352,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Unknown Set",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP02-SPR21": {
@@ -4128,6 +4370,7 @@
     "type": "Event",
     "cost": 4,
     "set": "Unknown Set",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP02-SPR22": {
@@ -4145,6 +4388,7 @@
     "type": "Item",
     "cost": 1,
     "set": "Unknown Set",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP02-SPR23": {
@@ -4162,6 +4406,7 @@
     "type": "Item",
     "cost": 2,
     "set": "Unknown Set",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP02-SPR24": {
@@ -4179,6 +4424,7 @@
     "type": "Item",
     "cost": 4,
     "set": "Unknown Set",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP02-SPR25": {
@@ -4196,6 +4442,7 @@
     "type": "Item",
     "cost": 2,
     "set": "Unknown Set",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP02-SPR26": {
@@ -4213,6 +4460,7 @@
     "type": "Item",
     "cost": 2,
     "set": "Unknown Set",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP02-SPR27": {
@@ -4230,6 +4478,7 @@
     "type": "Item",
     "cost": 2,
     "set": "Unknown Set",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP02-SPR28": {
@@ -4247,6 +4496,7 @@
     "type": "Item",
     "cost": 2,
     "set": "Unknown Set",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "BP02-SR01": {
@@ -4264,6 +4514,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Unknown Set",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "BP02-SR02": {
@@ -4281,6 +4532,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Unknown Set",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "BP02-SR03": {
@@ -4298,6 +4550,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Unknown Set",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "BP02-SR04": {
@@ -4315,6 +4568,7 @@
     "type": "Character",
     "cost": 1,
     "set": "Unknown Set",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "BP02-SR05": {
@@ -4332,6 +4586,7 @@
     "type": "Character",
     "cost": 6,
     "set": "Unknown Set",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "BP02-SR06": {
@@ -4349,6 +4604,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Unknown Set",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "BP02-SR07": {
@@ -4366,6 +4622,7 @@
     "type": "Character",
     "cost": 7,
     "set": "Unknown Set",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "BP02-SR08": {
@@ -4383,6 +4640,7 @@
     "type": "Character",
     "cost": 6,
     "set": "Unknown Set",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "BP02-SR09": {
@@ -4400,6 +4658,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Unknown Set",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "BP02-SR10": {
@@ -4417,6 +4676,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Unknown Set",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "BP02-SR11": {
@@ -4434,6 +4694,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Unknown Set",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "BP02-SR12": {
@@ -4451,6 +4712,7 @@
     "type": "Character",
     "cost": 6,
     "set": "Unknown Set",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "BP02-SR13": {
@@ -4468,6 +4730,7 @@
     "type": "Character",
     "cost": 6,
     "set": "Unknown Set",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "BP02-SR14": {
@@ -4485,6 +4748,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Unknown Set",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "BP02-U01": {
@@ -4502,6 +4766,7 @@
     "type": "Character",
     "cost": 9,
     "set": "Unknown Set",
+    "rarity": "U",
     "isHorizontal": false
   },
   "BP02-U02": {
@@ -4519,6 +4784,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Unknown Set",
+    "rarity": "U",
     "isHorizontal": false
   },
   "BP02-U03": {
@@ -4536,6 +4802,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Unknown Set",
+    "rarity": "U",
     "isHorizontal": false
   },
   "BP02-U04": {
@@ -4553,6 +4820,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Unknown Set",
+    "rarity": "U",
     "isHorizontal": false
   },
   "BP02-U05": {
@@ -4570,6 +4838,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Unknown Set",
+    "rarity": "U",
     "isHorizontal": false
   },
   "BP02-U06": {
@@ -4587,6 +4856,7 @@
     "type": "Character",
     "cost": 7,
     "set": "Unknown Set",
+    "rarity": "U",
     "isHorizontal": false
   },
   "BP02-U07": {
@@ -4604,6 +4874,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Unknown Set",
+    "rarity": "U",
     "isHorizontal": false
   },
   "BP02-U08": {
@@ -4621,6 +4892,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Unknown Set",
+    "rarity": "U",
     "isHorizontal": false
   },
   "BP02-U09": {
@@ -4638,6 +4910,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Unknown Set",
+    "rarity": "U",
     "isHorizontal": false
   },
   "BP02-U10": {
@@ -4655,6 +4928,7 @@
     "type": "Character",
     "cost": 7,
     "set": "Unknown Set",
+    "rarity": "U",
     "isHorizontal": false
   },
   "BP02-U11": {
@@ -4672,6 +4946,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Unknown Set",
+    "rarity": "U",
     "isHorizontal": false
   },
   "BP02-U12": {
@@ -4689,6 +4964,7 @@
     "type": "Character",
     "cost": 7,
     "set": "Unknown Set",
+    "rarity": "U",
     "isHorizontal": false
   },
   "BP02-U13": {
@@ -4706,6 +4982,7 @@
     "type": "Character",
     "cost": 8,
     "set": "Unknown Set",
+    "rarity": "U",
     "isHorizontal": false
   },
   "BP02-U14": {
@@ -4723,6 +5000,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Unknown Set",
+    "rarity": "U",
     "isHorizontal": false
   },
   "BP02-U15": {
@@ -4740,6 +5018,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Unknown Set",
+    "rarity": "U",
     "isHorizontal": false
   },
   "BP02-U16": {
@@ -4757,6 +5036,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Unknown Set",
+    "rarity": "U",
     "isHorizontal": false
   },
   "BP02-U17": {
@@ -4774,6 +5054,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Unknown Set",
+    "rarity": "U",
     "isHorizontal": false
   },
   "BP02-U18": {
@@ -4791,6 +5072,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Unknown Set",
+    "rarity": "U",
     "isHorizontal": false
   },
   "SD01-C01": {
@@ -4808,6 +5090,7 @@
     "type": "Character",
     "cost": 1,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01-C02": {
@@ -4825,6 +5108,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01-C03": {
@@ -4842,6 +5126,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01-C04": {
@@ -4859,6 +5144,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01-C05": {
@@ -4876,6 +5162,7 @@
     "type": "Character",
     "cost": 1,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01-C06": {
@@ -4893,6 +5180,7 @@
     "type": "Character",
     "cost": 1,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01-C07": {
@@ -4910,6 +5198,7 @@
     "type": "Character",
     "cost": 1,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01-C08": {
@@ -4927,6 +5216,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01-C09": {
@@ -4944,6 +5234,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01-CR01": {
@@ -4961,6 +5252,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Friendship Begin",
+    "rarity": "CR",
     "isHorizontal": false
   },
   "SD01-CR02": {
@@ -4978,6 +5270,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Friendship Begin",
+    "rarity": "CR",
     "isHorizontal": false
   },
   "SD01-CR03": {
@@ -4995,6 +5288,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Friendship Begin",
+    "rarity": "CR",
     "isHorizontal": false
   },
   "SD01-CR04": {
@@ -5012,6 +5306,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Friendship Begin",
+    "rarity": "CR",
     "isHorizontal": false
   },
   "SD01-CR05": {
@@ -5029,6 +5324,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Friendship Begin",
+    "rarity": "CR",
     "isHorizontal": false
   },
   "SD01-CR06": {
@@ -5046,6 +5342,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "CR",
     "isHorizontal": false
   },
   "SD01-ER01": {
@@ -5063,6 +5360,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "ER",
     "isHorizontal": false
   },
   "SD01-ER02": {
@@ -5080,6 +5378,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "ER",
     "isHorizontal": false
   },
   "SD01-ER03": {
@@ -5097,6 +5396,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "ER",
     "isHorizontal": false
   },
   "SD01-ER04": {
@@ -5114,6 +5414,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "ER",
     "isHorizontal": false
   },
   "SD01-ER05": {
@@ -5131,6 +5432,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "ER",
     "isHorizontal": false
   },
   "SD01-ER06": {
@@ -5148,6 +5450,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "ER",
     "isHorizontal": false
   },
   "SD01-ER07": {
@@ -5165,6 +5468,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "ER",
     "isHorizontal": false
   },
   "SD01-ER08": {
@@ -5182,6 +5486,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "ER",
     "isHorizontal": false
   },
   "SD01-ER09": {
@@ -5199,6 +5504,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "ER",
     "isHorizontal": false
   },
   "SD01-ER10": {
@@ -5216,6 +5522,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "ER",
     "isHorizontal": false
   },
   "SD01-ER11": {
@@ -5233,6 +5540,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "ER",
     "isHorizontal": false
   },
   "SD01-ER12": {
@@ -5250,6 +5558,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "ER",
     "isHorizontal": false
   },
   "SD01-GR01": {
@@ -5267,6 +5576,7 @@
     "type": "Character",
     "cost": 7,
     "set": "Friendship Begin",
+    "rarity": "GR",
     "isHorizontal": false
   },
   "SD01-GR02": {
@@ -5284,6 +5594,7 @@
     "type": "Character",
     "cost": 7,
     "set": "Friendship Begin",
+    "rarity": "GR",
     "isHorizontal": false
   },
   "SD01-GR03": {
@@ -5301,6 +5612,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "GR",
     "isHorizontal": false
   },
   "SD01-GR04": {
@@ -5318,6 +5630,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Friendship Begin",
+    "rarity": "GR",
     "isHorizontal": false
   },
   "SD01-GR05": {
@@ -5335,6 +5648,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "GR",
     "isHorizontal": false
   },
   "SD01-GR06": {
@@ -5352,6 +5666,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Friendship Begin",
+    "rarity": "GR",
     "isHorizontal": false
   },
   "SD01-RR01": {
@@ -5369,6 +5684,7 @@
     "type": "Main Character",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "RR",
     "isHorizontal": false
   },
   "SD01-RR02": {
@@ -5386,6 +5702,7 @@
     "type": "Main Character",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "RR",
     "isHorizontal": false
   },
   "SD01-RR03": {
@@ -5403,6 +5720,7 @@
     "type": "Main Character",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "RR",
     "isHorizontal": false
   },
   "SD01-RR04": {
@@ -5420,6 +5738,7 @@
     "type": "Main Character",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "RR",
     "isHorizontal": false
   },
   "SD01-RR05": {
@@ -5437,6 +5756,7 @@
     "type": "Main Character",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "RR",
     "isHorizontal": false
   },
   "SD01-RR06": {
@@ -5454,6 +5774,7 @@
     "type": "Main Character",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "RR",
     "isHorizontal": false
   },
   "SD01-SPR01": {
@@ -5471,6 +5792,7 @@
     "type": "Event",
     "cost": 1,
     "set": "Friendship Begin",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "SD01-SPR02": {
@@ -5488,6 +5810,7 @@
     "type": "Event",
     "cost": 3,
     "set": "Friendship Begin",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "SD01-SPR03": {
@@ -5505,6 +5828,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "SD01-SPR04": {
@@ -5522,6 +5846,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "SD01-SPR05": {
@@ -5539,6 +5864,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "SD01-SPR06": {
@@ -5556,6 +5882,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "SD01-SPR07": {
@@ -5573,6 +5900,7 @@
     "type": "Item",
     "cost": 3,
     "set": "Friendship Begin",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "SD01-SPR08": {
@@ -5590,6 +5918,7 @@
     "type": "Item",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "SD01-SPR09": {
@@ -5607,6 +5936,7 @@
     "type": "Item",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "SD01-SPR10": {
@@ -5624,6 +5954,7 @@
     "type": "Item",
     "cost": 4,
     "set": "Friendship Begin",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "SD01-SR01": {
@@ -5641,6 +5972,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Friendship Begin",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "SD01-SR02": {
@@ -5658,6 +5990,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Friendship Begin",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "SD01-SR03": {
@@ -5675,6 +6008,7 @@
     "type": "Character",
     "cost": 1,
     "set": "Friendship Begin",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "SD01-SR04": {
@@ -5692,6 +6026,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "SD01-SR05": {
@@ -5709,6 +6044,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Friendship Begin",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "SD01-SR06": {
@@ -5726,6 +6062,7 @@
     "type": "Character",
     "cost": 6,
     "set": "Friendship Begin",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "SD01-U01": {
@@ -5743,6 +6080,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Friendship Begin",
+    "rarity": "U",
     "isHorizontal": false
   },
   "SD01-U02": {
@@ -5760,6 +6098,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Friendship Begin",
+    "rarity": "U",
     "isHorizontal": false
   },
   "SD01-U03": {
@@ -5777,6 +6116,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Friendship Begin",
+    "rarity": "U",
     "isHorizontal": false
   },
   "SD01-U04": {
@@ -5794,6 +6134,7 @@
     "type": "Character",
     "cost": 1,
     "set": "Friendship Begin",
+    "rarity": "U",
     "isHorizontal": false
   },
   "SD01-U05": {
@@ -5811,6 +6152,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Friendship Begin",
+    "rarity": "U",
     "isHorizontal": false
   },
   "SD01-U06": {
@@ -5828,6 +6170,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "U",
     "isHorizontal": false
   },
   "SD01-U07": {
@@ -5845,6 +6188,7 @@
     "type": "Character",
     "cost": 1,
     "set": "Friendship Begin",
+    "rarity": "U",
     "isHorizontal": false
   },
   "SD01A-C01": {
@@ -5862,6 +6206,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01A-C02": {
@@ -5879,6 +6224,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01A-C03": {
@@ -5896,6 +6242,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01A-C04": {
@@ -5913,6 +6260,7 @@
     "type": "Character",
     "cost": 1,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01A-C05": {
@@ -5930,6 +6278,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01A-C06": {
@@ -5947,6 +6296,7 @@
     "type": "Story I",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": true
   },
   "SD01A-C07": {
@@ -5964,6 +6314,7 @@
     "type": "Story II",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": true
   },
   "SD01A-C08": {
@@ -5981,6 +6332,7 @@
     "type": "Story III",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": true
   },
   "SD01A-C09": {
@@ -5998,6 +6350,7 @@
     "type": "Story IV",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": true
   },
   "SD01A-SPR01": {
@@ -6015,6 +6368,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "SD01A-SPR02": {
@@ -6032,6 +6386,7 @@
     "type": "Event",
     "cost": 3,
     "set": "Friendship Begin",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "SD01A-SPR03": {
@@ -6049,6 +6404,7 @@
     "type": "Event",
     "cost": 3,
     "set": "Friendship Begin",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "SD01A-SPR04": {
@@ -6066,6 +6422,7 @@
     "type": "Item",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "SD01A-SR01": {
@@ -6083,6 +6440,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Friendship Begin",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "SD01A-SR02": {
@@ -6100,6 +6458,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Friendship Begin",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "SD01A-U01": {
@@ -6117,6 +6476,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Friendship Begin",
+    "rarity": "U",
     "isHorizontal": false
   },
   "SD01A-U02": {
@@ -6134,6 +6494,7 @@
     "type": "Character",
     "cost": 6,
     "set": "Friendship Begin",
+    "rarity": "U",
     "isHorizontal": false
   },
   "SD01A-U03": {
@@ -6151,6 +6512,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Friendship Begin",
+    "rarity": "U",
     "isHorizontal": false
   },
   "SD01A-U04": {
@@ -6168,6 +6530,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "U",
     "isHorizontal": false
   },
   "SD01B-C01": {
@@ -6185,6 +6548,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01B-C02": {
@@ -6202,6 +6566,7 @@
     "type": "Character",
     "cost": 1,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01B-C03": {
@@ -6219,6 +6584,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01B-C04": {
@@ -6236,6 +6602,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01B-C05": {
@@ -6253,6 +6620,7 @@
     "type": "Character",
     "cost": 1,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01B-C06": {
@@ -6270,6 +6638,7 @@
     "type": "Story I",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": true
   },
   "SD01B-C07": {
@@ -6287,6 +6656,7 @@
     "type": "Story II",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": true
   },
   "SD01B-C08": {
@@ -6304,6 +6674,7 @@
     "type": "Story III",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": true
   },
   "SD01B-C09": {
@@ -6321,6 +6692,7 @@
     "type": "Story IV",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": true
   },
   "SD01B-SPR01": {
@@ -6338,6 +6710,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "SD01B-SPR02": {
@@ -6355,6 +6728,7 @@
     "type": "Event",
     "cost": 1,
     "set": "Friendship Begin",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "SD01B-SPR03": {
@@ -6372,6 +6746,7 @@
     "type": "Event",
     "cost": 4,
     "set": "Friendship Begin",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "SD01B-SPR04": {
@@ -6389,6 +6764,7 @@
     "type": "Item",
     "cost": 3,
     "set": "Friendship Begin",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "SD01B-SR01": {
@@ -6406,6 +6782,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Friendship Begin",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "SD01B-SR02": {
@@ -6423,6 +6800,7 @@
     "type": "Character",
     "cost": 1,
     "set": "Friendship Begin",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "SD01B-U01": {
@@ -6440,6 +6818,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Friendship Begin",
+    "rarity": "U",
     "isHorizontal": false
   },
   "SD01B-U02": {
@@ -6457,6 +6836,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Friendship Begin",
+    "rarity": "U",
     "isHorizontal": false
   },
   "SD01B-U03": {
@@ -6474,6 +6854,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Friendship Begin",
+    "rarity": "U",
     "isHorizontal": false
   },
   "SD01B-U04": {
@@ -6491,6 +6872,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "U",
     "isHorizontal": false
   },
   "SD01C-C01": {
@@ -6508,6 +6890,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01C-C02": {
@@ -6525,6 +6908,7 @@
     "type": "Character",
     "cost": 6,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01C-C03": {
@@ -6542,6 +6926,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01C-C04": {
@@ -6559,6 +6944,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01C-C05": {
@@ -6576,6 +6962,7 @@
     "type": "Character",
     "cost": 1,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01C-C06": {
@@ -6593,6 +6980,7 @@
     "type": "Story I",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": true
   },
   "SD01C-C07": {
@@ -6610,6 +6998,7 @@
     "type": "Story II",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": true
   },
   "SD01C-C08": {
@@ -6627,6 +7016,7 @@
     "type": "Story III",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": true
   },
   "SD01C-C09": {
@@ -6644,6 +7034,7 @@
     "type": "Story IV",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": true
   },
   "SD01C-SPR01": {
@@ -6661,6 +7052,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "SD01C-SPR02": {
@@ -6678,6 +7070,7 @@
     "type": "Item",
     "cost": 1,
     "set": "Friendship Begin",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "SD01C-SPR03": {
@@ -6695,6 +7088,7 @@
     "type": "Item",
     "cost": 3,
     "set": "Friendship Begin",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "SD01C-SPR04": {
@@ -6712,6 +7106,7 @@
     "type": "Item",
     "cost": 1,
     "set": "Friendship Begin",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "SD01C-SR01": {
@@ -6729,6 +7124,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "SD01C-SR02": {
@@ -6746,6 +7142,7 @@
     "type": "Character",
     "cost": 1,
     "set": "Friendship Begin",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "SD01C-U01": {
@@ -6763,6 +7160,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "U",
     "isHorizontal": false
   },
   "SD01C-U02": {
@@ -6780,6 +7178,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Friendship Begin",
+    "rarity": "U",
     "isHorizontal": false
   },
   "SD01C-U03": {
@@ -6797,6 +7196,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Friendship Begin",
+    "rarity": "U",
     "isHorizontal": false
   },
   "SD01C-U04": {
@@ -6814,6 +7214,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Friendship Begin",
+    "rarity": "U",
     "isHorizontal": false
   },
   "SD01D-C01": {
@@ -6831,6 +7232,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01D-C02": {
@@ -6848,6 +7250,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01D-C03": {
@@ -6865,6 +7268,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01D-C04": {
@@ -6882,6 +7286,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01D-C05": {
@@ -6899,6 +7304,7 @@
     "type": "Character",
     "cost": 1,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01D-C06": {
@@ -6916,6 +7322,7 @@
     "type": "Story I",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": true
   },
   "SD01D-C07": {
@@ -6933,6 +7340,7 @@
     "type": "Story II",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": true
   },
   "SD01D-C08": {
@@ -6950,6 +7358,7 @@
     "type": "Story III",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": true
   },
   "SD01D-C09": {
@@ -6967,6 +7376,7 @@
     "type": "Story IV",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": true
   },
   "SD01D-SPR01": {
@@ -6984,6 +7394,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "SD01D-SPR02": {
@@ -7001,6 +7412,7 @@
     "type": "Event",
     "cost": 3,
     "set": "Friendship Begin",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "SD01D-SPR03": {
@@ -7018,6 +7430,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "SD01D-SPR04": {
@@ -7035,6 +7448,7 @@
     "type": "Item",
     "cost": 3,
     "set": "Friendship Begin",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "SD01D-SR01": {
@@ -7052,6 +7466,7 @@
     "type": "Character",
     "cost": 1,
     "set": "Friendship Begin",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "SD01D-SR02": {
@@ -7069,6 +7484,7 @@
     "type": "Character",
     "cost": 1,
     "set": "Friendship Begin",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "SD01D-U01": {
@@ -7086,6 +7502,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Friendship Begin",
+    "rarity": "U",
     "isHorizontal": false
   },
   "SD01D-U02": {
@@ -7103,6 +7520,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Friendship Begin",
+    "rarity": "U",
     "isHorizontal": false
   },
   "SD01D-U03": {
@@ -7120,6 +7538,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "U",
     "isHorizontal": false
   },
   "SD01D-U04": {
@@ -7137,6 +7556,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Friendship Begin",
+    "rarity": "U",
     "isHorizontal": false
   },
   "SD01E-C01": {
@@ -7154,6 +7574,7 @@
     "type": "Character",
     "cost": 1,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01E-C02": {
@@ -7171,6 +7592,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01E-C03": {
@@ -7188,6 +7610,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01E-C04": {
@@ -7205,6 +7628,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01E-C05": {
@@ -7222,6 +7646,7 @@
     "type": "Character",
     "cost": 1,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01E-C06": {
@@ -7239,6 +7664,7 @@
     "type": "Story I",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": true
   },
   "SD01E-C07": {
@@ -7256,6 +7682,7 @@
     "type": "Story II",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": true
   },
   "SD01E-C08": {
@@ -7273,6 +7700,7 @@
     "type": "Story III",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": true
   },
   "SD01E-C09": {
@@ -7290,6 +7718,7 @@
     "type": "Story IV",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": true
   },
   "SD01E-SPR01": {
@@ -7307,6 +7736,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "SD01E-SPR02": {
@@ -7324,6 +7754,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "SD01E-SPR03": {
@@ -7341,6 +7772,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "SD01E-SPR04": {
@@ -7358,6 +7790,7 @@
     "type": "Item",
     "cost": 3,
     "set": "Friendship Begin",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "SD01E-SR01": {
@@ -7375,6 +7808,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Friendship Begin",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "SD01E-SR02": {
@@ -7392,6 +7826,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "SD01E-U01": {
@@ -7409,6 +7844,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "U",
     "isHorizontal": false
   },
   "SD01E-U02": {
@@ -7426,6 +7862,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Friendship Begin",
+    "rarity": "U",
     "isHorizontal": false
   },
   "SD01E-U03": {
@@ -7443,6 +7880,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "U",
     "isHorizontal": false
   },
   "SD01E-U04": {
@@ -7460,6 +7898,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Friendship Begin",
+    "rarity": "U",
     "isHorizontal": false
   },
   "SD01F-C01": {
@@ -7477,6 +7916,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01F-C02": {
@@ -7494,6 +7934,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01F-C03": {
@@ -7511,6 +7952,7 @@
     "type": "Character",
     "cost": 1,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01F-C04": {
@@ -7528,6 +7970,7 @@
     "type": "Character",
     "cost": 1,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01F-C05": {
@@ -7545,6 +7988,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": false
   },
   "SD01F-C06": {
@@ -7562,6 +8006,7 @@
     "type": "Story I",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": true
   },
   "SD01F-C07": {
@@ -7579,6 +8024,7 @@
     "type": "Story II",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": true
   },
   "SD01F-C08": {
@@ -7596,6 +8042,7 @@
     "type": "Story III",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": true
   },
   "SD01F-C09": {
@@ -7613,6 +8060,7 @@
     "type": "Story IV",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "C",
     "isHorizontal": true
   },
   "SD01F-SPR01": {
@@ -7630,6 +8078,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "SD01F-SPR02": {
@@ -7647,6 +8096,7 @@
     "type": "Event",
     "cost": 1,
     "set": "Friendship Begin",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "SD01F-SPR03": {
@@ -7664,6 +8114,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "SD01F-SPR04": {
@@ -7681,6 +8132,7 @@
     "type": "Item",
     "cost": 1,
     "set": "Friendship Begin",
+    "rarity": "SPR",
     "isHorizontal": false
   },
   "SD01F-SR01": {
@@ -7698,6 +8150,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Friendship Begin",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "SD01F-SR02": {
@@ -7715,6 +8168,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Friendship Begin",
+    "rarity": "SR",
     "isHorizontal": false
   },
   "SD01F-U01": {
@@ -7732,6 +8186,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "U",
     "isHorizontal": false
   },
   "SD01F-U02": {
@@ -7749,6 +8204,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Friendship Begin",
+    "rarity": "U",
     "isHorizontal": false
   },
   "SD01F-U03": {
@@ -7766,6 +8222,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Friendship Begin",
+    "rarity": "U",
     "isHorizontal": false
   },
   "SD01F-U04": {
@@ -7783,6 +8240,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Friendship Begin",
+    "rarity": "U",
     "isHorizontal": false
   },
   "※BP01-CR01": {
@@ -7800,6 +8258,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Fantasy Wonderland",
+    "rarity": "※CR",
     "isHorizontal": false
   },
   "※BP01-CR02": {
@@ -7817,6 +8276,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Fantasy Wonderland",
+    "rarity": "※CR",
     "isHorizontal": false
   },
   "※BP01-CR03": {
@@ -7834,6 +8294,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "※CR",
     "isHorizontal": false
   },
   "※BP01-CR04": {
@@ -7851,6 +8312,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Fantasy Wonderland",
+    "rarity": "※CR",
     "isHorizontal": false
   },
   "※BP01-CR05": {
@@ -7868,6 +8330,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "※CR",
     "isHorizontal": false
   },
   "※BP01-CR06": {
@@ -7885,6 +8348,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Fantasy Wonderland",
+    "rarity": "※CR",
     "isHorizontal": false
   },
   "※BP01-CR07": {
@@ -7902,6 +8366,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "※CR",
     "isHorizontal": false
   },
   "※BP01-CR08": {
@@ -7919,6 +8384,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Fantasy Wonderland",
+    "rarity": "※CR",
     "isHorizontal": false
   },
   "※BP01-CR09": {
@@ -7936,6 +8402,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Fantasy Wonderland",
+    "rarity": "※CR",
     "isHorizontal": false
   },
   "※BP01-CR10": {
@@ -7953,6 +8420,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Fantasy Wonderland",
+    "rarity": "※CR",
     "isHorizontal": false
   },
   "※BP01-CR11": {
@@ -7970,6 +8438,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Fantasy Wonderland",
+    "rarity": "※CR",
     "isHorizontal": false
   },
   "※BP01-CR12": {
@@ -7987,6 +8456,7 @@
     "type": "Character",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "※CR",
     "isHorizontal": false
   },
   "※BP01-GR01": {
@@ -8004,6 +8474,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Fantasy Wonderland",
+    "rarity": "※GR",
     "isHorizontal": false
   },
   "※BP01-GR02": {
@@ -8021,6 +8492,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Fantasy Wonderland",
+    "rarity": "※GR",
     "isHorizontal": false
   },
   "※BP01-GR03": {
@@ -8038,6 +8510,7 @@
     "type": "Character",
     "cost": 3,
     "set": "Fantasy Wonderland",
+    "rarity": "※GR",
     "isHorizontal": false
   },
   "※BP01-GR04": {
@@ -8055,6 +8528,7 @@
     "type": "Character",
     "cost": 4,
     "set": "Fantasy Wonderland",
+    "rarity": "※GR",
     "isHorizontal": false
   },
   "※BP01-GR05": {
@@ -8072,6 +8546,7 @@
     "type": "Character",
     "cost": 7,
     "set": "Fantasy Wonderland",
+    "rarity": "※GR",
     "isHorizontal": false
   },
   "※BP01-GR06": {
@@ -8089,6 +8564,7 @@
     "type": "Character",
     "cost": 5,
     "set": "Fantasy Wonderland",
+    "rarity": "※GR",
     "isHorizontal": false
   },
   "※BP01-RR01": {
@@ -8106,6 +8582,7 @@
     "type": "Main Character",
     "cost": 0,
     "set": "Fantasy Wonderland",
+    "rarity": "※RR",
     "isHorizontal": false
   },
   "※BP01-RR02": {
@@ -8123,6 +8600,7 @@
     "type": "Main Character",
     "cost": 0,
     "set": "Fantasy Wonderland",
+    "rarity": "※RR",
     "isHorizontal": false
   },
   "※BP01-RR03": {
@@ -8140,6 +8618,7 @@
     "type": "Main Character",
     "cost": 0,
     "set": "Fantasy Wonderland",
+    "rarity": "※RR",
     "isHorizontal": false
   },
   "※BP01-RR04": {
@@ -8157,6 +8636,7 @@
     "type": "Main Character",
     "cost": 0,
     "set": "Fantasy Wonderland",
+    "rarity": "※RR",
     "isHorizontal": false
   },
   "※BP01-RR05": {
@@ -8174,6 +8654,7 @@
     "type": "Main Character",
     "cost": 0,
     "set": "Fantasy Wonderland",
+    "rarity": "※RR",
     "isHorizontal": false
   },
   "※BP01-RR06": {
@@ -8191,6 +8672,7 @@
     "type": "Main Character",
     "cost": 0,
     "set": "Fantasy Wonderland",
+    "rarity": "※RR",
     "isHorizontal": false
   },
   "※BP01-SPR01": {
@@ -8208,6 +8690,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "※SPR",
     "isHorizontal": false
   },
   "※BP01-SPR02": {
@@ -8225,6 +8708,7 @@
     "type": "Event",
     "cost": 3,
     "set": "Fantasy Wonderland",
+    "rarity": "※SPR",
     "isHorizontal": false
   },
   "※BP01-SPR03": {
@@ -8242,6 +8726,7 @@
     "type": "Event",
     "cost": 1,
     "set": "Fantasy Wonderland",
+    "rarity": "※SPR",
     "isHorizontal": false
   },
   "※BP01-SPR05": {
@@ -8259,6 +8744,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "※SPR",
     "isHorizontal": false
   },
   "※BP01-SPR07": {
@@ -8276,6 +8762,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "※SPR",
     "isHorizontal": false
   },
   "※BP01-SPR08": {
@@ -8293,6 +8780,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "※SPR",
     "isHorizontal": false
   },
   "※BP01-SPR09": {
@@ -8310,6 +8798,7 @@
     "type": "Event",
     "cost": 3,
     "set": "Fantasy Wonderland",
+    "rarity": "※SPR",
     "isHorizontal": false
   },
   "※BP01-SPR12": {
@@ -8327,6 +8816,7 @@
     "type": "Event",
     "cost": 3,
     "set": "Fantasy Wonderland",
+    "rarity": "※SPR",
     "isHorizontal": false
   },
   "※BP01-SPR13": {
@@ -8344,6 +8834,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "※SPR",
     "isHorizontal": false
   },
   "※BP01-SPR18": {
@@ -8361,6 +8852,7 @@
     "type": "Event",
     "cost": 2,
     "set": "Fantasy Wonderland",
+    "rarity": "※SPR",
     "isHorizontal": false
   },
   "※BP01-SPR21": {
@@ -8378,6 +8870,7 @@
     "type": "Event",
     "cost": 1,
     "set": "Fantasy Wonderland",
+    "rarity": "※SPR",
     "isHorizontal": false
   },
   "※SD01-ER01D": {
@@ -8395,6 +8888,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "※ER",
     "isHorizontal": false
   },
   "※SD01-ER01N": {
@@ -8412,6 +8906,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "※ER",
     "isHorizontal": false
   },
   "※SD01-ER02D": {
@@ -8429,6 +8924,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "※ER",
     "isHorizontal": false
   },
   "※SD01-ER02N": {
@@ -8446,6 +8942,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "※ER",
     "isHorizontal": false
   },
   "※SD01-ER03D": {
@@ -8463,6 +8960,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "※ER",
     "isHorizontal": false
   },
   "※SD01-ER03N": {
@@ -8480,6 +8978,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "※ER",
     "isHorizontal": false
   },
   "※SD01-ER04D": {
@@ -8497,6 +8996,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "※ER",
     "isHorizontal": false
   },
   "※SD01-ER04N": {
@@ -8514,6 +9014,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "※ER",
     "isHorizontal": false
   },
   "※SD01-ER05D": {
@@ -8531,6 +9032,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "※ER",
     "isHorizontal": false
   },
   "※SD01-ER05N": {
@@ -8548,6 +9050,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "※ER",
     "isHorizontal": false
   },
   "※SD01-ER06D": {
@@ -8565,6 +9068,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "※ER",
     "isHorizontal": false
   },
   "※SD01-ER06N": {
@@ -8582,6 +9086,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "※ER",
     "isHorizontal": false
   },
   "※SD01-ER07D": {
@@ -8599,6 +9104,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "※ER",
     "isHorizontal": false
   },
   "※SD01-ER07N": {
@@ -8616,6 +9122,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "※ER",
     "isHorizontal": false
   },
   "※SD01-ER08D": {
@@ -8633,6 +9140,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "※ER",
     "isHorizontal": false
   },
   "※SD01-ER08N": {
@@ -8650,6 +9158,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "※ER",
     "isHorizontal": false
   },
   "※SD01-ER09D": {
@@ -8667,6 +9176,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "※ER",
     "isHorizontal": false
   },
   "※SD01-ER09N": {
@@ -8684,6 +9194,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "※ER",
     "isHorizontal": false
   },
   "※SD01-ER10D": {
@@ -8701,6 +9212,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "※ER",
     "isHorizontal": false
   },
   "※SD01-ER10N": {
@@ -8718,6 +9230,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "※ER",
     "isHorizontal": false
   },
   "※SD01-ER11D": {
@@ -8735,6 +9248,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "※ER",
     "isHorizontal": false
   },
   "※SD01-ER11N": {
@@ -8752,6 +9266,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "※ER",
     "isHorizontal": false
   },
   "※SD01-ER12D": {
@@ -8769,6 +9284,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "※ER",
     "isHorizontal": false
   },
   "※SD01-ER12N": {
@@ -8786,6 +9302,7 @@
     "type": "Scene",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "※ER",
     "isHorizontal": false
   },
   "※SD01-RR01": {
@@ -8803,6 +9320,7 @@
     "type": "Main Character",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "※RR",
     "isHorizontal": false
   },
   "※SD01-RR02": {
@@ -8820,6 +9338,7 @@
     "type": "Main Character",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "※RR",
     "isHorizontal": false
   },
   "※SD01-RR03": {
@@ -8837,6 +9356,7 @@
     "type": "Main Character",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "※RR",
     "isHorizontal": false
   },
   "※SD01-RR04": {
@@ -8854,6 +9374,7 @@
     "type": "Main Character",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "※RR",
     "isHorizontal": false
   },
   "※SD01-RR05": {
@@ -8871,6 +9392,7 @@
     "type": "Main Character",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "※RR",
     "isHorizontal": false
   },
   "※SD01-RR06": {
@@ -8888,6 +9410,7 @@
     "type": "Main Character",
     "cost": 0,
     "set": "Friendship Begin",
+    "rarity": "※RR",
     "isHorizontal": false
   }
 }
