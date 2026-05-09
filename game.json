@@ -247,7 +247,7 @@
                                                 "justifyContent": "start",
                                                 "marginBottom": "0.5vh",
                                                 "paddingRight": "1vh",
-                                                "opacity": "0.1"
+                                                "opacity": "0"
                                             },
                                             "content": [
                                                 {
