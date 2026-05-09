@@ -16,14 +16,25 @@ fs.readFile(inputFile, 'utf8', (err, data) => {
         const originalCards = JSON.parse(data);
         const mlpCards = {};
 
+        const setNames = {
+            "SD01": "Friendship Begin",
+            "BP01": "Fantasy Wonderland",
+        };
+
+        function getSetName(setCode) {
+            const key = Object.keys(setNames).find(k => setCode.startsWith(k));
+
+            return key ? setNames[key] : "Unknown Set";
+        }
+
         originalCards.forEach(card => {
             const id = card.id;
             const costValue = card.cost || 0;
             let type = card.type
             let isHorizontal = false
             if (type == "Story") {
-              type += " " + card.story_stage
-              isHorizontal = true
+                type += " " + card.story_stage
+                isHorizontal = true
             }
             let name = card.name + " " + card.id.replace('※', '')
 
@@ -41,6 +52,7 @@ fs.readFile(inputFile, 'utf8', (err, data) => {
                 "name": name,
                 "type": type,
                 "cost": costValue,
+                "set": getSetName(card.deck),
                 "isHorizontal": isHorizontal
             };
         });

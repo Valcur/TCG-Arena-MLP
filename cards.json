@@ -13,6 +13,7 @@
     "name": "Twilight Sparkle BP01-C01",
     "type": "Character",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-C02": {
@@ -29,6 +30,7 @@
     "name": "Twilight Sparkle BP01-C02",
     "type": "Character",
     "cost": 4,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-C03": {
@@ -45,6 +47,7 @@
     "name": "Twilight Sparkle BP01-C03",
     "type": "Character",
     "cost": 7,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-C04": {
@@ -61,6 +64,7 @@
     "name": "Fluttershy BP01-C04",
     "type": "Character",
     "cost": 3,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-C05": {
@@ -77,6 +81,7 @@
     "name": "Fluttershy BP01-C05",
     "type": "Character",
     "cost": 6,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-C06": {
@@ -93,6 +98,7 @@
     "name": "Pinkie Pie BP01-C06",
     "type": "Character",
     "cost": 3,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-C07": {
@@ -109,6 +115,7 @@
     "name": "Pinkie Pie BP01-C07",
     "type": "Character",
     "cost": 1,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-C08": {
@@ -125,6 +132,7 @@
     "name": "Applejack BP01-C08",
     "type": "Character",
     "cost": 6,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-C09": {
@@ -141,6 +149,7 @@
     "name": "Applejack BP01-C09",
     "type": "Character",
     "cost": 3,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-C10": {
@@ -157,6 +166,7 @@
     "name": "Rainbow Dash BP01-C10",
     "type": "Character",
     "cost": 4,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-C11": {
@@ -173,6 +183,7 @@
     "name": "Rainbow Dash BP01-C11",
     "type": "Character",
     "cost": 5,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-C12": {
@@ -189,6 +200,7 @@
     "name": "Rarity BP01-C12",
     "type": "Character",
     "cost": 5,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-C13": {
@@ -205,6 +217,7 @@
     "name": "Rarity BP01-C13",
     "type": "Character",
     "cost": 6,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-C14": {
@@ -221,6 +234,7 @@
     "name": "Spike BP01-C14",
     "type": "Character",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-C15": {
@@ -237,6 +251,7 @@
     "name": "Apple Bloom BP01-C15",
     "type": "Character",
     "cost": 1,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-C16": {
@@ -253,6 +268,7 @@
     "name": "Sweetie Belle BP01-C16",
     "type": "Character",
     "cost": 1,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-C17": {
@@ -269,6 +285,7 @@
     "name": "Scootaloo BP01-C17",
     "type": "Character",
     "cost": 1,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-C18": {
@@ -285,6 +302,7 @@
     "name": "Big McIntosh BP01-C18",
     "type": "Character",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-C19": {
@@ -301,6 +319,7 @@
     "name": "Granny Smith BP01-C19",
     "type": "Character",
     "cost": 5,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-C20": {
@@ -317,6 +336,7 @@
     "name": "Trixie BP01-C20",
     "type": "Character",
     "cost": 1,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-C21": {
@@ -333,6 +353,7 @@
     "name": "Gilda BP01-C21",
     "type": "Character",
     "cost": 3,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-C22": {
@@ -349,6 +370,7 @@
     "name": "Diamond Tiara BP01-C22",
     "type": "Character",
     "cost": 1,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-C23": {
@@ -365,6 +387,7 @@
     "name": "Silver Spoon BP01-C23",
     "type": "Character",
     "cost": 7,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-C24": {
@@ -381,6 +404,7 @@
     "name": "Mayor Mare BP01-C24",
     "type": "Character",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-C25": {
@@ -397,6 +421,7 @@
     "name": "The Ticket Master BP01-C25",
     "type": "Story I",
     "cost": 0,
+    "set": "Fantasy Wonderland",
     "isHorizontal": true
   },
   "BP01-C26": {
@@ -413,6 +438,7 @@
     "name": "The Ticket Master BP01-C26",
     "type": "Story II",
     "cost": 0,
+    "set": "Fantasy Wonderland",
     "isHorizontal": true
   },
   "BP01-C27": {
@@ -429,6 +455,7 @@
     "name": "The Ticket Master BP01-C27",
     "type": "Story III",
     "cost": 0,
+    "set": "Fantasy Wonderland",
     "isHorizontal": true
   },
   "BP01-C28": {
@@ -445,6 +472,7 @@
     "name": "The Ticket Master BP01-C28",
     "type": "Story IV",
     "cost": 0,
+    "set": "Fantasy Wonderland",
     "isHorizontal": true
   },
   "BP01-C29": {
@@ -461,6 +489,7 @@
     "name": "Curing Philomena BP01-C29",
     "type": "Story I",
     "cost": 0,
+    "set": "Fantasy Wonderland",
     "isHorizontal": true
   },
   "BP01-C30": {
@@ -477,6 +506,7 @@
     "name": "Curing Philomena BP01-C30",
     "type": "Story II",
     "cost": 0,
+    "set": "Fantasy Wonderland",
     "isHorizontal": true
   },
   "BP01-C31": {
@@ -493,6 +523,7 @@
     "name": "Curing Philomena BP01-C31",
     "type": "Story III",
     "cost": 0,
+    "set": "Fantasy Wonderland",
     "isHorizontal": true
   },
   "BP01-C32": {
@@ -509,6 +540,7 @@
     "name": "Curing Philomena BP01-C32",
     "type": "Story IV",
     "cost": 0,
+    "set": "Fantasy Wonderland",
     "isHorizontal": true
   },
   "BP01-C33": {
@@ -525,6 +557,7 @@
     "name": "Party of One BP01-C33",
     "type": "Story I",
     "cost": 0,
+    "set": "Fantasy Wonderland",
     "isHorizontal": true
   },
   "BP01-C34": {
@@ -541,6 +574,7 @@
     "name": "Party of One BP01-C34",
     "type": "Story II",
     "cost": 0,
+    "set": "Fantasy Wonderland",
     "isHorizontal": true
   },
   "BP01-C35": {
@@ -557,6 +591,7 @@
     "name": "Party of One BP01-C35",
     "type": "Story III",
     "cost": 0,
+    "set": "Fantasy Wonderland",
     "isHorizontal": true
   },
   "BP01-C36": {
@@ -573,6 +608,7 @@
     "name": "Party of One BP01-C36",
     "type": "Story IV",
     "cost": 0,
+    "set": "Fantasy Wonderland",
     "isHorizontal": true
   },
   "BP01-C37": {
@@ -589,6 +625,7 @@
     "name": "Over a Barrel BP01-C37",
     "type": "Story I",
     "cost": 0,
+    "set": "Fantasy Wonderland",
     "isHorizontal": true
   },
   "BP01-C38": {
@@ -605,6 +642,7 @@
     "name": "Over a Barrel BP01-C38",
     "type": "Story II",
     "cost": 0,
+    "set": "Fantasy Wonderland",
     "isHorizontal": true
   },
   "BP01-C39": {
@@ -621,6 +659,7 @@
     "name": "Over a Barrel BP01-C39",
     "type": "Story III",
     "cost": 0,
+    "set": "Fantasy Wonderland",
     "isHorizontal": true
   },
   "BP01-C40": {
@@ -637,6 +676,7 @@
     "name": "Over a Barrel BP01-C40",
     "type": "Story IV",
     "cost": 0,
+    "set": "Fantasy Wonderland",
     "isHorizontal": true
   },
   "BP01-C41": {
@@ -653,6 +693,7 @@
     "name": "Griffon the Brush Off BP01-C41",
     "type": "Story I",
     "cost": 0,
+    "set": "Fantasy Wonderland",
     "isHorizontal": true
   },
   "BP01-C42": {
@@ -669,6 +710,7 @@
     "name": "Griffon the Brush Off BP01-C42",
     "type": "Story II",
     "cost": 0,
+    "set": "Fantasy Wonderland",
     "isHorizontal": true
   },
   "BP01-C43": {
@@ -685,6 +727,7 @@
     "name": "Griffon the Brush Off BP01-C43",
     "type": "Story III",
     "cost": 0,
+    "set": "Fantasy Wonderland",
     "isHorizontal": true
   },
   "BP01-C44": {
@@ -701,6 +744,7 @@
     "name": "Griffon the Brush Off BP01-C44",
     "type": "Story IV",
     "cost": 0,
+    "set": "Fantasy Wonderland",
     "isHorizontal": true
   },
   "BP01-C45": {
@@ -717,6 +761,7 @@
     "name": "Suited For Success BP01-C45",
     "type": "Story I",
     "cost": 0,
+    "set": "Fantasy Wonderland",
     "isHorizontal": true
   },
   "BP01-C46": {
@@ -733,6 +778,7 @@
     "name": "Suited For Success BP01-C46",
     "type": "Story II",
     "cost": 0,
+    "set": "Fantasy Wonderland",
     "isHorizontal": true
   },
   "BP01-C47": {
@@ -749,6 +795,7 @@
     "name": "Suited For Success BP01-C47",
     "type": "Story III",
     "cost": 0,
+    "set": "Fantasy Wonderland",
     "isHorizontal": true
   },
   "BP01-C48": {
@@ -765,6 +812,7 @@
     "name": "Suited For Success BP01-C48",
     "type": "Story IV",
     "cost": 0,
+    "set": "Fantasy Wonderland",
     "isHorizontal": true
   },
   "BP01-CR01": {
@@ -781,6 +829,7 @@
     "name": "Twilight Sparkle BP01-CR01",
     "type": "Character",
     "cost": 4,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-CR02": {
@@ -797,6 +846,7 @@
     "name": "Fluttershy BP01-CR02",
     "type": "Character",
     "cost": 3,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-CR03": {
@@ -813,6 +863,7 @@
     "name": "Pinkie Pie BP01-CR03",
     "type": "Character",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-CR04": {
@@ -829,6 +880,7 @@
     "name": "Applejack BP01-CR04",
     "type": "Character",
     "cost": 3,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-CR05": {
@@ -845,6 +897,7 @@
     "name": "Rainbow Dash BP01-CR05",
     "type": "Character",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-CR06": {
@@ -861,6 +914,7 @@
     "name": "Rarity BP01-CR06",
     "type": "Character",
     "cost": 4,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-CR07": {
@@ -877,6 +931,7 @@
     "name": "Twilight Sparkle BP01-CR07",
     "type": "Character",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-CR08": {
@@ -893,6 +948,7 @@
     "name": "Fluttershy BP01-CR08",
     "type": "Character",
     "cost": 3,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-CR09": {
@@ -909,6 +965,7 @@
     "name": "Pinkie Pie BP01-CR09",
     "type": "Character",
     "cost": 5,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-CR10": {
@@ -925,6 +982,7 @@
     "name": "Applejack BP01-CR10",
     "type": "Character",
     "cost": 3,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-CR11": {
@@ -941,6 +999,7 @@
     "name": "Rainbow Dash BP01-CR11",
     "type": "Character",
     "cost": 4,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-CR12": {
@@ -957,6 +1016,7 @@
     "name": "Rarity BP01-CR12",
     "type": "Character",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-GR01": {
@@ -973,6 +1033,7 @@
     "name": "Twilight Sparkle BP01-GR01",
     "type": "Character",
     "cost": 3,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-GR02": {
@@ -989,6 +1050,7 @@
     "name": "Fluttershy BP01-GR02",
     "type": "Character",
     "cost": 4,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-GR03": {
@@ -1005,6 +1067,7 @@
     "name": "Pinkie Pie BP01-GR03",
     "type": "Character",
     "cost": 3,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-GR04": {
@@ -1021,6 +1084,7 @@
     "name": "Applejack BP01-GR04",
     "type": "Character",
     "cost": 4,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-GR05": {
@@ -1037,6 +1101,7 @@
     "name": "Rainbow Dash BP01-GR05",
     "type": "Character",
     "cost": 7,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-GR06": {
@@ -1053,6 +1118,7 @@
     "name": "Rarity BP01-GR06",
     "type": "Character",
     "cost": 5,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-GR07": {
@@ -1069,6 +1135,7 @@
     "name": "Twilight Sparkle BP01-GR07",
     "type": "Character",
     "cost": 4,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-GR08": {
@@ -1085,6 +1152,7 @@
     "name": "Fluttershy BP01-GR08",
     "type": "Character",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-GR09": {
@@ -1101,6 +1169,7 @@
     "name": "Pinkie Pie BP01-GR09",
     "type": "Character",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-GR10": {
@@ -1117,6 +1186,7 @@
     "name": "Applejack BP01-GR10",
     "type": "Character",
     "cost": 4,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-GR11": {
@@ -1133,6 +1203,7 @@
     "name": "Rainbow Dash BP01-GR11",
     "type": "Character",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-GR12": {
@@ -1149,6 +1220,7 @@
     "name": "Rarity BP01-GR12",
     "type": "Character",
     "cost": 5,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-RR01": {
@@ -1165,6 +1237,7 @@
     "name": "Twilight Sparkle BP01-RR01",
     "type": "Main Character",
     "cost": 0,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-RR02": {
@@ -1181,6 +1254,7 @@
     "name": "Fluttershy BP01-RR02",
     "type": "Main Character",
     "cost": 0,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-RR03": {
@@ -1197,6 +1271,7 @@
     "name": "Pinkie Pie BP01-RR03",
     "type": "Main Character",
     "cost": 0,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-RR04": {
@@ -1213,6 +1288,7 @@
     "name": "Applejack BP01-RR04",
     "type": "Main Character",
     "cost": 0,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-RR05": {
@@ -1229,6 +1305,7 @@
     "name": "Rainbow Dash BP01-RR05",
     "type": "Main Character",
     "cost": 0,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-RR06": {
@@ -1245,6 +1322,7 @@
     "name": "Rarity BP01-RR06",
     "type": "Main Character",
     "cost": 0,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SPR01": {
@@ -1261,6 +1339,7 @@
     "name": "Sunlight in the Rain BP01-SPR01",
     "type": "Event",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SPR02": {
@@ -1277,6 +1356,7 @@
     "name": "Time for Clean-up! BP01-SPR02",
     "type": "Event",
     "cost": 3,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SPR03": {
@@ -1293,6 +1373,7 @@
     "name": "Deliver letters BP01-SPR03",
     "type": "Event",
     "cost": 1,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SPR04": {
@@ -1309,6 +1390,7 @@
     "name": "Award Ceremony BP01-SPR04",
     "type": "Event",
     "cost": 3,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SPR05": {
@@ -1325,6 +1407,7 @@
     "name": "Prepared to Go BP01-SPR05",
     "type": "Event",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SPR06": {
@@ -1341,6 +1424,7 @@
     "name": "Overspeed Warning! BP01-SPR06",
     "type": "Event",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SPR07": {
@@ -1357,6 +1441,7 @@
     "name": "Hair Curling BP01-SPR07",
     "type": "Event",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SPR08": {
@@ -1373,6 +1458,7 @@
     "name": "Pillow Fight BP01-SPR08",
     "type": "Event",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SPR09": {
@@ -1389,6 +1475,7 @@
     "name": "Rain Under the Roof BP01-SPR09",
     "type": "Event",
     "cost": 3,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SPR10": {
@@ -1405,6 +1492,7 @@
     "name": "Wire Accident BP01-SPR10",
     "type": "Event",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SPR11": {
@@ -1421,6 +1509,7 @@
     "name": "Make a Cake BP01-SPR11",
     "type": "Event",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SPR12": {
@@ -1437,6 +1526,7 @@
     "name": "Hoof Power Test BP01-SPR12",
     "type": "Event",
     "cost": 3,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SPR13": {
@@ -1453,6 +1543,7 @@
     "name": "Tense Competition BP01-SPR13",
     "type": "Event",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SPR14": {
@@ -1469,6 +1560,7 @@
     "name": "Messy Henhouse BP01-SPR14",
     "type": "Event",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SPR15": {
@@ -1485,6 +1577,7 @@
     "name": "Washing Day BP01-SPR15",
     "type": "Event",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SPR16": {
@@ -1501,6 +1594,7 @@
     "name": "Dig for Gems BP01-SPR16",
     "type": "Event",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SPR17": {
@@ -1517,6 +1611,7 @@
     "name": "Attend to Cure BP01-SPR17",
     "type": "Event",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SPR18": {
@@ -1533,6 +1628,7 @@
     "name": "Accidentally Burnt Book BP01-SPR18",
     "type": "Event",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SPR19": {
@@ -1549,6 +1645,7 @@
     "name": "Cycling for Friends BP01-SPR19",
     "type": "Event",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SPR20": {
@@ -1565,6 +1662,7 @@
     "name": "Head Up to the Night Sky BP01-SPR20",
     "type": "Event",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SPR21": {
@@ -1581,6 +1679,7 @@
     "name": "Found Scroll BP01-SPR21",
     "type": "Event",
     "cost": 1,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SPR22": {
@@ -1597,6 +1696,7 @@
     "name": "Super Spicy Sauce BP01-SPR22",
     "type": "Item",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SPR23": {
@@ -1613,6 +1713,7 @@
     "name": "Soda BP01-SPR23",
     "type": "Item",
     "cost": 3,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SPR24": {
@@ -1629,6 +1730,7 @@
     "name": "Horseshoe BP01-SPR24",
     "type": "Item",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SPR25": {
@@ -1645,6 +1747,7 @@
     "name": "Pinkie Pie's Flying Device BP01-SPR25",
     "type": "Item",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SPR26": {
@@ -1661,6 +1764,7 @@
     "name": "Thimble Pack BP01-SPR26",
     "type": "Item",
     "cost": 3,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SPR27": {
@@ -1677,6 +1781,7 @@
     "name": "Fluttershy's Bell BP01-SPR27",
     "type": "Item",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SPR28": {
@@ -1693,6 +1798,7 @@
     "name": "Recorder BP01-SPR28",
     "type": "Item",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SR01": {
@@ -1709,6 +1815,7 @@
     "name": "Twilight Sparkle BP01-SR01",
     "type": "Character",
     "cost": 1,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SR02": {
@@ -1725,6 +1832,7 @@
     "name": "Fluttershy BP01-SR02",
     "type": "Character",
     "cost": 5,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SR03": {
@@ -1741,6 +1849,7 @@
     "name": "Pinkie Pie BP01-SR03",
     "type": "Character",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SR04": {
@@ -1757,6 +1866,7 @@
     "name": "Applejack BP01-SR04",
     "type": "Character",
     "cost": 4,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SR05": {
@@ -1773,6 +1883,7 @@
     "name": "Rainbow Dash BP01-SR05",
     "type": "Character",
     "cost": 3,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SR06": {
@@ -1789,6 +1900,7 @@
     "name": "Rarity BP01-SR06",
     "type": "Character",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SR07": {
@@ -1805,6 +1917,7 @@
     "name": "Owlowiscious BP01-SR07",
     "type": "Character",
     "cost": 1,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SR08": {
@@ -1821,6 +1934,7 @@
     "name": "Angel BP01-SR08",
     "type": "Character",
     "cost": 4,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SR09": {
@@ -1837,6 +1951,7 @@
     "name": "Gummy BP01-SR09",
     "type": "Character",
     "cost": 4,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SR10": {
@@ -1853,6 +1968,7 @@
     "name": "Winona BP01-SR10",
     "type": "Character",
     "cost": 7,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SR11": {
@@ -1869,6 +1985,7 @@
     "name": "Tank BP01-SR11",
     "type": "Character",
     "cost": 5,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SR12": {
@@ -1885,6 +2002,7 @@
     "name": "Opal BP01-SR12",
     "type": "Character",
     "cost": 5,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SR13": {
@@ -1901,6 +2019,7 @@
     "name": "Zecora BP01-SR13",
     "type": "Character",
     "cost": 5,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-SR14": {
@@ -1917,6 +2036,7 @@
     "name": "Trixie BP01-SR14",
     "type": "Character",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-U01": {
@@ -1933,6 +2053,7 @@
     "name": "Twilight Sparkle BP01-U01",
     "type": "Character",
     "cost": 1,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-U02": {
@@ -1949,6 +2070,7 @@
     "name": "Twilight Sparkle BP01-U02",
     "type": "Character",
     "cost": 5,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-U03": {
@@ -1965,6 +2087,7 @@
     "name": "Fluttershy BP01-U03",
     "type": "Character",
     "cost": 7,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-U04": {
@@ -1981,6 +2104,7 @@
     "name": "Fluttershy BP01-U04",
     "type": "Character",
     "cost": 5,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-U05": {
@@ -1997,6 +2121,7 @@
     "name": "Pinkie Pie BP01-U05",
     "type": "Character",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-U06": {
@@ -2013,6 +2138,7 @@
     "name": "Pinkie Pie BP01-U06",
     "type": "Character",
     "cost": 5,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-U07": {
@@ -2029,6 +2155,7 @@
     "name": "Applejack BP01-U07",
     "type": "Character",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-U08": {
@@ -2045,6 +2172,7 @@
     "name": "Applejack BP01-U08",
     "type": "Character",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-U09": {
@@ -2061,6 +2189,7 @@
     "name": "Rainbow Dash BP01-U09",
     "type": "Character",
     "cost": 4,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-U10": {
@@ -2077,6 +2206,7 @@
     "name": "Rainbow Dash BP01-U10",
     "type": "Character",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-U11": {
@@ -2093,6 +2223,7 @@
     "name": "Rarity BP01-U11",
     "type": "Character",
     "cost": 3,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-U12": {
@@ -2109,6 +2240,7 @@
     "name": "Rarity BP01-U12",
     "type": "Character",
     "cost": 1,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-U13": {
@@ -2125,6 +2257,7 @@
     "name": "Spike BP01-U13",
     "type": "Character",
     "cost": 1,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-U14": {
@@ -2141,6 +2274,7 @@
     "name": "Spike BP01-U14",
     "type": "Character",
     "cost": 4,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-U15": {
@@ -2157,6 +2291,7 @@
     "name": "Apple Bloom BP01-U15",
     "type": "Character",
     "cost": 1,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-U16": {
@@ -2173,6 +2308,7 @@
     "name": "Sweetie Belle BP01-U16",
     "type": "Character",
     "cost": 1,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-U17": {
@@ -2189,6 +2325,7 @@
     "name": "Scootaloo BP01-U17",
     "type": "Character",
     "cost": 1,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP01-U18": {
@@ -2205,6 +2342,7 @@
     "name": "Trixie BP01-U18",
     "type": "Character",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "BP02-C01": {
@@ -2221,6 +2359,7 @@
     "name": "Twilight Sparkle BP02-C01",
     "type": "Character",
     "cost": 3,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-C02": {
@@ -2237,6 +2376,7 @@
     "name": "Twilight Sparkle BP02-C02",
     "type": "Character",
     "cost": 6,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-C03": {
@@ -2253,6 +2393,7 @@
     "name": "Fluttershy BP02-C03",
     "type": "Character",
     "cost": 3,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-C04": {
@@ -2269,6 +2410,7 @@
     "name": "Fluttershy BP02-C04",
     "type": "Character",
     "cost": 1,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-C05": {
@@ -2285,6 +2427,7 @@
     "name": "Pinkie Pie BP02-C05",
     "type": "Character",
     "cost": 6,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-C06": {
@@ -2301,6 +2444,7 @@
     "name": "Pinkie Pie BP02-C06",
     "type": "Character",
     "cost": 3,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-C07": {
@@ -2317,6 +2461,7 @@
     "name": "Applejack BP02-C07",
     "type": "Character",
     "cost": 3,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-C08": {
@@ -2333,6 +2478,7 @@
     "name": "Applejack BP02-C08",
     "type": "Character",
     "cost": 7,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-C09": {
@@ -2349,6 +2495,7 @@
     "name": "Rainbow Dash BP02-C09",
     "type": "Character",
     "cost": 3,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-C10": {
@@ -2365,6 +2512,7 @@
     "name": "Rainbow Dash BP02-C10",
     "type": "Character",
     "cost": 2,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-C11": {
@@ -2381,6 +2529,7 @@
     "name": "Rarity BP02-C11",
     "type": "Character",
     "cost": 5,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-C12": {
@@ -2397,6 +2546,7 @@
     "name": "Rarity BP02-C12",
     "type": "Character",
     "cost": 5,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-C13": {
@@ -2413,6 +2563,7 @@
     "name": "Spike BP02-C13",
     "type": "Character",
     "cost": 3,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-C14": {
@@ -2429,6 +2580,7 @@
     "name": "Spike BP02-C14",
     "type": "Character",
     "cost": 2,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-C15": {
@@ -2445,6 +2597,7 @@
     "name": "Apple Bloom BP02-C15",
     "type": "Character",
     "cost": 3,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-C16": {
@@ -2461,6 +2614,7 @@
     "name": "Sweetie Belle BP02-C16",
     "type": "Character",
     "cost": 3,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-C17": {
@@ -2477,6 +2631,7 @@
     "name": "Scootaloo BP02-C17",
     "type": "Character",
     "cost": 3,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-C18": {
@@ -2493,6 +2648,7 @@
     "name": "Discord BP02-C18",
     "type": "Character",
     "cost": 7,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-C19": {
@@ -2509,6 +2665,7 @@
     "name": "Zecora BP02-C19",
     "type": "Character",
     "cost": 6,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-C20": {
@@ -2525,6 +2682,7 @@
     "name": "Granny Smith BP02-C20",
     "type": "Character",
     "cost": 5,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-C21": {
@@ -2541,6 +2699,7 @@
     "name": "Filthy Rich BP02-C21",
     "type": "Character",
     "cost": 4,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-C22": {
@@ -2557,6 +2716,7 @@
     "name": "Diamond Tiara BP02-C22",
     "type": "Character",
     "cost": 3,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-C23": {
@@ -2573,6 +2733,7 @@
     "name": "Pound Cake BP02-C23",
     "type": "Character",
     "cost": 2,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-C24": {
@@ -2589,6 +2750,7 @@
     "name": "Pumpkin Cake BP02-C24",
     "type": "Character",
     "cost": 1,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-C25": {
@@ -2605,6 +2767,7 @@
     "name": "Lesson Zero BP02-C25",
     "type": "Story I",
     "cost": 0,
+    "set": "Unknown Set",
     "isHorizontal": true
   },
   "BP02-C26": {
@@ -2621,6 +2784,7 @@
     "name": "Lesson Zero BP02-C26",
     "type": "Story II",
     "cost": 0,
+    "set": "Unknown Set",
     "isHorizontal": true
   },
   "BP02-C27": {
@@ -2637,6 +2801,7 @@
     "name": "Lesson Zero BP02-C27",
     "type": "Story III",
     "cost": 0,
+    "set": "Unknown Set",
     "isHorizontal": true
   },
   "BP02-C28": {
@@ -2653,6 +2818,7 @@
     "name": "Lesson Zero BP02-C28",
     "type": "Story IV",
     "cost": 0,
+    "set": "Unknown Set",
     "isHorizontal": true
   },
   "BP02-C29": {
@@ -2669,6 +2835,7 @@
     "name": "Hurricane Fluttershy BP02-C29",
     "type": "Story I",
     "cost": 0,
+    "set": "Unknown Set",
     "isHorizontal": true
   },
   "BP02-C30": {
@@ -2685,6 +2852,7 @@
     "name": "Hurricane Fluttershy BP02-C30",
     "type": "Story II",
     "cost": 0,
+    "set": "Unknown Set",
     "isHorizontal": true
   },
   "BP02-C31": {
@@ -2701,6 +2869,7 @@
     "name": "Hurricane Fluttershy BP02-C31",
     "type": "Story III",
     "cost": 0,
+    "set": "Unknown Set",
     "isHorizontal": true
   },
   "BP02-C32": {
@@ -2717,6 +2886,7 @@
     "name": "Hurricane Fluttershy BP02-C32",
     "type": "Story IV",
     "cost": 0,
+    "set": "Unknown Set",
     "isHorizontal": true
   },
   "BP02-C33": {
@@ -2733,6 +2903,7 @@
     "name": "Baby Cakes BP02-C33",
     "type": "Story I",
     "cost": 0,
+    "set": "Unknown Set",
     "isHorizontal": true
   },
   "BP02-C34": {
@@ -2749,6 +2920,7 @@
     "name": "Baby Cakes BP02-C34",
     "type": "Story II",
     "cost": 0,
+    "set": "Unknown Set",
     "isHorizontal": true
   },
   "BP02-C35": {
@@ -2765,6 +2937,7 @@
     "name": "Baby Cakes BP02-C35",
     "type": "Story III",
     "cost": 0,
+    "set": "Unknown Set",
     "isHorizontal": true
   },
   "BP02-C36": {
@@ -2781,6 +2954,7 @@
     "name": "Baby Cakes BP02-C36",
     "type": "Story IV",
     "cost": 0,
+    "set": "Unknown Set",
     "isHorizontal": true
   },
   "BP02-C37": {
@@ -2797,6 +2971,7 @@
     "name": "The Last Roundup BP02-C37",
     "type": "Story I",
     "cost": 0,
+    "set": "Unknown Set",
     "isHorizontal": true
   },
   "BP02-C38": {
@@ -2813,6 +2988,7 @@
     "name": "The Last Roundup BP02-C38",
     "type": "Story II",
     "cost": 0,
+    "set": "Unknown Set",
     "isHorizontal": true
   },
   "BP02-C39": {
@@ -2829,6 +3005,7 @@
     "name": "The Last Roundup BP02-C39",
     "type": "Story III",
     "cost": 0,
+    "set": "Unknown Set",
     "isHorizontal": true
   },
   "BP02-C40": {
@@ -2845,6 +3022,7 @@
     "name": "The Last Roundup BP02-C40",
     "type": "Story IV",
     "cost": 0,
+    "set": "Unknown Set",
     "isHorizontal": true
   },
   "BP02-C41": {
@@ -2861,6 +3039,7 @@
     "name": "May the Best Pet Win! BP02-C41",
     "type": "Story I",
     "cost": 0,
+    "set": "Unknown Set",
     "isHorizontal": true
   },
   "BP02-C42": {
@@ -2877,6 +3056,7 @@
     "name": "May the Best Pet Win! BP02-C42",
     "type": "Story II",
     "cost": 0,
+    "set": "Unknown Set",
     "isHorizontal": true
   },
   "BP02-C43": {
@@ -2893,6 +3073,7 @@
     "name": "May the Best Pet Win! BP02-C43",
     "type": "Story III",
     "cost": 0,
+    "set": "Unknown Set",
     "isHorizontal": true
   },
   "BP02-C44": {
@@ -2909,6 +3090,7 @@
     "name": "May the Best Pet Win! BP02-C44",
     "type": "Story IV",
     "cost": 0,
+    "set": "Unknown Set",
     "isHorizontal": true
   },
   "BP02-C45": {
@@ -2925,6 +3107,7 @@
     "name": "Sweet and Elite BP02-C45",
     "type": "Story I",
     "cost": 0,
+    "set": "Unknown Set",
     "isHorizontal": true
   },
   "BP02-C46": {
@@ -2941,6 +3124,7 @@
     "name": "Sweet and Elite BP02-C46",
     "type": "Story II",
     "cost": 0,
+    "set": "Unknown Set",
     "isHorizontal": true
   },
   "BP02-C47": {
@@ -2957,6 +3141,7 @@
     "name": "Sweet and Elite BP02-C47",
     "type": "Story III",
     "cost": 0,
+    "set": "Unknown Set",
     "isHorizontal": true
   },
   "BP02-C48": {
@@ -2973,6 +3158,7 @@
     "name": "Sweet and Elite BP02-C48",
     "type": "Story IV",
     "cost": 0,
+    "set": "Unknown Set",
     "isHorizontal": true
   },
   "BP02-CR01": {
@@ -2989,6 +3175,7 @@
     "name": "Twilight Sparkle BP02-CR01",
     "type": "Character",
     "cost": 5,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-CR02": {
@@ -3005,6 +3192,7 @@
     "name": "Fluttershy BP02-CR02",
     "type": "Character",
     "cost": 6,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-CR03": {
@@ -3021,6 +3209,7 @@
     "name": "Pinkie Pie BP02-CR03",
     "type": "Character",
     "cost": 3,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-CR04": {
@@ -3037,6 +3226,7 @@
     "name": "Applejack BP02-CR04",
     "type": "Character",
     "cost": 5,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-CR05": {
@@ -3053,6 +3243,7 @@
     "name": "Rainbow Dash BP02-CR05",
     "type": "Character",
     "cost": 3,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-CR06": {
@@ -3069,6 +3260,7 @@
     "name": "Rarity BP02-CR06",
     "type": "Character",
     "cost": 5,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-CR07": {
@@ -3085,6 +3277,7 @@
     "name": "Twilight Sparkle BP02-CR07",
     "type": "Character",
     "cost": 5,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-CR08": {
@@ -3101,6 +3294,7 @@
     "name": "Fluttershy BP02-CR08",
     "type": "Character",
     "cost": 6,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-CR09": {
@@ -3117,6 +3311,7 @@
     "name": "Pinkie Pie BP02-CR09",
     "type": "Character",
     "cost": 6,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-CR10": {
@@ -3133,6 +3328,7 @@
     "name": "Applejack BP02-CR10",
     "type": "Character",
     "cost": 6,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-CR11": {
@@ -3149,6 +3345,7 @@
     "name": "Rainbow Dash BP02-CR11",
     "type": "Character",
     "cost": 4,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-CR12": {
@@ -3165,6 +3362,7 @@
     "name": "Rarity BP02-CR12",
     "type": "Character",
     "cost": 2,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-ER01": {
@@ -3181,6 +3379,7 @@
     "name": "Golden Oak Library, 2nd Floor BP02-ER01",
     "type": "Scene",
     "cost": 0,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-ER02": {
@@ -3197,6 +3396,7 @@
     "name": "Fluttershy's Living Room BP02-ER02",
     "type": "Scene",
     "cost": 0,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-ER03": {
@@ -3213,6 +3413,7 @@
     "name": "Sugarcube Corner[incomplete] BP02-ER03",
     "type": "Scene",
     "cost": 0,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-ER04": {
@@ -3229,6 +3430,7 @@
     "name": "Sweet Apple Acres Backyard BP02-ER04",
     "type": "Scene",
     "cost": 0,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-ER05": {
@@ -3245,6 +3447,7 @@
     "name": "Cloudsdale Rainbow Pool BP02-ER05",
     "type": "Scene",
     "cost": 0,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-ER06": {
@@ -3261,6 +3464,7 @@
     "name": "Carousel Boutique Fitting Room BP02-ER06",
     "type": "Scene",
     "cost": 0,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-GR01": {
@@ -3277,6 +3481,7 @@
     "name": "Twilight Sparkle BP02-GR01",
     "type": "Character",
     "cost": 6,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-GR02": {
@@ -3293,6 +3498,7 @@
     "name": "Fluttershy BP02-GR02",
     "type": "Character",
     "cost": 2,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-GR03": {
@@ -3309,6 +3515,7 @@
     "name": "Pinkie Pie BP02-GR03",
     "type": "Character",
     "cost": 5,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-GR04": {
@@ -3325,6 +3532,7 @@
     "name": "Applejack BP02-GR04",
     "type": "Character",
     "cost": 4,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-GR05": {
@@ -3341,6 +3549,7 @@
     "name": "Rainbow Dash BP02-GR05",
     "type": "Character",
     "cost": 3,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-GR06": {
@@ -3357,6 +3566,7 @@
     "name": "Rarity BP02-GR06",
     "type": "Character",
     "cost": 4,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-GR07": {
@@ -3373,6 +3583,7 @@
     "name": "Twilight Sparkle BP02-GR07",
     "type": "Character",
     "cost": 3,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-GR08": {
@@ -3389,6 +3600,7 @@
     "name": "Fluttershy BP02-GR08",
     "type": "Character",
     "cost": 5,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-GR09": {
@@ -3405,6 +3617,7 @@
     "name": "Pinkie Pie BP02-GR09",
     "type": "Character",
     "cost": 2,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-GR10": {
@@ -3421,6 +3634,7 @@
     "name": "Applejack BP02-GR10",
     "type": "Character",
     "cost": 3,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-GR11": {
@@ -3437,6 +3651,7 @@
     "name": "Rainbow Dash BP02-GR11",
     "type": "Character",
     "cost": 5,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-GR12": {
@@ -3453,6 +3668,7 @@
     "name": "Rarity BP02-GR12",
     "type": "Character",
     "cost": 4,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-RR01": {
@@ -3469,6 +3685,7 @@
     "name": "Twilight Sparkle BP02-RR01",
     "type": "Main Character",
     "cost": 0,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-RR02": {
@@ -3485,6 +3702,7 @@
     "name": "Fluttershy BP02-RR02",
     "type": "Main Character",
     "cost": 0,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-RR03": {
@@ -3501,6 +3719,7 @@
     "name": "Pinkie Pie BP02-RR03",
     "type": "Main Character",
     "cost": 0,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-RR04": {
@@ -3517,6 +3736,7 @@
     "name": "Applejack BP02-RR04",
     "type": "Main Character",
     "cost": 0,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-RR05": {
@@ -3533,6 +3753,7 @@
     "name": "Rainbow Dash BP02-RR05",
     "type": "Main Character",
     "cost": 0,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-RR06": {
@@ -3549,6 +3770,7 @@
     "name": "Rarity BP02-RR06",
     "type": "Main Character",
     "cost": 0,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SPR01": {
@@ -3565,6 +3787,7 @@
     "name": "Today's To-do List BP02-SPR01",
     "type": "Event",
     "cost": 1,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SPR02": {
@@ -3581,6 +3804,7 @@
     "name": "Friendship Lesson Letter BP02-SPR02",
     "type": "Event",
     "cost": 5,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SPR03": {
@@ -3597,6 +3821,7 @@
     "name": "Bookshelf Organization BP02-SPR03",
     "type": "Event",
     "cost": 2,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SPR04": {
@@ -3613,6 +3838,7 @@
     "name": "Sleep Soundly BP02-SPR04",
     "type": "Event",
     "cost": 2,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SPR05": {
@@ -3629,6 +3855,7 @@
     "name": "Physical Training BP02-SPR05",
     "type": "Event",
     "cost": 2,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SPR06": {
@@ -3645,6 +3872,7 @@
     "name": "Pinkie Pie's Talk Show BP02-SPR06",
     "type": "Event",
     "cost": 3,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SPR07": {
@@ -3661,6 +3889,7 @@
     "name": "Jump Rope Time BP02-SPR07",
     "type": "Event",
     "cost": 2,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SPR08": {
@@ -3677,6 +3906,7 @@
     "name": "Corn Harvest BP02-SPR08",
     "type": "Event",
     "cost": 3,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SPR09": {
@@ -3693,6 +3923,7 @@
     "name": "Zap Apple Season BP02-SPR09",
     "type": "Event",
     "cost": 2,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SPR10": {
@@ -3709,6 +3940,7 @@
     "name": "Demolition of the Old Barn BP02-SPR10",
     "type": "Event",
     "cost": 2,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SPR11": {
@@ -3725,6 +3957,7 @@
     "name": "Standing on the Edge BP02-SPR11",
     "type": "Event",
     "cost": 2,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SPR12": {
@@ -3741,6 +3974,7 @@
     "name": "Tasting Coffee BP02-SPR12",
     "type": "Event",
     "cost": 2,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SPR13": {
@@ -3757,6 +3991,7 @@
     "name": "Hanging Out the Laundry BP02-SPR13",
     "type": "Event",
     "cost": 4,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SPR14": {
@@ -3773,6 +4008,7 @@
     "name": "Squeezing Grapes BP02-SPR14",
     "type": "Event",
     "cost": 2,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SPR15": {
@@ -3789,6 +4025,7 @@
     "name": "Apple Throw and Catch BP02-SPR15",
     "type": "Event",
     "cost": 2,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SPR16": {
@@ -3805,6 +4042,7 @@
     "name": "Rainbow Dash Fan Club BP02-SPR16",
     "type": "Event",
     "cost": 2,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SPR17": {
@@ -3821,6 +4059,7 @@
     "name": "Tour of the Sculpture Garden BP02-SPR17",
     "type": "Event",
     "cost": 2,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SPR18": {
@@ -3837,6 +4076,7 @@
     "name": "Pet Play Day BP02-SPR18",
     "type": "Event",
     "cost": 2,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SPR19": {
@@ -3853,6 +4093,7 @@
     "name": "Pre-match Briefing BP02-SPR19",
     "type": "Event",
     "cost": 5,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SPR20": {
@@ -3869,6 +4110,7 @@
     "name": "Picnic Day BP02-SPR20",
     "type": "Event",
     "cost": 2,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SPR21": {
@@ -3885,6 +4127,7 @@
     "name": "Challenge to the Temple BP02-SPR21",
     "type": "Event",
     "cost": 4,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SPR22": {
@@ -3901,6 +4144,7 @@
     "name": "Smarty Pants BP02-SPR22",
     "type": "Item",
     "cost": 1,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SPR23": {
@@ -3917,6 +4161,7 @@
     "name": "Daring Do Book BP02-SPR23",
     "type": "Item",
     "cost": 2,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SPR24": {
@@ -3933,6 +4178,7 @@
     "name": "Party Cannon BP02-SPR24",
     "type": "Item",
     "cost": 4,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SPR25": {
@@ -3949,6 +4195,7 @@
     "name": "Welcome Wagon BP02-SPR25",
     "type": "Item",
     "cost": 2,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SPR26": {
@@ -3965,6 +4212,7 @@
     "name": "Crimson Jewel BP02-SPR26",
     "type": "Item",
     "cost": 2,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SPR27": {
@@ -3981,6 +4229,7 @@
     "name": "Educational Toy BP02-SPR27",
     "type": "Item",
     "cost": 2,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SPR28": {
@@ -3997,6 +4246,7 @@
     "name": "Seeds of Truth BP02-SPR28",
     "type": "Item",
     "cost": 2,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SR01": {
@@ -4013,6 +4263,7 @@
     "name": "Twilight Sparkle BP02-SR01",
     "type": "Character",
     "cost": 5,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SR02": {
@@ -4029,6 +4280,7 @@
     "name": "Fluttershy BP02-SR02",
     "type": "Character",
     "cost": 3,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SR03": {
@@ -4045,6 +4297,7 @@
     "name": "Pinkie Pie BP02-SR03",
     "type": "Character",
     "cost": 4,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SR04": {
@@ -4061,6 +4314,7 @@
     "name": "Applejack BP02-SR04",
     "type": "Character",
     "cost": 1,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SR05": {
@@ -4077,6 +4331,7 @@
     "name": "Rainbow Dash BP02-SR05",
     "type": "Character",
     "cost": 6,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SR06": {
@@ -4093,6 +4348,7 @@
     "name": "Rarity BP02-SR06",
     "type": "Character",
     "cost": 2,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SR07": {
@@ -4109,6 +4365,7 @@
     "name": "Spike BP02-SR07",
     "type": "Character",
     "cost": 7,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SR08": {
@@ -4125,6 +4382,7 @@
     "name": "Discord BP02-SR08",
     "type": "Character",
     "cost": 6,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SR09": {
@@ -4141,6 +4399,7 @@
     "name": "Apple Bloom BP02-SR09",
     "type": "Character",
     "cost": 3,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SR10": {
@@ -4157,6 +4416,7 @@
     "name": "Sweetie Belle BP02-SR10",
     "type": "Character",
     "cost": 3,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SR11": {
@@ -4173,6 +4433,7 @@
     "name": "Scootaloo BP02-SR11",
     "type": "Character",
     "cost": 3,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SR12": {
@@ -4189,6 +4450,7 @@
     "name": "Daring Do BP02-SR12",
     "type": "Character",
     "cost": 6,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SR13": {
@@ -4205,6 +4467,7 @@
     "name": "Philomena BP02-SR13",
     "type": "Character",
     "cost": 6,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-SR14": {
@@ -4221,6 +4484,7 @@
     "name": "Big McIntosh BP02-SR14",
     "type": "Character",
     "cost": 4,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-U01": {
@@ -4237,6 +4501,7 @@
     "name": "Twilight Sparkle BP02-U01",
     "type": "Character",
     "cost": 9,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-U02": {
@@ -4253,6 +4518,7 @@
     "name": "Twilight Sparkle BP02-U02",
     "type": "Character",
     "cost": 4,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-U03": {
@@ -4269,6 +4535,7 @@
     "name": "Fluttershy BP02-U03",
     "type": "Character",
     "cost": 4,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-U04": {
@@ -4285,6 +4552,7 @@
     "name": "Fluttershy BP02-U04",
     "type": "Character",
     "cost": 2,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-U05": {
@@ -4301,6 +4569,7 @@
     "name": "Pinkie Pie BP02-U05",
     "type": "Character",
     "cost": 3,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-U06": {
@@ -4317,6 +4586,7 @@
     "name": "Pinkie Pie BP02-U06",
     "type": "Character",
     "cost": 7,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-U07": {
@@ -4333,6 +4603,7 @@
     "name": "Applejack BP02-U07",
     "type": "Character",
     "cost": 4,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-U08": {
@@ -4349,6 +4620,7 @@
     "name": "Applejack BP02-U08",
     "type": "Character",
     "cost": 3,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-U09": {
@@ -4365,6 +4637,7 @@
     "name": "Rainbow Dash BP02-U09",
     "type": "Character",
     "cost": 5,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-U10": {
@@ -4381,6 +4654,7 @@
     "name": "Rainbow Dash BP02-U10",
     "type": "Character",
     "cost": 7,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-U11": {
@@ -4397,6 +4671,7 @@
     "name": "Rarity BP02-U11",
     "type": "Character",
     "cost": 3,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-U12": {
@@ -4413,6 +4688,7 @@
     "name": "Rarity BP02-U12",
     "type": "Character",
     "cost": 7,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-U13": {
@@ -4429,6 +4705,7 @@
     "name": "Spike BP02-U13",
     "type": "Character",
     "cost": 8,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-U14": {
@@ -4445,6 +4722,7 @@
     "name": "Apple Bloom BP02-U14",
     "type": "Character",
     "cost": 5,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-U15": {
@@ -4461,6 +4739,7 @@
     "name": "Sweetie Belle BP02-U15",
     "type": "Character",
     "cost": 5,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-U16": {
@@ -4477,6 +4756,7 @@
     "name": "Scootaloo BP02-U16",
     "type": "Character",
     "cost": 5,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-U17": {
@@ -4493,6 +4773,7 @@
     "name": "Discord BP02-U17",
     "type": "Character",
     "cost": 4,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "BP02-U18": {
@@ -4509,6 +4790,7 @@
     "name": "Discord BP02-U18",
     "type": "Character",
     "cost": 5,
+    "set": "Unknown Set",
     "isHorizontal": false
   },
   "SD01-C01": {
@@ -4525,6 +4807,7 @@
     "name": "Twilight Sparkle SD01-C01",
     "type": "Character",
     "cost": 1,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-C02": {
@@ -4541,6 +4824,7 @@
     "name": "Fluttershy SD01-C02",
     "type": "Character",
     "cost": 4,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-C03": {
@@ -4557,6 +4841,7 @@
     "name": "Pinkie Pie SD01-C03",
     "type": "Character",
     "cost": 3,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-C04": {
@@ -4573,6 +4858,7 @@
     "name": "Applejack SD01-C04",
     "type": "Character",
     "cost": 3,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-C05": {
@@ -4589,6 +4875,7 @@
     "name": "Rainbow Dash SD01-C05",
     "type": "Character",
     "cost": 1,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-C06": {
@@ -4605,6 +4892,7 @@
     "name": "Rarity SD01-C06",
     "type": "Character",
     "cost": 1,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-C07": {
@@ -4621,6 +4909,7 @@
     "name": "Apple Bloom SD01-C07",
     "type": "Character",
     "cost": 1,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-C08": {
@@ -4637,6 +4926,7 @@
     "name": "Sweetie Belle SD01-C08",
     "type": "Character",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-C09": {
@@ -4653,6 +4943,7 @@
     "name": "Scootaloo SD01-C09",
     "type": "Character",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-CR01": {
@@ -4669,6 +4960,7 @@
     "name": "Twilight Sparkle SD01-CR01",
     "type": "Character",
     "cost": 5,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-CR02": {
@@ -4685,6 +4977,7 @@
     "name": "Fluttershy SD01-CR02",
     "type": "Character",
     "cost": 5,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-CR03": {
@@ -4701,6 +4994,7 @@
     "name": "Pinkie Pie SD01-CR03",
     "type": "Character",
     "cost": 5,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-CR04": {
@@ -4717,6 +5011,7 @@
     "name": "Applejack SD01-CR04",
     "type": "Character",
     "cost": 4,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-CR05": {
@@ -4733,6 +5028,7 @@
     "name": "Rainbow Dash SD01-CR05",
     "type": "Character",
     "cost": 4,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-CR06": {
@@ -4749,6 +5045,7 @@
     "name": "Rarity SD01-CR06",
     "type": "Character",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-ER01": {
@@ -4765,6 +5062,7 @@
     "name": "Golden Oak Library SD01-ER01",
     "type": "Scene",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-ER02": {
@@ -4781,6 +5079,7 @@
     "name": "Fluttershy's Cottage SD01-ER02",
     "type": "Scene",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-ER03": {
@@ -4797,6 +5096,7 @@
     "name": "Sugarcube Corner SD01-ER03",
     "type": "Scene",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-ER04": {
@@ -4813,6 +5113,7 @@
     "name": "Sweet Apple Acres SD01-ER04",
     "type": "Scene",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-ER05": {
@@ -4829,6 +5130,7 @@
     "name": "Cloudominium SD01-ER05",
     "type": "Scene",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-ER06": {
@@ -4845,6 +5147,7 @@
     "name": "Carousel Boutique SD01-ER06",
     "type": "Scene",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-ER07": {
@@ -4861,6 +5164,7 @@
     "name": "Canterlot Tower SD01-ER07",
     "type": "Scene",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-ER08": {
@@ -4877,6 +5181,7 @@
     "name": "Ponyville Suburb SD01-ER08",
     "type": "Scene",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-ER09": {
@@ -4893,6 +5198,7 @@
     "name": "Ponyville Street SD01-ER09",
     "type": "Scene",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-ER10": {
@@ -4909,6 +5215,7 @@
     "name": "Road at Sweet Apple Acres SD01-ER10",
     "type": "Scene",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-ER11": {
@@ -4925,6 +5232,7 @@
     "name": "Stairs of Cloudsdale SD01-ER11",
     "type": "Scene",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-ER12": {
@@ -4941,6 +5249,7 @@
     "name": "Manehattan Streets SD01-ER12",
     "type": "Scene",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-GR01": {
@@ -4957,6 +5266,7 @@
     "name": "Twilight Sparkle SD01-GR01",
     "type": "Character",
     "cost": 7,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-GR02": {
@@ -4973,6 +5283,7 @@
     "name": "Fluttershy SD01-GR02",
     "type": "Character",
     "cost": 7,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-GR03": {
@@ -4989,6 +5300,7 @@
     "name": "Pinkie Pie SD01-GR03",
     "type": "Character",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-GR04": {
@@ -5005,6 +5317,7 @@
     "name": "Applejack SD01-GR04",
     "type": "Character",
     "cost": 3,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-GR05": {
@@ -5021,6 +5334,7 @@
     "name": "Rainbow Dash SD01-GR05",
     "type": "Character",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-GR06": {
@@ -5037,6 +5351,7 @@
     "name": "Rarity SD01-GR06",
     "type": "Character",
     "cost": 5,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-RR01": {
@@ -5053,6 +5368,7 @@
     "name": "Twilight Sparkle SD01-RR01",
     "type": "Main Character",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-RR02": {
@@ -5069,6 +5385,7 @@
     "name": "Fluttershy SD01-RR02",
     "type": "Main Character",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-RR03": {
@@ -5085,6 +5402,7 @@
     "name": "Pinkie Pie SD01-RR03",
     "type": "Main Character",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-RR04": {
@@ -5101,6 +5419,7 @@
     "name": "Applejack SD01-RR04",
     "type": "Main Character",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-RR05": {
@@ -5117,6 +5436,7 @@
     "name": "Rainbow Dash SD01-RR05",
     "type": "Main Character",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-RR06": {
@@ -5133,6 +5453,7 @@
     "name": "Rarity SD01-RR06",
     "type": "Main Character",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-SPR01": {
@@ -5149,6 +5470,7 @@
     "name": "Friends from other Side SD01-SPR01",
     "type": "Event",
     "cost": 1,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-SPR02": {
@@ -5165,6 +5487,7 @@
     "name": "Friendly Rabbits SD01-SPR02",
     "type": "Event",
     "cost": 3,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-SPR03": {
@@ -5181,6 +5504,7 @@
     "name": "Friendship Report SD01-SPR03",
     "type": "Event",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-SPR04": {
@@ -5197,6 +5521,7 @@
     "name": "Way to the Top SD01-SPR04",
     "type": "Event",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-SPR05": {
@@ -5213,6 +5538,7 @@
     "name": "Time for Class SD01-SPR05",
     "type": "Event",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-SPR06": {
@@ -5229,6 +5555,7 @@
     "name": "Meteor Shower SD01-SPR06",
     "type": "Event",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-SPR07": {
@@ -5245,6 +5572,7 @@
     "name": "Funny Glasses SD01-SPR07",
     "type": "Item",
     "cost": 3,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-SPR08": {
@@ -5261,6 +5589,7 @@
     "name": "Today's Homework SD01-SPR08",
     "type": "Item",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-SPR09": {
@@ -5277,6 +5606,7 @@
     "name": "Delivered Letter SD01-SPR09",
     "type": "Item",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-SPR10": {
@@ -5293,6 +5623,7 @@
     "name": "Cure for Poison Joke SD01-SPR10",
     "type": "Item",
     "cost": 4,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-SR01": {
@@ -5309,6 +5640,7 @@
     "name": "Twilight Sparkle SD01-SR01",
     "type": "Character",
     "cost": 3,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-SR02": {
@@ -5325,6 +5657,7 @@
     "name": "Fluttershy SD01-SR02",
     "type": "Character",
     "cost": 5,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-SR03": {
@@ -5341,6 +5674,7 @@
     "name": "Pinkie Pie SD01-SR03",
     "type": "Character",
     "cost": 1,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-SR04": {
@@ -5357,6 +5691,7 @@
     "name": "Applejack SD01-SR04",
     "type": "Character",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-SR05": {
@@ -5373,6 +5708,7 @@
     "name": "Rainbow Dash SD01-SR05",
     "type": "Character",
     "cost": 4,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-SR06": {
@@ -5389,6 +5725,7 @@
     "name": "Rarity SD01-SR06",
     "type": "Character",
     "cost": 6,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-U01": {
@@ -5405,6 +5742,7 @@
     "name": "Twilight Sparkle SD01-U01",
     "type": "Character",
     "cost": 4,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-U02": {
@@ -5421,6 +5759,7 @@
     "name": "Fluttershy SD01-U02",
     "type": "Character",
     "cost": 5,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-U03": {
@@ -5437,6 +5776,7 @@
     "name": "Pinkie Pie SD01-U03",
     "type": "Character",
     "cost": 4,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-U04": {
@@ -5453,6 +5793,7 @@
     "name": "Applejack SD01-U04",
     "type": "Character",
     "cost": 1,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-U05": {
@@ -5469,6 +5810,7 @@
     "name": "Rainbow Dash SD01-U05",
     "type": "Character",
     "cost": 3,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-U06": {
@@ -5485,6 +5827,7 @@
     "name": "Rarity SD01-U06",
     "type": "Character",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01-U07": {
@@ -5501,6 +5844,7 @@
     "name": "Zecora SD01-U07",
     "type": "Character",
     "cost": 1,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01A-C01": {
@@ -5517,6 +5861,7 @@
     "name": "Twilight Sparkle SD01A-C01",
     "type": "Character",
     "cost": 3,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01A-C02": {
@@ -5533,6 +5878,7 @@
     "name": "Twilight Sparkle SD01A-C02",
     "type": "Character",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01A-C03": {
@@ -5549,6 +5895,7 @@
     "name": "Spike SD01A-C03",
     "type": "Character",
     "cost": 4,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01A-C04": {
@@ -5565,6 +5912,7 @@
     "name": "Spike SD01A-C04",
     "type": "Character",
     "cost": 1,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01A-C05": {
@@ -5581,6 +5929,7 @@
     "name": "Owlowiscious SD01A-C05",
     "type": "Character",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01A-C06": {
@@ -5597,6 +5946,7 @@
     "name": "Searching for Elements of Harmony SD01A-C06",
     "type": "Story I",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": true
   },
   "SD01A-C07": {
@@ -5613,6 +5963,7 @@
     "name": "Searching for Elements of Harmony SD01A-C07",
     "type": "Story II",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": true
   },
   "SD01A-C08": {
@@ -5629,6 +5980,7 @@
     "name": "Searching for Elements of Harmony SD01A-C08",
     "type": "Story III",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": true
   },
   "SD01A-C09": {
@@ -5645,6 +5997,7 @@
     "name": "Searching for Elements of Harmony SD01A-C09",
     "type": "Story IV",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": true
   },
   "SD01A-SPR01": {
@@ -5661,6 +6014,7 @@
     "name": "Field Reference SD01A-SPR01",
     "type": "Event",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01A-SPR02": {
@@ -5677,6 +6031,7 @@
     "name": "Search the Library SD01A-SPR02",
     "type": "Event",
     "cost": 3,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01A-SPR03": {
@@ -5693,6 +6048,7 @@
     "name": "Experience Report SD01A-SPR03",
     "type": "Event",
     "cost": 3,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01A-SPR04": {
@@ -5709,6 +6065,7 @@
     "name": "Guiding Tome SD01A-SPR04",
     "type": "Item",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01A-SR01": {
@@ -5725,6 +6082,7 @@
     "name": "Twilight Sparkle SD01A-SR01",
     "type": "Character",
     "cost": 5,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01A-SR02": {
@@ -5741,6 +6099,7 @@
     "name": "Owlowiscious SD01A-SR02",
     "type": "Character",
     "cost": 3,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01A-U01": {
@@ -5757,6 +6116,7 @@
     "name": "Twilight Sparkle SD01A-U01",
     "type": "Character",
     "cost": 3,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01A-U02": {
@@ -5773,6 +6133,7 @@
     "name": "Twilight Sparkle SD01A-U02",
     "type": "Character",
     "cost": 6,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01A-U03": {
@@ -5789,6 +6150,7 @@
     "name": "Spike SD01A-U03",
     "type": "Character",
     "cost": 3,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01A-U04": {
@@ -5805,6 +6167,7 @@
     "name": "Spike SD01A-U04",
     "type": "Character",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01B-C01": {
@@ -5821,6 +6184,7 @@
     "name": "Fluttershy SD01B-C01",
     "type": "Character",
     "cost": 3,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01B-C02": {
@@ -5837,6 +6201,7 @@
     "name": "Fluttershy SD01B-C02",
     "type": "Character",
     "cost": 1,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01B-C03": {
@@ -5853,6 +6218,7 @@
     "name": "Fluttershy SD01B-C03",
     "type": "Character",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01B-C04": {
@@ -5869,6 +6235,7 @@
     "name": "Turtle SD01B-C04",
     "type": "Character",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01B-C05": {
@@ -5885,6 +6252,7 @@
     "name": "Angel SD01B-C05",
     "type": "Character",
     "cost": 1,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01B-C06": {
@@ -5901,6 +6269,7 @@
     "name": "Dragonshy SD01B-C06",
     "type": "Story I",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": true
   },
   "SD01B-C07": {
@@ -5917,6 +6286,7 @@
     "name": "Dragonshy SD01B-C07",
     "type": "Story II",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": true
   },
   "SD01B-C08": {
@@ -5933,6 +6303,7 @@
     "name": "Dragonshy SD01B-C08",
     "type": "Story III",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": true
   },
   "SD01B-C09": {
@@ -5949,6 +6320,7 @@
     "name": "Dragonshy SD01B-C09",
     "type": "Story IV",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": true
   },
   "SD01B-SPR01": {
@@ -5965,6 +6337,7 @@
     "name": "Aid for Moving Frogs Out SD01B-SPR01",
     "type": "Event",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01B-SPR02": {
@@ -5981,6 +6354,7 @@
     "name": "Flower Picking Day SD01B-SPR02",
     "type": "Event",
     "cost": 1,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01B-SPR03": {
@@ -5997,6 +6371,7 @@
     "name": "Healthy Salad SD01B-SPR03",
     "type": "Event",
     "cost": 4,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01B-SPR04": {
@@ -6013,6 +6388,7 @@
     "name": "Rabbit Pocket Watch SD01B-SPR04",
     "type": "Item",
     "cost": 3,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01B-SR01": {
@@ -6029,6 +6405,7 @@
     "name": "Fluttershy SD01B-SR01",
     "type": "Character",
     "cost": 3,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01B-SR02": {
@@ -6045,6 +6422,7 @@
     "name": "Angel SD01B-SR02",
     "type": "Character",
     "cost": 1,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01B-U01": {
@@ -6061,6 +6439,7 @@
     "name": "Fluttershy SD01B-U01",
     "type": "Character",
     "cost": 4,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01B-U02": {
@@ -6077,6 +6456,7 @@
     "name": "Fluttershy SD01B-U02",
     "type": "Character",
     "cost": 3,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01B-U03": {
@@ -6093,6 +6473,7 @@
     "name": "Philomena SD01B-U03",
     "type": "Character",
     "cost": 4,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01B-U04": {
@@ -6109,6 +6490,7 @@
     "name": "Angel SD01B-U04",
     "type": "Character",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01C-C01": {
@@ -6125,6 +6507,7 @@
     "name": "Pinkie Pie SD01C-C01",
     "type": "Character",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01C-C02": {
@@ -6141,6 +6524,7 @@
     "name": "Pinkie Pie SD01C-C02",
     "type": "Character",
     "cost": 6,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01C-C03": {
@@ -6157,6 +6541,7 @@
     "name": "Mrs.Cake SD01C-C03",
     "type": "Character",
     "cost": 4,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01C-C04": {
@@ -6173,6 +6558,7 @@
     "name": "Gummy SD01C-C04",
     "type": "Character",
     "cost": 3,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01C-C05": {
@@ -6189,6 +6575,7 @@
     "name": "Gummy SD01C-C05",
     "type": "Character",
     "cost": 1,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01C-C06": {
@@ -6205,6 +6592,7 @@
     "name": "Feeling Pinkie Keen SD01C-C06",
     "type": "Story I",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": true
   },
   "SD01C-C07": {
@@ -6221,6 +6609,7 @@
     "name": "Feeling Pinkie Keen SD01C-C07",
     "type": "Story II",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": true
   },
   "SD01C-C08": {
@@ -6237,6 +6626,7 @@
     "name": "Feeling Pinkie Keen SD01C-C08",
     "type": "Story III",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": true
   },
   "SD01C-C09": {
@@ -6253,6 +6643,7 @@
     "name": "Feeling Pinkie Keen SD01C-C09",
     "type": "Story IV",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": true
   },
   "SD01C-SPR01": {
@@ -6269,6 +6660,7 @@
     "name": "Blue Curse SD01C-SPR01",
     "type": "Event",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01C-SPR02": {
@@ -6285,6 +6677,7 @@
     "name": "Instrument Set SD01C-SPR02",
     "type": "Item",
     "cost": 1,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01C-SPR03": {
@@ -6301,6 +6694,7 @@
     "name": "Head Umbrella SD01C-SPR03",
     "type": "Item",
     "cost": 3,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01C-SPR04": {
@@ -6317,6 +6711,7 @@
     "name": "Pinkie's Flying Balloon SD01C-SPR04",
     "type": "Item",
     "cost": 1,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01C-SR01": {
@@ -6333,6 +6728,7 @@
     "name": "Pinkie Pie SD01C-SR01",
     "type": "Character",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01C-SR02": {
@@ -6349,6 +6745,7 @@
     "name": "Gummy SD01C-SR02",
     "type": "Character",
     "cost": 1,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01C-U01": {
@@ -6365,6 +6762,7 @@
     "name": "Pinkie Pie SD01C-U01",
     "type": "Character",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01C-U02": {
@@ -6381,6 +6779,7 @@
     "name": "Pinkie Pie SD01C-U02",
     "type": "Character",
     "cost": 3,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01C-U03": {
@@ -6397,6 +6796,7 @@
     "name": "Mrs.Cake SD01C-U03",
     "type": "Character",
     "cost": 4,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01C-U04": {
@@ -6413,6 +6813,7 @@
     "name": "Gummy SD01C-U04",
     "type": "Character",
     "cost": 3,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01D-C01": {
@@ -6429,6 +6830,7 @@
     "name": "Applejack SD01D-C01",
     "type": "Character",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01D-C02": {
@@ -6445,6 +6847,7 @@
     "name": "Applejack SD01D-C02",
     "type": "Character",
     "cost": 5,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01D-C03": {
@@ -6461,6 +6864,7 @@
     "name": "Apple Bloom SD01D-C03",
     "type": "Character",
     "cost": 3,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01D-C04": {
@@ -6477,6 +6881,7 @@
     "name": "Big McIntosh SD01D-C04",
     "type": "Character",
     "cost": 4,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01D-C05": {
@@ -6493,6 +6898,7 @@
     "name": "Winona SD01D-C05",
     "type": "Character",
     "cost": 1,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01D-C06": {
@@ -6509,6 +6915,7 @@
     "name": "Applebuck Season SD01D-C06",
     "type": "Story I",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": true
   },
   "SD01D-C07": {
@@ -6525,6 +6932,7 @@
     "name": "Applebuck Season SD01D-C07",
     "type": "Story II",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": true
   },
   "SD01D-C08": {
@@ -6541,6 +6949,7 @@
     "name": "Applebuck Season SD01D-C08",
     "type": "Story III",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": true
   },
   "SD01D-C09": {
@@ -6557,6 +6966,7 @@
     "name": "Applebuck Season SD01D-C09",
     "type": "Story IV",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": true
   },
   "SD01D-SPR01": {
@@ -6573,6 +6983,7 @@
     "name": "Dye Advertisement SD01D-SPR01",
     "type": "Event",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01D-SPR02": {
@@ -6589,6 +7000,7 @@
     "name": "Rope Trick SD01D-SPR02",
     "type": "Event",
     "cost": 3,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01D-SPR03": {
@@ -6605,6 +7017,7 @@
     "name": "Lullaby for Apple Tree SD01D-SPR03",
     "type": "Event",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01D-SPR04": {
@@ -6621,6 +7034,7 @@
     "name": "Apple Bucket SD01D-SPR04",
     "type": "Item",
     "cost": 3,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01D-SR01": {
@@ -6637,6 +7051,7 @@
     "name": "Applejack SD01D-SR01",
     "type": "Character",
     "cost": 1,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01D-SR02": {
@@ -6653,6 +7068,7 @@
     "name": "Winona SD01D-SR02",
     "type": "Character",
     "cost": 1,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01D-U01": {
@@ -6669,6 +7085,7 @@
     "name": "Applejack SD01D-U01",
     "type": "Character",
     "cost": 3,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01D-U02": {
@@ -6685,6 +7102,7 @@
     "name": "Applejack SD01D-U02",
     "type": "Character",
     "cost": 4,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01D-U03": {
@@ -6701,6 +7119,7 @@
     "name": "Apple Bloom SD01D-U03",
     "type": "Character",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01D-U04": {
@@ -6717,6 +7136,7 @@
     "name": "Winona SD01D-U04",
     "type": "Character",
     "cost": 3,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01E-C01": {
@@ -6733,6 +7153,7 @@
     "name": "Rainbow Dash SD01E-C01",
     "type": "Character",
     "cost": 1,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01E-C02": {
@@ -6749,6 +7170,7 @@
     "name": "Rainbow Dash SD01E-C02",
     "type": "Character",
     "cost": 4,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01E-C03": {
@@ -6765,6 +7187,7 @@
     "name": "Rainbow Dash SD01E-C03",
     "type": "Character",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01E-C04": {
@@ -6781,6 +7204,7 @@
     "name": "Scootaloo SD01E-C04",
     "type": "Character",
     "cost": 3,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01E-C05": {
@@ -6797,6 +7221,7 @@
     "name": "Tank SD01E-C05",
     "type": "Character",
     "cost": 1,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01E-C06": {
@@ -6813,6 +7238,7 @@
     "name": "The Best Young Flyer SD01E-C06",
     "type": "Story I",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": true
   },
   "SD01E-C07": {
@@ -6829,6 +7255,7 @@
     "name": "The Best Young Flyer SD01E-C07",
     "type": "Story II",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": true
   },
   "SD01E-C08": {
@@ -6845,6 +7272,7 @@
     "name": "The Best Young Flyer SD01E-C08",
     "type": "Story III",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": true
   },
   "SD01E-C09": {
@@ -6861,6 +7289,7 @@
     "name": "The Best Young Flyer SD01E-C09",
     "type": "Story IV",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": true
   },
   "SD01E-SPR01": {
@@ -6877,6 +7306,7 @@
     "name": "Hoofshake Buzzer! SD01E-SPR01",
     "type": "Event",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01E-SPR02": {
@@ -6893,6 +7323,7 @@
     "name": "Rushing Rescue SD01E-SPR02",
     "type": "Event",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01E-SPR03": {
@@ -6909,6 +7340,7 @@
     "name": "Training Accident SD01E-SPR03",
     "type": "Event",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01E-SPR04": {
@@ -6925,6 +7357,7 @@
     "name": "Prank Sneeze Powder SD01E-SPR04",
     "type": "Item",
     "cost": 3,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01E-SR01": {
@@ -6941,6 +7374,7 @@
     "name": "Rainbow Dash SD01E-SR01",
     "type": "Character",
     "cost": 4,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01E-SR02": {
@@ -6957,6 +7391,7 @@
     "name": "Tank SD01E-SR02",
     "type": "Character",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01E-U01": {
@@ -6973,6 +7408,7 @@
     "name": "Rainbow Dash SD01E-U01",
     "type": "Character",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01E-U02": {
@@ -6989,6 +7425,7 @@
     "name": "Rainbow Dash SD01E-U02",
     "type": "Character",
     "cost": 3,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01E-U03": {
@@ -7005,6 +7442,7 @@
     "name": "Scootaloo SD01E-U03",
     "type": "Character",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01E-U04": {
@@ -7021,6 +7459,7 @@
     "name": "Tank SD01E-U04",
     "type": "Character",
     "cost": 3,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01F-C01": {
@@ -7037,6 +7476,7 @@
     "name": "Rarity SD01F-C01",
     "type": "Character",
     "cost": 4,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01F-C02": {
@@ -7053,6 +7493,7 @@
     "name": "Rarity SD01F-C02",
     "type": "Character",
     "cost": 5,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01F-C03": {
@@ -7069,6 +7510,7 @@
     "name": "Rarity SD01F-C03",
     "type": "Character",
     "cost": 1,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01F-C04": {
@@ -7085,6 +7527,7 @@
     "name": "Sweetie Belle SD01F-C04",
     "type": "Character",
     "cost": 1,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01F-C05": {
@@ -7101,6 +7544,7 @@
     "name": "Opal SD01F-C05",
     "type": "Character",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01F-C06": {
@@ -7117,6 +7561,7 @@
     "name": "A Dog and Pony Show SD01F-C06",
     "type": "Story I",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": true
   },
   "SD01F-C07": {
@@ -7133,6 +7578,7 @@
     "name": "A Dog and Pony Show SD01F-C07",
     "type": "Story II",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": true
   },
   "SD01F-C08": {
@@ -7149,6 +7595,7 @@
     "name": "A Dog and Pony Show SD01F-C08",
     "type": "Story III",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": true
   },
   "SD01F-C09": {
@@ -7165,6 +7612,7 @@
     "name": "A Dog and Pony Show SD01F-C09",
     "type": "Story IV",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": true
   },
   "SD01F-SPR01": {
@@ -7181,6 +7629,7 @@
     "name": "Tailor-made SD01F-SPR01",
     "type": "Event",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01F-SPR02": {
@@ -7197,6 +7646,7 @@
     "name": "Dress for Competition SD01F-SPR02",
     "type": "Event",
     "cost": 1,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01F-SPR03": {
@@ -7213,6 +7663,7 @@
     "name": "Steam Therapy SD01F-SPR03",
     "type": "Event",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01F-SPR04": {
@@ -7229,6 +7680,7 @@
     "name": "Dress Form SD01F-SPR04",
     "type": "Item",
     "cost": 1,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01F-SR01": {
@@ -7245,6 +7697,7 @@
     "name": "Rarity SD01F-SR01",
     "type": "Character",
     "cost": 3,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01F-SR02": {
@@ -7261,6 +7714,7 @@
     "name": "Opal SD01F-SR02",
     "type": "Character",
     "cost": 3,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01F-U01": {
@@ -7277,6 +7731,7 @@
     "name": "Rarity SD01F-U01",
     "type": "Character",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01F-U02": {
@@ -7293,6 +7748,7 @@
     "name": "Rarity SD01F-U02",
     "type": "Character",
     "cost": 4,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01F-U03": {
@@ -7309,6 +7765,7 @@
     "name": "Sweetie Belle SD01F-U03",
     "type": "Character",
     "cost": 3,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "SD01F-U04": {
@@ -7325,6 +7782,7 @@
     "name": "Opal SD01F-U04",
     "type": "Character",
     "cost": 2,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "※BP01-CR01": {
@@ -7341,6 +7799,7 @@
     "name": "Twilight Sparkle BP01-CR01",
     "type": "Character",
     "cost": 4,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "※BP01-CR02": {
@@ -7357,6 +7816,7 @@
     "name": "Fluttershy BP01-CR02",
     "type": "Character",
     "cost": 3,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "※BP01-CR03": {
@@ -7373,6 +7833,7 @@
     "name": "Pinkie Pie BP01-CR03",
     "type": "Character",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "※BP01-CR04": {
@@ -7389,6 +7850,7 @@
     "name": "Applejack BP01-CR04",
     "type": "Character",
     "cost": 3,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "※BP01-CR05": {
@@ -7405,6 +7867,7 @@
     "name": "Rainbow Dash BP01-CR05",
     "type": "Character",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "※BP01-CR06": {
@@ -7421,6 +7884,7 @@
     "name": "Rarity BP01-CR06",
     "type": "Character",
     "cost": 4,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "※BP01-CR07": {
@@ -7437,6 +7901,7 @@
     "name": "Twilight Sparkle BP01-CR07",
     "type": "Character",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "※BP01-CR08": {
@@ -7453,6 +7918,7 @@
     "name": "Fluttershy BP01-CR08",
     "type": "Character",
     "cost": 3,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "※BP01-CR09": {
@@ -7469,6 +7935,7 @@
     "name": "Pinkie Pie BP01-CR09",
     "type": "Character",
     "cost": 5,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "※BP01-CR10": {
@@ -7485,6 +7952,7 @@
     "name": "Applejack BP01-CR10",
     "type": "Character",
     "cost": 3,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "※BP01-CR11": {
@@ -7501,6 +7969,7 @@
     "name": "Rainbow Dash BP01-CR11",
     "type": "Character",
     "cost": 4,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "※BP01-CR12": {
@@ -7517,6 +7986,7 @@
     "name": "Rarity BP01-CR12",
     "type": "Character",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "※BP01-GR01": {
@@ -7533,6 +8003,7 @@
     "name": "Twilight Sparkle BP01-GR01",
     "type": "Character",
     "cost": 3,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "※BP01-GR02": {
@@ -7549,6 +8020,7 @@
     "name": "Fluttershy BP01-GR02",
     "type": "Character",
     "cost": 4,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "※BP01-GR03": {
@@ -7565,6 +8037,7 @@
     "name": "Pinkie Pie BP01-GR03",
     "type": "Character",
     "cost": 3,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "※BP01-GR04": {
@@ -7581,6 +8054,7 @@
     "name": "Applejack BP01-GR04",
     "type": "Character",
     "cost": 4,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "※BP01-GR05": {
@@ -7597,6 +8071,7 @@
     "name": "Rainbow Dash BP01-GR05",
     "type": "Character",
     "cost": 7,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "※BP01-GR06": {
@@ -7613,6 +8088,7 @@
     "name": "Rarity BP01-GR06",
     "type": "Character",
     "cost": 5,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "※BP01-RR01": {
@@ -7629,6 +8105,7 @@
     "name": "Twilight Sparkle BP01-RR01",
     "type": "Main Character",
     "cost": 0,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "※BP01-RR02": {
@@ -7645,6 +8122,7 @@
     "name": "Fluttershy BP01-RR02",
     "type": "Main Character",
     "cost": 0,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "※BP01-RR03": {
@@ -7661,6 +8139,7 @@
     "name": "Pinkie Pie BP01-RR03",
     "type": "Main Character",
     "cost": 0,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "※BP01-RR04": {
@@ -7677,6 +8156,7 @@
     "name": "Applejack BP01-RR04",
     "type": "Main Character",
     "cost": 0,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "※BP01-RR05": {
@@ -7693,6 +8173,7 @@
     "name": "Rainbow Dash BP01-RR05",
     "type": "Main Character",
     "cost": 0,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "※BP01-RR06": {
@@ -7709,6 +8190,7 @@
     "name": "Rarity BP01-RR06",
     "type": "Main Character",
     "cost": 0,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "※BP01-SPR01": {
@@ -7725,6 +8207,7 @@
     "name": "Sunlight in the Rain BP01-SPR01",
     "type": "Event",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "※BP01-SPR02": {
@@ -7741,6 +8224,7 @@
     "name": "Time for Clean-up! BP01-SPR02",
     "type": "Event",
     "cost": 3,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "※BP01-SPR03": {
@@ -7757,6 +8241,7 @@
     "name": "Deliver letters BP01-SPR03",
     "type": "Event",
     "cost": 1,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "※BP01-SPR05": {
@@ -7773,6 +8258,7 @@
     "name": "Prepared to Go BP01-SPR05",
     "type": "Event",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "※BP01-SPR07": {
@@ -7789,6 +8275,7 @@
     "name": "Hair Curling BP01-SPR07",
     "type": "Event",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "※BP01-SPR08": {
@@ -7805,6 +8292,7 @@
     "name": "Pillow Fight BP01-SPR08",
     "type": "Event",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "※BP01-SPR09": {
@@ -7821,6 +8309,7 @@
     "name": "Rain Under the Roof BP01-SPR09",
     "type": "Event",
     "cost": 3,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "※BP01-SPR12": {
@@ -7837,6 +8326,7 @@
     "name": "Hoof Power Test BP01-SPR12",
     "type": "Event",
     "cost": 3,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "※BP01-SPR13": {
@@ -7853,6 +8343,7 @@
     "name": "Tense Competition BP01-SPR13",
     "type": "Event",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "※BP01-SPR18": {
@@ -7869,6 +8360,7 @@
     "name": "Accidentally Burnt Book BP01-SPR18",
     "type": "Event",
     "cost": 2,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "※BP01-SPR21": {
@@ -7885,6 +8377,7 @@
     "name": "Found Scroll BP01-SPR21",
     "type": "Event",
     "cost": 1,
+    "set": "Fantasy Wonderland",
     "isHorizontal": false
   },
   "※SD01-ER01D": {
@@ -7901,6 +8394,7 @@
     "name": "Golden Oak Library SD01-ER01D",
     "type": "Scene",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "※SD01-ER01N": {
@@ -7917,6 +8411,7 @@
     "name": "Golden Oak Library SD01-ER01N",
     "type": "Scene",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "※SD01-ER02D": {
@@ -7933,6 +8428,7 @@
     "name": "Fluttershy's Cottage SD01-ER02D",
     "type": "Scene",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "※SD01-ER02N": {
@@ -7949,6 +8445,7 @@
     "name": "Fluttershy's Cottage SD01-ER02N",
     "type": "Scene",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "※SD01-ER03D": {
@@ -7965,6 +8462,7 @@
     "name": "Sugarcube Corner SD01-ER03D",
     "type": "Scene",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "※SD01-ER03N": {
@@ -7981,6 +8479,7 @@
     "name": "Sugarcube Corner SD01-ER03N",
     "type": "Scene",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "※SD01-ER04D": {
@@ -7997,6 +8496,7 @@
     "name": "Sweet Apple Acres SD01-ER04D",
     "type": "Scene",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "※SD01-ER04N": {
@@ -8013,6 +8513,7 @@
     "name": "Sweet Apple Acres SD01-ER04N",
     "type": "Scene",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "※SD01-ER05D": {
@@ -8029,6 +8530,7 @@
     "name": "Cloudominium SD01-ER05D",
     "type": "Scene",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "※SD01-ER05N": {
@@ -8045,6 +8547,7 @@
     "name": "Cloudominium SD01-ER05N",
     "type": "Scene",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "※SD01-ER06D": {
@@ -8061,6 +8564,7 @@
     "name": "Carousel Boutique SD01-ER06D",
     "type": "Scene",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "※SD01-ER06N": {
@@ -8077,6 +8581,7 @@
     "name": "Carousel Boutique SD01-ER06N",
     "type": "Scene",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "※SD01-ER07D": {
@@ -8093,6 +8598,7 @@
     "name": "Canterlot Tower SD01-ER07D",
     "type": "Scene",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "※SD01-ER07N": {
@@ -8109,6 +8615,7 @@
     "name": "Canterlot Tower SD01-ER07N",
     "type": "Scene",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "※SD01-ER08D": {
@@ -8125,6 +8632,7 @@
     "name": "Ponyville Suburb SD01-ER08D",
     "type": "Scene",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "※SD01-ER08N": {
@@ -8141,6 +8649,7 @@
     "name": "Ponyville Suburb SD01-ER08N",
     "type": "Scene",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "※SD01-ER09D": {
@@ -8157,6 +8666,7 @@
     "name": "Ponyville Street SD01-ER09D",
     "type": "Scene",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "※SD01-ER09N": {
@@ -8173,6 +8683,7 @@
     "name": "Ponyville Street SD01-ER09N",
     "type": "Scene",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "※SD01-ER10D": {
@@ -8189,6 +8700,7 @@
     "name": "Road at Sweet Apple Acres SD01-ER10D",
     "type": "Scene",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "※SD01-ER10N": {
@@ -8205,6 +8717,7 @@
     "name": "Road at Sweet Apple Acres SD01-ER10N",
     "type": "Scene",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "※SD01-ER11D": {
@@ -8221,6 +8734,7 @@
     "name": "Stairs of Cloudsdale SD01-ER11D",
     "type": "Scene",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "※SD01-ER11N": {
@@ -8237,6 +8751,7 @@
     "name": "Stairs of Cloudsdale SD01-ER11N",
     "type": "Scene",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "※SD01-ER12D": {
@@ -8253,6 +8768,7 @@
     "name": "Manehattan Streets SD01-ER12D",
     "type": "Scene",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "※SD01-ER12N": {
@@ -8269,6 +8785,7 @@
     "name": "Manehattan Streets SD01-ER12N",
     "type": "Scene",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "※SD01-RR01": {
@@ -8285,6 +8802,7 @@
     "name": "Twilight Sparkle SD01-RR01",
     "type": "Main Character",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "※SD01-RR02": {
@@ -8301,6 +8819,7 @@
     "name": "Fluttershy SD01-RR02",
     "type": "Main Character",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "※SD01-RR03": {
@@ -8317,6 +8836,7 @@
     "name": "Pinkie Pie SD01-RR03",
     "type": "Main Character",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "※SD01-RR04": {
@@ -8333,6 +8853,7 @@
     "name": "Applejack SD01-RR04",
     "type": "Main Character",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "※SD01-RR05": {
@@ -8349,6 +8870,7 @@
     "name": "Rainbow Dash SD01-RR05",
     "type": "Main Character",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   },
   "※SD01-RR06": {
@@ -8365,6 +8887,7 @@
     "name": "Rarity SD01-RR06",
     "type": "Main Character",
     "cost": 0,
+    "set": "Friendship Begin",
     "isHorizontal": false
   }
 }

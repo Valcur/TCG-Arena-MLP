@@ -3,9 +3,9 @@
     "menuBackgroundImage": "https://cdn.imgchest.com/files/07b61a92ea49.jpg",
     "deckBuilding": {
         "mainFilters": [
-            "aspects",
             "type",
-            "cost"
+            "cost",
+            "set"
         ],
         "formats": [
             {
