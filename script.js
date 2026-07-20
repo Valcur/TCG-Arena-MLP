@@ -19,6 +19,7 @@ fs.readFile(inputFile, 'utf8', (err, data) => {
         const setNames = {
             "SD01": "Friendship Begin",
             "BP01": "Fantasy Wonderland",
+            "BP02": "Discord"
         };
 
         function getSetName(setCode) {
@@ -30,13 +31,13 @@ fs.readFile(inputFile, 'utf8', (err, data) => {
         function getRarityName(rarityCode) {
             if (rarityCode === "C") return "Common";
             if (rarityCode === "U") return "Uncommon";
-          
+
             if (rarityCode.includes("※")) {
-              return "※Rare";
+                return "※Rare";
             }
-          
+
             return "Rare";
-          }
+        }
 
         originalCards.forEach(card => {
             const id = card.id;

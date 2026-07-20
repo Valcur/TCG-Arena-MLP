@@ -10,8 +10,10 @@ if (!fs.existsSync(outputDir)) {
     fs.mkdirSync(outputDir, { recursive: true });
 }
 
+const skipCropList = ["BP02"];
+
 async function processImages() {
-    const files = fs.readdirSync(sourceDir).filter(file => 
+    const files = fs.readdirSync(sourceDir).filter(file =>
         ['.webp', '.jpg', '.png', '.jpeg'].includes(path.extname(file).toLowerCase())
     );
 
@@ -22,20 +24,24 @@ async function processImages() {
         const outputPath = path.join(outputDir, file);
 
         try {
-            const image = sharp(inputPath);
-            const metadata = await image.metadata();
+            let pipeline = sharp(inputPath);
+            const metadata = await pipeline.metadata();
 
-            // 1. Calcul des nouvelles dimensions (retrait de 20px de chaque côté)
-            const newWidth = metadata.width - 40;
-            const newHeight = metadata.height - 40;
+            const shouldSkipCrop = skipCropList.some(pattern => file.includes(pattern));
 
-            // 2. Application des transformations
-            let pipeline = image.extract({
-                left: 20,
-                top: 20,
-                width: newWidth,
-                height: newHeight
-            });
+            if (!shouldSkipCrop) {
+                // 1. Calcul des nouvelles dimensions (retrait de 20px de chaque côté)
+                const newWidth = metadata.width - 40;
+                const newHeight = metadata.height - 40;
+
+                // 2. Application des transformations
+                pipeline = pipeline.extract({
+                    left: 20,
+                    top: 20,
+                    width: newWidth,
+                    height: newHeight
+                });
+            }
 
             // 3. Rotation si Largeur > Hauteur
             if (metadata.width > metadata.height) {
