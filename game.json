@@ -227,7 +227,7 @@
                                     }
                                 },
                                 {
-                                    "section": "Main Character",
+                                    "section": "MainCharacter",
                                     "style": {
                                         "width": "11vh"
                                     }
@@ -365,7 +365,7 @@
                     ]
                 },
                 "categoriesAlreadyOnBoard": [
-                    "Main Character",
+                    "Main Character->MainCharacter",
                     "Scene->SceneDeck",
                     "Story I->Story",
                     "Story II->Story",
@@ -519,12 +519,13 @@
                         "displayedTitle": "Scene Deck",
                         "cardBackColor": "#a6a4d6"
                     },
-                    "Main Character": {
+                    "MainCharacter": {
                         "isHidden": "no",
                         "height": "SMALL",
                         "noQuickActions": true,
                         "alignment": "CENTER",
                         "reverseZOrder": true,
+                        "displaedTitle": "Main Character",
                         "cardActionShortcut": {
                             "action": "MOVE",
                             "actionData": {
