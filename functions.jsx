@@ -5,7 +5,8 @@ async function ini() {
     game.data.Character.image = myPonyCardData.face.front.image
 
     const ponyName = myPonyCardData.name?.toLowerCase().replace(/\s+/g, "")
-    game.data.Character.color = colors[ponyName] ?? colors.twilight
+    const colorKey = Object.keys(colors).find(key => ponyName?.includes(key))
+    game.data.Character.color = colors[colorKey] ?? colors.twilight
   }
 }
 
