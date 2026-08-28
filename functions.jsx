@@ -13,7 +13,6 @@ async function ini() {
 async function onPonyEnter(section, ponies) {
   if (ponies.length <= 0) return
   const sectionData = game.data[section + "_Boost"]
-  console.log(sectionData, section, ponies)
   if (!sectionData) return
   const ponyCard = ponies[0]
   const ponyCardData = functions.getCardData(ponyCard)
@@ -22,16 +21,15 @@ async function onPonyEnter(section, ponies) {
 
 async function onPonyLeft(section) {
   const sectionData = game.data[section + "_Boost"]
-  console.log(sectionData, section)
   if (!sectionData) return
   sectionData.boost = 0
 }
 
 const colors = {
   "twilight": "#A46BBD",
-  "applejack": "#EF6F2F",
+  "applejack": "#FABA62",
   "fluttershy": "#E9D461",
   "pinkiepie": "#E880B0",
   "rainbowdash": "#6BABDA",
-  "rarity": "#BDC1C2"
+  "rarity": "#f3f4f5"
 }
