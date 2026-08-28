@@ -17,7 +17,7 @@ async function onPonyEnter(section, ponies) {
   if (!sectionData) return
   const ponyCard = ponies[0]
   const ponyCardData = functions.getCardData(ponyCard)
-  sectionData.boost = 4
+  sectionData.boost = ponyCardData?.power ?? 0
 }
 
 async function onPonyLeft(section) {
