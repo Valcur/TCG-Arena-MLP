@@ -15,7 +15,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "BP01-C02": {
     "id": "BP01-C02",
@@ -33,7 +34,8 @@
     "cost": 4,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "BP01-C03": {
     "id": "BP01-C03",
@@ -51,7 +53,8 @@
     "cost": 7,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 9
   },
   "BP01-C04": {
     "id": "BP01-C04",
@@ -69,7 +72,8 @@
     "cost": 3,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "BP01-C05": {
     "id": "BP01-C05",
@@ -87,7 +91,8 @@
     "cost": 6,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 8
   },
   "BP01-C06": {
     "id": "BP01-C06",
@@ -105,7 +110,8 @@
     "cost": 3,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "BP01-C07": {
     "id": "BP01-C07",
@@ -123,7 +129,8 @@
     "cost": 1,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 2
   },
   "BP01-C08": {
     "id": "BP01-C08",
@@ -141,7 +148,8 @@
     "cost": 6,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 8
   },
   "BP01-C09": {
     "id": "BP01-C09",
@@ -159,7 +167,8 @@
     "cost": 3,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "BP01-C10": {
     "id": "BP01-C10",
@@ -177,7 +186,8 @@
     "cost": 4,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "BP01-C11": {
     "id": "BP01-C11",
@@ -195,7 +205,8 @@
     "cost": 5,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 7
   },
   "BP01-C12": {
     "id": "BP01-C12",
@@ -213,7 +224,8 @@
     "cost": 5,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "BP01-C13": {
     "id": "BP01-C13",
@@ -231,7 +243,8 @@
     "cost": 6,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 8
   },
   "BP01-C14": {
     "id": "BP01-C14",
@@ -249,7 +262,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "BP01-C15": {
     "id": "BP01-C15",
@@ -267,7 +281,8 @@
     "cost": 1,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 2
   },
   "BP01-C16": {
     "id": "BP01-C16",
@@ -285,7 +300,8 @@
     "cost": 1,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 2
   },
   "BP01-C17": {
     "id": "BP01-C17",
@@ -303,7 +319,8 @@
     "cost": 1,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 2
   },
   "BP01-C18": {
     "id": "BP01-C18",
@@ -321,7 +338,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "BP01-C19": {
     "id": "BP01-C19",
@@ -339,7 +357,8 @@
     "cost": 5,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "BP01-C20": {
     "id": "BP01-C20",
@@ -357,7 +376,8 @@
     "cost": 1,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 2
   },
   "BP01-C21": {
     "id": "BP01-C21",
@@ -375,7 +395,8 @@
     "cost": 3,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "BP01-C22": {
     "id": "BP01-C22",
@@ -393,7 +414,8 @@
     "cost": 1,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 1
   },
   "BP01-C23": {
     "id": "BP01-C23",
@@ -411,7 +433,8 @@
     "cost": 7,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 9
   },
   "BP01-C24": {
     "id": "BP01-C24",
@@ -429,7 +452,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "BP01-C25": {
     "id": "BP01-C25",
@@ -447,7 +471,8 @@
     "cost": 0,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP01-C26": {
     "id": "BP01-C26",
@@ -465,7 +490,8 @@
     "cost": 0,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP01-C27": {
     "id": "BP01-C27",
@@ -483,7 +509,8 @@
     "cost": 0,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP01-C28": {
     "id": "BP01-C28",
@@ -501,7 +528,8 @@
     "cost": 0,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP01-C29": {
     "id": "BP01-C29",
@@ -519,7 +547,8 @@
     "cost": 0,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP01-C30": {
     "id": "BP01-C30",
@@ -537,7 +566,8 @@
     "cost": 0,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP01-C31": {
     "id": "BP01-C31",
@@ -555,7 +585,8 @@
     "cost": 0,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP01-C32": {
     "id": "BP01-C32",
@@ -573,7 +604,8 @@
     "cost": 0,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP01-C33": {
     "id": "BP01-C33",
@@ -591,7 +623,8 @@
     "cost": 0,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP01-C34": {
     "id": "BP01-C34",
@@ -609,7 +642,8 @@
     "cost": 0,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP01-C35": {
     "id": "BP01-C35",
@@ -627,7 +661,8 @@
     "cost": 0,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP01-C36": {
     "id": "BP01-C36",
@@ -645,7 +680,8 @@
     "cost": 0,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP01-C37": {
     "id": "BP01-C37",
@@ -663,7 +699,8 @@
     "cost": 0,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP01-C38": {
     "id": "BP01-C38",
@@ -681,7 +718,8 @@
     "cost": 0,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP01-C39": {
     "id": "BP01-C39",
@@ -699,7 +737,8 @@
     "cost": 0,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP01-C40": {
     "id": "BP01-C40",
@@ -717,7 +756,8 @@
     "cost": 0,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP01-C41": {
     "id": "BP01-C41",
@@ -735,7 +775,8 @@
     "cost": 0,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP01-C42": {
     "id": "BP01-C42",
@@ -753,7 +794,8 @@
     "cost": 0,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP01-C43": {
     "id": "BP01-C43",
@@ -771,7 +813,8 @@
     "cost": 0,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP01-C44": {
     "id": "BP01-C44",
@@ -789,7 +832,8 @@
     "cost": 0,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP01-C45": {
     "id": "BP01-C45",
@@ -807,7 +851,8 @@
     "cost": 0,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP01-C46": {
     "id": "BP01-C46",
@@ -825,7 +870,8 @@
     "cost": 0,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP01-C47": {
     "id": "BP01-C47",
@@ -843,7 +889,8 @@
     "cost": 0,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP01-C48": {
     "id": "BP01-C48",
@@ -861,7 +908,8 @@
     "cost": 0,
     "set": "Fantasy Wonderland",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP01-CR01": {
     "id": "BP01-CR01",
@@ -879,7 +927,8 @@
     "cost": 4,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "BP01-CR02": {
     "id": "BP01-CR02",
@@ -897,7 +946,8 @@
     "cost": 3,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "BP01-CR03": {
     "id": "BP01-CR03",
@@ -915,7 +965,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "BP01-CR04": {
     "id": "BP01-CR04",
@@ -933,7 +984,8 @@
     "cost": 3,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "BP01-CR05": {
     "id": "BP01-CR05",
@@ -951,7 +1003,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "BP01-CR06": {
     "id": "BP01-CR06",
@@ -969,7 +1022,8 @@
     "cost": 4,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "BP01-CR07": {
     "id": "BP01-CR07",
@@ -987,7 +1041,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "BP01-CR08": {
     "id": "BP01-CR08",
@@ -1005,7 +1060,8 @@
     "cost": 3,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "BP01-CR09": {
     "id": "BP01-CR09",
@@ -1023,7 +1079,8 @@
     "cost": 5,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "BP01-CR10": {
     "id": "BP01-CR10",
@@ -1041,7 +1098,8 @@
     "cost": 3,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "BP01-CR11": {
     "id": "BP01-CR11",
@@ -1059,7 +1117,8 @@
     "cost": 4,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "BP01-CR12": {
     "id": "BP01-CR12",
@@ -1077,7 +1136,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "BP01-GR01": {
     "id": "BP01-GR01",
@@ -1095,7 +1155,8 @@
     "cost": 3,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "BP01-GR02": {
     "id": "BP01-GR02",
@@ -1113,7 +1174,8 @@
     "cost": 4,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "BP01-GR03": {
     "id": "BP01-GR03",
@@ -1131,7 +1193,8 @@
     "cost": 3,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "BP01-GR04": {
     "id": "BP01-GR04",
@@ -1149,7 +1212,8 @@
     "cost": 4,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "BP01-GR05": {
     "id": "BP01-GR05",
@@ -1167,7 +1231,8 @@
     "cost": 7,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 9
   },
   "BP01-GR06": {
     "id": "BP01-GR06",
@@ -1185,7 +1250,8 @@
     "cost": 5,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "BP01-GR07": {
     "id": "BP01-GR07",
@@ -1203,7 +1269,8 @@
     "cost": 4,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "BP01-GR08": {
     "id": "BP01-GR08",
@@ -1221,7 +1288,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "BP01-GR09": {
     "id": "BP01-GR09",
@@ -1239,7 +1307,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "BP01-GR10": {
     "id": "BP01-GR10",
@@ -1257,7 +1326,8 @@
     "cost": 4,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "BP01-GR11": {
     "id": "BP01-GR11",
@@ -1275,7 +1345,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "BP01-GR12": {
     "id": "BP01-GR12",
@@ -1293,7 +1364,8 @@
     "cost": 5,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "BP01-RR01": {
     "id": "BP01-RR01",
@@ -1311,7 +1383,8 @@
     "cost": 0,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP01-RR02": {
     "id": "BP01-RR02",
@@ -1329,7 +1402,8 @@
     "cost": 0,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP01-RR03": {
     "id": "BP01-RR03",
@@ -1347,7 +1421,8 @@
     "cost": 0,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP01-RR04": {
     "id": "BP01-RR04",
@@ -1365,7 +1440,8 @@
     "cost": 0,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP01-RR05": {
     "id": "BP01-RR05",
@@ -1383,7 +1459,8 @@
     "cost": 0,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP01-RR06": {
     "id": "BP01-RR06",
@@ -1401,7 +1478,8 @@
     "cost": 0,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP01-SPR01": {
     "id": "BP01-SPR01",
@@ -1419,7 +1497,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP01-SPR02": {
     "id": "BP01-SPR02",
@@ -1437,7 +1516,8 @@
     "cost": 3,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP01-SPR03": {
     "id": "BP01-SPR03",
@@ -1455,7 +1535,8 @@
     "cost": 1,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP01-SPR04": {
     "id": "BP01-SPR04",
@@ -1473,7 +1554,8 @@
     "cost": 3,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP01-SPR05": {
     "id": "BP01-SPR05",
@@ -1491,7 +1573,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP01-SPR06": {
     "id": "BP01-SPR06",
@@ -1509,7 +1592,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP01-SPR07": {
     "id": "BP01-SPR07",
@@ -1527,7 +1611,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP01-SPR08": {
     "id": "BP01-SPR08",
@@ -1545,7 +1630,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP01-SPR09": {
     "id": "BP01-SPR09",
@@ -1563,7 +1649,8 @@
     "cost": 3,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP01-SPR10": {
     "id": "BP01-SPR10",
@@ -1581,7 +1668,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP01-SPR11": {
     "id": "BP01-SPR11",
@@ -1599,7 +1687,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP01-SPR12": {
     "id": "BP01-SPR12",
@@ -1617,7 +1706,8 @@
     "cost": 3,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP01-SPR13": {
     "id": "BP01-SPR13",
@@ -1635,7 +1725,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP01-SPR14": {
     "id": "BP01-SPR14",
@@ -1653,7 +1744,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP01-SPR15": {
     "id": "BP01-SPR15",
@@ -1671,7 +1763,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP01-SPR16": {
     "id": "BP01-SPR16",
@@ -1689,7 +1782,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP01-SPR17": {
     "id": "BP01-SPR17",
@@ -1707,7 +1801,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP01-SPR18": {
     "id": "BP01-SPR18",
@@ -1725,7 +1820,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP01-SPR19": {
     "id": "BP01-SPR19",
@@ -1743,7 +1839,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP01-SPR20": {
     "id": "BP01-SPR20",
@@ -1761,7 +1858,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP01-SPR21": {
     "id": "BP01-SPR21",
@@ -1779,7 +1877,8 @@
     "cost": 1,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP01-SPR22": {
     "id": "BP01-SPR22",
@@ -1797,7 +1896,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP01-SPR23": {
     "id": "BP01-SPR23",
@@ -1815,7 +1915,8 @@
     "cost": 3,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP01-SPR24": {
     "id": "BP01-SPR24",
@@ -1833,7 +1934,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP01-SPR25": {
     "id": "BP01-SPR25",
@@ -1851,7 +1953,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP01-SPR26": {
     "id": "BP01-SPR26",
@@ -1869,7 +1972,8 @@
     "cost": 3,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP01-SPR27": {
     "id": "BP01-SPR27",
@@ -1887,7 +1991,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP01-SPR28": {
     "id": "BP01-SPR28",
@@ -1905,7 +2010,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP01-SR01": {
     "id": "BP01-SR01",
@@ -1923,7 +2029,8 @@
     "cost": 1,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 2
   },
   "BP01-SR02": {
     "id": "BP01-SR02",
@@ -1941,7 +2048,8 @@
     "cost": 5,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "BP01-SR03": {
     "id": "BP01-SR03",
@@ -1959,7 +2067,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "BP01-SR04": {
     "id": "BP01-SR04",
@@ -1977,7 +2086,8 @@
     "cost": 4,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "BP01-SR05": {
     "id": "BP01-SR05",
@@ -1995,7 +2105,8 @@
     "cost": 3,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "BP01-SR06": {
     "id": "BP01-SR06",
@@ -2013,7 +2124,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "BP01-SR07": {
     "id": "BP01-SR07",
@@ -2031,7 +2143,8 @@
     "cost": 1,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 2
   },
   "BP01-SR08": {
     "id": "BP01-SR08",
@@ -2049,7 +2162,8 @@
     "cost": 4,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "BP01-SR09": {
     "id": "BP01-SR09",
@@ -2067,7 +2181,8 @@
     "cost": 4,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "BP01-SR10": {
     "id": "BP01-SR10",
@@ -2085,7 +2200,8 @@
     "cost": 7,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 9
   },
   "BP01-SR11": {
     "id": "BP01-SR11",
@@ -2103,7 +2219,8 @@
     "cost": 5,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "BP01-SR12": {
     "id": "BP01-SR12",
@@ -2121,7 +2238,8 @@
     "cost": 5,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "BP01-SR13": {
     "id": "BP01-SR13",
@@ -2139,7 +2257,8 @@
     "cost": 5,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "BP01-SR14": {
     "id": "BP01-SR14",
@@ -2157,7 +2276,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "BP01-U01": {
     "id": "BP01-U01",
@@ -2175,7 +2295,8 @@
     "cost": 1,
     "set": "Fantasy Wonderland",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 1
   },
   "BP01-U02": {
     "id": "BP01-U02",
@@ -2193,7 +2314,8 @@
     "cost": 5,
     "set": "Fantasy Wonderland",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 7
   },
   "BP01-U03": {
     "id": "BP01-U03",
@@ -2211,7 +2333,8 @@
     "cost": 7,
     "set": "Fantasy Wonderland",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 9
   },
   "BP01-U04": {
     "id": "BP01-U04",
@@ -2229,7 +2352,8 @@
     "cost": 5,
     "set": "Fantasy Wonderland",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 7
   },
   "BP01-U05": {
     "id": "BP01-U05",
@@ -2247,7 +2371,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "BP01-U06": {
     "id": "BP01-U06",
@@ -2265,7 +2390,8 @@
     "cost": 5,
     "set": "Fantasy Wonderland",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 7
   },
   "BP01-U07": {
     "id": "BP01-U07",
@@ -2283,7 +2409,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "BP01-U08": {
     "id": "BP01-U08",
@@ -2301,7 +2428,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "BP01-U09": {
     "id": "BP01-U09",
@@ -2319,7 +2447,8 @@
     "cost": 4,
     "set": "Fantasy Wonderland",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "BP01-U10": {
     "id": "BP01-U10",
@@ -2337,7 +2466,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "BP01-U11": {
     "id": "BP01-U11",
@@ -2355,7 +2485,8 @@
     "cost": 3,
     "set": "Fantasy Wonderland",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "BP01-U12": {
     "id": "BP01-U12",
@@ -2373,7 +2504,8 @@
     "cost": 1,
     "set": "Fantasy Wonderland",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 2
   },
   "BP01-U13": {
     "id": "BP01-U13",
@@ -2391,7 +2523,8 @@
     "cost": 1,
     "set": "Fantasy Wonderland",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 1
   },
   "BP01-U14": {
     "id": "BP01-U14",
@@ -2409,7 +2542,8 @@
     "cost": 4,
     "set": "Fantasy Wonderland",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "BP01-U15": {
     "id": "BP01-U15",
@@ -2427,7 +2561,8 @@
     "cost": 1,
     "set": "Fantasy Wonderland",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 1
   },
   "BP01-U16": {
     "id": "BP01-U16",
@@ -2445,7 +2580,8 @@
     "cost": 1,
     "set": "Fantasy Wonderland",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 1
   },
   "BP01-U17": {
     "id": "BP01-U17",
@@ -2463,7 +2599,8 @@
     "cost": 1,
     "set": "Fantasy Wonderland",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 1
   },
   "BP01-U18": {
     "id": "BP01-U18",
@@ -2481,7 +2618,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "BP02-C01": {
     "id": "BP02-C01",
@@ -2499,7 +2637,8 @@
     "cost": 3,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "BP02-C02": {
     "id": "BP02-C02",
@@ -2517,7 +2656,8 @@
     "cost": 6,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 8
   },
   "BP02-C03": {
     "id": "BP02-C03",
@@ -2535,7 +2675,8 @@
     "cost": 3,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "BP02-C04": {
     "id": "BP02-C04",
@@ -2553,7 +2694,8 @@
     "cost": 1,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 2
   },
   "BP02-C05": {
     "id": "BP02-C05",
@@ -2571,7 +2713,8 @@
     "cost": 6,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 7
   },
   "BP02-C06": {
     "id": "BP02-C06",
@@ -2589,7 +2732,8 @@
     "cost": 3,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "BP02-C07": {
     "id": "BP02-C07",
@@ -2607,7 +2751,8 @@
     "cost": 3,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "BP02-C08": {
     "id": "BP02-C08",
@@ -2625,7 +2770,8 @@
     "cost": 7,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 9
   },
   "BP02-C09": {
     "id": "BP02-C09",
@@ -2643,7 +2789,8 @@
     "cost": 3,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "BP02-C10": {
     "id": "BP02-C10",
@@ -2661,7 +2808,8 @@
     "cost": 2,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "BP02-C11": {
     "id": "BP02-C11",
@@ -2679,7 +2827,8 @@
     "cost": 5,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "BP02-C12": {
     "id": "BP02-C12",
@@ -2697,7 +2846,8 @@
     "cost": 5,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 7
   },
   "BP02-C13": {
     "id": "BP02-C13",
@@ -2715,7 +2865,8 @@
     "cost": 3,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 1
   },
   "BP02-C14": {
     "id": "BP02-C14",
@@ -2733,7 +2884,8 @@
     "cost": 2,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "BP02-C15": {
     "id": "BP02-C15",
@@ -2751,7 +2903,8 @@
     "cost": 3,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "BP02-C16": {
     "id": "BP02-C16",
@@ -2769,7 +2922,8 @@
     "cost": 3,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "BP02-C17": {
     "id": "BP02-C17",
@@ -2787,7 +2941,8 @@
     "cost": 3,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "BP02-C18": {
     "id": "BP02-C18",
@@ -2805,7 +2960,8 @@
     "cost": 7,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 9
   },
   "BP02-C19": {
     "id": "BP02-C19",
@@ -2823,7 +2979,8 @@
     "cost": 6,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 8
   },
   "BP02-C20": {
     "id": "BP02-C20",
@@ -2841,7 +2998,8 @@
     "cost": 5,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 7
   },
   "BP02-C21": {
     "id": "BP02-C21",
@@ -2859,7 +3017,8 @@
     "cost": 4,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "BP02-C22": {
     "id": "BP02-C22",
@@ -2877,7 +3036,8 @@
     "cost": 3,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "BP02-C23": {
     "id": "BP02-C23",
@@ -2895,7 +3055,8 @@
     "cost": 2,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "BP02-C24": {
     "id": "BP02-C24",
@@ -2913,7 +3074,8 @@
     "cost": 1,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 2
   },
   "BP02-C25": {
     "id": "BP02-C25",
@@ -2931,7 +3093,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP02-C26": {
     "id": "BP02-C26",
@@ -2949,7 +3112,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP02-C27": {
     "id": "BP02-C27",
@@ -2967,7 +3131,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP02-C28": {
     "id": "BP02-C28",
@@ -2985,7 +3150,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP02-C29": {
     "id": "BP02-C29",
@@ -3003,7 +3169,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP02-C30": {
     "id": "BP02-C30",
@@ -3021,7 +3188,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP02-C31": {
     "id": "BP02-C31",
@@ -3039,7 +3207,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP02-C32": {
     "id": "BP02-C32",
@@ -3057,7 +3226,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP02-C33": {
     "id": "BP02-C33",
@@ -3075,7 +3245,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP02-C34": {
     "id": "BP02-C34",
@@ -3093,7 +3264,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP02-C35": {
     "id": "BP02-C35",
@@ -3111,7 +3283,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP02-C36": {
     "id": "BP02-C36",
@@ -3129,7 +3302,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP02-C37": {
     "id": "BP02-C37",
@@ -3147,7 +3321,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP02-C38": {
     "id": "BP02-C38",
@@ -3165,7 +3340,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP02-C39": {
     "id": "BP02-C39",
@@ -3183,7 +3359,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP02-C40": {
     "id": "BP02-C40",
@@ -3201,7 +3378,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP02-C41": {
     "id": "BP02-C41",
@@ -3219,7 +3397,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP02-C42": {
     "id": "BP02-C42",
@@ -3237,7 +3416,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP02-C43": {
     "id": "BP02-C43",
@@ -3255,7 +3435,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP02-C44": {
     "id": "BP02-C44",
@@ -3273,7 +3454,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP02-C45": {
     "id": "BP02-C45",
@@ -3291,7 +3473,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP02-C46": {
     "id": "BP02-C46",
@@ -3309,7 +3492,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP02-C47": {
     "id": "BP02-C47",
@@ -3327,7 +3511,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP02-C48": {
     "id": "BP02-C48",
@@ -3345,7 +3530,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "BP02-CR01": {
     "id": "BP02-CR01",
@@ -3363,7 +3549,8 @@
     "cost": 5,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "BP02-CR02": {
     "id": "BP02-CR02",
@@ -3381,7 +3568,8 @@
     "cost": 6,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 8
   },
   "BP02-CR03": {
     "id": "BP02-CR03",
@@ -3399,7 +3587,8 @@
     "cost": 3,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "BP02-CR04": {
     "id": "BP02-CR04",
@@ -3417,7 +3606,8 @@
     "cost": 5,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "BP02-CR05": {
     "id": "BP02-CR05",
@@ -3435,7 +3625,8 @@
     "cost": 3,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "BP02-CR06": {
     "id": "BP02-CR06",
@@ -3453,7 +3644,8 @@
     "cost": 5,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "BP02-CR07": {
     "id": "BP02-CR07",
@@ -3471,7 +3663,8 @@
     "cost": 5,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "BP02-CR08": {
     "id": "BP02-CR08",
@@ -3489,7 +3682,8 @@
     "cost": 6,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "BP02-CR09": {
     "id": "BP02-CR09",
@@ -3507,7 +3701,8 @@
     "cost": 6,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 7
   },
   "BP02-CR10": {
     "id": "BP02-CR10",
@@ -3525,7 +3720,8 @@
     "cost": 6,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "BP02-CR11": {
     "id": "BP02-CR11",
@@ -3543,7 +3739,8 @@
     "cost": 4,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "BP02-CR12": {
     "id": "BP02-CR12",
@@ -3561,7 +3758,8 @@
     "cost": 2,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "BP02-ER01": {
     "id": "BP02-ER01",
@@ -3579,7 +3777,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-ER02": {
     "id": "BP02-ER02",
@@ -3597,7 +3796,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-ER03": {
     "id": "BP02-ER03",
@@ -3615,7 +3815,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-ER04": {
     "id": "BP02-ER04",
@@ -3633,7 +3834,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-ER05": {
     "id": "BP02-ER05",
@@ -3651,7 +3853,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-ER06": {
     "id": "BP02-ER06",
@@ -3669,7 +3872,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-GR01": {
     "id": "BP02-GR01",
@@ -3687,7 +3891,8 @@
     "cost": 6,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 7
   },
   "BP02-GR02": {
     "id": "BP02-GR02",
@@ -3705,7 +3910,8 @@
     "cost": 2,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "BP02-GR03": {
     "id": "BP02-GR03",
@@ -3723,7 +3929,8 @@
     "cost": 5,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "BP02-GR04": {
     "id": "BP02-GR04",
@@ -3741,7 +3948,8 @@
     "cost": 4,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "BP02-GR05": {
     "id": "BP02-GR05",
@@ -3759,7 +3967,8 @@
     "cost": 3,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "BP02-GR06": {
     "id": "BP02-GR06",
@@ -3777,7 +3986,8 @@
     "cost": 4,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "BP02-GR07": {
     "id": "BP02-GR07",
@@ -3795,7 +4005,8 @@
     "cost": 3,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "BP02-GR08": {
     "id": "BP02-GR08",
@@ -3813,7 +4024,8 @@
     "cost": 5,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 7
   },
   "BP02-GR09": {
     "id": "BP02-GR09",
@@ -3831,7 +4043,8 @@
     "cost": 2,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "BP02-GR10": {
     "id": "BP02-GR10",
@@ -3849,7 +4062,8 @@
     "cost": 3,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "BP02-GR11": {
     "id": "BP02-GR11",
@@ -3867,7 +4081,8 @@
     "cost": 5,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "BP02-GR12": {
     "id": "BP02-GR12",
@@ -3885,7 +4100,8 @@
     "cost": 4,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "BP02-RR01": {
     "id": "BP02-RR01",
@@ -3903,7 +4119,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-RR02": {
     "id": "BP02-RR02",
@@ -3921,7 +4138,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-RR03": {
     "id": "BP02-RR03",
@@ -3939,7 +4157,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-RR04": {
     "id": "BP02-RR04",
@@ -3957,7 +4176,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-RR05": {
     "id": "BP02-RR05",
@@ -3975,7 +4195,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-RR06": {
     "id": "BP02-RR06",
@@ -3993,7 +4214,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-SPR01": {
     "id": "BP02-SPR01",
@@ -4011,7 +4233,8 @@
     "cost": 1,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-SPR02": {
     "id": "BP02-SPR02",
@@ -4029,7 +4252,8 @@
     "cost": 5,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-SPR03": {
     "id": "BP02-SPR03",
@@ -4047,7 +4271,8 @@
     "cost": 2,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-SPR04": {
     "id": "BP02-SPR04",
@@ -4065,7 +4290,8 @@
     "cost": 2,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-SPR05": {
     "id": "BP02-SPR05",
@@ -4083,7 +4309,8 @@
     "cost": 2,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-SPR06": {
     "id": "BP02-SPR06",
@@ -4101,7 +4328,8 @@
     "cost": 3,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-SPR07": {
     "id": "BP02-SPR07",
@@ -4119,7 +4347,8 @@
     "cost": 2,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-SPR08": {
     "id": "BP02-SPR08",
@@ -4137,7 +4366,8 @@
     "cost": 3,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-SPR09": {
     "id": "BP02-SPR09",
@@ -4155,7 +4385,8 @@
     "cost": 2,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-SPR10": {
     "id": "BP02-SPR10",
@@ -4173,7 +4404,8 @@
     "cost": 2,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-SPR11": {
     "id": "BP02-SPR11",
@@ -4191,7 +4423,8 @@
     "cost": 2,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-SPR12": {
     "id": "BP02-SPR12",
@@ -4209,7 +4442,8 @@
     "cost": 2,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-SPR13": {
     "id": "BP02-SPR13",
@@ -4227,7 +4461,8 @@
     "cost": 4,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-SPR14": {
     "id": "BP02-SPR14",
@@ -4245,7 +4480,8 @@
     "cost": 2,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-SPR15": {
     "id": "BP02-SPR15",
@@ -4263,7 +4499,8 @@
     "cost": 2,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-SPR16": {
     "id": "BP02-SPR16",
@@ -4281,7 +4518,8 @@
     "cost": 2,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-SPR17": {
     "id": "BP02-SPR17",
@@ -4299,7 +4537,8 @@
     "cost": 2,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-SPR18": {
     "id": "BP02-SPR18",
@@ -4317,7 +4556,8 @@
     "cost": 2,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-SPR19": {
     "id": "BP02-SPR19",
@@ -4335,7 +4575,8 @@
     "cost": 5,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-SPR20": {
     "id": "BP02-SPR20",
@@ -4353,7 +4594,8 @@
     "cost": 2,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-SPR21": {
     "id": "BP02-SPR21",
@@ -4371,7 +4613,8 @@
     "cost": 4,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-SPR22": {
     "id": "BP02-SPR22",
@@ -4389,7 +4632,8 @@
     "cost": 1,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-SPR23": {
     "id": "BP02-SPR23",
@@ -4407,7 +4651,8 @@
     "cost": 2,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-SPR24": {
     "id": "BP02-SPR24",
@@ -4425,7 +4670,8 @@
     "cost": 4,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-SPR25": {
     "id": "BP02-SPR25",
@@ -4443,7 +4689,8 @@
     "cost": 2,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-SPR26": {
     "id": "BP02-SPR26",
@@ -4461,7 +4708,8 @@
     "cost": 2,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-SPR27": {
     "id": "BP02-SPR27",
@@ -4479,7 +4727,8 @@
     "cost": 2,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-SPR28": {
     "id": "BP02-SPR28",
@@ -4497,7 +4746,8 @@
     "cost": 2,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "BP02-SR01": {
     "id": "BP02-SR01",
@@ -4515,7 +4765,8 @@
     "cost": 5,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "BP02-SR02": {
     "id": "BP02-SR02",
@@ -4533,7 +4784,8 @@
     "cost": 3,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "BP02-SR03": {
     "id": "BP02-SR03",
@@ -4551,7 +4803,8 @@
     "cost": 4,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "BP02-SR04": {
     "id": "BP02-SR04",
@@ -4569,7 +4822,8 @@
     "cost": 1,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 2
   },
   "BP02-SR05": {
     "id": "BP02-SR05",
@@ -4587,7 +4841,8 @@
     "cost": 6,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "BP02-SR06": {
     "id": "BP02-SR06",
@@ -4605,7 +4860,8 @@
     "cost": 2,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 2
   },
   "BP02-SR07": {
     "id": "BP02-SR07",
@@ -4623,7 +4879,8 @@
     "cost": 7,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "BP02-SR08": {
     "id": "BP02-SR08",
@@ -4641,7 +4898,8 @@
     "cost": 6,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "BP02-SR09": {
     "id": "BP02-SR09",
@@ -4659,7 +4917,8 @@
     "cost": 3,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "BP02-SR10": {
     "id": "BP02-SR10",
@@ -4677,7 +4936,8 @@
     "cost": 3,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "BP02-SR11": {
     "id": "BP02-SR11",
@@ -4695,7 +4955,8 @@
     "cost": 3,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "BP02-SR12": {
     "id": "BP02-SR12",
@@ -4713,7 +4974,8 @@
     "cost": 6,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "BP02-SR13": {
     "id": "BP02-SR13",
@@ -4731,7 +4993,8 @@
     "cost": 6,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "BP02-SR14": {
     "id": "BP02-SR14",
@@ -4749,7 +5012,8 @@
     "cost": 4,
     "set": "Discord",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "BP02-U01": {
     "id": "BP02-U01",
@@ -4767,7 +5031,8 @@
     "cost": 9,
     "set": "Discord",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 8
   },
   "BP02-U02": {
     "id": "BP02-U02",
@@ -4785,7 +5050,8 @@
     "cost": 4,
     "set": "Discord",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "BP02-U03": {
     "id": "BP02-U03",
@@ -4803,7 +5069,8 @@
     "cost": 4,
     "set": "Discord",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "BP02-U04": {
     "id": "BP02-U04",
@@ -4821,7 +5088,8 @@
     "cost": 2,
     "set": "Discord",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "BP02-U05": {
     "id": "BP02-U05",
@@ -4839,7 +5107,8 @@
     "cost": 3,
     "set": "Discord",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "BP02-U06": {
     "id": "BP02-U06",
@@ -4857,7 +5126,8 @@
     "cost": 7,
     "set": "Discord",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 9
   },
   "BP02-U07": {
     "id": "BP02-U07",
@@ -4875,7 +5145,8 @@
     "cost": 4,
     "set": "Discord",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "BP02-U08": {
     "id": "BP02-U08",
@@ -4893,7 +5164,8 @@
     "cost": 3,
     "set": "Discord",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "BP02-U09": {
     "id": "BP02-U09",
@@ -4911,7 +5183,8 @@
     "cost": 5,
     "set": "Discord",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "BP02-U10": {
     "id": "BP02-U10",
@@ -4929,7 +5202,8 @@
     "cost": 7,
     "set": "Discord",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 9
   },
   "BP02-U11": {
     "id": "BP02-U11",
@@ -4947,7 +5221,8 @@
     "cost": 3,
     "set": "Discord",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "BP02-U12": {
     "id": "BP02-U12",
@@ -4965,7 +5240,8 @@
     "cost": 7,
     "set": "Discord",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 9
   },
   "BP02-U13": {
     "id": "BP02-U13",
@@ -4983,7 +5259,8 @@
     "cost": 8,
     "set": "Discord",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 9
   },
   "BP02-U14": {
     "id": "BP02-U14",
@@ -5001,7 +5278,8 @@
     "cost": 5,
     "set": "Discord",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "BP02-U15": {
     "id": "BP02-U15",
@@ -5019,7 +5297,8 @@
     "cost": 5,
     "set": "Discord",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "BP02-U16": {
     "id": "BP02-U16",
@@ -5037,7 +5316,8 @@
     "cost": 5,
     "set": "Discord",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "BP02-U17": {
     "id": "BP02-U17",
@@ -5055,7 +5335,8 @@
     "cost": 4,
     "set": "Discord",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "BP02-U18": {
     "id": "BP02-U18",
@@ -5073,7 +5354,8 @@
     "cost": 5,
     "set": "Discord",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 7
   },
   "PR01": {
     "id": "PR01",
@@ -5091,7 +5373,8 @@
     "cost": 7,
     "set": "Unknown Set",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 8
   },
   "PR02": {
     "id": "PR02",
@@ -5109,7 +5392,8 @@
     "cost": 2,
     "set": "Unknown Set",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "PR03": {
     "id": "PR03",
@@ -5127,7 +5411,8 @@
     "cost": 4,
     "set": "Unknown Set",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "PR04": {
     "id": "PR04",
@@ -5145,7 +5430,8 @@
     "cost": 6,
     "set": "Unknown Set",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 7
   },
   "PR05": {
     "id": "PR05",
@@ -5163,7 +5449,8 @@
     "cost": 3,
     "set": "Unknown Set",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "PR06": {
     "id": "PR06",
@@ -5181,7 +5468,8 @@
     "cost": 5,
     "set": "Unknown Set",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "PR07": {
     "id": "PR07",
@@ -5199,7 +5487,8 @@
     "cost": 2,
     "set": "Unknown Set",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "PR08": {
     "id": "PR08",
@@ -5217,7 +5506,8 @@
     "cost": 4,
     "set": "Unknown Set",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "PR09": {
     "id": "PR09",
@@ -5235,7 +5525,8 @@
     "cost": 4,
     "set": "Unknown Set",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "PR10": {
     "id": "PR10",
@@ -5253,7 +5544,8 @@
     "cost": 2,
     "set": "Unknown Set",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "PR11": {
     "id": "PR11",
@@ -5271,7 +5563,8 @@
     "cost": 3,
     "set": "Unknown Set",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "PR12": {
     "id": "PR12",
@@ -5289,7 +5582,8 @@
     "cost": 3,
     "set": "Unknown Set",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "PR13": {
     "id": "PR13",
@@ -5307,7 +5601,8 @@
     "cost": 5,
     "set": "Unknown Set",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "PR14": {
     "id": "PR14",
@@ -5325,7 +5620,8 @@
     "cost": 2,
     "set": "Unknown Set",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 2
   },
   "PR15": {
     "id": "PR15",
@@ -5343,7 +5639,8 @@
     "cost": 3,
     "set": "Unknown Set",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "SD01-C01": {
     "id": "SD01-C01",
@@ -5361,7 +5658,8 @@
     "cost": 1,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 2
   },
   "SD01-C02": {
     "id": "SD01-C02",
@@ -5379,7 +5677,8 @@
     "cost": 4,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "SD01-C03": {
     "id": "SD01-C03",
@@ -5397,7 +5696,8 @@
     "cost": 3,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "SD01-C04": {
     "id": "SD01-C04",
@@ -5415,7 +5715,8 @@
     "cost": 3,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "SD01-C05": {
     "id": "SD01-C05",
@@ -5433,7 +5734,8 @@
     "cost": 1,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 2
   },
   "SD01-C06": {
     "id": "SD01-C06",
@@ -5451,7 +5753,8 @@
     "cost": 1,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 2
   },
   "SD01-C07": {
     "id": "SD01-C07",
@@ -5469,7 +5772,8 @@
     "cost": 1,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 1
   },
   "SD01-C08": {
     "id": "SD01-C08",
@@ -5487,7 +5791,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "SD01-C09": {
     "id": "SD01-C09",
@@ -5505,7 +5810,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "SD01-CR01": {
     "id": "SD01-CR01",
@@ -5523,7 +5829,8 @@
     "cost": 5,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "SD01-CR02": {
     "id": "SD01-CR02",
@@ -5541,7 +5848,8 @@
     "cost": 5,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "SD01-CR03": {
     "id": "SD01-CR03",
@@ -5559,7 +5867,8 @@
     "cost": 5,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "SD01-CR04": {
     "id": "SD01-CR04",
@@ -5577,7 +5886,8 @@
     "cost": 4,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "SD01-CR05": {
     "id": "SD01-CR05",
@@ -5595,7 +5905,8 @@
     "cost": 4,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "SD01-CR06": {
     "id": "SD01-CR06",
@@ -5613,7 +5924,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "SD01-ER01": {
     "id": "SD01-ER01",
@@ -5631,7 +5943,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01-ER02": {
     "id": "SD01-ER02",
@@ -5649,7 +5962,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01-ER03": {
     "id": "SD01-ER03",
@@ -5667,7 +5981,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01-ER04": {
     "id": "SD01-ER04",
@@ -5685,7 +6000,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01-ER05": {
     "id": "SD01-ER05",
@@ -5703,7 +6019,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01-ER06": {
     "id": "SD01-ER06",
@@ -5721,7 +6038,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01-ER07": {
     "id": "SD01-ER07",
@@ -5739,7 +6057,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01-ER08": {
     "id": "SD01-ER08",
@@ -5757,7 +6076,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01-ER09": {
     "id": "SD01-ER09",
@@ -5775,7 +6095,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01-ER10": {
     "id": "SD01-ER10",
@@ -5793,7 +6114,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01-ER11": {
     "id": "SD01-ER11",
@@ -5811,7 +6133,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01-ER12": {
     "id": "SD01-ER12",
@@ -5829,7 +6152,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01-GR01": {
     "id": "SD01-GR01",
@@ -5847,7 +6171,8 @@
     "cost": 7,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 8
   },
   "SD01-GR02": {
     "id": "SD01-GR02",
@@ -5865,7 +6190,8 @@
     "cost": 7,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 8
   },
   "SD01-GR03": {
     "id": "SD01-GR03",
@@ -5883,7 +6209,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "SD01-GR04": {
     "id": "SD01-GR04",
@@ -5901,7 +6228,8 @@
     "cost": 3,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "SD01-GR05": {
     "id": "SD01-GR05",
@@ -5919,7 +6247,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "SD01-GR06": {
     "id": "SD01-GR06",
@@ -5937,7 +6266,8 @@
     "cost": 5,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "SD01-RR01": {
     "id": "SD01-RR01",
@@ -5955,7 +6285,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01-RR02": {
     "id": "SD01-RR02",
@@ -5973,7 +6304,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01-RR03": {
     "id": "SD01-RR03",
@@ -5991,7 +6323,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01-RR04": {
     "id": "SD01-RR04",
@@ -6009,7 +6342,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01-RR05": {
     "id": "SD01-RR05",
@@ -6027,7 +6361,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01-RR06": {
     "id": "SD01-RR06",
@@ -6045,7 +6380,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01-SPR01": {
     "id": "SD01-SPR01",
@@ -6063,7 +6399,8 @@
     "cost": 1,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01-SPR02": {
     "id": "SD01-SPR02",
@@ -6081,7 +6418,8 @@
     "cost": 3,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01-SPR03": {
     "id": "SD01-SPR03",
@@ -6099,7 +6437,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01-SPR04": {
     "id": "SD01-SPR04",
@@ -6117,7 +6456,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01-SPR05": {
     "id": "SD01-SPR05",
@@ -6135,7 +6475,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01-SPR06": {
     "id": "SD01-SPR06",
@@ -6153,7 +6494,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01-SPR07": {
     "id": "SD01-SPR07",
@@ -6171,7 +6513,8 @@
     "cost": 3,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01-SPR08": {
     "id": "SD01-SPR08",
@@ -6189,7 +6532,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01-SPR09": {
     "id": "SD01-SPR09",
@@ -6207,7 +6551,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01-SPR10": {
     "id": "SD01-SPR10",
@@ -6225,7 +6570,8 @@
     "cost": 4,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01-SR01": {
     "id": "SD01-SR01",
@@ -6243,7 +6589,8 @@
     "cost": 3,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "SD01-SR02": {
     "id": "SD01-SR02",
@@ -6261,7 +6608,8 @@
     "cost": 5,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "SD01-SR03": {
     "id": "SD01-SR03",
@@ -6279,7 +6627,8 @@
     "cost": 1,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 1
   },
   "SD01-SR04": {
     "id": "SD01-SR04",
@@ -6297,7 +6646,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "SD01-SR05": {
     "id": "SD01-SR05",
@@ -6315,7 +6665,8 @@
     "cost": 4,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "SD01-SR06": {
     "id": "SD01-SR06",
@@ -6333,7 +6684,8 @@
     "cost": 6,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 7
   },
   "SD01-U01": {
     "id": "SD01-U01",
@@ -6351,7 +6703,8 @@
     "cost": 4,
     "set": "Friendship Begin",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "SD01-U02": {
     "id": "SD01-U02",
@@ -6369,7 +6722,8 @@
     "cost": 5,
     "set": "Friendship Begin",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "SD01-U03": {
     "id": "SD01-U03",
@@ -6387,7 +6741,8 @@
     "cost": 4,
     "set": "Friendship Begin",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "SD01-U04": {
     "id": "SD01-U04",
@@ -6405,7 +6760,8 @@
     "cost": 1,
     "set": "Friendship Begin",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 2
   },
   "SD01-U05": {
     "id": "SD01-U05",
@@ -6423,7 +6779,8 @@
     "cost": 3,
     "set": "Friendship Begin",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "SD01-U06": {
     "id": "SD01-U06",
@@ -6441,7 +6798,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "SD01-U07": {
     "id": "SD01-U07",
@@ -6459,7 +6817,8 @@
     "cost": 1,
     "set": "Friendship Begin",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 2
   },
   "SD01A-C01": {
     "id": "SD01A-C01",
@@ -6477,7 +6836,8 @@
     "cost": 3,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "SD01A-C02": {
     "id": "SD01A-C02",
@@ -6495,7 +6855,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "SD01A-C03": {
     "id": "SD01A-C03",
@@ -6513,7 +6874,8 @@
     "cost": 4,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "SD01A-C04": {
     "id": "SD01A-C04",
@@ -6531,7 +6893,8 @@
     "cost": 1,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 2
   },
   "SD01A-C05": {
     "id": "SD01A-C05",
@@ -6549,7 +6912,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "SD01A-C06": {
     "id": "SD01A-C06",
@@ -6567,7 +6931,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "SD01A-C07": {
     "id": "SD01A-C07",
@@ -6585,7 +6950,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "SD01A-C08": {
     "id": "SD01A-C08",
@@ -6603,7 +6969,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "SD01A-C09": {
     "id": "SD01A-C09",
@@ -6621,7 +6988,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "SD01A-SPR01": {
     "id": "SD01A-SPR01",
@@ -6639,7 +7007,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01A-SPR02": {
     "id": "SD01A-SPR02",
@@ -6657,7 +7026,8 @@
     "cost": 3,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01A-SPR03": {
     "id": "SD01A-SPR03",
@@ -6675,7 +7045,8 @@
     "cost": 3,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01A-SPR04": {
     "id": "SD01A-SPR04",
@@ -6693,7 +7064,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01A-SR01": {
     "id": "SD01A-SR01",
@@ -6711,7 +7083,8 @@
     "cost": 5,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "SD01A-SR02": {
     "id": "SD01A-SR02",
@@ -6729,7 +7102,8 @@
     "cost": 3,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "SD01A-U01": {
     "id": "SD01A-U01",
@@ -6747,7 +7121,8 @@
     "cost": 3,
     "set": "Friendship Begin",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "SD01A-U02": {
     "id": "SD01A-U02",
@@ -6765,7 +7140,8 @@
     "cost": 6,
     "set": "Friendship Begin",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 8
   },
   "SD01A-U03": {
     "id": "SD01A-U03",
@@ -6783,7 +7159,8 @@
     "cost": 3,
     "set": "Friendship Begin",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "SD01A-U04": {
     "id": "SD01A-U04",
@@ -6801,7 +7178,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "SD01B-C01": {
     "id": "SD01B-C01",
@@ -6819,7 +7197,8 @@
     "cost": 3,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "SD01B-C02": {
     "id": "SD01B-C02",
@@ -6837,7 +7216,8 @@
     "cost": 1,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 1
   },
   "SD01B-C03": {
     "id": "SD01B-C03",
@@ -6855,7 +7235,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "SD01B-C04": {
     "id": "SD01B-C04",
@@ -6873,7 +7254,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "SD01B-C05": {
     "id": "SD01B-C05",
@@ -6891,7 +7273,8 @@
     "cost": 1,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 2
   },
   "SD01B-C06": {
     "id": "SD01B-C06",
@@ -6909,7 +7292,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "SD01B-C07": {
     "id": "SD01B-C07",
@@ -6927,7 +7311,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "SD01B-C08": {
     "id": "SD01B-C08",
@@ -6945,7 +7330,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "SD01B-C09": {
     "id": "SD01B-C09",
@@ -6963,7 +7349,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "SD01B-SPR01": {
     "id": "SD01B-SPR01",
@@ -6981,7 +7368,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01B-SPR02": {
     "id": "SD01B-SPR02",
@@ -6999,7 +7387,8 @@
     "cost": 1,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01B-SPR03": {
     "id": "SD01B-SPR03",
@@ -7017,7 +7406,8 @@
     "cost": 4,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01B-SPR04": {
     "id": "SD01B-SPR04",
@@ -7035,7 +7425,8 @@
     "cost": 3,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01B-SR01": {
     "id": "SD01B-SR01",
@@ -7053,7 +7444,8 @@
     "cost": 3,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "SD01B-SR02": {
     "id": "SD01B-SR02",
@@ -7071,7 +7463,8 @@
     "cost": 1,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 1
   },
   "SD01B-U01": {
     "id": "SD01B-U01",
@@ -7089,7 +7482,8 @@
     "cost": 4,
     "set": "Friendship Begin",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "SD01B-U02": {
     "id": "SD01B-U02",
@@ -7107,7 +7501,8 @@
     "cost": 3,
     "set": "Friendship Begin",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "SD01B-U03": {
     "id": "SD01B-U03",
@@ -7125,7 +7520,8 @@
     "cost": 4,
     "set": "Friendship Begin",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "SD01B-U04": {
     "id": "SD01B-U04",
@@ -7143,7 +7539,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "SD01C-C01": {
     "id": "SD01C-C01",
@@ -7161,7 +7558,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "SD01C-C02": {
     "id": "SD01C-C02",
@@ -7179,7 +7577,8 @@
     "cost": 6,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 8
   },
   "SD01C-C03": {
     "id": "SD01C-C03",
@@ -7197,7 +7596,8 @@
     "cost": 4,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "SD01C-C04": {
     "id": "SD01C-C04",
@@ -7215,7 +7615,8 @@
     "cost": 3,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "SD01C-C05": {
     "id": "SD01C-C05",
@@ -7233,7 +7634,8 @@
     "cost": 1,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 2
   },
   "SD01C-C06": {
     "id": "SD01C-C06",
@@ -7251,7 +7653,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "SD01C-C07": {
     "id": "SD01C-C07",
@@ -7269,7 +7672,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "SD01C-C08": {
     "id": "SD01C-C08",
@@ -7287,7 +7691,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "SD01C-C09": {
     "id": "SD01C-C09",
@@ -7305,7 +7710,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "SD01C-SPR01": {
     "id": "SD01C-SPR01",
@@ -7323,7 +7729,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01C-SPR02": {
     "id": "SD01C-SPR02",
@@ -7341,7 +7748,8 @@
     "cost": 1,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01C-SPR03": {
     "id": "SD01C-SPR03",
@@ -7359,7 +7767,8 @@
     "cost": 3,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01C-SPR04": {
     "id": "SD01C-SPR04",
@@ -7377,7 +7786,8 @@
     "cost": 1,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01C-SR01": {
     "id": "SD01C-SR01",
@@ -7395,7 +7805,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "SD01C-SR02": {
     "id": "SD01C-SR02",
@@ -7413,7 +7824,8 @@
     "cost": 1,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 1
   },
   "SD01C-U01": {
     "id": "SD01C-U01",
@@ -7431,7 +7843,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "SD01C-U02": {
     "id": "SD01C-U02",
@@ -7449,7 +7862,8 @@
     "cost": 3,
     "set": "Friendship Begin",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "SD01C-U03": {
     "id": "SD01C-U03",
@@ -7467,7 +7881,8 @@
     "cost": 4,
     "set": "Friendship Begin",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "SD01C-U04": {
     "id": "SD01C-U04",
@@ -7485,7 +7900,8 @@
     "cost": 3,
     "set": "Friendship Begin",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "SD01D-C01": {
     "id": "SD01D-C01",
@@ -7503,7 +7919,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 2
   },
   "SD01D-C02": {
     "id": "SD01D-C02",
@@ -7521,7 +7938,8 @@
     "cost": 5,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 7
   },
   "SD01D-C03": {
     "id": "SD01D-C03",
@@ -7539,7 +7957,8 @@
     "cost": 3,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "SD01D-C04": {
     "id": "SD01D-C04",
@@ -7557,7 +7976,8 @@
     "cost": 4,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "SD01D-C05": {
     "id": "SD01D-C05",
@@ -7575,7 +7995,8 @@
     "cost": 1,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 2
   },
   "SD01D-C06": {
     "id": "SD01D-C06",
@@ -7593,7 +8014,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "SD01D-C07": {
     "id": "SD01D-C07",
@@ -7611,7 +8033,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "SD01D-C08": {
     "id": "SD01D-C08",
@@ -7629,7 +8052,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "SD01D-C09": {
     "id": "SD01D-C09",
@@ -7647,7 +8071,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "SD01D-SPR01": {
     "id": "SD01D-SPR01",
@@ -7665,7 +8090,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01D-SPR02": {
     "id": "SD01D-SPR02",
@@ -7683,7 +8109,8 @@
     "cost": 3,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01D-SPR03": {
     "id": "SD01D-SPR03",
@@ -7701,7 +8128,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01D-SPR04": {
     "id": "SD01D-SPR04",
@@ -7719,7 +8147,8 @@
     "cost": 3,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01D-SR01": {
     "id": "SD01D-SR01",
@@ -7737,7 +8166,8 @@
     "cost": 1,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 1
   },
   "SD01D-SR02": {
     "id": "SD01D-SR02",
@@ -7755,7 +8185,8 @@
     "cost": 1,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 1
   },
   "SD01D-U01": {
     "id": "SD01D-U01",
@@ -7773,7 +8204,8 @@
     "cost": 3,
     "set": "Friendship Begin",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "SD01D-U02": {
     "id": "SD01D-U02",
@@ -7791,7 +8223,8 @@
     "cost": 4,
     "set": "Friendship Begin",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "SD01D-U03": {
     "id": "SD01D-U03",
@@ -7809,7 +8242,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "SD01D-U04": {
     "id": "SD01D-U04",
@@ -7827,7 +8261,8 @@
     "cost": 3,
     "set": "Friendship Begin",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "SD01E-C01": {
     "id": "SD01E-C01",
@@ -7845,7 +8280,8 @@
     "cost": 1,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 1
   },
   "SD01E-C02": {
     "id": "SD01E-C02",
@@ -7863,7 +8299,8 @@
     "cost": 4,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "SD01E-C03": {
     "id": "SD01E-C03",
@@ -7881,7 +8318,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "SD01E-C04": {
     "id": "SD01E-C04",
@@ -7899,7 +8337,8 @@
     "cost": 3,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "SD01E-C05": {
     "id": "SD01E-C05",
@@ -7917,7 +8356,8 @@
     "cost": 1,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 2
   },
   "SD01E-C06": {
     "id": "SD01E-C06",
@@ -7935,7 +8375,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "SD01E-C07": {
     "id": "SD01E-C07",
@@ -7953,7 +8394,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "SD01E-C08": {
     "id": "SD01E-C08",
@@ -7971,7 +8413,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "SD01E-C09": {
     "id": "SD01E-C09",
@@ -7989,7 +8432,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "SD01E-SPR01": {
     "id": "SD01E-SPR01",
@@ -8007,7 +8451,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01E-SPR02": {
     "id": "SD01E-SPR02",
@@ -8025,7 +8470,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01E-SPR03": {
     "id": "SD01E-SPR03",
@@ -8043,7 +8489,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01E-SPR04": {
     "id": "SD01E-SPR04",
@@ -8061,7 +8508,8 @@
     "cost": 3,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01E-SR01": {
     "id": "SD01E-SR01",
@@ -8079,7 +8527,8 @@
     "cost": 4,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "SD01E-SR02": {
     "id": "SD01E-SR02",
@@ -8097,7 +8546,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "SD01E-U01": {
     "id": "SD01E-U01",
@@ -8115,7 +8565,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "SD01E-U02": {
     "id": "SD01E-U02",
@@ -8133,7 +8584,8 @@
     "cost": 3,
     "set": "Friendship Begin",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "SD01E-U03": {
     "id": "SD01E-U03",
@@ -8151,7 +8603,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "SD01E-U04": {
     "id": "SD01E-U04",
@@ -8169,7 +8622,8 @@
     "cost": 3,
     "set": "Friendship Begin",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "SD01F-C01": {
     "id": "SD01F-C01",
@@ -8187,7 +8641,8 @@
     "cost": 4,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "SD01F-C02": {
     "id": "SD01F-C02",
@@ -8205,7 +8660,8 @@
     "cost": 5,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 7
   },
   "SD01F-C03": {
     "id": "SD01F-C03",
@@ -8223,7 +8679,8 @@
     "cost": 1,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 2
   },
   "SD01F-C04": {
     "id": "SD01F-C04",
@@ -8241,7 +8698,8 @@
     "cost": 1,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 2
   },
   "SD01F-C05": {
     "id": "SD01F-C05",
@@ -8259,7 +8717,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "SD01F-C06": {
     "id": "SD01F-C06",
@@ -8277,7 +8736,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "SD01F-C07": {
     "id": "SD01F-C07",
@@ -8295,7 +8755,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "SD01F-C08": {
     "id": "SD01F-C08",
@@ -8313,7 +8774,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "SD01F-C09": {
     "id": "SD01F-C09",
@@ -8331,7 +8793,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "Common",
-    "isHorizontal": true
+    "isHorizontal": true,
+    "power": 0
   },
   "SD01F-SPR01": {
     "id": "SD01F-SPR01",
@@ -8349,7 +8812,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01F-SPR02": {
     "id": "SD01F-SPR02",
@@ -8367,7 +8831,8 @@
     "cost": 1,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01F-SPR03": {
     "id": "SD01F-SPR03",
@@ -8385,7 +8850,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01F-SPR04": {
     "id": "SD01F-SPR04",
@@ -8403,7 +8869,8 @@
     "cost": 1,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "SD01F-SR01": {
     "id": "SD01F-SR01",
@@ -8421,7 +8888,8 @@
     "cost": 3,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "SD01F-SR02": {
     "id": "SD01F-SR02",
@@ -8439,7 +8907,8 @@
     "cost": 3,
     "set": "Friendship Begin",
     "rarity": "Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "SD01F-U01": {
     "id": "SD01F-U01",
@@ -8457,7 +8926,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "SD01F-U02": {
     "id": "SD01F-U02",
@@ -8475,7 +8945,8 @@
     "cost": 4,
     "set": "Friendship Begin",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "SD01F-U03": {
     "id": "SD01F-U03",
@@ -8493,7 +8964,8 @@
     "cost": 3,
     "set": "Friendship Begin",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "SD01F-U04": {
     "id": "SD01F-U04",
@@ -8511,7 +8983,8 @@
     "cost": 2,
     "set": "Friendship Begin",
     "rarity": "Uncommon",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "※BP01-CR01": {
     "id": "※BP01-CR01",
@@ -8529,7 +9002,8 @@
     "cost": 4,
     "set": "Fantasy Wonderland",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "※BP01-CR02": {
     "id": "※BP01-CR02",
@@ -8547,7 +9021,8 @@
     "cost": 3,
     "set": "Fantasy Wonderland",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "※BP01-CR03": {
     "id": "※BP01-CR03",
@@ -8565,7 +9040,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "※BP01-CR04": {
     "id": "※BP01-CR04",
@@ -8583,7 +9059,8 @@
     "cost": 3,
     "set": "Fantasy Wonderland",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "※BP01-CR05": {
     "id": "※BP01-CR05",
@@ -8601,7 +9078,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "※BP01-CR06": {
     "id": "※BP01-CR06",
@@ -8619,7 +9097,8 @@
     "cost": 4,
     "set": "Fantasy Wonderland",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "※BP01-CR07": {
     "id": "※BP01-CR07",
@@ -8637,7 +9116,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "※BP01-CR08": {
     "id": "※BP01-CR08",
@@ -8655,7 +9135,8 @@
     "cost": 3,
     "set": "Fantasy Wonderland",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "※BP01-CR09": {
     "id": "※BP01-CR09",
@@ -8673,7 +9154,8 @@
     "cost": 5,
     "set": "Fantasy Wonderland",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "※BP01-CR10": {
     "id": "※BP01-CR10",
@@ -8691,7 +9173,8 @@
     "cost": 3,
     "set": "Fantasy Wonderland",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "※BP01-CR11": {
     "id": "※BP01-CR11",
@@ -8709,7 +9192,8 @@
     "cost": 4,
     "set": "Fantasy Wonderland",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "※BP01-CR12": {
     "id": "※BP01-CR12",
@@ -8727,7 +9211,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "※BP01-GR01": {
     "id": "※BP01-GR01",
@@ -8745,7 +9230,8 @@
     "cost": 3,
     "set": "Fantasy Wonderland",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "※BP01-GR02": {
     "id": "※BP01-GR02",
@@ -8763,7 +9249,8 @@
     "cost": 4,
     "set": "Fantasy Wonderland",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "※BP01-GR03": {
     "id": "※BP01-GR03",
@@ -8781,7 +9268,8 @@
     "cost": 3,
     "set": "Fantasy Wonderland",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "※BP01-GR04": {
     "id": "※BP01-GR04",
@@ -8799,7 +9287,8 @@
     "cost": 4,
     "set": "Fantasy Wonderland",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "※BP01-GR05": {
     "id": "※BP01-GR05",
@@ -8817,7 +9306,8 @@
     "cost": 7,
     "set": "Fantasy Wonderland",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 9
   },
   "※BP01-GR06": {
     "id": "※BP01-GR06",
@@ -8835,7 +9325,8 @@
     "cost": 5,
     "set": "Fantasy Wonderland",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "※BP01-RR01": {
     "id": "※BP01-RR01",
@@ -8853,7 +9344,8 @@
     "cost": 0,
     "set": "Fantasy Wonderland",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP01-RR02": {
     "id": "※BP01-RR02",
@@ -8871,7 +9363,8 @@
     "cost": 0,
     "set": "Fantasy Wonderland",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP01-RR03": {
     "id": "※BP01-RR03",
@@ -8889,7 +9382,8 @@
     "cost": 0,
     "set": "Fantasy Wonderland",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP01-RR04": {
     "id": "※BP01-RR04",
@@ -8907,7 +9401,8 @@
     "cost": 0,
     "set": "Fantasy Wonderland",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP01-RR05": {
     "id": "※BP01-RR05",
@@ -8925,7 +9420,8 @@
     "cost": 0,
     "set": "Fantasy Wonderland",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP01-RR06": {
     "id": "※BP01-RR06",
@@ -8943,7 +9439,8 @@
     "cost": 0,
     "set": "Fantasy Wonderland",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP01-SPR01": {
     "id": "※BP01-SPR01",
@@ -8961,7 +9458,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP01-SPR02": {
     "id": "※BP01-SPR02",
@@ -8979,7 +9477,8 @@
     "cost": 3,
     "set": "Fantasy Wonderland",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP01-SPR03": {
     "id": "※BP01-SPR03",
@@ -8997,7 +9496,8 @@
     "cost": 1,
     "set": "Fantasy Wonderland",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP01-SPR05": {
     "id": "※BP01-SPR05",
@@ -9015,7 +9515,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP01-SPR07": {
     "id": "※BP01-SPR07",
@@ -9033,7 +9534,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP01-SPR08": {
     "id": "※BP01-SPR08",
@@ -9051,7 +9553,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP01-SPR09": {
     "id": "※BP01-SPR09",
@@ -9069,7 +9572,8 @@
     "cost": 3,
     "set": "Fantasy Wonderland",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP01-SPR12": {
     "id": "※BP01-SPR12",
@@ -9087,7 +9591,8 @@
     "cost": 3,
     "set": "Fantasy Wonderland",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP01-SPR13": {
     "id": "※BP01-SPR13",
@@ -9105,7 +9610,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP01-SPR18": {
     "id": "※BP01-SPR18",
@@ -9123,7 +9629,8 @@
     "cost": 2,
     "set": "Fantasy Wonderland",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP01-SPR21": {
     "id": "※BP01-SPR21",
@@ -9141,7 +9648,8 @@
     "cost": 1,
     "set": "Fantasy Wonderland",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP02-CR01": {
     "id": "※BP02-CR01",
@@ -9159,7 +9667,8 @@
     "cost": 5,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "※BP02-CR01-TO": {
     "id": "※BP02-CR01-TO",
@@ -9177,7 +9686,8 @@
     "cost": 5,
     "set": "Unknown Set",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "※BP02-CR01-TOS": {
     "id": "※BP02-CR01-TOS",
@@ -9195,7 +9705,8 @@
     "cost": 5,
     "set": "Unknown Set",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "※BP02-CR02": {
     "id": "※BP02-CR02",
@@ -9213,7 +9724,8 @@
     "cost": 6,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 8
   },
   "※BP02-CR02-TO": {
     "id": "※BP02-CR02-TO",
@@ -9231,7 +9743,8 @@
     "cost": 6,
     "set": "Unknown Set",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 8
   },
   "※BP02-CR02-TOS": {
     "id": "※BP02-CR02-TOS",
@@ -9249,7 +9762,8 @@
     "cost": 6,
     "set": "Unknown Set",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 8
   },
   "※BP02-CR03": {
     "id": "※BP02-CR03",
@@ -9267,7 +9781,8 @@
     "cost": 3,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "※BP02-CR03-TO": {
     "id": "※BP02-CR03-TO",
@@ -9285,7 +9800,8 @@
     "cost": 3,
     "set": "Unknown Set",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "※BP02-CR03-TOS": {
     "id": "※BP02-CR03-TOS",
@@ -9303,7 +9819,8 @@
     "cost": 3,
     "set": "Unknown Set",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "※BP02-CR04": {
     "id": "※BP02-CR04",
@@ -9321,7 +9838,8 @@
     "cost": 5,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "※BP02-CR04-TO": {
     "id": "※BP02-CR04-TO",
@@ -9339,7 +9857,8 @@
     "cost": 5,
     "set": "Unknown Set",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "※BP02-CR04-TOS": {
     "id": "※BP02-CR04-TOS",
@@ -9357,7 +9876,8 @@
     "cost": 5,
     "set": "Unknown Set",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "※BP02-CR05": {
     "id": "※BP02-CR05",
@@ -9375,7 +9895,8 @@
     "cost": 3,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "※BP02-CR05-TO": {
     "id": "※BP02-CR05-TO",
@@ -9393,7 +9914,8 @@
     "cost": 3,
     "set": "Unknown Set",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "※BP02-CR05-TOS": {
     "id": "※BP02-CR05-TOS",
@@ -9411,7 +9933,8 @@
     "cost": 3,
     "set": "Unknown Set",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "※BP02-CR06": {
     "id": "※BP02-CR06",
@@ -9429,7 +9952,8 @@
     "cost": 5,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "※BP02-CR06-TO": {
     "id": "※BP02-CR06-TO",
@@ -9447,7 +9971,8 @@
     "cost": 5,
     "set": "Unknown Set",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "※BP02-CR06-TOS": {
     "id": "※BP02-CR06-TOS",
@@ -9465,7 +9990,8 @@
     "cost": 5,
     "set": "Unknown Set",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "※BP02-CR07": {
     "id": "※BP02-CR07",
@@ -9483,7 +10009,8 @@
     "cost": 5,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "※BP02-CR08": {
     "id": "※BP02-CR08",
@@ -9501,7 +10028,8 @@
     "cost": 6,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "※BP02-CR09": {
     "id": "※BP02-CR09",
@@ -9519,7 +10047,8 @@
     "cost": 6,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 7
   },
   "※BP02-CR10": {
     "id": "※BP02-CR10",
@@ -9537,7 +10066,8 @@
     "cost": 6,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "※BP02-CR11": {
     "id": "※BP02-CR11",
@@ -9555,7 +10085,8 @@
     "cost": 4,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "※BP02-CR12": {
     "id": "※BP02-CR12",
@@ -9573,7 +10104,8 @@
     "cost": 2,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "※BP02-ER01D": {
     "id": "※BP02-ER01D",
@@ -9591,7 +10123,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP02-ER01N": {
     "id": "※BP02-ER01N",
@@ -9609,7 +10142,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP02-ER02D": {
     "id": "※BP02-ER02D",
@@ -9627,7 +10161,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP02-ER02N": {
     "id": "※BP02-ER02N",
@@ -9645,7 +10180,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP02-ER03D": {
     "id": "※BP02-ER03D",
@@ -9663,7 +10199,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP02-ER03N": {
     "id": "※BP02-ER03N",
@@ -9681,7 +10218,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP02-ER04D": {
     "id": "※BP02-ER04D",
@@ -9699,7 +10237,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP02-ER04N": {
     "id": "※BP02-ER04N",
@@ -9717,7 +10256,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP02-ER05D": {
     "id": "※BP02-ER05D",
@@ -9735,7 +10275,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP02-ER05N": {
     "id": "※BP02-ER05N",
@@ -9753,7 +10294,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP02-ER06D": {
     "id": "※BP02-ER06D",
@@ -9771,7 +10313,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP02-ER06N": {
     "id": "※BP02-ER06N",
@@ -9789,7 +10332,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP02-GR01": {
     "id": "※BP02-GR01",
@@ -9807,7 +10351,8 @@
     "cost": 6,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 7
   },
   "※BP02-GR02": {
     "id": "※BP02-GR02",
@@ -9825,7 +10370,8 @@
     "cost": 2,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "※BP02-GR03": {
     "id": "※BP02-GR03",
@@ -9843,7 +10389,8 @@
     "cost": 5,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 6
   },
   "※BP02-GR04": {
     "id": "※BP02-GR04",
@@ -9861,7 +10408,8 @@
     "cost": 4,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "※BP02-GR05": {
     "id": "※BP02-GR05",
@@ -9879,7 +10427,8 @@
     "cost": 3,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "※BP02-GR06": {
     "id": "※BP02-GR06",
@@ -9897,7 +10446,8 @@
     "cost": 4,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "※BP02-RR01": {
     "id": "※BP02-RR01",
@@ -9915,7 +10465,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP02-RR02": {
     "id": "※BP02-RR02",
@@ -9933,7 +10484,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP02-RR03": {
     "id": "※BP02-RR03",
@@ -9951,7 +10503,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP02-RR04": {
     "id": "※BP02-RR04",
@@ -9969,7 +10522,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP02-RR05": {
     "id": "※BP02-RR05",
@@ -9987,7 +10541,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP02-RR06": {
     "id": "※BP02-RR06",
@@ -10005,7 +10560,8 @@
     "cost": 0,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP02-SPR01": {
     "id": "※BP02-SPR01",
@@ -10023,7 +10579,8 @@
     "cost": 1,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP02-SPR02": {
     "id": "※BP02-SPR02",
@@ -10041,7 +10598,8 @@
     "cost": 5,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP02-SPR05": {
     "id": "※BP02-SPR05",
@@ -10059,7 +10617,8 @@
     "cost": 2,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP02-SPR10": {
     "id": "※BP02-SPR10",
@@ -10077,7 +10636,8 @@
     "cost": 2,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP02-SPR14": {
     "id": "※BP02-SPR14",
@@ -10095,7 +10655,8 @@
     "cost": 2,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP02-SPR15": {
     "id": "※BP02-SPR15",
@@ -10113,7 +10674,8 @@
     "cost": 2,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP02-SPR16": {
     "id": "※BP02-SPR16",
@@ -10131,7 +10693,8 @@
     "cost": 2,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP02-SPR18": {
     "id": "※BP02-SPR18",
@@ -10149,7 +10712,8 @@
     "cost": 2,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP02-SPR23": {
     "id": "※BP02-SPR23",
@@ -10167,7 +10731,8 @@
     "cost": 2,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP02-SPR24": {
     "id": "※BP02-SPR24",
@@ -10185,7 +10750,8 @@
     "cost": 4,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※BP02-SPR26": {
     "id": "※BP02-SPR26",
@@ -10203,7 +10769,8 @@
     "cost": 2,
     "set": "Discord",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※PR07": {
     "id": "※PR07",
@@ -10221,7 +10788,8 @@
     "cost": 2,
     "set": "Unknown Set",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "※PR07-S": {
     "id": "※PR07-S",
@@ -10239,7 +10807,8 @@
     "cost": 2,
     "set": "Unknown Set",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "※PR08": {
     "id": "※PR08",
@@ -10257,7 +10826,8 @@
     "cost": 4,
     "set": "Unknown Set",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "※PR08-S": {
     "id": "※PR08-S",
@@ -10275,7 +10845,8 @@
     "cost": 4,
     "set": "Unknown Set",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "※PR09": {
     "id": "※PR09",
@@ -10293,7 +10864,8 @@
     "cost": 4,
     "set": "Unknown Set",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "※PR09-S": {
     "id": "※PR09-S",
@@ -10311,7 +10883,8 @@
     "cost": 4,
     "set": "Unknown Set",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "※PR10": {
     "id": "※PR10",
@@ -10329,7 +10902,8 @@
     "cost": 2,
     "set": "Unknown Set",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "※PR10-S": {
     "id": "※PR10-S",
@@ -10347,7 +10921,8 @@
     "cost": 2,
     "set": "Unknown Set",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 3
   },
   "※PR11": {
     "id": "※PR11",
@@ -10365,7 +10940,8 @@
     "cost": 3,
     "set": "Unknown Set",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "※PR11-S": {
     "id": "※PR11-S",
@@ -10383,7 +10959,8 @@
     "cost": 3,
     "set": "Unknown Set",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 4
   },
   "※PR12": {
     "id": "※PR12",
@@ -10401,7 +10978,8 @@
     "cost": 3,
     "set": "Unknown Set",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "※PR12-S": {
     "id": "※PR12-S",
@@ -10419,7 +10997,8 @@
     "cost": 3,
     "set": "Unknown Set",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 5
   },
   "※SD01-ER01D": {
     "id": "※SD01-ER01D",
@@ -10437,7 +11016,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※SD01-ER01N": {
     "id": "※SD01-ER01N",
@@ -10455,7 +11035,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※SD01-ER02D": {
     "id": "※SD01-ER02D",
@@ -10473,7 +11054,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※SD01-ER02N": {
     "id": "※SD01-ER02N",
@@ -10491,7 +11073,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※SD01-ER03D": {
     "id": "※SD01-ER03D",
@@ -10509,7 +11092,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※SD01-ER03N": {
     "id": "※SD01-ER03N",
@@ -10527,7 +11111,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※SD01-ER04D": {
     "id": "※SD01-ER04D",
@@ -10545,7 +11130,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※SD01-ER04N": {
     "id": "※SD01-ER04N",
@@ -10563,7 +11149,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※SD01-ER05D": {
     "id": "※SD01-ER05D",
@@ -10581,7 +11168,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※SD01-ER05N": {
     "id": "※SD01-ER05N",
@@ -10599,7 +11187,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※SD01-ER06D": {
     "id": "※SD01-ER06D",
@@ -10617,7 +11206,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※SD01-ER06N": {
     "id": "※SD01-ER06N",
@@ -10635,7 +11225,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※SD01-ER07D": {
     "id": "※SD01-ER07D",
@@ -10653,7 +11244,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※SD01-ER07N": {
     "id": "※SD01-ER07N",
@@ -10671,7 +11263,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※SD01-ER08D": {
     "id": "※SD01-ER08D",
@@ -10689,7 +11282,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※SD01-ER08N": {
     "id": "※SD01-ER08N",
@@ -10707,7 +11301,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※SD01-ER09D": {
     "id": "※SD01-ER09D",
@@ -10725,7 +11320,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※SD01-ER09N": {
     "id": "※SD01-ER09N",
@@ -10743,7 +11339,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※SD01-ER10D": {
     "id": "※SD01-ER10D",
@@ -10761,7 +11358,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※SD01-ER10N": {
     "id": "※SD01-ER10N",
@@ -10779,7 +11377,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※SD01-ER11D": {
     "id": "※SD01-ER11D",
@@ -10797,7 +11396,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※SD01-ER11N": {
     "id": "※SD01-ER11N",
@@ -10815,7 +11415,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※SD01-ER12D": {
     "id": "※SD01-ER12D",
@@ -10833,7 +11434,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※SD01-ER12N": {
     "id": "※SD01-ER12N",
@@ -10851,7 +11453,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※SD01-RR01": {
     "id": "※SD01-RR01",
@@ -10869,7 +11472,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※SD01-RR02": {
     "id": "※SD01-RR02",
@@ -10887,7 +11491,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※SD01-RR03": {
     "id": "※SD01-RR03",
@@ -10905,7 +11510,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※SD01-RR04": {
     "id": "※SD01-RR04",
@@ -10923,7 +11529,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※SD01-RR05": {
     "id": "※SD01-RR05",
@@ -10941,7 +11548,8 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   },
   "※SD01-RR06": {
     "id": "※SD01-RR06",
@@ -10959,6 +11567,7 @@
     "cost": 0,
     "set": "Friendship Begin",
     "rarity": "※Rare",
-    "isHorizontal": false
+    "isHorizontal": false,
+    "power": 0
   }
 }
