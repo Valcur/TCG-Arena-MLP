@@ -2,6 +2,7 @@
   "name": "My Little Pony",
   "menuBackgroundImage": "https://cdn.imgchest.com/files/07b61a92ea49.jpg",
   "cardRotation": 90,
+  "translationsUrl": "https://valcur.github.io/TCG-Arena-MLP/translations.json",
   "deckBuilding": {
     "mainFilters": [
       "type",

@@ -1,0 +1,29 @@
+{
+    "en": {
+        "BP01": "Fantasy Wonderland",
+        "BP02": "Discord",
+        "BP03": "Nightmare Night",
+        "BP04": "Hearthwarming Eve",
+        "BP05": "Princess Coronation",
+        "SD01": "Friendship Begins",
+        "SD02": "SD02",
+        "TR01": "Trial Deck",
+        "PR": "Promo",
+        "TK": "Token",
+
+        "C": "Common",
+        "U": "Uncommon",
+        "ER": "Emerald Rare",
+        "SR": "Silver Rare",
+        "SPR": "Sapphire Rare",
+        "GR": "Gold Rare",
+        "CR": "Colorful Rare",
+        "RR": "Ruby Rare",
+        "※ER": "Shining Emerald Rare",
+        "※SPR": "Shining Sapphire Rare",
+        "※GR": "Shining Gold Rare",
+        "※CR": "Shining Colorful Rare",
+        "※RR": "Shining Ruby Rare",
+        "※PR": "Shining Promo"
+    }
+}
