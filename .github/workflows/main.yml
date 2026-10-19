@@ -1,0 +1,57 @@
+name: Mise à jour des cartes MLP
+
+on:
+  schedule:
+    # Chaque dimanche matin : 06:17 UTC = 08:17 à Paris l'été, 07:17 l'hiver
+    - cron: '17 6 * * 0'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Écraser cards.json même si l'export a perdu beaucoup de cartes"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-cards
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+
+      - name: Installer sharp
+        run: npm install --no-save --no-package-lock sharp
+
+      - name: Mettre à jour cards.json et les images
+        id: update
+        env:
+          FORCE: ${{ inputs.force && '1' || '0' }}
+        run: node script/update-cards.js
+
+      - name: Commit et push
+        if: always() && steps.update.outcome != 'cancelled'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          # fichiers du jeu + fichiers internes du dossier script/ (rapport, manifest, IDs non résolus)
+          git add -A images cards.json script
+          if git diff --cached --quiet; then
+            echo "Aucun changement."
+          else
+            git commit -m "Mise à jour des cartes MLP ($(date -u +%Y-%m-%d))"
+            git push
+          fi
+
+      - name: Signaler les erreurs
+        if: steps.update.outputs.errors != '' && steps.update.outputs.errors != '0'
+        run: echo "::warning::${{ steps.update.outputs.errors }} erreur(s) et ${{ steps.update.outputs.warnings }} avertissement(s) — détail dans le résumé du run et dans script/update-report.md"
