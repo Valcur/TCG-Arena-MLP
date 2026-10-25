@@ -1,25 +1,41 @@
-# Mise à jour des cartes MLP — 2026-10-19 14:09 UTC
+# Mise à jour des cartes MLP — 2026-10-25 11:26 UTC
 
-Export ponyrec du 2026-10-19T14:09:47+00:00
+Export ponyrec du 2026-10-25T11:26:10+00:00
 
 | | |
 |---|---|
 | Sets traités | BP01, BP02, BP03, PR, SD01, BP04, BP05, SD02, TK |
-| Cartes dans cards.json | 1265 (avant : 1265) |
-| Nouvelles cartes | 0 |
+| Cartes dans cards.json | 1268 (avant : 1265) |
+| Nouvelles cartes | 3 |
 | Alias (anciens IDs) | 18 dont 0 créés ce run |
-| 🌐 Nouveaux codes à traduire | 0 |
-| Images téléchargées | 0 |
+| 🌐 Nouveaux codes à traduire | 1 |
+| Images téléchargées | 3 |
 | Images déjà présentes | 1265 |
 | Cartes sans image | 0 |
 | ❌ Erreurs | 0 |
 | ⚠️ Avertissements | 1 |
+
+## 🌐 Nouveaux codes à traduire (1)
+
+À coller au début de l'objet `"en"` de translations.json (les sets sont pré-remplis avec le nom officiel de l'export, les raretés sont à compléter) :
+
+```json
+        "※SR": "",
+```
+
+- rareté `※SR` — 1 carte(s)
 
 ## ⚠️ Avertissements (1)
 
 ### Nombre de cartes différent du total annoncé — 1
 
 - `PR` — 21 dans l'export, 15 annoncées
+
+## ℹ️ Motifs d'URL qui ont fonctionné (ce run)
+
+`dossier/nom` — dossier : set = setCode de l'export, prefixe = début de l'ID · nom : tiret-0 = `BP01-C-002`, exact = `BP01-C02`
+
+- `set/exact` : 3
 
 ## 🪙 Tokens : lien avec les cartes qui les créent
 
@@ -80,6 +96,30 @@ Textes qui mentionnent "Treat" (76) :
 
 ```json
 {"cardNumber":"TK013","name":"Treat","rarity":"TK","variant":{"kind":"art","printedNumber":"TK01","label":"art 3"},"tcgData":{"cardSubtype":"token","keywords":["Nightmare Night"],"effect":"1 Character can only have 1 Treat on it."}}
+```
+
+Textes qui mentionnent "Treat" (76) :
+- `BP03-C06` (tcgData.effects[0].text) : …piration for each Character that has a <Treat> in your and your Rival's Adventure Areas.
+- `BP03-C08` (tcgData.effects[0].text) : …e Night] in your Adventure Area, put 1 <Treat> on it.
+- `BP03-C10` (tcgData.effects[0].text) : …rom Hand for each Character that has a <Treat> in your Adventure Area.
+- `BP03-C14` (tcgData.effects[0].text) : …e Night] in your Adventure Area, put 1 <Treat> on it.
+- `BP03-C15` (tcgData.effects[0].text) : …e Night] in your Adventure Area, put 1 <Treat> on them separately.
+- `BP03-C16` (tcgData.effects[0].text) : …e Night] in your Adventure Area, put 1 <Treat> on them separately.
+- `BP03-C25` (tcgData.storyEffect) : {Treat for you!} When promoted to this stage, choose 1 [Nightmare Night] in your …
+- `BP03-C29` (tcgData.storyEffect) : {Treat for you!} When promoted to this stage, choose 1 [Nightmare Night] in your …
+- `BP03-C33` (tcgData.storyEffect) : {Treat for you!} When promoted to this stage, choose 1 [Nightmare Night] in your …
+- `BP03-C34` (tcgData.storyEffect) : {Treat for you!} When promoted to this stage, put 1 <Treat> on each [Nightmare Ni…
+- `BP03-C35` (tcgData.storyEffect) : … this stage, each Character that has a <Treat> in your Adventure Area gets +2 Inspiration until the end of turn.
+- `BP03-C37` (tcgData.storyEffect) : {Treat for you!} When promoted to this stage, choose 1 [Nightmare Night] in your …
+- `BP03-C38` (tcgData.storyEffect) : …, if there is any Character that has a <Treat> in your Adventure Area, choose 1 face-down Scene in your Scene Area, turn…
+- `BP03-C39` (tcgData.storyEffect) : … stage, choose 1 Character that has no <Treat> in Rival's Adventure Area, it gets -4 Inspiration until the end of turn.
+- `BP03-C41` (tcgData.storyEffect) : {Treat for you!} When promoted to this stage, choose 1 [Nightmare Night] in your …
+- … et 61 autre(s)
+
+### `TK01P` — Treat
+
+```json
+{"cardNumber":"TK01P","name":"Treat","rarity":"TK","variant":{"kind":"art","printedNumber":"TK01","label":"promo"},"tcgData":{"cardSubtype":"token","keywords":["Nightmare Night"],"effect":"1 Character can only have 1 Treat on it."}}
 ```
 
 Textes qui mentionnent "Treat" (76) :
@@ -193,3 +233,7 @@ Textes qui mentionnent "Rarity's Present" (7) :
 - `※BP04-CR12` (tcgData.effects[1].text) : Put 1 <Rarity's Present> on each Character in your Adventure Area.
 - `※BP04-ER03D` (tcgData.inspireEffect) : … put 1 <Twilight Sparkle's Present> or <Rarity's Present> on it.
 - `※BP04-ER03N` (tcgData.inspireEffect) : … put 1 <Twilight Sparkle's Present> or <Rarity's Present> on it.
+
+## ➕ Nouvelles cartes (3)
+
+`TK01P`, `※BP03-GR10`, `※BP03-SR13`

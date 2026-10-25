@@ -17938,6 +17938,26 @@
     "power": 0,
     "isToken": true
   },
+  "TK01P": {
+    "id": "TK01P",
+    "face": {
+      "front": {
+        "name": "Treat TK01P",
+        "type": "Token",
+        "cost": 0,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/TK/TK01P.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Treat TK01P",
+    "type": "Token",
+    "cost": 0,
+    "set": "TK",
+    "rarity": "TK",
+    "isHorizontal": false,
+    "power": 0,
+    "isToken": true
+  },
   "TK02": {
     "id": "TK02",
     "face": {
@@ -20785,6 +20805,25 @@
     "isHorizontal": false,
     "power": 6
   },
+  "※BP03-GR10": {
+    "id": "※BP03-GR10",
+    "face": {
+      "front": {
+        "name": "Nightmare Moon BP03-GR10",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/BP03/BP03-xGR10.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nightmare Moon BP03-GR10",
+    "type": "Character",
+    "cost": 5,
+    "set": "BP03",
+    "rarity": "※GR",
+    "isHorizontal": false,
+    "power": 6
+  },
   "※BP03-GR11": {
     "id": "※BP03-GR11",
     "face": {
@@ -21145,6 +21184,25 @@
     "rarity": "※SPR",
     "isHorizontal": false,
     "power": 0
+  },
+  "※BP03-SR13": {
+    "id": "※BP03-SR13",
+    "face": {
+      "front": {
+        "name": "Queen Chrysalis BP03-SR13",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://valcur.github.io/TCG-Arena-MLP/images/BP03/BP03-xSR13.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Queen Chrysalis BP03-SR13",
+    "type": "Character",
+    "cost": 5,
+    "set": "BP03",
+    "rarity": "※SR",
+    "isHorizontal": false,
+    "power": 5
   },
   "※BP04-CR01": {
     "id": "※BP04-CR01",
