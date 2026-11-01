@@ -1,41 +1,25 @@
-# Mise à jour des cartes MLP — 2026-10-25 11:26 UTC
+# Mise à jour des cartes MLP — 2026-11-01 13:22 UTC
 
-Export ponyrec du 2026-10-25T11:26:10+00:00
+Export ponyrec du 2026-11-01T13:22:08+00:00
 
 | | |
 |---|---|
-| Sets traités | BP01, BP02, BP03, PR, SD01, BP04, BP05, SD02, TK |
-| Cartes dans cards.json | 1268 (avant : 1265) |
-| Nouvelles cartes | 3 |
+| Sets traités | BP01, BP02, BP03, BP04, PR, SD01, BP05, SD02, TK |
+| Cartes dans cards.json | 1268 (avant : 1268) |
+| Nouvelles cartes | 0 |
 | Alias (anciens IDs) | 18 dont 0 créés ce run |
-| 🌐 Nouveaux codes à traduire | 1 |
-| Images téléchargées | 3 |
-| Images déjà présentes | 1265 |
+| 🌐 Nouveaux codes à traduire | 0 |
+| Images téléchargées | 0 |
+| Images déjà présentes | 1268 |
 | Cartes sans image | 0 |
 | ❌ Erreurs | 0 |
 | ⚠️ Avertissements | 1 |
-
-## 🌐 Nouveaux codes à traduire (1)
-
-À coller au début de l'objet `"en"` de translations.json (les sets sont pré-remplis avec le nom officiel de l'export, les raretés sont à compléter) :
-
-```json
-        "※SR": "",
-```
-
-- rareté `※SR` — 1 carte(s)
 
 ## ⚠️ Avertissements (1)
 
 ### Nombre de cartes différent du total annoncé — 1
 
 - `PR` — 21 dans l'export, 15 annoncées
-
-## ℹ️ Motifs d'URL qui ont fonctionné (ce run)
-
-`dossier/nom` — dossier : set = setCode de l'export, prefixe = début de l'ID · nom : tiret-0 = `BP01-C-002`, exact = `BP01-C02`
-
-- `set/exact` : 3
 
 ## 🪙 Tokens : lien avec les cartes qui les créent
 
@@ -233,7 +217,3 @@ Textes qui mentionnent "Rarity's Present" (7) :
 - `※BP04-CR12` (tcgData.effects[1].text) : Put 1 <Rarity's Present> on each Character in your Adventure Area.
 - `※BP04-ER03D` (tcgData.inspireEffect) : … put 1 <Twilight Sparkle's Present> or <Rarity's Present> on it.
 - `※BP04-ER03N` (tcgData.inspireEffect) : … put 1 <Twilight Sparkle's Present> or <Rarity's Present> on it.
-
-## ➕ Nouvelles cartes (3)
-
-`TK01P`, `※BP03-GR10`, `※BP03-SR13`
