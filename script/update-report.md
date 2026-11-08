@@ -1,6 +1,6 @@
-# Mise à jour des cartes MLP — 2026-11-01 13:22 UTC
+# Mise à jour des cartes MLP — 2026-11-08 13:23 UTC
 
-Export ponyrec du 2026-11-01T13:22:08+00:00
+Export ponyrec du 2026-11-08T13:23:15+00:00
 
 | | |
 |---|---|
