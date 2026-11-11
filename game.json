@@ -2,7 +2,6 @@
   "name": "My Little Pony",
   "menuBackgroundImage": "https://cdn.imgchest.com/files/07b61a92ea49.jpg",
   "cardRotation": 90,
-  "translationsUrl": "https://valcur.github.io/TCG-Arena-MLP/translations.json",
   "deckBuilding": {
     "mainFilters": [
       "type",
@@ -500,7 +499,8 @@
             "heightReference": "horizontal",
             "noQuickActions": true,
             "alignment": "CENTER",
-            "isHorizontalAllowed": true
+            "isHorizontalAllowed": true,
+            "lockCards": ["click", "drag"]
           },
           "Story2": {
             "isHidden": "no",
@@ -508,7 +508,8 @@
             "heightReference": "horizontal",
             "noQuickActions": true,
             "alignment": "CENTER",
-            "isHorizontalAllowed": true
+            "isHorizontalAllowed": true,
+            "lockCards": ["click", "drag"]
           },
           "Story3": {
             "isHidden": "no",
@@ -516,7 +517,8 @@
             "heightReference": "horizontal",
             "noQuickActions": true,
             "alignment": "CENTER",
-            "isHorizontalAllowed": true
+            "isHorizontalAllowed": true,
+            "lockCards": ["click", "drag"]
           },
           "Story4": {
             "isHidden": "no",
@@ -524,7 +526,8 @@
             "heightReference": "horizontal",
             "noQuickActions": true,
             "alignment": "CENTER",
-            "isHorizontalAllowed": true
+            "isHorizontalAllowed": true,
+            "lockCards": ["click", "drag"]
           },
           "SceneDeck": {
             "isHidden": "yes",
@@ -744,6 +747,7 @@
   "scriptsUrls": [
     "https://valcur.github.io/TCG-Arena-MLP/functions.jsx"
   ],
+  "translationsUrl": "https://valcur.github.io/TCG-Arena-MLP/translations.json",
   "customHelp": "You can learn the rules here https://kayoumylittleponycardgame.miraheze.org/wiki/Rules_my_little_pony_card_game or at https://ponyrec.net/rules\n- To reveal a Plan card, put your mouse over a plan card and click the flip icon on the top right corner.\n- To move your Main Character forward, click the arrow buttons.\n- To flip a Scene, click the icon at the top left corner.\n- Counters are available next to each Adventure area to keep track of your total inspiration.\n\nFan made mod. All rights reserved to Kayou and Hasbro. Defaults playmat by SambaNeko.",
   "cards": {
     "dataUrl": "https://valcur.github.io/TCG-Arena-MLP/cards.json",
