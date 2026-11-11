@@ -500,6 +500,9 @@
             "noQuickActions": true,
             "alignment": "CENTER",
             "isHorizontalAllowed": true,
+            "cardActionShortcut": {
+              "action": "NONE"
+            },
             "lockCards": ["click", "drag"]
           },
           "Story2": {
@@ -509,6 +512,9 @@
             "noQuickActions": true,
             "alignment": "CENTER",
             "isHorizontalAllowed": true,
+            "cardActionShortcut": {
+              "action": "NONE"
+            },
             "lockCards": ["click", "drag"]
           },
           "Story3": {
@@ -518,6 +524,9 @@
             "noQuickActions": true,
             "alignment": "CENTER",
             "isHorizontalAllowed": true,
+            "cardActionShortcut": {
+              "action": "NONE"
+            },
             "lockCards": ["click", "drag"]
           },
           "Story4": {
@@ -527,6 +536,9 @@
             "noQuickActions": true,
             "alignment": "CENTER",
             "isHorizontalAllowed": true,
+            "cardActionShortcut": {
+              "action": "NONE"
+            },
             "lockCards": ["click", "drag"]
           },
           "SceneDeck": {
