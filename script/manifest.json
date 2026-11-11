@@ -8495,6 +8495,15 @@
     "originalSize": "780x1090",
     "downloadedAt": "2026-10-19T13:34:16.617Z"
   },
+  "TK01P": {
+    "file": "TK/TK01P.webp",
+    "source": "https://fls-a2841c3f-fe05-483e-b40d-dfcab0102e85.laravel.cloud/TK/TK01P.webp",
+    "pattern": "set/exact",
+    "rotated": false,
+    "cropped": false,
+    "originalSize": "780x1090",
+    "downloadedAt": "2026-10-25T11:26:11.758Z"
+  },
   "TK02": {
     "file": "TK/TK02.webp",
     "source": "https://fls-a2841c3f-fe05-483e-b40d-dfcab0102e85.laravel.cloud/TK/TK02.webp",
@@ -9818,6 +9827,15 @@
     "originalSize": "780x1090",
     "downloadedAt": "2026-10-19T13:44:23.155Z"
   },
+  "※BP03-GR10": {
+    "file": "BP03/BP03-xGR10.webp",
+    "source": "https://fls-a2841c3f-fe05-483e-b40d-dfcab0102e85.laravel.cloud/BP03/BP03-xGR10.webp",
+    "pattern": "set/exact",
+    "rotated": false,
+    "cropped": false,
+    "originalSize": "780x1089",
+    "downloadedAt": "2026-10-25T11:26:11.832Z"
+  },
   "※BP03-GR11": {
     "file": "BP03/BP03-xGR11.webp",
     "source": "https://fls-a2841c3f-fe05-483e-b40d-dfcab0102e85.laravel.cloud/BP03/BP03-xGR11.webp",
@@ -9988,6 +10006,15 @@
     "cropped": false,
     "originalSize": "780x1090",
     "downloadedAt": "2026-10-19T13:44:25.203Z"
+  },
+  "※BP03-SR13": {
+    "file": "BP03/BP03-xSR13.webp",
+    "source": "https://fls-a2841c3f-fe05-483e-b40d-dfcab0102e85.laravel.cloud/BP03/BP03-xSR13.webp",
+    "pattern": "set/exact",
+    "rotated": false,
+    "cropped": false,
+    "originalSize": "780x1089",
+    "downloadedAt": "2026-10-25T11:26:11.821Z"
   },
   "※BP04-CR01": {
     "file": "BP04/BP04-xCR01.webp",

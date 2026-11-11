@@ -1,16 +1,16 @@
-# Mise à jour des cartes MLP — 2026-10-19 14:09 UTC
+# Mise à jour des cartes MLP — 2026-11-08 13:23 UTC
 
-Export ponyrec du 2026-10-19T14:09:47+00:00
+Export ponyrec du 2026-11-08T13:23:15+00:00
 
 | | |
 |---|---|
-| Sets traités | BP01, BP02, BP03, PR, SD01, BP04, BP05, SD02, TK |
-| Cartes dans cards.json | 1265 (avant : 1265) |
+| Sets traités | BP01, BP02, BP03, BP04, PR, SD01, BP05, SD02, TK |
+| Cartes dans cards.json | 1268 (avant : 1268) |
 | Nouvelles cartes | 0 |
 | Alias (anciens IDs) | 18 dont 0 créés ce run |
 | 🌐 Nouveaux codes à traduire | 0 |
 | Images téléchargées | 0 |
-| Images déjà présentes | 1265 |
+| Images déjà présentes | 1268 |
 | Cartes sans image | 0 |
 | ❌ Erreurs | 0 |
 | ⚠️ Avertissements | 1 |
@@ -80,6 +80,30 @@ Textes qui mentionnent "Treat" (76) :
 
 ```json
 {"cardNumber":"TK013","name":"Treat","rarity":"TK","variant":{"kind":"art","printedNumber":"TK01","label":"art 3"},"tcgData":{"cardSubtype":"token","keywords":["Nightmare Night"],"effect":"1 Character can only have 1 Treat on it."}}
+```
+
+Textes qui mentionnent "Treat" (76) :
+- `BP03-C06` (tcgData.effects[0].text) : …piration for each Character that has a <Treat> in your and your Rival's Adventure Areas.
+- `BP03-C08` (tcgData.effects[0].text) : …e Night] in your Adventure Area, put 1 <Treat> on it.
+- `BP03-C10` (tcgData.effects[0].text) : …rom Hand for each Character that has a <Treat> in your Adventure Area.
+- `BP03-C14` (tcgData.effects[0].text) : …e Night] in your Adventure Area, put 1 <Treat> on it.
+- `BP03-C15` (tcgData.effects[0].text) : …e Night] in your Adventure Area, put 1 <Treat> on them separately.
+- `BP03-C16` (tcgData.effects[0].text) : …e Night] in your Adventure Area, put 1 <Treat> on them separately.
+- `BP03-C25` (tcgData.storyEffect) : {Treat for you!} When promoted to this stage, choose 1 [Nightmare Night] in your …
+- `BP03-C29` (tcgData.storyEffect) : {Treat for you!} When promoted to this stage, choose 1 [Nightmare Night] in your …
+- `BP03-C33` (tcgData.storyEffect) : {Treat for you!} When promoted to this stage, choose 1 [Nightmare Night] in your …
+- `BP03-C34` (tcgData.storyEffect) : {Treat for you!} When promoted to this stage, put 1 <Treat> on each [Nightmare Ni…
+- `BP03-C35` (tcgData.storyEffect) : … this stage, each Character that has a <Treat> in your Adventure Area gets +2 Inspiration until the end of turn.
+- `BP03-C37` (tcgData.storyEffect) : {Treat for you!} When promoted to this stage, choose 1 [Nightmare Night] in your …
+- `BP03-C38` (tcgData.storyEffect) : …, if there is any Character that has a <Treat> in your Adventure Area, choose 1 face-down Scene in your Scene Area, turn…
+- `BP03-C39` (tcgData.storyEffect) : … stage, choose 1 Character that has no <Treat> in Rival's Adventure Area, it gets -4 Inspiration until the end of turn.
+- `BP03-C41` (tcgData.storyEffect) : {Treat for you!} When promoted to this stage, choose 1 [Nightmare Night] in your …
+- … et 61 autre(s)
+
+### `TK01P` — Treat
+
+```json
+{"cardNumber":"TK01P","name":"Treat","rarity":"TK","variant":{"kind":"art","printedNumber":"TK01","label":"promo"},"tcgData":{"cardSubtype":"token","keywords":["Nightmare Night"],"effect":"1 Character can only have 1 Treat on it."}}
 ```
 
 Textes qui mentionnent "Treat" (76) :
