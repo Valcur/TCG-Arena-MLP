@@ -1,10 +1,10 @@
-# Mise à jour des cartes MLP — 2026-11-08 13:23 UTC
+# Mise à jour des cartes MLP — 2026-11-15 13:55 UTC
 
-Export ponyrec du 2026-11-08T13:23:15+00:00
+Export ponyrec du 2026-11-15T13:55:18+00:00
 
 | | |
 |---|---|
-| Sets traités | BP01, BP02, BP03, BP04, PR, SD01, BP05, SD02, TK |
+| Sets traités | BP01, BP02, BP03, BP04, PR, SD01, TK, BP05, SD02 |
 | Cartes dans cards.json | 1268 (avant : 1268) |
 | Nouvelles cartes | 0 |
 | Alias (anciens IDs) | 18 dont 0 créés ce run |
